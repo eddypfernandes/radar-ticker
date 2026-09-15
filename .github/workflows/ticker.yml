@@ -29,6 +29,12 @@ jobs:
           cat regras.json
       - name: Baixar repositório
         uses: actions/checkout@v4
+      - name: Verificar arquivos
+        run: |
+          echo "=== DIRETÓRIO ATUAL ==="
+          pwd
+          echo "=== ARQUIVOS ==="
+          ls -la
       - name: Ler configuração
         run: |
           echo "=== CONFIGURAÇÃO ==="
