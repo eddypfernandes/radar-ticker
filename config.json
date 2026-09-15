@@ -1,1 +1,31 @@
-
+{
+	"localidade": {
+		"cidade": "Brasília",
+		"estado": "DF",
+		"regiao": "Núcleo Bandeirante"
+	},
+	"termos": [
+		"Núcleo Bandeirante",
+		"Vila Cauhy",
+		"Metropolitana",
+		"Vila Nova Divinéia",
+		"Park Way",
+		"Brasília"
+	],
+	"tipos": [
+		"noticia",
+		"evento",
+		"oferta",
+		"vaga",
+		"dica",
+		"atualidade"
+	],
+	"fontes": [
+		"Agência Brasília",
+		"DF Notícias",
+		"Correio Braziliense",
+		"CBN Brasília",
+		"TV Globo Brasília"
+	],
+	"quantidade": 12
+}
