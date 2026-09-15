@@ -21,8 +21,20 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     steps:
+      - name: Ler configuração
+        run: |
+          echo "=== CONFIGURAÇÃO ==="
+          cat config.json
+          echo "=== REGRAS ==="
+          cat regras.json
       - name: Baixar repositório
         uses: actions/checkout@v4
+      - name: Ler configuração
+        run: |
+          echo "=== CONFIGURAÇÃO ==="
+          cat config.json
+          echo "=== REGRAS ==="
+          cat regras.json
       - name: Testar Gemini
         run: |
           curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent" \
