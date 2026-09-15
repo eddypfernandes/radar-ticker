@@ -1,1 +1,27 @@
-
+{
+	"publicacao": {
+		"somente_conteudo_verificavel": true,
+		"somente_links_diretos": true,
+		"nao_inventar_titulos": true,
+		"nao_inventar_urls": true,
+		"nao_inferir_conteudo": true
+	},
+	"links": {
+		"permitir_homepage": false,
+		"permitir_categoria": false,
+		"permitir_tag": false,
+		"permitir_busca": false,
+		"permitir_perfil": false,
+		"permitir_publicacao_social": true
+	},
+	"conteudo": {
+		"evitar_duplicados": true,
+		"priorizar_conteudo_local": true,
+		"priorizar_conteudo_recente": true,
+		"exigir_relacao_com_localidade": true
+	},
+	"urgencia": {
+		"permitir_classificacao": true,
+		"nao_classificar_por_palavra": true
+	}
+}
