@@ -3,6 +3,16 @@ name: RADAR AGORA
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '0 7 * * *'
+      timezone: "America/Sao_Paulo"
+
+    - cron: '0 14 * * *'
+      timezone: "America/Sao_Paulo"
+
+    - cron: '0 20 * * *'
+      timezone: "America/Sao_Paulo"
+
 jobs:
   teste:
     runs-on: ubuntu-latest
