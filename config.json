@@ -2,15 +2,51 @@
 	"localidade": {
 		"cidade": "Brasília",
 		"estado": "DF",
-		"regiao": "Núcleo Bandeirante"
+		"regiao_base": "Núcleo Bandeirante"
 	},
-	"termos": [
+	"regioes_prioritarias": [
+		{
+			"nome": "Núcleo Bandeirante",
+			"prioridade": 1
+		},
+		{
+			"nome": "Guará",
+			"prioridade": 2
+		},
+		{
+			"nome": "Candangolândia",
+			"prioridade": 2
+		},
+		{
+			"nome": "Riacho Fundo",
+			"prioridade": 2
+		},
+		{
+			"nome": "Samambaia",
+			"prioridade": 2
+		},
+		{
+			"nome": "Park Way",
+			"prioridade": 2
+		}
+	],
+	"regioes_ampliadas": [
+		"Brasília",
+		"Distrito Federal"
+	],
+	"termos_ampliados": [
 		"Núcleo Bandeirante",
-		"Vila Cauhy",
-		"Metropolitana",
-		"Vila Nova Divinéia",
+		"Guará",
+		"Guará I",
+		"Guará II",
+		"Candangolândia",
+		"Riacho Fundo",
+		"Riacho Fundo I",
+		"Riacho Fundo II",
+		"Samambaia",
 		"Park Way",
-		"Brasília"
+		"Brasília",
+		"Distrito Federal"
 	],
 	"tipos": [
 		"noticia",
@@ -21,11 +57,24 @@
 		"atualidade"
 	],
 	"fontes": [
-		"Agência Brasília",
-		"DF Notícias",
-		"Correio Braziliense",
-		"CBN Brasília",
-		"TV Globo Brasília"
+		{
+			"nome": "Agência Brasília",
+			"tipo": "html",
+			"url": "https://www.agenciabrasilia.df.gov.br/noticias",
+			"ativo": true
+		},
+		{
+			"nome": "R7 Brasília",
+			"tipo": "html",
+			"url": "https://noticias.r7.com/brasilia/",
+			"ativo": true
+		},
+		{
+			"nome": "Terra Notícias",
+			"tipo": "html",
+			"url": "https://www.terra.com.br/noticias",
+			"ativo": true
+		}
 	],
 	"quantidade": 12
 }
