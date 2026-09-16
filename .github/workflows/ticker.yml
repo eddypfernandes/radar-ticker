@@ -35,15 +35,41 @@ jobs:
           cat config.json
           echo "=== REGRAS ==="
           cat regras.json
-      - name: Analisar estrutura das notícias
+      - name: Extrair notícias da Agência Brasília
         run: |
           curl -L -s "https://www.agenciabrasilia.df.gov.br/noticias" -o noticias.html
 
-          echo "=== TAMANHO DA PÁGINA ==="
-          wc -c noticias.html
+          node <<'NODE'
+          const fs = require("fs");
 
-          echo "=== ASSET PUBLISHER ==="
-          grep -n -i "asset-publisher" noticias.html | head -n 20
+          const html = fs.readFileSync("noticias.html", "utf8");
 
-          echo "=== TÍTULOS VISÍVEIS ==="
-          grep -n -i -E "noticia|notícias" noticias.html | head -n 30
+          console.log("=== TAMANHO DO HTML ===");
+          console.log(html.length);
+
+          console.log("=== OCORRÊNCIAS DE HREF ===");
+
+          const links = [...html.matchAll(/href=["']([^"']+)["']/gi)];
+
+          let encontrados = 0;
+
+          for (const item of links) {
+            const url = item[1];
+
+            if (
+              url.includes("/noticia") ||
+              url.includes("/web/") ||
+              url.includes("/detalhe")
+            ) {
+              console.log(url);
+              encontrados++;
+            }
+
+            if (encontrados >= 20) {
+              break;
+            }
+          }
+
+          console.log("=== TOTAL EXIBIDO ===");
+          console.log(encontrados);
+          NODE
