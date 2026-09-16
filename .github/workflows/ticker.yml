@@ -35,10 +35,12 @@ jobs:
           cat config.json
           echo "=== REGRAS ==="
           cat regras.json
-      - name: Identificar links das notícias
+      - name: Coletar notícias da Agência Brasília
         run: |
           curl -L -s "https://www.agenciabrasilia.df.gov.br/noticias" -o noticias.html
 
-          echo "=== LINKS ENCONTRADOS ==="
+          echo "=== NOTÍCIAS ENCONTRADAS ==="
 
-          grep -oE 'href="[^"]+"' noticias.html | head -n 30
+          grep -oE '<a[^>]+href="[^"]+"[^>]*>[^<]+' noticias.html | \
+          sed 's/<[^>]*>//g' | \
+          head -n 20
