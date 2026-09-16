@@ -35,25 +35,12 @@ jobs:
           cat config.json
           echo "=== REGRAS ==="
           cat regras.json
-      - name: Testar pesquisa Google
+      - name: Testar coleta da Agência Brasília
         run: |
-          curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent" \
-            -H "x-goog-api-key: $GEMINI_API_KEY" \
-            -H "Content-Type: application/json" \
-            -X POST \
-            -d '{
-              "contents": [
-                {
-                  "parts": [
-                    {
-                      "text": "Pesquise na web uma notícia recente e verificável sobre o Núcleo Bandeirante, em Brasília. Responda informando o título da publicação e a URL direta da publicação encontrada."
-                    }
-                  ]
-                }
-              ],
-              "tools": [
-                {
-                  "google_search": {}
-                }
-              ]
-            }'
+          curl -L -s "https://www.agenciabrasilia.df.gov.br/noticias" -o noticias.html
+
+          echo "=== TAMANHO DA PÁGINA ==="
+          wc -c noticias.html
+
+          echo "=== PRIMEIRAS LINHAS ==="
+          head -n 20 noticias.html
