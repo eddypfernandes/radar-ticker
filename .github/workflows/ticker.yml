@@ -35,27 +35,25 @@ jobs:
           cat config.json
           echo "=== REGRAS ==="
           cat regras.json
-      - name: Testar Gemini com configuração
+      - name: Testar pesquisa Google
         run: |
-          CONFIG=$(cat config.json)
-          REGRAS=$(cat regras.json)
-
           curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent" \
             -H "x-goog-api-key: $GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
             -X POST \
-            -d "$(jq -n \
-              --arg config "$CONFIG" \
-              --arg regras "$REGRAS" \
-              '{
-                contents: [
-                  {
-                    parts: [
-                      {
-                        text: ("Leia a configuração abaixo e responda somente: CONFIGURAÇÃO RECEBIDA.\n\nCONFIGURAÇÃO:\n" + $config + "\n\nREGRAS:\n" + $regras)
-                      }
-                    ]
-                  }
-                ]
-              }'
-            )"
+            -d '{
+              "contents": [
+                {
+                  "parts": [
+                    {
+                      "text": "Pesquise na web uma notícia recente e verificável sobre o Núcleo Bandeirante, em Brasília. Responda informando o título da publicação e a URL direta da publicação encontrada."
+                    }
+                  ]
+                }
+              ],
+              "tools": [
+                {
+                  "google_search": {}
+                }
+              ]
+            }'
