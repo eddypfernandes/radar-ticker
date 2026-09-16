@@ -37,39 +37,195 @@ jobs:
           cat regras.json
       - name: Extrair notícias da Agência Brasília
         run: |
-          curl -L -s "https://www.agenciabrasilia.df.gov.br/noticias" -o noticias.html
-
+          curl -L -s "https://www.agenciabrasilia.df.gov.br/noticias" -o noticias.html      - name: Coletar fontes do RADAR
+        run: |
           node <<'NODE'
           const fs = require("fs");
+          const https = require("https");
+          const http = require("http");
 
-          const html = fs.readFileSync("noticias.html", "utf8");
+          const config = JSON.parse(fs.readFileSync("config.json", "utf8"));
 
-          console.log("=== TAMANHO DO HTML ===");
-          console.log(html.length);
+          const fontes = config.fontes.filter(fonte => fonte.ativo === true);
 
-          console.log("=== OCORRÊNCIAS DE HREF ===");
+          const resultados = [];
 
-          const links = [...html.matchAll(/href=["']([^"']+)["']/gi)];
+          function baixar(url) {
+            return new Promise((resolve, reject) => {
+              const cliente = url.startsWith("https://") ? https : http;
 
-          let encontrados = 0;
+              cliente.get(url, {
+                headers: {
+                  "User-Agent": "RADAR-AGORA/1.0"
+                }
+              }, resposta => {
+                let dados = "";
 
-          for (const item of links) {
-            const url = item[1];
+                resposta.setEncoding("utf8");
 
-            if (
-              url.includes("/noticia") ||
-              url.includes("/web/") ||
-              url.includes("/detalhe")
-            ) {
-              console.log(url);
-              encontrados++;
+                resposta.on("data", parte => {
+                  dados += parte;
+                });
+
+                resposta.on("end", () => {
+                  if (resposta.statusCode >= 200 && resposta.statusCode < 400) {
+                    resolve(dados);
+                  } else {
+                    reject(new Error(`HTTP ${resposta.statusCode}`));
+                  }
+                });
+
+              }).on("error", reject);
+            });
+          }
+
+          function limparTexto(texto) {
+            return texto
+              .replace(/<!\[CDATA\[|\]\]>/g, "")
+              .replace(/<[^>]*>/g, "")
+              .replace(/&amp;/g, "&")
+              .replace(/&quot;/g, '"')
+              .replace(/&#39;/g, "'")
+              .replace(/&lt;/g, "<")
+              .replace(/&gt;/g, ">")
+              .replace(/\s+/g, " ")
+              .trim();
+          }
+
+          function adicionarResultado(titulo, url, fonte) {
+            titulo = limparTexto(titulo);
+            url = limparTexto(url);
+
+            if (!titulo || !url) {
+              return;
             }
 
-            if (encontrados >= 20) {
-              break;
+            if (!/^https?:\/\//i.test(url)) {
+              return;
+            }
+
+            resultados.push({
+              titulo,
+              url,
+              fonte
+            });
+          }
+
+          function coletarRSS(xml, fonte) {
+            const itens = [...xml.matchAll(/<item[\s\S]*?<\/item>/gi)];
+
+            for (const item of itens) {
+              const bloco = item[0];
+
+              const titulo = bloco.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+              const link = bloco.match(/<link[^>]*>([\s\S]*?)<\/link>/i);
+
+              if (titulo && link) {
+                adicionarResultado(
+                  titulo[1],
+                  link[1],
+                  fonte.nome
+                );
+              }
             }
           }
 
-          console.log("=== TOTAL EXIBIDO ===");
-          console.log(encontrados);
+          function coletarHTML(html, fonte) {
+            const links = [...html.matchAll(
+              /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi
+            )];
+
+            for (const item of links) {
+              let url = item[1];
+              const titulo = limparTexto(item[2]);
+
+              if (!titulo) {
+                continue;
+              }
+
+              if (url.startsWith("/")) {
+                const base = new URL(fonte.url);
+                url = `${base.origin}${url}`;
+              }
+
+              if (!/^https?:\/\//i.test(url)) {
+                continue;
+              }
+
+              if (url === fonte.url) {
+                continue;
+              }
+
+              adicionarResultado(
+                titulo,
+                url,
+                fonte.nome
+              );
+            }
+          }
+
+          async function executar() {
+            console.log("=== RADAR AGORA ===");
+            console.log("Fontes ativas:", fontes.length);
+            console.log("");
+
+            for (const fonte of fontes) {
+              console.log(`Coletando: ${fonte.nome}`);
+              console.log(`Tipo: ${fonte.tipo}`);
+              console.log(`URL: ${fonte.url}`);
+
+              try {
+                const conteudo = await baixar(fonte.url);
+
+                if (fonte.tipo === "rss") {
+                  coletarRSS(conteudo, fonte);
+                } else {
+                  coletarHTML(conteudo, fonte);
+                }
+
+                console.log("OK");
+              } catch (erro) {
+                console.log(`ERRO: ${erro.message}`);
+              }
+
+              console.log("");
+            }
+
+            const unicos = [];
+            const urls = new Set();
+
+            for (const item of resultados) {
+              if (!urls.has(item.url)) {
+                urls.add(item.url);
+                unicos.push(item);
+              }
+            }
+
+            fs.writeFileSync(
+              "fontes_coletadas.json",
+              JSON.stringify(
+                {
+                  total: unicos.length,
+                  itens: unicos
+                },
+                null,
+                2
+              )
+            );
+
+            console.log("=== RESULTADO ===");
+            console.log(`Itens coletados: ${unicos.length}`);
+            console.log("Arquivo: fontes_coletadas.json");
+
+            console.log("");
+            console.log("=== PRIMEIROS ITENS ===");
+
+            unicos.slice(0, 20).forEach((item, indice) => {
+              console.log(`${indice + 1}. ${item.titulo}`);
+              console.log(`   ${item.url}`);
+              console.log(`   Fonte: ${item.fonte}`);
+            });
+          }
+
+          executar();
           NODE
