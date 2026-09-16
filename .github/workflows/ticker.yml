@@ -35,20 +35,27 @@ jobs:
           cat config.json
           echo "=== REGRAS ==="
           cat regras.json
-      - name: Testar Gemini
+      - name: Testar Gemini com configuração
         run: |
+          CONFIG=$(cat config.json)
+          REGRAS=$(cat regras.json)
+
           curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent" \
             -H "x-goog-api-key: $GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
             -X POST \
-            -d '{
-              "contents": [
-                {
-                  "parts": [
-                    {
-                      "text": "Responda somente: RADAR AGORA conectado."
-                    }
-                  ]
-                }
-              ]
-            }'
+            -d "$(jq -n \
+              --arg config "$CONFIG" \
+              --arg regras "$REGRAS" \
+              '{
+                contents: [
+                  {
+                    parts: [
+                      {
+                        text: ("Leia a configuração abaixo e responda somente: CONFIGURAÇÃO RECEBIDA.\n\nCONFIGURAÇÃO:\n" + $config + "\n\nREGRAS:\n" + $regras)
+                      }
+                    ]
+                  }
+                ]
+              }'
+            )"
