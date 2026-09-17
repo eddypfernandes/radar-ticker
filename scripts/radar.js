@@ -1,6 +1,5 @@
 const fs = require("fs");
 const https = require("https");
-const http = require("http");
 
 const config = JSON.parse(fs.readFileSync("config.json", "utf8"));
 const regras = JSON.parse(fs.readFileSync("regras.json", "utf8"));
@@ -13,12 +12,12 @@ if (!apiKey) {
 }
 
 const fontes = config.fontes.filter(fonte => fonte.ativo === true);
-
 const candidatos = [];
 
 function baixar(url) {
 	return new Promise((resolve, reject) => {
-		const cliente = url.startsWith("https://") ? https : http;
+
+		const cliente = url.startsWith("https://") ? https : require("http");
 
 		const requisicao = cliente.get(url, {
 			headers: {
@@ -46,9 +45,7 @@ function baixar(url) {
 		});
 
 		requisicao.setTimeout(20000, () => {
-			requisicao.destroy(
-				new Error("Tempo limite excedido")
-			);
+			requisicao.destroy(new Error("Tempo limite excedido"));
 		});
 
 		requisicao.on("error", reject);
@@ -137,28 +134,6 @@ function parecePublicacao(url, titulo, fonte) {
 		return false;
 	}
 
-	const palavrasNavegacao = [
-		"menu",
-		"entrar",
-		"login",
-		"cadastre-se",
-		"leia mais",
-		"saiba mais",
-		"veja mais",
-		"próxima",
-		"anterior",
-		"home",
-		"início",
-		"contato"
-	];
-
-	for (const palavra of palavrasNavegacao) {
-
-		if (titulo.toLowerCase() === palavra) {
-			return false;
-		}
-	}
-
 	return true;
 }
 
@@ -230,83 +205,57 @@ function removerDuplicados() {
 	return [...mapa.values()];
 }
 
-function chamarGemini(itens) {
+function esperar(ms) {
+	return new Promise(resolve => setTimeout(resolve, ms));
+}
 
-	return new Promise((resolve, reject) => {
+async function chamarGemini(itens) {
 
-		const prompt = `
+	const prompt = `
 Você é o curador do RADAR AGORA, um ticker local de Brasília.
 
-Sua função é selecionar conteúdos que sejam realmente interessantes para moradores do:
+Selecione conteúdos relevantes para:
 
-1. Núcleo Bandeirante;
-2. regiões próximas;
-3. demais regiões do Distrito Federal;
-4. Brasília de forma geral.
+- Núcleo Bandeirante;
+- Guará;
+- Candangolândia;
+- Riacho Fundo;
+- Samambaia;
+- Park Way;
+- Brasília;
+- Distrito Federal.
 
-O RADAR NÃO É exclusivamente jornalístico.
+Podem ser notícias, eventos, esportes, lazer, cultura, gastronomia,
+comércio, serviços, vagas, trânsito, utilidade pública e atualidades.
 
-Pode selecionar:
-- notícias;
-- eventos;
-- esportes;
-- lazer;
-- cultura;
-- gastronomia;
-- comércio;
-- serviços;
-- vagas;
-- trânsito;
-- utilidade pública;
-- atualidades;
-- assuntos comunitários.
-
-PRIORIDADE GEOGRÁFICA:
-
-${JSON.stringify(config.regioes_prioritarias, null, 2)}
-
-REGIÕES AMPLIADAS:
-
-${JSON.stringify(config.regioes_ampliadas, null, 2)}
-
-TERMOS:
-
-${JSON.stringify(config.termos_ampliados, null, 2)}
-
-TIPOS PERMITIDOS:
-
-${JSON.stringify(config.tipos, null, 2)}
+Priorize conteúdos locais, mas aceite conteúdos relevantes de Brasília e DF.
 
 REGRAS:
 
-${JSON.stringify(regras, null, 2)}
-
-REGRAS IMPORTANTES:
-
-- Use somente títulos e URLs recebidos.
-- Nunca invente título.
-- Nunca invente URL.
-- Nunca altere URL.
-- A URL deve levar à publicação ou conteúdo específico.
-- Não escolha páginas iniciais.
+- Use somente os títulos e URLs fornecidos.
+- Não invente títulos.
+- Não invente URLs.
+- Não altere URLs.
 - Não escolha páginas de busca.
 - Não escolha categorias.
 - Não escolha tags.
 - Não escolha perfis.
 - Evite duplicados.
-- Priorize conteúdo recente.
-- Prefira conteúdo relacionado ao DF.
-- Dê prioridade ao Núcleo Bandeirante e regiões próximas.
-- Mas não descarte automaticamente uma boa notícia de Brasília.
-- Não force a regionalização de uma matéria que não tenha relação com a região.
-- Se houver poucos conteúdos realmente relevantes, retorne menos itens.
-- Não invente itens para completar a quantidade.
+- Não invente conteúdo para completar a quantidade.
 
-CONTEÚDOS DISPONÍVEIS:
+CONFIGURAÇÃO:
+
+${JSON.stringify(config, null, 2)}
+
+REGRAS DO RADAR:
+
+${JSON.stringify(regras, null, 2)}
+
+CONTEÚDOS:
 
 ${JSON.stringify(itens, null, 2)}
 
-Retorne SOMENTE JSON válido neste formato:
+Retorne SOMENTE JSON válido:
 
 {
 	"items": [
@@ -322,22 +271,60 @@ Retorne SOMENTE JSON válido neste formato:
 Quantidade máxima: ${config.quantidade}
 `;
 
-		const dados = JSON.stringify({
+	const dados = JSON.stringify({
 
-			contents: [
-				{
-					parts: [
-						{
-							text: prompt
-						}
-					]
-				}
-			],
-
-			generationConfig: {
-				responseMimeType: "application/json"
+		contents: [
+			{
+				parts: [
+					{
+						text: prompt
+					}
+				]
 			}
-		});
+		],
+
+		generationConfig: {
+			responseMimeType: "application/json"
+		}
+	});
+
+	for (let tentativa = 1; tentativa <= 3; tentativa++) {
+
+		console.log(
+			`Tentativa Gemini: ${tentativa}/3`
+		);
+
+		try {
+
+			const resultado = await chamarGeminiAPI(dados);
+
+			return resultado;
+
+		} catch (erro) {
+
+			console.log(
+				`Gemini falhou: ${erro.message}`
+			);
+
+			if (tentativa < 3) {
+
+				console.log(
+					"Aguardando 5 segundos..."
+				);
+
+				await esperar(5000);
+			}
+		}
+	}
+
+	throw new Error(
+		"Gemini permaneceu indisponível após 3 tentativas."
+	);
+}
+
+function chamarGeminiAPI(dados) {
+
+	return new Promise((resolve, reject) => {
 
 		const requisicao = https.request({
 
@@ -374,7 +361,7 @@ Quantidade máxima: ${config.quantidade}
 
 					reject(
 						new Error(
-							`Gemini HTTP ${resposta.statusCode}: ${corpo}`
+							`HTTP ${resposta.statusCode}: ${corpo}`
 						)
 					);
 
@@ -383,6 +370,12 @@ Quantidade máxima: ${config.quantidade}
 
 				resolve(corpo);
 			});
+		});
+
+		requisicao.setTimeout(60000, () => {
+			requisicao.destroy(
+				new Error("Tempo limite Gemini")
+			);
 		});
 
 		requisicao.on("error", reject);
@@ -435,7 +428,7 @@ function processarResposta(resposta, itensOriginais) {
 		finais.push({
 			title: item.title.trim(),
 			url: url,
-			tipo: item.tipo,
+			tipo: item.tipo || "atualidade",
 			urgente: item.urgente === true
 		});
 
@@ -463,17 +456,11 @@ async function executar() {
 	console.log(`Candidatos encontrados: ${itens.length}`);
 
 	if (itens.length === 0) {
-
 		throw new Error(
 			"Nenhum candidato foi encontrado nas fontes."
 		);
 	}
 
-	/*
-		Limitamos o volume enviado ao Gemini.
-		Os primeiros resultados das páginas são normalmente
-		os conteúdos mais recentes.
-	*/
 	itens = itens.slice(0, 120);
 
 	console.log(
@@ -515,10 +502,6 @@ async function executar() {
 
 		console.log(
 			`   ${item.url}`
-		);
-
-		console.log(
-			`   ${item.tipo}`
 		);
 	});
 }
