@@ -42,3 +42,5 @@ jobs:
 
       - name: Coletar fontes do RADAR
         run: node scripts/coletar.js
+      - name: Curar conteúdos com Gemini
+        run: node scripts/curar.js
