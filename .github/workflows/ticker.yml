@@ -13,6 +13,9 @@ on:
     - cron: '0 20 * * *'
       timezone: "America/Sao_Paulo"
 
+permissions:
+  contents: write
+
 jobs:
   radar:
     runs-on: ubuntu-latest
@@ -24,18 +27,6 @@ jobs:
 
       - name: Baixar repositório
         uses: actions/checkout@v4
-
-      - name: Verificar configuração
-        run: |
-          echo "=== RADAR AGORA ==="
-          echo "=== CONFIGURAÇÃO ==="
-          cat config.json
-          echo ""
-          echo "=== REGRAS ==="
-          cat regras.json
-          echo ""
-          echo "=== SCRIPT ==="
-          ls -la scripts
 
       - name: Executar RADAR
         run: node scripts/radar.js
