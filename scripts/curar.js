@@ -12,42 +12,46 @@ if (!apiKey) {
 	process.exit(1);
 }
 
+const candidatos = fontes.itens.slice(0, 150);
+
 const prompt = `
 Você é o curador editorial do RADAR AGORA.
 
-Sua tarefa é selecionar conteúdos reais, recentes e relevantes para Brasília e regiões prioritárias do Distrito Federal.
+Selecione conteúdos reais e relevantes para Brasília e Distrito Federal.
 
 CONFIGURAÇÃO:
 ${JSON.stringify(config, null, 2)}
 
-REGRAS EDITORIAIS:
+REGRAS:
 ${JSON.stringify(regras, null, 2)}
 
-CONTEÚDOS COLETADOS:
-${JSON.stringify(fontes.itens, null, 2)}
+CANDIDATOS:
+${JSON.stringify(candidatos, null, 2)}
 
 CRITÉRIOS:
 
-1. Selecione somente conteúdos cujo título e URL estejam presentes nos dados coletados.
-2. Não invente títulos.
-3. Não invente URLs.
-4. Não altere URLs.
-5. Não crie notícias a partir de informações que não estejam nos dados.
-6. Priorize Núcleo Bandeirante.
-7. Depois considere Guará, Candangolândia, Riacho Fundo, Samambaia e Park Way.
-8. Também podem ser selecionados conteúdos relevantes para Brasília e Distrito Federal.
-9. Dê preferência a conteúdos recentes.
-10. Evite conteúdos duplicados.
-11. Não selecione páginas iniciais, páginas de categoria, tags, buscas ou perfis.
-12. Redes sociais somente quando a URL representar uma publicação individual.
-13. Classifique cada item em um dos tipos permitidos:
-   noticia, evento, oferta, vaga, dica, atualidade.
-14. Use "urgente": true somente quando houver motivo editorial concreto.
-15. Não classifique como urgente apenas porque o título contém palavras chamativas.
-16. Se não houver conteúdo suficiente e adequado, retorne menos itens.
-17. Nunca complete a quantidade inventando conteúdo.
+1. Use somente candidatos fornecidos.
+2. Não invente título.
+3. Não invente URL.
+4. Não altere URL.
+5. Priorize Núcleo Bandeirante.
+6. Depois considere Guará, Candangolândia, Riacho Fundo, Samambaia e Park Way.
+7. Conteúdos gerais de Brasília ou Distrito Federal podem ser utilizados quando forem relevantes.
+8. Priorize conteúdo recente.
+9. Evite duplicados.
+10. Não selecione páginas de categoria, busca, tags, perfis ou páginas genéricas.
+11. Se não houver conteúdo suficiente, retorne menos itens.
+12. Nunca invente conteúdo para completar a quantidade.
 
-Retorne SOMENTE JSON válido, exatamente neste formato:
+TIPOS PERMITIDOS:
+noticia
+evento
+oferta
+vaga
+dica
+atualidade
+
+Retorne SOMENTE JSON válido:
 
 {
 	"items": [
@@ -60,7 +64,7 @@ Retorne SOMENTE JSON válido, exatamente neste formato:
 	]
 }
 
-A quantidade máxima deve ser ${config.quantidade}.
+Máximo de ${config.quantidade} itens.
 `;
 
 function chamarGemini() {
@@ -109,7 +113,6 @@ function chamarGemini() {
 		});
 
 		requisicao.on("error", reject);
-
 		requisicao.write(dados);
 		requisicao.end();
 	});
@@ -138,8 +141,7 @@ function validarItem(item, coletados) {
 
 	const encontrado = coletados.find(
 		origem =>
-			origem.titulo === item.title &&
-			origem.url === item.url
+			origem.url.replace(/\/$/, "") === item.url.replace(/\/$/, "")
 	);
 
 	if (!encontrado) {
@@ -155,7 +157,7 @@ function validarItem(item, coletados) {
 
 async function executar() {
 	console.log("=== RADAR AGORA — CURADORIA ===");
-	console.log(`Conteúdos recebidos: ${fontes.itens.length}`);
+	console.log(`Candidatos enviados ao Gemini: ${candidatos.length}`);
 	console.log("");
 
 	try {
@@ -170,15 +172,17 @@ async function executar() {
 		const finais = [];
 
 		for (const item of itensValidos) {
-			if (urls.has(item.url)) {
+			const url = item.url.replace(/\/$/, "");
+
+			if (urls.has(url)) {
 				continue;
 			}
 
-			urls.add(item.url);
+			urls.add(url);
 
 			finais.push({
 				title: item.title,
-				url: item.url,
+				url: url,
 				tipo: item.tipo,
 				urgente: item.urgente === true
 			});
@@ -195,6 +199,7 @@ async function executar() {
 			)
 		);
 
+		console.log("=== RESULTADO ===");
 		console.log(`Itens selecionados: ${finais.length}`);
 		console.log("Arquivo atualizado: data/ticker.json");
 		console.log("");
