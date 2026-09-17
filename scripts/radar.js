@@ -17,7 +17,9 @@ const candidatos = [];
 function baixar(url) {
 	return new Promise((resolve, reject) => {
 
-		const cliente = url.startsWith("https://") ? https : require("http");
+		const cliente = url.startsWith("https://")
+			? https
+			: require("http");
 
 		const requisicao = cliente.get(url, {
 			headers: {
@@ -45,7 +47,9 @@ function baixar(url) {
 		});
 
 		requisicao.setTimeout(20000, () => {
-			requisicao.destroy(new Error("Tempo limite excedido"));
+			requisicao.destroy(
+				new Error("Tempo limite excedido")
+			);
 		});
 
 		requisicao.on("error", reject);
@@ -130,7 +134,10 @@ function parecePublicacao(url, titulo, fonte) {
 
 	const origem = new URL(fonte.url);
 
-	if (url.replace(/\/$/, "") === origem.href.replace(/\/$/, "")) {
+	if (
+		url.replace(/\/$/, "") ===
+		origem.href.replace(/\/$/, "")
+	) {
 		return false;
 	}
 
@@ -332,7 +339,7 @@ function chamarGeminiAPI(dados) {
 				"generativelanguage.googleapis.com",
 
 			path:
-				"/v1beta/models/gemini-3.6-flash:generateContent",
+				"/v1beta/models/gemini-3.5-flash-lite:generateContent",
 
 			method: "POST",
 
@@ -456,6 +463,7 @@ async function executar() {
 	console.log(`Candidatos encontrados: ${itens.length}`);
 
 	if (itens.length === 0) {
+
 		throw new Error(
 			"Nenhum candidato foi encontrado nas fontes."
 		);
