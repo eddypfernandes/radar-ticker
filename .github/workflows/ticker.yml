@@ -14,33 +14,42 @@ on:
       timezone: "America/Sao_Paulo"
 
 jobs:
-  teste:
+  radar:
     runs-on: ubuntu-latest
 
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     steps:
+
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Verificar arquivos
+      - name: Verificar configuração
         run: |
-          echo "=== DIRETÓRIO ATUAL ==="
-          pwd
-          echo "=== ARQUIVOS ==="
-          ls -la
-          echo "=== SCRIPTS ==="
-          ls -la scripts
-
-      - name: Ler configuração
-        run: |
+          echo "=== RADAR AGORA ==="
           echo "=== CONFIGURAÇÃO ==="
           cat config.json
+          echo ""
           echo "=== REGRAS ==="
           cat regras.json
+          echo ""
+          echo "=== SCRIPT ==="
+          ls -la scripts
 
-      - name: Coletar fontes do RADAR
-        run: node scripts/coletar.js
-      - name: Curar conteúdos com Gemini
-        run: node scripts/curar.js
+      - name: Executar RADAR
+        run: node scripts/radar.js
+
+      - name: Publicar ticker
+        run: |
+          git config user.name "RADAR AGORA"
+          git config user.email "radar-agora@users.noreply.github.com"
+
+          git add data/ticker.json
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração no ticker."
+          else
+            git commit -m "Atualizar RADAR AGORA"
+            git push
+          fi
