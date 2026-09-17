@@ -14,7 +14,13 @@ if (!apiKey) {
 const fontes = config.fontes.filter(fonte => fonte.ativo === true);
 const candidatos = [];
 
+
+// ============================================================
+// BAIXAR FONTE
+// ============================================================
+
 function baixar(url) {
+
 	return new Promise((resolve, reject) => {
 
 		const cliente = url.startsWith("https://")
@@ -22,10 +28,12 @@ function baixar(url) {
 			: require("http");
 
 		const requisicao = cliente.get(url, {
+
 			headers: {
 				"User-Agent": "Mozilla/5.0 RADAR-AGORA/1.0",
 				"Accept": "text/html,application/xhtml+xml"
 			}
+
 		}, resposta => {
 
 			let dados = "";
@@ -38,15 +46,24 @@ function baixar(url) {
 
 			resposta.on("end", () => {
 
-				if (resposta.statusCode >= 200 && resposta.statusCode < 400) {
+				if (
+					resposta.statusCode >= 200 &&
+					resposta.statusCode < 400
+				) {
+
 					resolve(dados);
+
 				} else {
-					reject(new Error(`HTTP ${resposta.statusCode}`));
+
+					reject(
+						new Error(`HTTP ${resposta.statusCode}`)
+					);
 				}
 			});
 		});
 
 		requisicao.setTimeout(20000, () => {
+
 			requisicao.destroy(
 				new Error("Tempo limite excedido")
 			);
@@ -55,6 +72,11 @@ function baixar(url) {
 		requisicao.on("error", reject);
 	});
 }
+
+
+// ============================================================
+// LIMPAR TEXTO
+// ============================================================
 
 function limparTexto(texto) {
 
@@ -74,14 +96,27 @@ function limparTexto(texto) {
 		.trim();
 }
 
+
+// ============================================================
+// TRANSFORMAR URL EM ABSOLUTA
+// ============================================================
+
 function urlAbsoluta(url, origem) {
 
 	try {
+
 		return new URL(url, origem).href;
+
 	} catch {
+
 		return "";
 	}
 }
+
+
+// ============================================================
+// VALIDAR POSSÍVEL PUBLICAÇÃO
+// ============================================================
 
 function parecePublicacao(url, titulo, fonte) {
 
@@ -89,7 +124,10 @@ function parecePublicacao(url, titulo, fonte) {
 		return false;
 	}
 
-	if (titulo.length < 30 || titulo.length > 220) {
+	if (
+		titulo.length < 30 ||
+		titulo.length > 220
+	) {
 		return false;
 	}
 
@@ -97,26 +135,34 @@ function parecePublicacao(url, titulo, fonte) {
 		return false;
 	}
 
-	const texto = `${url} ${titulo}`.toLowerCase();
+	const texto =
+		`${url} ${titulo}`.toLowerCase();
 
 	const ignorados = [
+
 		"/login",
 		"/entrar",
 		"/cadastro",
+
 		"/search",
 		"/busca",
 		"/buscar",
+
 		"/tag/",
 		"/tags/",
+
 		"/categoria/",
 		"/categorias/",
+
 		"/author/",
 		"/autor/",
 		"/perfil/",
+
 		"/contato",
 		"/sobre",
 		"/publicidade",
 		"/newsletter",
+
 		"facebook.com",
 		"instagram.com",
 		"youtube.com",
@@ -138,11 +184,17 @@ function parecePublicacao(url, titulo, fonte) {
 		url.replace(/\/$/, "") ===
 		origem.href.replace(/\/$/, "")
 	) {
+
 		return false;
 	}
 
 	return true;
 }
+
+
+// ============================================================
+// EXTRAIR LINKS DO HTML
+// ============================================================
 
 function extrairHTML(html, fonte) {
 
@@ -154,47 +206,82 @@ function extrairHTML(html, fonte) {
 
 	for (const item of links) {
 
-		const url = urlAbsoluta(item[1], fonte.url);
-		const titulo = limparTexto(item[2]);
+		const url =
+			urlAbsoluta(item[1], fonte.url);
 
-		if (!parecePublicacao(url, titulo, fonte)) {
+		const titulo =
+			limparTexto(item[2]);
+
+		if (
+			!parecePublicacao(
+				url,
+				titulo,
+				fonte
+			)
+		) {
+
 			continue;
 		}
 
 		candidatos.push({
+
 			title: titulo,
+
 			url: url,
+
 			source: fonte.nome
 		});
 	}
 }
 
+
+// ============================================================
+// COLETAR FONTES
+// ============================================================
+
 async function coletarFontes() {
 
 	console.log("=== COLETA ===");
-	console.log(`Fontes ativas: ${fontes.length}`);
+
+	console.log(
+		`Fontes ativas: ${fontes.length}`
+	);
+
 	console.log("");
 
 	for (const fonte of fontes) {
 
-		console.log(`Fonte: ${fonte.nome}`);
+		console.log(
+			`Fonte: ${fonte.nome}`
+		);
 
 		try {
 
-			const html = await baixar(fonte.url);
+			const html =
+				await baixar(fonte.url);
 
-			extrairHTML(html, fonte);
+			extrairHTML(
+				html,
+				fonte
+			);
 
 			console.log("OK");
 
 		} catch (erro) {
 
-			console.log(`ERRO: ${erro.message}`);
+			console.log(
+				`ERRO: ${erro.message}`
+			);
 		}
 
 		console.log("");
 	}
 }
+
+
+// ============================================================
+// REMOVER DUPLICADOS
+// ============================================================
 
 function removerDuplicados() {
 
@@ -202,26 +289,50 @@ function removerDuplicados() {
 
 	for (const item of candidatos) {
 
-		const chave = item.url.replace(/\/$/, "");
+		const chave =
+			item.url.replace(/\/$/, "");
 
 		if (!mapa.has(chave)) {
-			mapa.set(chave, item);
+
+			mapa.set(
+				chave,
+				item
+			);
 		}
 	}
 
 	return [...mapa.values()];
 }
 
+
+// ============================================================
+// AGUARDAR
+// ============================================================
+
 function esperar(ms) {
-	return new Promise(resolve => setTimeout(resolve, ms));
+
+	return new Promise(
+		resolve => setTimeout(resolve, ms)
+	);
 }
+
+
+// ============================================================
+// CHAMAR GEMINI
+// ============================================================
 
 async function chamarGemini(itens) {
 
 	const prompt = `
+
 Você é o curador do RADAR AGORA, um ticker local de Brasília.
 
-Selecione conteúdos relevantes para:
+OBJETIVO:
+
+Selecionar conteúdos reais, atuais e relevantes para moradores
+do Núcleo Bandeirante, regiões próximas e Brasília/DF.
+
+REGIÕES DE INTERESSE:
 
 - Núcleo Bandeirante;
 - Guará;
@@ -232,10 +343,66 @@ Selecione conteúdos relevantes para:
 - Brasília;
 - Distrito Federal.
 
-Podem ser notícias, eventos, esportes, lazer, cultura, gastronomia,
-comércio, serviços, vagas, trânsito, utilidade pública e atualidades.
+TIPOS DE CONTEÚDO:
 
-Priorize conteúdos locais, mas aceite conteúdos relevantes de Brasília e DF.
+Podem ser:
+
+- notícias;
+- eventos;
+- esportes;
+- lazer;
+- cultura;
+- gastronomia;
+- comércio;
+- serviços;
+- vagas;
+- trânsito;
+- utilidade pública;
+- educação;
+- saúde;
+- tecnologia;
+- turismo;
+- atualidades;
+- assuntos de interesse comunitário.
+
+IMPORTANTE:
+
+Não é necessário que todo conteúdo cite literalmente o Núcleo
+Bandeirante.
+
+Conteúdos de Brasília ou do Distrito Federal também podem ser
+selecionados quando forem relevantes para moradores da região.
+
+PRIORIDADE:
+
+1. Núcleo Bandeirante;
+2. regiões próximas;
+3. Brasília;
+4. Distrito Federal.
+
+POLÍTICA E ELEIÇÕES:
+
+- Não priorize propaganda eleitoral.
+- Não priorize agendas de candidatos.
+- Não priorize sabatinas.
+- Não priorize atos políticos.
+- Não priorize panfletagem.
+- Não priorize disputas partidárias.
+- Não utilize o ticker como espaço de campanha eleitoral.
+
+Conteúdo político somente deve entrar quando houver informação
+objetiva, relevante e de interesse direto para moradores do
+Distrito Federal ou das regiões atendidas pelo RADAR.
+
+VARIEDADE:
+
+Quando houver opções suficientes:
+
+- distribua os conteúdos entre diferentes assuntos;
+- evite que o ticker fique dominado por uma única fonte;
+- evite que o ticker fique dominado por um único assunto;
+- misture notícias, eventos, esporte, lazer, cultura, serviços
+  e outros assuntos quando houver conteúdo disponível.
 
 REGRAS:
 
@@ -249,18 +416,34 @@ REGRAS:
 - Não escolha perfis.
 - Evite duplicados.
 - Não invente conteúdo para completar a quantidade.
+- Não crie informações que não estejam representadas nos
+  conteúdos fornecidos.
+- Preserve o título original.
+- Preserve a URL original.
 
 CONFIGURAÇÃO:
 
-${JSON.stringify(config, null, 2)}
+${JSON.stringify(
+	config,
+	null,
+	2
+)}
 
 REGRAS DO RADAR:
 
-${JSON.stringify(regras, null, 2)}
+${JSON.stringify(
+	regras,
+	null,
+	2
+)}
 
-CONTEÚDOS:
+CONTEÚDOS DISPONÍVEIS:
 
-${JSON.stringify(itens, null, 2)}
+${JSON.stringify(
+	itens,
+	null,
+	2
+)}
 
 Retorne SOMENTE JSON válido:
 
@@ -275,27 +458,53 @@ Retorne SOMENTE JSON válido:
 	]
 }
 
-Quantidade máxima: ${config.quantidade}
+TIPOS PERMITIDOS:
+
+- noticia
+- evento
+- oferta
+- vaga
+- dica
+- atualidade
+
+Quantidade máxima:
+
+${config.quantidade}
+
 `;
 
-	const dados = JSON.stringify({
+	const dados =
+		JSON.stringify({
 
-		contents: [
-			{
-				parts: [
-					{
-						text: prompt
-					}
-				]
+			contents: [
+
+				{
+					parts: [
+
+						{
+							text: prompt
+						}
+					]
+				}
+			],
+
+			generationConfig: {
+
+				responseMimeType:
+					"application/json"
 			}
-		],
+		});
 
-		generationConfig: {
-			responseMimeType: "application/json"
-		}
-	});
 
-	for (let tentativa = 1; tentativa <= 3; tentativa++) {
+	// ========================================================
+	// TENTATIVAS
+	// ========================================================
+
+	for (
+		let tentativa = 1;
+		tentativa <= 3;
+		tentativa++
+	) {
 
 		console.log(
 			`Tentativa Gemini: ${tentativa}/3`
@@ -303,7 +512,10 @@ Quantidade máxima: ${config.quantidade}
 
 		try {
 
-			const resultado = await chamarGeminiAPI(dados);
+			const resultado =
+				await chamarGeminiAPI(
+					dados
+				);
 
 			return resultado;
 
@@ -313,7 +525,9 @@ Quantidade máxima: ${config.quantidade}
 				`Gemini falhou: ${erro.message}`
 			);
 
-			if (tentativa < 3) {
+			if (
+				tentativa < 3
+			) {
 
 				console.log(
 					"Aguardando 5 segundos..."
@@ -329,198 +543,407 @@ Quantidade máxima: ${config.quantidade}
 	);
 }
 
+
+// ============================================================
+// API GEMINI
+// ============================================================
+
 function chamarGeminiAPI(dados) {
 
-	return new Promise((resolve, reject) => {
+	return new Promise(
+		(resolve, reject) => {
 
-		const requisicao = https.request({
+			const requisicao =
+				https.request({
 
-			hostname:
-				"generativelanguage.googleapis.com",
+					hostname:
+						"generativelanguage.googleapis.com",
 
-			path:
-				"/v1beta/models/gemini-3.5-flash-lite:generateContent",
+					path:
+						"/v1beta/models/gemini-3.5-flash-lite:generateContent",
 
-			method: "POST",
+					method: "POST",
 
-			headers: {
-				"x-goog-api-key": apiKey,
-				"Content-Type": "application/json",
-				"Content-Length": Buffer.byteLength(dados)
-			}
+					headers: {
 
-		}, resposta => {
+						"x-goog-api-key":
+							apiKey,
 
-			let corpo = "";
+						"Content-Type":
+							"application/json",
 
-			resposta.setEncoding("utf8");
+						"Content-Length":
+							Buffer.byteLength(dados)
+					}
 
-			resposta.on("data", parte => {
-				corpo += parte;
-			});
+				}, resposta => {
 
-			resposta.on("end", () => {
+					let corpo = "";
 
-				if (
-					resposta.statusCode < 200 ||
-					resposta.statusCode >= 300
-				) {
-
-					reject(
-						new Error(
-							`HTTP ${resposta.statusCode}: ${corpo}`
-						)
+					resposta.setEncoding(
+						"utf8"
 					);
 
-					return;
+					resposta.on(
+						"data",
+						parte => {
+							corpo += parte;
+						}
+					);
+
+					resposta.on(
+						"end",
+						() => {
+
+							if (
+								resposta.statusCode < 200 ||
+								resposta.statusCode >= 300
+							) {
+
+								reject(
+
+									new Error(
+										`HTTP ${resposta.statusCode}: ${corpo}`
+									)
+								);
+
+								return;
+							}
+
+							resolve(corpo);
+						}
+					);
+				});
+
+
+			requisicao.setTimeout(
+				60000,
+				() => {
+
+					requisicao.destroy(
+
+						new Error(
+							"Tempo limite Gemini"
+						)
+					);
 				}
-
-				resolve(corpo);
-			});
-		});
-
-		requisicao.setTimeout(60000, () => {
-			requisicao.destroy(
-				new Error("Tempo limite Gemini")
 			);
-		});
 
-		requisicao.on("error", reject);
 
-		requisicao.write(dados);
-		requisicao.end();
-	});
+			requisicao.on(
+				"error",
+				reject
+			);
+
+
+			requisicao.write(
+				dados
+			);
+
+			requisicao.end();
+		}
+	);
 }
 
-function processarResposta(resposta, itensOriginais) {
 
-	const dados = JSON.parse(resposta);
+// ============================================================
+// PROCESSAR RESPOSTA GEMINI
+// ============================================================
+
+function processarResposta(
+	resposta,
+	itensOriginais
+) {
+
+	const dados =
+		JSON.parse(resposta);
 
 	const texto =
-		dados.candidates?.[0]?.content?.parts?.[0]?.text;
+		dados
+			.candidates?.[0]
+			?.content
+			?.parts?.[0]
+			?.text;
 
 	if (!texto) {
-		throw new Error("Gemini não retornou conteúdo.");
+
+		throw new Error(
+			"Gemini não retornou conteúdo."
+		);
 	}
 
-	const resultado = JSON.parse(texto);
+	const resultado =
+		JSON.parse(texto);
 
-	const urlsOriginais = new Set(
-		itensOriginais.map(item =>
-			item.url.replace(/\/$/, "")
-		)
-	);
+
+	const urlsOriginais =
+		new Set(
+
+			itensOriginais.map(
+				item =>
+					item.url.replace(
+						/\/$/,
+						""
+					)
+			)
+		);
+
 
 	const finais = [];
-	const urlsUsadas = new Set();
 
-	for (const item of resultado.items || []) {
+	const urlsUsadas =
+		new Set();
 
-		if (!item.title || !item.url) {
+
+	for (
+		const item of resultado.items || []
+	) {
+
+		if (
+			!item.title ||
+			!item.url
+		) {
+
 			continue;
 		}
 
-		const url = item.url.replace(/\/$/, "");
 
-		if (!urlsOriginais.has(url)) {
+		const url =
+			item.url.replace(
+				/\/$/,
+				""
+			);
+
+
+		if (
+			!urlsOriginais.has(url)
+		) {
+
 			continue;
 		}
 
-		if (urlsUsadas.has(url)) {
+
+		if (
+			urlsUsadas.has(url)
+		) {
+
 			continue;
 		}
+
 
 		urlsUsadas.add(url);
 
+
 		finais.push({
-			title: item.title.trim(),
-			url: url,
-			tipo: item.tipo || "atualidade",
-			urgente: item.urgente === true
+
+			title:
+				item.title.trim(),
+
+			url:
+				url,
+
+			tipo:
+				item.tipo ||
+				"atualidade",
+
+			urgente:
+				item.urgente === true
 		});
 
-		if (finais.length >= config.quantidade) {
+
+		if (
+			finais.length >=
+			config.quantidade
+		) {
+
 			break;
 		}
 	}
 
+
 	return finais;
 }
+
+
+// ============================================================
+// EXECUÇÃO PRINCIPAL
+// ============================================================
 
 async function executar() {
 
 	console.log("");
-	console.log("=================================");
-	console.log("       RADAR AGORA");
-	console.log("=================================");
+
+	console.log(
+		"================================="
+	);
+
+	console.log(
+		"       RADAR AGORA"
+	);
+
+	console.log(
+		"================================="
+	);
+
 	console.log("");
+
+
+	// ========================================================
+	// COLETA
+	// ========================================================
 
 	await coletarFontes();
 
-	let itens = removerDuplicados();
 
-	console.log("=== COLETA FINAL ===");
-	console.log(`Candidatos encontrados: ${itens.length}`);
+	// ========================================================
+	// DUPLICADOS
+	// ========================================================
 
-	if (itens.length === 0) {
+	let itens =
+		removerDuplicados();
+
+
+	console.log(
+		"=== COLETA FINAL ==="
+	);
+
+	console.log(
+		`Candidatos encontrados: ${itens.length}`
+	);
+
+
+	if (
+		itens.length === 0
+	) {
 
 		throw new Error(
 			"Nenhum candidato foi encontrado nas fontes."
 		);
 	}
 
-	itens = itens.slice(0, 120);
+
+	// ========================================================
+	// LIMITE DE CANDIDATOS
+	// ========================================================
+
+	itens =
+		itens.slice(0, 120);
+
 
 	console.log(
 		`Candidatos enviados ao Gemini: ${itens.length}`
 	);
 
+
 	console.log("");
-	console.log("=== CURADORIA GEMINI ===");
 
-	const resposta = await chamarGemini(itens);
-
-	const finais = processarResposta(
-		resposta,
-		itens
+	console.log(
+		"=== CURADORIA GEMINI ==="
 	);
 
+
+	// ========================================================
+	// CURADORIA
+	// ========================================================
+
+	const resposta =
+		await chamarGemini(
+			itens
+		);
+
+
+	// ========================================================
+	// RESULTADO FINAL
+	// ========================================================
+
+	const finais =
+		processarResposta(
+			resposta,
+			itens
+		);
+
+
+	// ========================================================
+	// GRAVAR JSON
+	// ========================================================
+
 	fs.writeFileSync(
+
 		"data/ticker.json",
+
 		JSON.stringify(
+
 			{
 				items: finais
 			},
+
 			null,
 			2
 		)
 	);
 
+
+	// ========================================================
+	// LOG FINAL
+	// ========================================================
+
 	console.log("");
-	console.log("=== RESULTADO ===");
-	console.log(`Itens publicados: ${finais.length}`);
-	console.log("Arquivo: data/ticker.json");
+
+	console.log(
+		"=== RESULTADO ==="
+	);
+
+	console.log(
+		`Itens publicados: ${finais.length}`
+	);
+
+	console.log(
+		"Arquivo: data/ticker.json"
+	);
+
 	console.log("");
 
-	finais.forEach((item, indice) => {
 
-		console.log(
-			`${indice + 1}. ${item.title}`
-		);
+	finais.forEach(
+		(item, indice) => {
 
-		console.log(
-			`   ${item.url}`
-		);
-	});
+			console.log(
+				`${indice + 1}. ${item.title}`
+			);
+
+			console.log(
+				`   ${item.url}`
+			);
+		}
+	);
 }
 
-executar().catch(erro => {
 
-	console.error("");
-	console.error("=================================");
-	console.error("ERRO RADAR AGORA");
-	console.error("=================================");
-	console.error(erro.message);
+// ============================================================
+// INICIAR
+// ============================================================
 
-	process.exit(1);
-});
+executar().catch(
+	erro => {
+
+		console.error("");
+
+		console.error(
+			"================================="
+		);
+
+		console.error(
+			"ERRO RADAR AGORA"
+		);
+
+		console.error(
+			"================================="
+		);
+
+		console.error(
+			erro.message
+		);
+
+		process.exit(1);
+	}
+);
