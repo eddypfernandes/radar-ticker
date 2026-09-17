@@ -1,56 +1,38 @@
 {
   "items": [
     {
-      "title": "Obra de viaduto entre Guará e Núcleo Bandeirante é concluída",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/obra-de-viaduto-entre-guara-e-nucleo-bandeirante-no-df-e-concluida-16092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Árvore cai em Samambaia durante tempestade no DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/arvore-cai-em-samambaia-durante-tempestade-no-df-17092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "GDF anuncia R$ 29,2 bilhões para ampliar metrô e criar novas linhas de VLT no DF",
+      "title": "GDF anuncia R$ 29,2 bi para ampliar metrô e criar novas linhas de VLT",
       "url": "https://noticias.r7.com/brasilia/df-record/video/gdf-anuncia-r-292-bilhoes-para-ampliar-metro-e-criar-novas-linhas-de-vlt-no-df-17092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Qualificação profissional: GDF abre inscrições para 10 mil vagas em cursos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/governo-do-df-abre-inscricoes-para-10-mil-vagas-em-cursos-gratuitos-de-qualificacao-16092026",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Vacinas para pessoas com doenças crônicas passam a ser oferecidas nas UBSs do Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/vacinas-especiais-passam-a-ser-oferecidas-nas-ubss-do-df-16092026",
+      "title": "Tempestade causa danos em diversas regiões do DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tempestade-causa-danos-em-diversas-regioes-do-df-17092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Unidade Básica de Saúde 5 do Itapoã (DF) inicia atendimentos",
+      "title": "Unidade Básica de Saúde 5 do Itapoã inicia atendimentos",
       "url": "https://noticias.r7.com/brasilia/df-record/video/unidade-basica-de-saude-5-do-itapoa-df-inicia-atendimentos-17092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Reabertura do Teatro Nacional: Sala Martins Pena",
-      "url": "https://www.agenciabrasilia.df.gov.br/web/guest/topicos?tag=Especial%20Teatro&sort=createDate-",
-      "tipo": "evento",
+      "title": "Celina Leão sobrevoa Planaltina após temporal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/governadora-do-df-sobrevoa-planaltina-apos-temporal-que-deixou-estragos-na-regiao-17092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Eleições 2026: TRE-DF proíbe celulares, relógios e óculos inteligentes na cabine de votação",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/eleicoes-2026-tre-df-proibe-celulares-relogios-e-oculos-inteligentes-na-cabine-de-votacao-17092026",
-      "tipo": "atualidade",
+      "title": "Após temporal, Defesa Civil interdita casas no Arapoanga",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/defesa-civil-interdita-casas-e-moradores-enfrentam-risco-apos-temporal-no-arapoanga-df-17092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Operação no DF visa coibir perturbações do sossego",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-no-df-visa-coibir-perturbacoes-do-sossego-16092026",
+      "title": "Vacinas para pessoas com doenças crônicas passam a ser oferecidas nas UBSs do Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/vacinas-especiais-passam-a-ser-oferecidas-nas-ubss-do-df-16092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,14 +43,32 @@
       "urgente": false
     },
     {
-      "title": "Golpes em conselhos profissionais: saiba como identificar e evitar",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/golpes-em-conselhos-profissionais-saiba-como-identificar-e-evitar-17092026",
-      "tipo": "dica",
+      "title": "Motorista morre após carro bater contra caminhão-tanque na BR-080, perto de Brazlândia",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/motorista-morre-apos-carro-bater-contra-caminhao-tanque-na-br-080-perto-de-brazlandia-df-17092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Tempestade causa danos em diversas regiões do DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tempestade-causa-danos-em-diversas-regioes-do-df-17092026",
+      "title": "Homem rouba carro com criança de 3 anos, mas mãe consegue retirá-la antes da fuga no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-rouba-carro-com-crianca-de-3-anos-mas-mae-consegue-retira-la-antes-da-fuga-no-df-16092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "El Niño, calor e umidade favorecem temporais e ventos fortes no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/el-nino-calor-e-umidade-favorecem-temporais-e-ventos-fortes-no-distrito-federal-17092026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Moradores de Samambaia (DF) relatam noite de medo e mostram estragos após temporal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-samambaia-df-relatam-noite-de-medo-e-mostram-estragos-apos-temporal-17092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Eleições 2026: TRE-DF proíbe celulares, relógios e óculos inteligentes na cabine de votação",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/eleicoes-2026-tre-df-proibe-celulares-relogios-e-oculos-inteligentes-na-cabine-de-votacao-17092026",
       "tipo": "noticia",
       "urgente": false
     }
