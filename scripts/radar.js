@@ -1,5 +1,6 @@
 const fs = require("fs");
 const https = require("https");
+const http = require("http");
 
 const config = JSON.parse(fs.readFileSync("config.json", "utf8"));
 const regras = JSON.parse(fs.readFileSync("regras.json", "utf8"));
@@ -13,123 +14,347 @@ if (!apiKey) {
 
 const fontes = config.fontes.filter(fonte => fonte.ativo === true);
 
-const urls = fontes
-	.map(fonte => fonte.url)
-	.filter(url => /^https?:\/\//i.test(url));
+const candidatos = [];
 
-const prompt = `
-Você é o motor de coleta e curadoria editorial do RADAR AGORA.
+function baixar(url) {
+	return new Promise((resolve, reject) => {
+		const cliente = url.startsWith("https://") ? https : http;
 
-Você receberá URLs de fontes jornalísticas e informativas públicas.
+		const requisicao = cliente.get(url, {
+			headers: {
+				"User-Agent": "Mozilla/5.0 RADAR-AGORA/1.0",
+				"Accept": "text/html,application/xhtml+xml"
+			}
+		}, resposta => {
 
-SUA TAREFA:
+			let dados = "";
 
-1. Acesse as páginas fornecidas usando o contexto de URL.
-2. Identifique publicações individuais disponíveis nessas páginas.
-3. Analise os títulos e o conteúdo das publicações.
-4. Selecione somente conteúdos reais, verificáveis e relevantes.
-5. Priorize conteúdo local do Distrito Federal.
-6. Dê prioridade máxima ao Núcleo Bandeirante.
-7. Depois considere:
-   - Guará
-   - Candangolândia
-   - Riacho Fundo
-   - Samambaia
-   - Park Way
-8. Conteúdos relevantes para Brasília e Distrito Federal também podem ser selecionados.
-9. Priorize publicações recentes.
-10. Evite duplicações.
-11. Não selecione páginas de categoria.
-12. Não selecione páginas de busca.
-13. Não selecione páginas de tags.
-14. Não selecione perfis.
-15. Não selecione a página inicial da fonte como conteúdo.
-16. Não invente títulos.
-17. Não invente URLs.
-18. Não altere URLs.
-19. A URL deve apontar para a publicação individual.
-20. Se não houver conteúdo suficiente, retorne menos itens.
-21. Nunca invente itens para completar a quantidade.
+			resposta.setEncoding("utf8");
 
-REGRAS EDITORIAIS:
+			resposta.on("data", parte => {
+				dados += parte;
+			});
 
-${JSON.stringify(regras, null, 2)}
+			resposta.on("end", () => {
 
-CONFIGURAÇÃO:
+				if (resposta.statusCode >= 200 && resposta.statusCode < 400) {
+					resolve(dados);
+				} else {
+					reject(new Error(`HTTP ${resposta.statusCode}`));
+				}
+			});
+		});
 
-${JSON.stringify(config, null, 2)}
+		requisicao.setTimeout(20000, () => {
+			requisicao.destroy(
+				new Error("Tempo limite excedido")
+			);
+		});
+
+		requisicao.on("error", reject);
+	});
+}
+
+function limparTexto(texto) {
+
+	return texto
+		.replace(/<script[\s\S]*?<\/script>/gi, " ")
+		.replace(/<style[\s\S]*?<\/style>/gi, " ")
+		.replace(/<[^>]*>/g, " ")
+		.replace(/&amp;/g, "&")
+		.replace(/&quot;/g, '"')
+		.replace(/&#39;/g, "'")
+		.replace(/&lt;/g, "<")
+		.replace(/&gt;/g, ">")
+		.replace(/&#(\d+);/g, (_, codigo) =>
+			String.fromCharCode(Number(codigo))
+		)
+		.replace(/\s+/g, " ")
+		.trim();
+}
+
+function urlAbsoluta(url, origem) {
+
+	try {
+		return new URL(url, origem).href;
+	} catch {
+		return "";
+	}
+}
+
+function parecePublicacao(url, titulo, fonte) {
+
+	if (!url || !titulo) {
+		return false;
+	}
+
+	if (titulo.length < 30 || titulo.length > 220) {
+		return false;
+	}
+
+	if (!/^https?:\/\//i.test(url)) {
+		return false;
+	}
+
+	const texto = `${url} ${titulo}`.toLowerCase();
+
+	const ignorados = [
+		"/login",
+		"/entrar",
+		"/cadastro",
+		"/search",
+		"/busca",
+		"/buscar",
+		"/tag/",
+		"/tags/",
+		"/categoria/",
+		"/categorias/",
+		"/author/",
+		"/autor/",
+		"/perfil/",
+		"/contato",
+		"/sobre",
+		"/publicidade",
+		"/newsletter",
+		"facebook.com",
+		"instagram.com",
+		"youtube.com",
+		"twitter.com",
+		"linkedin.com",
+		"whatsapp.com"
+	];
+
+	for (const item of ignorados) {
+
+		if (texto.includes(item)) {
+			return false;
+		}
+	}
+
+	const origem = new URL(fonte.url);
+
+	if (url.replace(/\/$/, "") === origem.href.replace(/\/$/, "")) {
+		return false;
+	}
+
+	const palavrasNavegacao = [
+		"menu",
+		"entrar",
+		"login",
+		"cadastre-se",
+		"leia mais",
+		"saiba mais",
+		"veja mais",
+		"próxima",
+		"anterior",
+		"home",
+		"início",
+		"contato"
+	];
+
+	for (const palavra of palavrasNavegacao) {
+
+		if (titulo.toLowerCase() === palavra) {
+			return false;
+		}
+	}
+
+	return true;
+}
+
+function extrairHTML(html, fonte) {
+
+	const links = [
+		...html.matchAll(
+			/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi
+		)
+	];
+
+	for (const item of links) {
+
+		const url = urlAbsoluta(item[1], fonte.url);
+		const titulo = limparTexto(item[2]);
+
+		if (!parecePublicacao(url, titulo, fonte)) {
+			continue;
+		}
+
+		candidatos.push({
+			title: titulo,
+			url: url,
+			source: fonte.nome
+		});
+	}
+}
+
+async function coletarFontes() {
+
+	console.log("=== COLETA ===");
+	console.log(`Fontes ativas: ${fontes.length}`);
+	console.log("");
+
+	for (const fonte of fontes) {
+
+		console.log(`Fonte: ${fonte.nome}`);
+
+		try {
+
+			const html = await baixar(fonte.url);
+
+			extrairHTML(html, fonte);
+
+			console.log("OK");
+
+		} catch (erro) {
+
+			console.log(`ERRO: ${erro.message}`);
+		}
+
+		console.log("");
+	}
+}
+
+function removerDuplicados() {
+
+	const mapa = new Map();
+
+	for (const item of candidatos) {
+
+		const chave = item.url.replace(/\/$/, "");
+
+		if (!mapa.has(chave)) {
+			mapa.set(chave, item);
+		}
+	}
+
+	return [...mapa.values()];
+}
+
+function chamarGemini(itens) {
+
+	return new Promise((resolve, reject) => {
+
+		const prompt = `
+Você é o curador do RADAR AGORA, um ticker local de Brasília.
+
+Sua função é selecionar conteúdos que sejam realmente interessantes para moradores do:
+
+1. Núcleo Bandeirante;
+2. regiões próximas;
+3. demais regiões do Distrito Federal;
+4. Brasília de forma geral.
+
+O RADAR NÃO É exclusivamente jornalístico.
+
+Pode selecionar:
+- notícias;
+- eventos;
+- esportes;
+- lazer;
+- cultura;
+- gastronomia;
+- comércio;
+- serviços;
+- vagas;
+- trânsito;
+- utilidade pública;
+- atualidades;
+- assuntos comunitários.
+
+PRIORIDADE GEOGRÁFICA:
+
+${JSON.stringify(config.regioes_prioritarias, null, 2)}
+
+REGIÕES AMPLIADAS:
+
+${JSON.stringify(config.regioes_ampliadas, null, 2)}
+
+TERMOS:
+
+${JSON.stringify(config.termos_ampliados, null, 2)}
 
 TIPOS PERMITIDOS:
 
-- noticia
-- evento
-- oferta
-- vaga
-- dica
-- atualidade
+${JSON.stringify(config.tipos, null, 2)}
 
-URGÊNCIA:
+REGRAS:
 
-Somente marque "urgente": true quando houver motivo editorial concreto e verificável.
+${JSON.stringify(regras, null, 2)}
 
-Não classifique como urgente apenas porque o título utiliza linguagem chamativa.
+REGRAS IMPORTANTES:
 
-RETORNE SOMENTE JSON VÁLIDO.
+- Use somente títulos e URLs recebidos.
+- Nunca invente título.
+- Nunca invente URL.
+- Nunca altere URL.
+- A URL deve levar à publicação ou conteúdo específico.
+- Não escolha páginas iniciais.
+- Não escolha páginas de busca.
+- Não escolha categorias.
+- Não escolha tags.
+- Não escolha perfis.
+- Evite duplicados.
+- Priorize conteúdo recente.
+- Prefira conteúdo relacionado ao DF.
+- Dê prioridade ao Núcleo Bandeirante e regiões próximas.
+- Mas não descarte automaticamente uma boa notícia de Brasília.
+- Não force a regionalização de uma matéria que não tenha relação com a região.
+- Se houver poucos conteúdos realmente relevantes, retorne menos itens.
+- Não invente itens para completar a quantidade.
 
-FORMATO OBRIGATÓRIO:
+CONTEÚDOS DISPONÍVEIS:
+
+${JSON.stringify(itens, null, 2)}
+
+Retorne SOMENTE JSON válido neste formato:
 
 {
 	"items": [
 		{
-			"title": "título original da publicação",
-			"url": "URL direta da publicação",
+			"title": "Título original",
+			"url": "URL original",
 			"tipo": "noticia",
 			"urgente": false
 		}
 	]
 }
 
-Quantidade máxima de itens: ${config.quantidade}.
+Quantidade máxima: ${config.quantidade}
 `;
 
-function chamarGemini(urlsLote) {
-	return new Promise((resolve, reject) => {
-
-		const urlsTexto = urlsLote.join("\n");
-
 		const dados = JSON.stringify({
+
 			contents: [
 				{
 					parts: [
 						{
-							text: `${prompt}
-
-FONTES PARA ANALISAR:
-
-${urlsTexto}`
+							text: prompt
 						}
 					]
 				}
 			],
-			tools: [
-				{
-					url_context: {}
-				}
-			],
+
 			generationConfig: {
 				responseMimeType: "application/json"
 			}
 		});
 
 		const requisicao = https.request({
-			hostname: "generativelanguage.googleapis.com",
-			path: "/v1beta/models/gemini-3.6-flash:generateContent",
+
+			hostname:
+				"generativelanguage.googleapis.com",
+
+			path:
+				"/v1beta/models/gemini-3.6-flash:generateContent",
+
 			method: "POST",
+
 			headers: {
 				"x-goog-api-key": apiKey,
 				"Content-Type": "application/json",
 				"Content-Length": Buffer.byteLength(dados)
 			}
+
 		}, resposta => {
 
 			let corpo = "";
@@ -142,7 +367,11 @@ ${urlsTexto}`
 
 			resposta.on("end", () => {
 
-				if (resposta.statusCode < 200 || resposta.statusCode >= 300) {
+				if (
+					resposta.statusCode < 200 ||
+					resposta.statusCode >= 300
+				) {
+
 					reject(
 						new Error(
 							`Gemini HTTP ${resposta.statusCode}: ${corpo}`
@@ -163,145 +392,144 @@ ${urlsTexto}`
 	});
 }
 
-function extrairResultado(resposta) {
+function processarResposta(resposta, itensOriginais) {
 
 	const dados = JSON.parse(resposta);
 
 	const texto =
-		dados.candidates?.[0]
-			?.content
-			?.parts?.[0]
-			?.text;
+		dados.candidates?.[0]?.content?.parts?.[0]?.text;
 
 	if (!texto) {
 		throw new Error("Gemini não retornou conteúdo.");
 	}
 
-	return JSON.parse(texto);
-}
+	const resultado = JSON.parse(texto);
 
-function validarItem(item) {
+	const urlsOriginais = new Set(
+		itensOriginais.map(item =>
+			item.url.replace(/\/$/, "")
+		)
+	);
 
-	if (!item) {
-		return false;
+	const finais = [];
+	const urlsUsadas = new Set();
+
+	for (const item of resultado.items || []) {
+
+		if (!item.title || !item.url) {
+			continue;
+		}
+
+		const url = item.url.replace(/\/$/, "");
+
+		if (!urlsOriginais.has(url)) {
+			continue;
+		}
+
+		if (urlsUsadas.has(url)) {
+			continue;
+		}
+
+		urlsUsadas.add(url);
+
+		finais.push({
+			title: item.title.trim(),
+			url: url,
+			tipo: item.tipo,
+			urgente: item.urgente === true
+		});
+
+		if (finais.length >= config.quantidade) {
+			break;
+		}
 	}
 
-	if (!item.title || !item.url) {
-		return false;
-	}
-
-	if (!/^https?:\/\//i.test(item.url)) {
-		return false;
-	}
-
-	if (
-		/\/(buscar|search|busca|tag|tags|categoria|categorias|author|autor|perfil)\b/i
-			.test(item.url)
-	) {
-		return false;
-	}
-
-	const tiposPermitidos = [
-		"noticia",
-		"evento",
-		"oferta",
-		"vaga",
-		"dica",
-		"atualidade"
-	];
-
-	if (!tiposPermitidos.includes(item.tipo)) {
-		return false;
-	}
-
-	return true;
+	return finais;
 }
 
 async function executar() {
 
-	console.log("=== RADAR AGORA ===");
-	console.log("Motor: Gemini + URL Context");
-	console.log(`Fontes ativas: ${fontes.length}`);
-	console.log(`URLs enviadas: ${urls.length}`);
+	console.log("");
+	console.log("=================================");
+	console.log("       RADAR AGORA");
+	console.log("=================================");
 	console.log("");
 
-	try {
+	await coletarFontes();
 
-		const resultado = await chamarGemini(urls);
+	let itens = removerDuplicados();
 
-		const dados = extrairResultado(resultado);
+	console.log("=== COLETA FINAL ===");
+	console.log(`Candidatos encontrados: ${itens.length}`);
 
-		const itensValidos = (dados.items || [])
-			.filter(validarItem);
+	if (itens.length === 0) {
 
-		const finais = [];
-		const urlsUsadas = new Set();
+		throw new Error(
+			"Nenhum candidato foi encontrado nas fontes."
+		);
+	}
 
-		for (const item of itensValidos) {
+	/*
+		Limitamos o volume enviado ao Gemini.
+		Os primeiros resultados das páginas são normalmente
+		os conteúdos mais recentes.
+	*/
+	itens = itens.slice(0, 120);
 
-			const url = item.url.replace(/\/$/, "");
+	console.log(
+		`Candidatos enviados ao Gemini: ${itens.length}`
+	);
 
-			if (urlsUsadas.has(url)) {
-				continue;
-			}
+	console.log("");
+	console.log("=== CURADORIA GEMINI ===");
 
-			urlsUsadas.add(url);
+	const resposta = await chamarGemini(itens);
 
-			finais.push({
-				title: item.title.trim(),
-				url: url,
-				tipo: item.tipo,
-				urgente: item.urgente === true
-			});
+	const finais = processarResposta(
+		resposta,
+		itens
+	);
 
-			if (finais.length >= config.quantidade) {
-				break;
-			}
-		}
+	fs.writeFileSync(
+		"data/ticker.json",
+		JSON.stringify(
+			{
+				items: finais
+			},
+			null,
+			2
+		)
+	);
 
-		fs.writeFileSync(
-			"data/ticker.json",
-			JSON.stringify(
-				{
-					items: finais
-				},
-				null,
-				2
-			)
+	console.log("");
+	console.log("=== RESULTADO ===");
+	console.log(`Itens publicados: ${finais.length}`);
+	console.log("Arquivo: data/ticker.json");
+	console.log("");
+
+	finais.forEach((item, indice) => {
+
+		console.log(
+			`${indice + 1}. ${item.title}`
 		);
 
-		console.log("=== RESULTADO ===");
-		console.log(`Itens publicados: ${finais.length}`);
-		console.log("Arquivo: data/ticker.json");
-		console.log("");
+		console.log(
+			`   ${item.url}`
+		);
 
-		finais.forEach((item, indice) => {
-
-			console.log(
-				`${indice + 1}. ${item.title}`
-			);
-
-			console.log(
-				`   ${item.url}`
-			);
-
-			console.log(
-				`   Tipo: ${item.tipo}`
-			);
-
-			console.log(
-				`   Urgente: ${item.urgente}`
-			);
-		});
-
-	} catch (erro) {
-
-		console.error("");
-		console.error("=== ERRO ===");
-		console.error(erro.message);
-
-		process.exit(1);
-	}
+		console.log(
+			`   ${item.tipo}`
+		);
+	});
 }
 
-executar();
+executar().catch(erro => {
+
+	console.error("");
+	console.error("=================================");
+	console.error("ERRO RADAR AGORA");
+	console.error("=================================");
+	console.error(erro.message);
+
+	process.exit(1);
+});
