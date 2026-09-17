@@ -7,12 +7,6 @@
       "urgente": false
     },
     {
-      "title": "Tempestade causa danos em diversas regiões do DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tempestade-causa-danos-em-diversas-regioes-do-df-17092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
       "title": "Unidade Básica de Saúde 5 do Itapoã inicia atendimentos",
       "url": "https://noticias.r7.com/brasilia/df-record/video/unidade-basica-de-saude-5-do-itapoa-df-inicia-atendimentos-17092026",
       "tipo": "noticia",
@@ -67,9 +61,9 @@
       "urgente": true
     },
     {
-      "title": "Reabertura do Teatro Nacional: Sala Martins Pena",
-      "url": "https://www.agenciabrasilia.df.gov.br/web/guest/topicos?tag=Especial%20Teatro&sort=createDate-",
-      "tipo": "evento",
+      "title": "Morador do DF sobe no telhado durante vendaval para impedir que telhas fossem arrancadas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/morador-do-df-sobe-no-telhado-durante-vendaval-para-impedir-que-telhas-fossem-arrancadas-17092026",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
