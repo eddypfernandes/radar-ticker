@@ -9,13 +9,43 @@
     {
       "title": "Corridas, caminhada e gravações de filme alteram o trânsito neste fim de semana 18/09/2026 às 15h59 - Atualizado em 18/09/2026 às 15h59 Vias no Plano Piloto terão trechos interditados Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/corridas-caminhada-e-grava%C3%A7%C3%B5es-de-filme-alteram-o-tr%C3%A2nsito-neste-fim-de-semana?redirect=%2Fnoticias",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
-      "tipo": "evento",
+      "title": "BC anuncia mudanças no regulamento do Pix para fortalecer segurança contra fraudes",
+      "url": "https://noticias.r7.com/economia/bc-anuncia-mudancas-no-regulamento-do-pix-veja-quais-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade",
+      "url": "https://noticias.r7.com/saude/sus-vai-ofertar-canetas-emagrecedoras-para-pacientes-com-obesidade-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Analfabetismo entre jovens com deficiência é 12 vezes maior, aponta IBGE",
+      "url": "https://noticias.r7.com/educacao/analfabetismo-entre-jovens-com-deficiencia-e-12-vezes-maior-aponta-ibge-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Após semana de greve, Correios têm dissídio na segunda",
+      "url": "https://noticias.r7.com/brasilia/apos-semana-em-greve-empregados-dos-correios-tem-dissidio-na-segunda-feira-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "PMDF compra fuzis para reforçar policiamento",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -31,44 +61,14 @@
       "urgente": false
     },
     {
-      "title": "Procon fiscaliza mais de 30 postos para verificar preço do combustível no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/procon-fiscaliza-mais-de-30-postos-para-verificar-preco-do-combustivel-no-distrito-federal-18092026",
-      "tipo": "noticia",
+      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Acúmulo de lixo em Samambaia (DF) aumenta preocupação e riscos à saúde de moradores",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/acumulo-de-lixo-em-samambaia-df-aumenta-preocupacao-e-riscos-a-saude-de-moradores-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Pintura da Ponte JK, em Brasília, tem conclusão adiada para dezembro",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pintura-da-ponte-jk-em-brasilia-tem-conclusao-adiada-para-dezembro-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Operação da Polícia Civil fecha três casas de prostituição na Asa Norte, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/operacao-da-policia-civil-fecha-tres-casas-de-prostituicao-na-asa-norte-em-brasilia-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mulher quase é atropelada ao atravessar via exclusiva para ônibus em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-quase-e-atropelada-ao-atravessar-via-exclusiva-para-onibus-em-taguatinga-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "PMDF compra fuzis para reforçar policiamento",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
       "tipo": "noticia",
       "urgente": false
     }
