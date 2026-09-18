@@ -7,6 +7,12 @@
       "urgente": false
     },
     {
+      "title": "Temporal causa danos em diversas regiões do DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tempestade-causa-danos-em-diversas-regioes-do-df-17092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Unidade Básica de Saúde 5 do Itapoã inicia atendimentos",
       "url": "https://noticias.r7.com/brasilia/df-record/video/unidade-basica-de-saude-5-do-itapoa-df-inicia-atendimentos-17092026",
       "tipo": "noticia",
@@ -22,7 +28,7 @@
       "title": "Após temporal, Defesa Civil interdita casas no Arapoanga",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/defesa-civil-interdita-casas-e-moradores-enfrentam-risco-apos-temporal-no-arapoanga-df-17092026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Passageira sofre fratura no joelho ao ser atingida por homem em vagão exclusivo do metrô do DF",
@@ -37,20 +43,14 @@
       "urgente": false
     },
     {
-      "title": "El Niño, calor e umidade favorecem temporais e ventos fortes no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/el-nino-calor-e-umidade-favorecem-temporais-e-ventos-fortes-no-distrito-federal-17092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Setor produtivo do DF defende critérios técnicos e estabilidade do BRB",
-      "url": "https://noticias.r7.com/brasilia/setor-produtivo-do-df-defende-criterios-tecnicos-e-estabilidade-do-brb-17092026",
+      "title": "Eleições 2026: TRE-DF proíbe celulares, relógios e óculos inteligentes na cabine de votação",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/eleicoes-2026-tre-df-proibe-celulares-relogios-e-oculos-inteligentes-na-cabine-de-votacao-17092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Augusto Aras é aprovado como professor titular da Universidade de Brasília",
-      "url": "https://noticias.r7.com/educacao/augusto-aras-e-aprovado-como-professor-titular-da-universidade-de-brasilia-17092026",
+      "title": "Temporal deixa 11 famílias desabrigadas e mobiliza doações em Arapoanga (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/temporal-deixa-11-familias-desabrigadas-e-mobiliza-doacoes-em-arapoanga-df-17092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -58,7 +58,13 @@
       "title": "Temporal deixa moradores de Samambaia (DF) no prejuízo e interrompe energia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/temporal-deixa-moradores-de-samambaia-df-no-prejuizo-e-interrompe-energia-17092026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "Temporal com ventos de 80 km/h destelha casas e derruba árvores em Planaltina (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/temporal-com-ventos-de-80-kmh-destelha-casas-e-derruba-arvores-em-planaltina-df-17092026",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Morador do DF sobe no telhado durante vendaval para impedir que telhas fossem arrancadas",
