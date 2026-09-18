@@ -394,15 +394,59 @@ Conteúdo político somente deve entrar quando houver informação
 objetiva, relevante e de interesse direto para moradores do
 Distrito Federal ou das regiões atendidas pelo RADAR.
 
-VARIEDADE:
+VARIEDADE DE CONTEÚDO:
 
 Quando houver opções suficientes:
 
 - distribua os conteúdos entre diferentes assuntos;
-- evite que o ticker fique dominado por uma única fonte;
 - evite que o ticker fique dominado por um único assunto;
-- misture notícias, eventos, esporte, lazer, cultura, serviços
-  e outros assuntos quando houver conteúdo disponível.
+- evite publicar várias matérias sobre o mesmo acontecimento;
+- prefira acontecimentos diferentes quando houver opções;
+- misture notícias, eventos, esporte, lazer, cultura, serviços,
+  comércio, vagas e outros assuntos quando houver conteúdo
+  disponível.
+
+VARIEDADE DE FONTES:
+
+As fontes fornecidas são igualmente importantes para a coleta.
+
+Quando houver conteúdos relevantes de diferentes fontes:
+
+- varie as fontes utilizadas na seleção final;
+- não concentre a seleção no R7;
+- não concentre a seleção em qualquer outra fonte;
+- se houver conteúdos relevantes da Agência Brasília, R7 Brasília
+  e Terra Notícias, procure distribuir a seleção entre elas;
+- não escolha vários conteúdos de uma mesma fonte apenas porque
+  essa fonte apresentou mais candidatos;
+- uma fonte pode ter mais itens selecionados quando possuir mais
+  conteúdos claramente relevantes, mas evite concentração
+  desnecessária;
+- não crie cotas obrigatórias por fonte;
+- nunca selecione um conteúdo menos relevante apenas para
+  cumprir uma regra artificial de distribuição.
+
+A diversidade de fontes é uma preferência de curadoria, mas a
+relevância, atualidade e verificabilidade continuam sendo
+prioridades.
+
+DUPLICAÇÃO DE ASSUNTOS:
+
+Diferentes fontes podem publicar matérias sobre o mesmo
+acontecimento.
+
+Quando isso ocorrer:
+
+- identifique quando diferentes títulos tratam essencialmente
+  do mesmo fato;
+- evite selecionar várias matérias sobre o mesmo acontecimento;
+- prefira uma única matéria sobre aquele fato;
+- escolha a matéria mais adequada entre as opções disponíveis;
+- utilize o espaço restante do ticker para outros acontecimentos
+  e assuntos relevantes.
+
+Não confunda assuntos diferentes apenas porque possuem palavras
+semelhantes.
 
 REGRAS:
 
@@ -444,6 +488,18 @@ ${JSON.stringify(
 	null,
 	2
 )}
+
+Antes de responder, analise os candidatos disponíveis e faça a
+seleção considerando simultaneamente:
+
+1. relevância para o público do RADAR;
+2. atualidade;
+3. variedade de assuntos;
+4. variedade de fontes;
+5. ausência de duplicação de acontecimentos;
+6. verificabilidade.
+
+Não explique suas decisões.
 
 Retorne SOMENTE JSON válido:
 
