@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "Sábado (19) tem imunização garantida no DF 18/09/2026 às 16h02 - Atualizado em 18/09/2026 às 16h02 Serão 40 locais de atendimento para facilitar o acesso da população Ler mais...",
+      "title": "Sábado (19) tem imunização garantida no DF 18/09/2026 às 16h02 - Atualizado em 19/09/2026 às 14h22 Serão 40 locais de atendimento para facilitar o acesso da população Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/sabado-tem-imunizacao-garantida-no-df?redirect=%2Fnoticias",
       "tipo": "noticia",
       "urgente": false
@@ -31,27 +31,15 @@
       "urgente": false
     },
     {
-      "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Rodoviária do Plano Piloto vai ganhar ciclofaixa de 400 metros ligada à Torre de TV, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/rodoviaria-do-plano-piloto-vai-ganhar-ciclofaixa-de-400-metros-ligada-a-torre-de-tv-em-brasilia-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mega Help reúne programação sobre valorização da vida e saúde mental em Brasília",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/mega-help-reune-programacao-sobre-valorizacao-da-vida-e-saude-mental-em-brasilia-18092026",
+      "title": "Festa do Morango completa 30 anos com sabores, tradição e turismo rural em Brazlândia (DF)",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/festa-do-morango-completa-30-anos-com-sabores-tradicao-e-turismo-rural-em-brazlandia-df-19092026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "PMDF compra fuzis para reforçar policiamento",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
-      "tipo": "noticia",
+      "title": "Projeto Floresça acontece neste sábado no Lago Norte com passeio ciclístico e atividades gratuitas",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/projeto-floresca-acontece-neste-sabado-no-lago-norte-com-passeio-ciclistico-e-atividades-gratuitas-19092026",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -61,14 +49,26 @@
       "urgente": false
     },
     {
-      "title": "Arapoanga: temporal de granizo deixa famílias desabrigadas",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/temporal-de-granizo-causa-destruicao-em-arapoanga-df-18092026",
+      "title": "PMDF compra fuzis para reforçar policiamento",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Polícia fecha terceira casa de prostituição em menos de um mês na Asa Norte, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-fecha-terceira-casa-de-prostituicao-em-menos-de-um-mes-na-asa-norte-em-brasilia-18092026",
+      "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Torneio de hipismo no DF celebra inclusão e superação",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/torneio-de-hipismo-no-df-celebra-inclusao-e-superacao-19092026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Produtores recebem treinamento para o cultivo do Maracujá Pérola do Cerrado no DF",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/produtores-recebem-treinamento-para-o-cultivo-do-maracuja-perola-do-cerrado-no-df-19092026",
       "tipo": "noticia",
       "urgente": false
     }
