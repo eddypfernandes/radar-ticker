@@ -7,44 +7,20 @@
       "urgente": false
     },
     {
-      "title": "Corridas, caminhada e gravações de filme alteram o trânsito neste fim de semana 18/09/2026 às 15h59 - Atualizado em 18/09/2026 às 15h59 Vias no Plano Piloto terão trechos interditados Ler mais...",
-      "url": "https://www.agenciabrasilia.df.gov.br/w/corridas-caminhada-e-grava%C3%A7%C3%B5es-de-filme-alteram-o-tr%C3%A2nsito-neste-fim-de-semana?redirect=%2Fnoticias",
-      "tipo": "noticia",
+      "title": "Corridas, caminhada e gravações de filme alteram trânsito no fim de semana 18/09/2026 às 15h59 - Atualizado em 19/09/2026 às 10h16 Vias no Plano Piloto terão trechos interditados Ler mais...",
+      "url": "https://www.agenciabrasilia.df.gov.br/w/corridas-caminhada-e-grava%C3%A7%C3%B5es-de-filme-alteram-tr%C3%A2nsito-no-fim-de-semana?redirect=%2Fnoticias",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "BC anuncia mudanças no regulamento do Pix para fortalecer segurança contra fraudes",
-      "url": "https://noticias.r7.com/economia/bc-anuncia-mudancas-no-regulamento-do-pix-veja-quais-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade",
-      "url": "https://noticias.r7.com/saude/sus-vai-ofertar-canetas-emagrecedoras-para-pacientes-com-obesidade-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "PMDF compra fuzis para reforçar policiamento",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
-      "tipo": "noticia",
+      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "DF tem novo exame para diagnóstico de meningite bacteriana",
       "url": "https://noticias.r7.com/brasilia/df-record/video/novo-exame-para-diagnostico-de-meningite-bacteriana-esta-disponivel-na-rede-publica-do-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -55,9 +31,9 @@
       "urgente": false
     },
     {
-      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
-      "tipo": "evento",
+      "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -70,6 +46,30 @@
       "title": "Mega Help reúne programação sobre valorização da vida e saúde mental em Brasília",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/mega-help-reune-programacao-sobre-valorizacao-da-vida-e-saude-mental-em-brasilia-18092026",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "PMDF compra fuzis para reforçar policiamento",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Arapoanga: temporal de granizo deixa famílias desabrigadas",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/temporal-de-granizo-causa-destruicao-em-arapoanga-df-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia fecha terceira casa de prostituição em menos de um mês na Asa Norte, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-fecha-terceira-casa-de-prostituicao-em-menos-de-um-mes-na-asa-norte-em-brasilia-18092026",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
