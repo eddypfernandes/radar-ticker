@@ -9,13 +9,7 @@
     {
       "title": "Corridas, caminhada e gravações de filme alteram trânsito no fim de semana 18/09/2026 às 15h59 - Atualizado em 19/09/2026 às 10h16 Vias no Plano Piloto terão trechos interditados Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/corridas-caminhada-e-grava%C3%A7%C3%B5es-de-filme-alteram-tr%C3%A2nsito-no-fim-de-semana?redirect=%2Fnoticias",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -31,45 +25,51 @@
       "urgente": false
     },
     {
-      "title": "Festa do Morango completa 30 anos com sabores, tradição e turismo rural em Brazlândia (DF)",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/festa-do-morango-completa-30-anos-com-sabores-tradicao-e-turismo-rural-em-brazlandia-df-19092026",
+      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Projeto Floresça acontece neste sábado no Lago Norte com passeio ciclístico e atividades gratuitas",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/projeto-floresca-acontece-neste-sabado-no-lago-norte-com-passeio-ciclistico-e-atividades-gratuitas-19092026",
+      "title": "Brasília recebe a 9ª edição do Nipo Festival com cultura asiática e colecionáveis",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasilia-recebe-a-9-edicao-do-nipo-festival-com-cultura-asiatica-e-colecionaveis-19092026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
+      "title": "Obras de nova ciclofaixa começa na Rodoviária do Plano Piloto em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/obras-de-nova-ciclofaixa-comeca-na-rodoviaria-do-plano-piloto-em-brasilia-19092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "PMDF compra fuzis para reforçar policiamento",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
+      "title": "Festival Expo Mix Brasil movimenta Brasília entre 18 e 20 de setembro",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-expo-mix-brasil-movimenta-brasilia-entre-18-e-20-de-setembro-19092026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Balanço Resolve: poste em risco é substituído após reclamações de moradores na Asa Sul (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/balanco-resolve-poste-em-risco-e-substituido-apos-reclamacoes-de-moradores-na-asa-sul-df-19092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
-      "tipo": "noticia",
+      "title": "Evento Sesc Mais Rabiscão reúne mais de 150 ilustradores em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/evento-sesc-mais-rabiscao-reune-mais-de-150-ilustradores-em-brasilia-19092026",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Torneio de hipismo no DF celebra inclusão e superação",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/torneio-de-hipismo-no-df-celebra-inclusao-e-superacao-19092026",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Produtores recebem treinamento para o cultivo do Maracujá Pérola do Cerrado no DF",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/produtores-recebem-treinamento-para-o-cultivo-do-maracuja-perola-do-cerrado-no-df-19092026",
-      "tipo": "noticia",
+      "title": "Eleições 2026: TRE-DF proíbe celulares, relógios e óculos inteligentes na cabine de votação",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/eleicoes-2026-tre-df-proibe-celulares-relogios-e-oculos-inteligentes-na-cabine-de-votacao-17092026",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
