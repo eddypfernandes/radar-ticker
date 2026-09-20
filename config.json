@@ -54,7 +54,9 @@
 		"oferta",
 		"vaga",
 		"dica",
-		"atualidade"
+		"atualidade",
+		"novidade",
+		"urgente"
 	],
 	"fontes": [
 		{
@@ -74,7 +76,12 @@
 			"tipo": "html",
 			"url": "https://www.terra.com.br/noticias",
 			"ativo": true
-		}
+		},
+		{
+			"nome": "Metrópoles",
+			"tipo": "html",
+			"url": "https://www.metropoles.com/distrito-federal",
+			"ativo": true
 	],
-	"quantidade": 12
+	"quantidade": 20
 }
