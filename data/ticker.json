@@ -19,6 +19,36 @@
       "urgente": false
     },
     {
+      "title": "Validade da CNH: confira como fica o novo prazo",
+      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Após semana de greve, Correios têm dissídio na segunda",
+      "url": "https://noticias.r7.com/brasilia/apos-semana-em-greve-empregados-dos-correios-tem-dissidio-na-segunda-feira-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "PMDF compra fuzis para reforçar policiamento",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Suspeita de aliciamento virtual, jovem é apreendida",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jovem-de-17-anos-e-apreendida-no-paranoa-df-em-investigacao-de-aliciamento-virtual-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "DF tem novo exame para diagnóstico de meningite bacteriana",
       "url": "https://noticias.r7.com/brasilia/df-record/video/novo-exame-para-diagnostico-de-meningite-bacteriana-esta-disponivel-na-rede-publica-do-df-18092026",
       "tipo": "noticia",
@@ -28,7 +58,7 @@
       "title": "Food truck capota na EPTG e causa prejuízo de mais de R$ 40 mil",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/food-truck-se-desprende-de-veiculo-capota-e-causa-prejuizo-de-mais-de-r-40-mil-na-eptg-18092026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Procon fiscaliza mais de 30 postos para verificar preço do combustível no Distrito Federal",
@@ -43,26 +73,14 @@
       "urgente": false
     },
     {
+      "title": "Arapoanga: temporal de granizo deixa famílias desabrigadas",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/temporal-de-granizo-causa-destruicao-em-arapoanga-df-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Duas crianças são picadas por escorpiões no DF no mesmo dia",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/duas-criancas-sao-picadas-por-escorpioes-no-distrito-federal-no-mesmo-dia-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Moradores de Águas Claras alertam para perigos em ciclovia",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/moradores-de-aguas-claras-df-denunciam-riscos-em-ciclovia-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Criação de abelhas dentro de casa assusta moradores de Vicente Pires",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/criacao-de-abelhas-dentro-de-casa-assusta-moradores-de-condominio-em-vicente-pires-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Validade da CNH: entenda como fica o novo prazo para renovar após prorrogação do governo",
-      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
       "tipo": "noticia",
       "urgente": false
     },
