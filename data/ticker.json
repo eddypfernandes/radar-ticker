@@ -21,7 +21,7 @@
     {
       "title": "Validade da CNH: confira como fica o novo prazo",
       "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
-      "tipo": "servico",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -33,6 +33,12 @@
     {
       "title": "PMDF compra fuzis para reforçar policiamento",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Suspeita de aliciamento virtual, jovem é apreendida",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jovem-de-17-anos-e-apreendida-no-paranoa-df-em-investigacao-de-aliciamento-virtual-18092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -112,12 +118,6 @@
       "title": "Evento Sesc Mais Rabiscão reúne mais de 150 ilustradores em Brasília",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/evento-sesc-mais-rabiscao-reune-mais-de-150-ilustradores-em-brasilia-19092026",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Torneio de hipismo no DF celebra inclusão e superação",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/torneio-de-hipismo-no-df-celebra-inclusao-e-superacao-19092026",
-      "tipo": "noticia",
       "urgente": false
     }
   ]
