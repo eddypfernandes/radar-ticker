@@ -21,13 +21,7 @@
     {
       "title": "Validade da CNH: confira como fica o novo prazo",
       "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Eleitor não pode tirar selfie nem entrar na cabine de votação com celular e relógios inteligentes",
-      "url": "https://noticias.r7.com/eleicoes/2026/eleitor-nao-pode-tirar-selfie-nem-entrar-na-cabine-de-votacao-com-celular-e-relogios-inteligentes-20092026",
-      "tipo": "atualidade",
+      "tipo": "servico",
       "urgente": false
     },
     {
@@ -106,6 +100,12 @@
       "title": "Festival Expo Mix Brasil movimenta Brasília entre 18 e 20 de setembro",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-expo-mix-brasil-movimenta-brasilia-entre-18-e-20-de-setembro-19092026",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Balanço Resolve: poste em risco é substituído após reclamações de moradores na Asa Sul (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/balanco-resolve-poste-em-risco-e-substituido-apos-reclamacoes-de-moradores-na-asa-sul-df-19092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
