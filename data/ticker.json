@@ -1,46 +1,34 @@
 {
   "items": [
     {
-      "title": "Gama terá ação de acolhimento à população em situação de rua nesta segunda (21) 20/09/2026 às 09h25 - Atualizado em 20/09/2026 às 09h27 Abordagem percorrerá 15 pontos na região administrativa Ler mais...",
+      "title": "Agentes de saúde fazem atuação preventiva contra escorpiões 21/09/2026 às 10h33 - Atualizado em 21/09/2026 às 10h33 Equipes coletam animais peçonhentos e orientam sobre prevenção de acidentes Ler mais...",
+      "url": "https://www.agenciabrasilia.df.gov.br/w/equipes-fazem-atua%C3%A7%C3%A3o-preventiva-contra-escorpi%C3%B5es?redirect=%2Fnoticias",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Gama terá ação de acolhimento à população em situação de rua nesta segunda (21) 20/09/2026 às 09h25 - Atualizado em 21/09/2026 às 09h27 Abordagem percorrerá 15 pontos na região administrativa Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/gama-ter%C3%A1-a%C3%A7%C3%A3o-de-acolhimento-%C3%A0-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua-nesta-segunda-21-?redirect=%2Fnoticias",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Sábado (19) tem imunização garantida no DF 18/09/2026 às 16h02 - Atualizado em 19/09/2026 às 14h22 Serão 40 locais de atendimento para facilitar o acesso da população Ler mais...",
+      "title": "Sábado (19) tem imunização garantida no DF 18/09/2026 às 16h02 - Atualizado em 21/09/2026 às 09h10 Serão 40 locais de atendimento para facilitar o acesso da população Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/sabado-tem-imunizacao-garantida-no-df?redirect=%2Fnoticias",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Corridas, caminhada e gravações de filme alteram trânsito no fim de semana 18/09/2026 às 15h59 - Atualizado em 20/09/2026 às 09h31 Vias no Plano Piloto terão trechos interditados Ler mais...",
+      "title": "Corridas, caminhada e gravações de filme alteram trânsito no fim de semana 18/09/2026 às 15h59 - Atualizado em 21/09/2026 às 09h09 Vias no Plano Piloto terão trechos interditados Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/corridas-caminhada-e-grava%C3%A7%C3%B5es-de-filme-alteram-tr%C3%A2nsito-no-fim-de-semana?redirect=%2Fnoticias",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Validade da CNH: confira como fica o novo prazo",
-      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
+      "title": "Explosão em restaurante no SIG fere dois adultos e uma criança",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/explosao-em-restaurante-no-sig-df-deixa-tres-feridos-21092026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Criminosos invadem prédio e furtam sete clínicas em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-invadem-predio-e-furtam-sete-clinicas-durante-a-madrugada-em-ceilandia-df-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "PMDF compra fuzis para reforçar policiamento",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-militar-do-df-adquire-novos-fuzis-para-reforcar-policiamento-ostensivo-18092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Suspeita de aliciamento virtual, jovem é apreendida",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jovem-de-17-anos-e-apreendida-no-paranoa-df-em-investigacao-de-aliciamento-virtual-18092026",
-      "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "DF tem novo exame para diagnóstico de meningite bacteriana",
@@ -61,20 +49,20 @@
       "urgente": false
     },
     {
-      "title": "Léo Santana, Bruno e Marrone e Tribo da Periferia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/leo-santana-bruno-e-marrone-e-tribo-da-periferia-confira-os-eventos-do-fim-de-semana-no-df-18092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Arapoanga: temporal de granizo deixa famílias desabrigadas",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/temporal-de-granizo-causa-destruicao-em-arapoanga-df-18092026",
+      "title": "Obras de nova ciclofaixa começam na Rodoviária do Plano Piloto; projeto visa interligar a Torre de TV à Esplanada",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/obras-de-nova-ciclofaixa-comeca-na-rodoviaria-do-plano-piloto-em-brasilia-19092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Duas crianças são picadas por escorpiões no DF no mesmo dia",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/duas-criancas-sao-picadas-por-escorpioes-no-distrito-federal-no-mesmo-dia-18092026",
+      "title": "Incêndio em lancha no Lago Paranoá deixa 11 pessoas feridas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-11-pessoas-feridas-21092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Morador de Samambaia tem dois reboques furtados em seis meses",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/morador-de-samambaia-df-tem-dois-reboques-furtados-em-seis-meses-21092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -91,32 +79,26 @@
       "urgente": false
     },
     {
-      "title": "Brasília recebe a 9ª edição do Nipo Festival com cultura asiática e colecionáveis",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasilia-recebe-a-9-edicao-do-nipo-festival-com-cultura-asiatica-e-colecionaveis-19092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Obras de nova ciclofaixa começa na Rodoviária do Plano Piloto em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/obras-de-nova-ciclofaixa-comeca-na-rodoviaria-do-plano-piloto-em-brasilia-19092026",
+      "title": "Anvisa aprova novo medicamento para câncer de mama",
+      "url": "https://noticias.r7.com/brasilia/anvisa-aprova-novo-medicamento-para-cancer-de-mama-21092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Festival Expo Mix Brasil movimenta Brasília entre 18 e 20 de setembro",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-expo-mix-brasil-movimenta-brasilia-entre-18-e-20-de-setembro-19092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Balanço Resolve: poste em risco é substituído após reclamações de moradores na Asa Sul (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/balanco-resolve-poste-em-risco-e-substituido-apos-reclamacoes-de-moradores-na-asa-sul-df-19092026",
+      "title": "Duas pessoas morrem em acidente de trânsito em Brazlândia (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/duas-pessoas-morrem-em-acidente-de-transito-em-brazlandia-df-21092026",
       "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Segurança de crianças em redes sociais: quais sinais que os pais devem observar",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/seguranca-de-criancas-em-redes-sociais-quais-sinais-que-os-pais-devem-observar-21092026",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Evento Sesc Mais Rabiscão reúne mais de 150 ilustradores em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/evento-sesc-mais-rabiscao-reune-mais-de-150-ilustradores-em-brasilia-19092026",
+      "title": "Terry Fox Run: corrida em Brasília mantém vivo legado de jovem que enfrentou o câncer",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/terry-fox-run-corrida-em-brasilia-mantem-vivo-legado-de-jovem-que-enfrentou-o-cancer-21092026",
       "tipo": "evento",
       "urgente": false
     }
