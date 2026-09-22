@@ -22,12 +22,18 @@
       "title": "Brazlândia: duas pessoas morrem em acidente de trânsito",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/duas-pessoas-morrem-em-acidente-de-transito-em-brazlandia-df-21092026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Família busca homem levado de dentro de casa em Ceilândia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/familia-segue-buscas-por-homem-levado-de-dentro-de-casa-em-ceilandia-df-21092026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Segurança infantil nas redes: o que pais têm de observar",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/seguranca-de-criancas-em-redes-sociais-quais-sinais-que-os-pais-devem-observar-21092026",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -40,13 +46,13 @@
       "title": "Cadeirante em situação de rua morre esfaqueado no Restaurante Comunitário de Arniqueira",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cadeirante-em-situacao-de-rua-morre-esfaqueado-em-restaurante-comunitario-do-df-21092026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Incêndio em lancha no Lago Paranoá deixa 11 pessoas feridas",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-11-pessoas-feridas-21092026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Morador de Samambaia tem dois reboques furtados em seis meses",
@@ -61,9 +67,9 @@
       "urgente": false
     },
     {
-      "title": "Mega Help 2026 leva acolhimento e debate sobre saúde emocional a milhares de jovens em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mega-help-2026-leva-acolhimento-e-debate-sobre-saude-emocional-a-milhares-de-jovens-em-brasilia-21092026",
-      "tipo": "evento",
+      "title": "Validade da CNH: confira como fica o novo prazo para renovação",
+      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
+      "tipo": "servico",
       "urgente": false
     },
     {
@@ -73,9 +79,15 @@
       "urgente": false
     },
     {
-      "title": "Validade da CNH: confira como fica o novo prazo para renovação",
-      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
-      "tipo": "dica",
+      "title": "Mega Help 2026 leva acolhimento e debate sobre saúde emocional a milhares de jovens em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mega-help-2026-leva-acolhimento-e-debate-sobre-saude-emocional-a-milhares-de-jovens-em-brasilia-21092026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "6 em cada 10 professores dizem que pressão política limita autonomia para lecionar",
+      "url": "https://www.cartacapital.com.br/educacao/6-em-cada-10-professores-dizem-que-pressao-politica-limita-autonomia-para-lecionar/?utm_source=terra_capa_noticias&utm_medium=referral",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
