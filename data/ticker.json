@@ -1,14 +1,8 @@
 {
   "items": [
     {
-      "title": "Agentes de saúde fazem atuação preventiva contra escorpiões 21/09/2026 às 10h33 - Atualizado em 21/09/2026 às 10h33 Equipes coletam animais peçonhentos e orientam sobre prevenção de acidentes Ler mais...",
+      "title": "Agentes de saúde fazem atuação preventiva contra escorpiões 21/09/2026 às 10h33 - Atualizado em 22/09/2026 às 08h48 Equipes coletam animais peçonhentos e orientam sobre prevenção de acidentes Ler mais...",
       "url": "https://www.agenciabrasilia.df.gov.br/w/equipes-fazem-atua%C3%A7%C3%A3o-preventiva-contra-escorpi%C3%B5es?redirect=%2Fnoticias",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Gama terá ação de acolhimento à população em situação de rua nesta segunda (21) 20/09/2026 às 09h25 - Atualizado em 21/09/2026 às 09h27 Abordagem percorrerá 15 pontos na região administrativa Ler mais...",
-      "url": "https://www.agenciabrasilia.df.gov.br/w/gama-ter%C3%A1-a%C3%A7%C3%A3o-de-acolhimento-%C3%A0-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua-nesta-segunda-21-?redirect=%2Fnoticias",
       "tipo": "noticia",
       "urgente": false
     },
@@ -46,7 +40,7 @@
       "title": "Cadeirante em situação de rua morre esfaqueado no Restaurante Comunitário de Arniqueira",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cadeirante-em-situacao-de-rua-morre-esfaqueado-em-restaurante-comunitario-do-df-21092026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Incêndio em lancha no Lago Paranoá deixa 11 pessoas feridas",
@@ -67,27 +61,33 @@
       "urgente": false
     },
     {
-      "title": "Validade da CNH: confira como fica o novo prazo para renovação",
-      "url": "https://noticias.r7.com/brasilia/validade-da-cnh-entenda-como-fica-o-novo-prazo-para-renovar-apos-prorrogacao-do-governo-21092026",
-      "tipo": "servico",
-      "urgente": false
-    },
-    {
-      "title": "Governo federal publica atualizações no Pix; medidas passam a valer em 2027",
-      "url": "https://noticias.r7.com/economia/governo-federal-publica-atualizacoes-no-pix-medidas-passam-a-valer-em-2027-21092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Mega Help 2026 leva acolhimento e debate sobre saúde emocional a milhares de jovens em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mega-help-2026-leva-acolhimento-e-debate-sobre-saude-emocional-a-milhares-de-jovens-em-brasilia-21092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "6 em cada 10 professores dizem que pressão política limita autonomia para lecionar",
-      "url": "https://www.cartacapital.com.br/educacao/6-em-cada-10-professores-dizem-que-pressao-politica-limita-autonomia-para-lecionar/?utm_source=terra_capa_noticias&utm_medium=referral",
+      "title": "Homem morre após roubar caminhonete e trocar tiros com PM",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-morre-apos-roubar-caminhonete-e-trocar-tiros-com-pm-no-entorno-do-df-21092026",
       "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Homem é detido suspeito de importunação sexual em banheiro infantil em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-detido-suspeito-de-importunacao-sexual-em-banheiro-infantil-em-brasilia-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Transformadores de energia pegam fogo na Asa Sul (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/transformadores-de-energia-pegam-fogo-na-asa-sul-df-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Presidente Lula discursa na abertura da 81ª Assembleia Geral das Nações Unidas",
+      "url": "https://www.terra.com.br/ao-vivo/noticias/presidente-lula-discursa-na-abertura-da-81-assembleia-geral-das-nacoes-unidas,8733b29b123efe6728a6c43b69f935484xsdfv31.html",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
