@@ -1,93 +1,63 @@
 {
   "items": [
     {
-      "title": "Agentes de saúde fazem atuação preventiva contra escorpiões 21/09/2026 às 10h33 - Atualizado em 22/09/2026 às 08h48 Equipes coletam animais peçonhentos e orientam sobre prevenção de acidentes Ler mais...",
-      "url": "https://www.agenciabrasilia.df.gov.br/w/equipes-fazem-atua%C3%A7%C3%A3o-preventiva-contra-escorpi%C3%B5es?redirect=%2Fnoticias",
+      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Explosão em restaurante no SIG fere dois adultos e uma criança",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/explosao-em-restaurante-no-sig-df-deixa-tres-feridos-21092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Brazlândia: duas pessoas morrem em acidente de trânsito",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/duas-pessoas-morrem-em-acidente-de-transito-em-brazlandia-df-21092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Família busca homem levado de dentro de casa em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/familia-segue-buscas-por-homem-levado-de-dentro-de-casa-em-ceilandia-df-21092026",
+      "title": "Arniqueira: mulher é presa após matar homem a facadas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Segurança infantil nas redes: o que pais têm de observar",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/seguranca-de-criancas-em-redes-sociais-quais-sinais-que-os-pais-devem-observar-21092026",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Produtores rurais do DF devem atualizar rebanhos até 5/10",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/produtores-rurais-do-df-devem-atualizar-rebanhos-ate-5-de-outubro-21092026",
+      "title": "Michelle Bolsonaro é internada para tratar quadro de enxaqueca",
+      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-e-internada-em-brasilia-para-tratar-quadro-de-enxaqueca-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Cadeirante em situação de rua morre esfaqueado no Restaurante Comunitário de Arniqueira",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cadeirante-em-situacao-de-rua-morre-esfaqueado-em-restaurante-comunitario-do-df-21092026",
+      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Incêndio em lancha no Lago Paranoá deixa 11 pessoas feridas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-11-pessoas-feridas-21092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Morador de Samambaia tem dois reboques furtados em seis meses",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/morador-de-samambaia-df-tem-dois-reboques-furtados-em-seis-meses-21092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Tentativa de furto de cabos provoca incêndio na Asa Sul",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/tentativa-de-furto-de-cabos-provoca-incendio-em-subestacao-na-asa-sul-em-brasilia-21092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Homem morre após roubar caminhonete e trocar tiros com PM",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-morre-apos-roubar-caminhonete-e-trocar-tiros-com-pm-no-entorno-do-df-21092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Homem é detido suspeito de importunação sexual em banheiro infantil em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-detido-suspeito-de-importunacao-sexual-em-banheiro-infantil-em-brasilia-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá, em Brasília",
+      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Transformadores de energia pegam fogo na Asa Sul (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/transformadores-de-energia-pegam-fogo-na-asa-sul-df-22092026",
+      "title": "Polícia mira grupo suspeito de agiotagem e extorsão que movimentou R$ 5,7 milhões",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-mira-grupo-suspeito-de-agiotagem-e-extorsao-que-movimentou-r-57-milhoes-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Presidente Lula discursa na abertura da 81ª Assembleia Geral das Nações Unidas",
-      "url": "https://www.terra.com.br/ao-vivo/noticias/presidente-lula-discursa-na-abertura-da-81-assembleia-geral-das-nacoes-unidas,8733b29b123efe6728a6c43b69f935484xsdfv31.html",
-      "tipo": "atualidade",
+      "title": "Atirador de Vicente Pires deixa prisão e vai para domiciliar",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/atirador-de-vicente-pires-df-deixa-prisao-e-vai-para-domiciliar-por-decisao-judicial-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Servidores, médicos e empresários são alvo da Polícia Federal",
+      "url": "https://noticias.r7.com/cidades/servidores-medicos-e-empresarios-sao-alvos-da-pf-por-suspeita-de-fraude-em-beneficios-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "STF anula lei de Goiás que autorizava a extração de amianto",
+      "url": "https://www.cartacapital.com.br/justica/stf-anula-lei-de-goias-que-autorizava-a-extracao-de-amianto/?utm_source=terra_capa_noticias&utm_medium=referral",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Reabertura do Teatro Nacional: Sala Martins Pena",
+      "url": "https://www.agenciabrasilia.df.gov.br/web/guest/topicos?tag=Especial%20Teatro&sort=createDate-",
+      "tipo": "evento",
       "urgente": false
     }
   ]
