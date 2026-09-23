@@ -1,8 +1,38 @@
 {
   "items": [
     {
-      "title": "Vale Jurássico chega a Brasília em outubro com aventura entre dinossauros",
-      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-chega-a-brasilia-em-outubro-com-aventura-entre-dinossauros",
+      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
+      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Feira do Setor Criativo Sul reúne tecnologia, design e produção autoral no centro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/feira-do-setor-criativo-sul-reune-tecnologia-design-e-producao-autoral-no-centro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Aniversário de Dhi Ribeiro na Feijoada com Samba no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/aniversario-de-dhi-ribeiro-na-feijoada-com-samba-no-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul tem estreia de Cine Araújo e programação cultural com orquestra e alta gastronomia",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-tem-estreia-de-cine-araujo-e-programacao-cultural-com-orquestra-e-alta-gastronomia",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "New Balance amplia Race Series e anuncia primeira corrida da marca em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/new-balance-amplia-race-series-e-anuncia-primeira-corrida-da-marca-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -13,32 +43,32 @@
       "urgente": false
     },
     {
-      "title": "Monobloco comanda festa de encerramento da temporada 2026 do Hidden Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/monobloco-comanda-festa-de-encerramento-da-temporada-2026-do-hidden-brasilia",
+      "title": "Vintage Culture volta a Brasília em dezembro, ingressos já estão à venda",
+      "url": "https://www.visitebrasilia.com.br/noticias/vintage-culture-volta-a-brasilia-em-dezembro-ingressos-ja-estao-a-venda",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Bradesco Fórmula 4 Brasil estreia em Brasília com argentino na liderança",
-      "url": "https://www.visitebrasilia.com.br/noticias/bradesco-formula-4-brasil-estreia-em-brasilia-com-argentino-na-lideranca",
+      "title": "Espetáculo de dança contemporânea Sem Osso estreia em Brasília com corpo como centro da experiência cênica",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-sem-osso-estreia-em-brasilia-com-corpo-como-centro-da-experiencia-cenica",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Dia do Sorvete inspira roteiro de sobremesas no Manhattan Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-do-sorvete-inspira-roteiro-de-sobremesas-no-manhattan-shopping",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Vencedora recebe caminhão de prêmios do RECORD nas Cidades realizado no Sol Nascente (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/vencedora-recebe-caminhao-de-premios-do-record-nas-cidades-realizado-no-sol-nascente-df-23092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Alameda Shopping acelera o fim de semana com encontro de motos e carros customizados",
-      "url": "https://www.visitebrasilia.com.br/noticias/alameda-shopping-acelera-o-fim-de-semana-com-encontro-de-motos-e-carros-customizados",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "TRE-DF inicia carga e lacração de mais de 6 mil urnas para eleições",
-      "url": "https://www.metropoles.com/distrito-federal/tre-df-inicia-carga-e-lacracao-de-mais-de-6-mil-urnas-para-eleicoes",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Mulher trans é presa suspeita de cegar e decepar orelhas de padrasto alemão",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-trans-e-presa-suspeita-de-cegar-e-decepar-orelhas-de-padrasto-alemao",
+      "title": "Homem é preso após atacar outro com faca em restaurante comunitário do DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-e-preso-apos-atacar-outro-com-faca-em-restaurante-comunitario-do-df-23092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,15 +79,33 @@
       "urgente": false
     },
     {
-      "title": "Número de casos de importunação sexual cresce 18% no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Sete jovens cientistas do DF são nomeados embaixadores mirins do MCTI",
+      "url": "https://www.metropoles.com/distrito-federal/sete-jovens-cientistas-do-df-sao-nomeados-embaixadores-mirins-do-mcti",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
-      "tipo": "atualidade",
+      "title": "\"Setor Comercial Sul vai voltar a ser o lugar mais nobre do DF\", diz Celina",
+      "url": "https://www.metropoles.com/distrito-federal/setor-comercial-sul-vai-voltar-a-ser-o-lugar-mais-nobre-do-df-diz-celina",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mulher leva golpe da \"falsa audiência\" e fica no prejuízo de R$ 3 mil no DF",
+      "url": "https://www.metropoles.com/distrito-federal/mulher-leva-golpe-da-falsa-audiencia-e-fica-no-prejuizo-de-r-3-mil-no-df",
+      "tipo": "alerta",
+      "urgente": false
+    },
+    {
+      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,20 +115,8 @@
       "urgente": false
     },
     {
-      "title": "Governo quer reforçar verificação de idade e ampliar supervisão dos pais no Discord",
-      "url": "https://noticias.r7.com/brasilia/governo-quer-reforcar-verificacao-de-idade-e-ampliar-supervisao-dos-pais-no-discord-23092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Receita abre consulta a lote de restituição da malha fina",
-      "url": "https://noticias.r7.com/prisma/conta-em-dia/receita-abre-consulta-a-lote-de-restituicao-da-malha-fina-veja-quem-recebe-23092026",
-      "tipo": "servico",
-      "urgente": false
-    },
-    {
-      "title": "Michelle Bolsonaro recebe alta médica após ser internada em Brasília",
-      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-recebe-alta-medica-apos-ser-internada-em-brasilia-23092026",
+      "title": "Número de casos de importunação sexual cresce 18% no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
