@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Espetáculo de dança contemporânea Sem Osso estreia em Brasília com corpo como centro da experiência cênica",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-sem-osso-estreia-em-brasilia-com-corpo-como-centro-da-experiencia-cenica",
+      "title": "Vale Jurássico chega a Brasília em outubro com aventura entre dinossauros",
+      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-chega-a-brasilia-em-outubro-com-aventura-entre-dinossauros",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Festival Estilo Brasil 2026 traz shows de Seal, Criolo, Samuel Rosa, Marina Sena e muito mais",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-estilo-brasil-2026-traz-shows-de-seal-criolo-samuel-rosa-marina-sena-e-muito-mais",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Monobloco comanda festa de encerramento da temporada 2026 do Hidden Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/monobloco-comanda-festa-de-encerramento-da-temporada-2026-do-hidden-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -19,82 +31,28 @@
       "urgente": false
     },
     {
-      "title": "Boi Refletido e forró animam os Encontros Culturais do Centro Cultural TCU neste fim de semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/boi-refletido-e-forro-animam-os-encontros-culturais-do-centro-cultural-tcu-neste-fim-de-semana",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Monobloco comanda festa de encerramento da temporada 2026 do Hidden Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/monobloco-comanda-festa-de-encerramento-da-temporada-2026-do-hidden-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Emater-DF abre inscrições para o 2º Concurso Distrital de Queijos Artesanais",
-      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-abre-inscricoes-para-o-2-concurso-distrital-de-queijos-artesanais",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Distrito Federal se destaca no ranking de crédito do iFood Pago",
-      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-se-destaca-no-ranking-de-credito-do-ifood-pago",
+      "title": "TRE-DF inicia carga e lacração de mais de 6 mil urnas para eleições",
+      "url": "https://www.metropoles.com/distrito-federal/tre-df-inicia-carga-e-lacracao-de-mais-de-6-mil-urnas-para-eleicoes",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
+      "title": "Mulher trans é presa suspeita de cegar e decepar orelhas de padrasto alemão",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-trans-e-presa-suspeita-de-cegar-e-decepar-orelhas-de-padrasto-alemao",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a produção de cana-de-açúcar",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "dica",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Eleições 2026: saiba como votar sem biometria cadastrada",
-      "url": "https://www.metropoles.com/distrito-federal/eleicoes-2026-saiba-como-votar-sem-biometria-cadastrada",
+      "title": "Número de casos de importunação sexual cresce 18% no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
       "tipo": "noticia",
       "urgente": false
-    },
-    {
-      "title": "Revendedores de gás de cozinha protestam contra aumento do produto no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/revendedores-de-gas-de-cozinha-protestam-contra-aumento-do-produto-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Caesb nega relação com apagão de semáforos no Eixo Monumental",
-      "url": "https://www.metropoles.com/colunas/grande-angular/caesb-nega-relacao-com-apagao-de-semaforos-no-eixo-monumental",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
-      "tipo": "noticia",
-      "urgente": true
     },
     {
       "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
@@ -109,14 +67,20 @@
       "urgente": false
     },
     {
-      "title": "Gelato, cookie e café: sabores para celebrar o Dia do Sorvete no DF Plaza Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/gelato-cookie-e-cafe-sabores-para-celebrar-o-dia-do-sorvete-no-df-plaza-shopping",
-      "tipo": "evento",
+      "title": "Governo quer reforçar verificação de idade e ampliar supervisão dos pais no Discord",
+      "url": "https://noticias.r7.com/brasilia/governo-quer-reforcar-verificacao-de-idade-e-ampliar-supervisao-dos-pais-no-discord-23092026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Brasília articula ações para receber a Copa do Mundo Feminina de 2027",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-articula-acoes-para-receber-a-copa-do-mundo-feminina-de-2027",
+      "title": "Receita abre consulta a lote de restituição da malha fina",
+      "url": "https://noticias.r7.com/prisma/conta-em-dia/receita-abre-consulta-a-lote-de-restituicao-da-malha-fina-veja-quem-recebe-23092026",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "Michelle Bolsonaro recebe alta médica após ser internada em Brasília",
+      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-recebe-alta-medica-apos-ser-internada-em-brasilia-23092026",
       "tipo": "noticia",
       "urgente": false
     }
