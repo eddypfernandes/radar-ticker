@@ -1,20 +1,44 @@
 {
   "items": [
     {
-      "title": "Arniqueira: mulher é presa após matar homem a facadas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
+      "title": "Novas regras podem ampliar número de doadores de sangue no DF",
+      "url": "https://www.metropoles.com/distrito-federal/novas-regras-podem-ampliar-numero-de-doadores-de-sangue-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Celina anuncia concurso para Educação e quer lançar edital ainda este ano",
+      "url": "https://www.metropoles.com/distrito-federal/celina-anuncia-concurso-para-educacao-e-quer-lancar-edital-ainda-este-ano",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Filhos da Nação: projeto do DF conquista pódios em Campeonato de Canoagem",
+      "url": "https://www.metropoles.com/distrito-federal/filhos-da-nacao-projeto-do-df-conquista-podios-em-campeonato-de-canoagem",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Número de casos de importunação sexual cresce 18% no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -25,69 +49,15 @@
       "urgente": false
     },
     {
-      "title": "Michelle Bolsonaro é internada para tratar quadro de enxaqueca",
-      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-e-internada-em-brasilia-para-tratar-quadro-de-enxaqueca-22092026",
+      "title": "Síndicos do Cruzeiro questiam cobranças da Caesb",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sindicos-do-cruzeiro-questiam-cobrancas-da-caesb-14982640.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Cantora brasiliense Ju Marques relembra relação da família com Rick e Renner",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/cantora-brasiliense-ju-marques-relembra-relacao-da-familia-com-rick-e-renner-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Servidores, médicos e empresários são alvo da Polícia Federal",
-      "url": "https://noticias.r7.com/cidades/servidores-medicos-e-empresarios-sao-alvos-da-pf-por-suspeita-de-fraude-em-beneficios-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Governo libera R$ 64 milhões para reduzir impactos do El Niño no país",
-      "url": "https://noticias.r7.com/brasilia/governo-libera-r-64-milhoes-para-reduzir-impactos-do-el-nino-no-pais-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Compras internacionais disparam desde o fim da ‘taxa das blusinhas’, diz associação",
-      "url": "https://noticias.r7.com/economia/compras-internacionais-disparam-desde-o-fim-da-taxa-das-blusinhas-diz-associacao-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Resultado da Mega Sena 3061: veja os números do sorteio de hoje (22/9)",
-      "url": "https://noticiasdemogi.com.br/resultado-da-mega-sena-3061/?utm_source=terra_capa_noticias&utm_medium=referral",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Estadão e Casa do Saber fecham parceria para educação continuada",
-      "url": "https://www.terra.com.br/noticias/educacao/estadao-e-casa-do-saber-fecham-parceria-para-educacao-continuada,5eeb568707a775fecbc0719de23a3420jl0v5a8h.html",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Tecnologia transforma a experiência da fé no Brasil",
-      "url": "https://www.terra.com.br/noticias/tecnologia-transforma-a-experiencia-da-fe-no-brasil,445e0adcd2fdd7071bdfebc1deb92331nusc3oob.html",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Pescador fica cara a cara com onça pintada durante expedição pelo Pantanal",
-      "url": "https://www.terra.com.br/planeta/meio-ambiente/pescador-fica-cara-a-cara-com-onca-pintada-durante-expedicao-pelo-pantanal,2911e33889b974756e1bca4322fdfdfflymzarz8.html",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Criança de 2 anos morre após se engasgar com pão de queijo em SP",
-      "url": "https://www.terra.com.br/noticias/brasil/cidades/crianca-de-2-anos-morre-apos-se-engasgar-com-pao-de-queijo-em-sp,fd77a8d7614800c51db65b28bb1cb6eb1vlndb0e.html",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasil atrai russos em busca de um segundo passaporte",
-      "url": "https://www.terra.com.br/noticias/brasil-atrai-russos-em-busca-de-um-segundo-passaporte,7b9fe090e72e2323482cc0e1728095a8e9ur6x43.html",
-      "tipo": "noticia",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
