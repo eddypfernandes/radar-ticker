@@ -60,9 +60,9 @@
 	],
 	"fontes": [
 		{
-			"nome": "Agência Brasília",
+			"nome": "Visite Brasília",
 			"tipo": "html",
-			"url": "https://www.agenciabrasilia.df.gov.br/noticias",
+			"url": "https://www.visitebrasilia.com.br/noticias",
 			"ativo": true
 		},
 		{
@@ -72,7 +72,7 @@
 			"ativo": true
 		},
 		{
-			"nome": "G1 - DF no Campo",
+			"nome": "G1-DF no Campo",
 			"tipo": "html",
 			"url": "https://g1.globo.com/df/distrito-federal/df-no-campo/",
 			"ativo": true
@@ -84,7 +84,7 @@
 			"ativo": true
 		},
 		{
-			"nome": "G1 - Brasília",
+			"nome": "G1-Brasília",
 			"tipo": "html",
 			"url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/",
 			"ativo": true
