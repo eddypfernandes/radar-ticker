@@ -13,26 +13,68 @@
       "urgente": false
     },
     {
-      "title": "Emater-DF abre inscrições para o 2º Concurso Distrital de Queijos Artesanais",
-      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-abre-inscricoes-para-o-2-concurso-distrital-de-queijos-artesanais",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasília articula ações para receber a Copa do Mundo Feminina de 2027",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-articula-acoes-para-receber-a-copa-do-mundo-feminina-de-2027",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Alameda Shopping acelera o fim de semana com encontro de motos e carros customizados",
       "url": "https://www.visitebrasilia.com.br/noticias/alameda-shopping-acelera-o-fim-de-semana-com-encontro-de-motos-e-carros-customizados",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Caesb nega relação com apagão de semáforos no Eixo Monumental",
-      "url": "https://www.metropoles.com/colunas/grande-angular/caesb-nega-relacao-com-apagao-de-semaforos-no-eixo-monumental",
+      "title": "Boi Refletido e forró animam os Encontros Culturais do Centro Cultural TCU neste fim de semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/boi-refletido-e-forro-animam-os-encontros-culturais-do-centro-cultural-tcu-neste-fim-de-semana",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Monobloco comanda festa de encerramento da temporada 2026 do Hidden Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/monobloco-comanda-festa-de-encerramento-da-temporada-2026-do-hidden-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Emater-DF abre inscrições para o 2º Concurso Distrital de Queijos Artesanais",
+      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-abre-inscricoes-para-o-2-concurso-distrital-de-queijos-artesanais",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Distrito Federal se destaca no ranking de crédito do iFood Pago",
+      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-se-destaca-no-ranking-de-credito-do-ifood-pago",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Eleições 2026: saiba como votar sem biometria cadastrada",
+      "url": "https://www.metropoles.com/distrito-federal/eleicoes-2026-saiba-como-votar-sem-biometria-cadastrada",
       "tipo": "noticia",
       "urgente": false
     },
@@ -43,28 +85,16 @@
       "urgente": false
     },
     {
-      "title": "DER-DF suspende CNHs de 121 motoristas por infrações graves. Veja lista",
-      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-121-motoristas-por-infracoes-graves-veja-lista",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "GDF sanciona lei que suspende prazo de concursos públicos em ano eleitoral",
-      "url": "https://www.metropoles.com/distrito-federal/gdf-sanciona-lei-que-suspende-prazo-de-concursos-publicos-em-ano-eleitoral",
+      "title": "Caesb nega relação com apagão de semáforos no Eixo Monumental",
+      "url": "https://www.metropoles.com/colunas/grande-angular/caesb-nega-relacao-com-apagao-de-semaforos-no-eixo-monumental",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "“Elétrico do pó”: homem que fazia delivery de drogas na Asa Norte é preso .",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/eletrico-do-po-homem-que-fazia-delivery-de-drogas-na-asa-norte-e-preso",
+      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Número de casos de importunação sexual cresce 18% no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
-      "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
@@ -79,44 +109,14 @@
       "urgente": false
     },
     {
-      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
-      "tipo": "noticia",
+      "title": "Gelato, cookie e café: sabores para celebrar o Dia do Sorvete no DF Plaza Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/gelato-cookie-e-cafe-sabores-para-celebrar-o-dia-do-sorvete-no-df-plaza-shopping",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "Arniqueira: mulher é presa após matar homem a facadas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Polícia mira grupo suspeito de agiotagem e extorsão que movimentou R$ 5,7 milhões",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-mira-grupo-suspeito-de-agiotagem-e-extorsao-que-movimentou-r-57-milhoes-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Atirador de Vicente Pires deixa prisão e vai para domiciliar",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/atirador-de-vicente-pires-df-deixa-prisao-e-vai-para-domiciliar-por-decisao-judicial-22092026",
+      "title": "Brasília articula ações para receber a Copa do Mundo Feminina de 2027",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-articula-acoes-para-receber-a-copa-do-mundo-feminina-de-2027",
       "tipo": "noticia",
       "urgente": false
     }
