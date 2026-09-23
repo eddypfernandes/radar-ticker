@@ -72,15 +72,21 @@
 			"ativo": true
 		},
 		{
-			"nome": "Terra Notícias",
+			"nome": "G1 - DF no Campo",
 			"tipo": "html",
-			"url": "https://www.terra.com.br/noticias",
+			"url": "https://g1.globo.com/df/distrito-federal/df-no-campo/",
 			"ativo": true
 		},
 		{
 			"nome": "Metrópoles",
 			"tipo": "html",
 			"url": "https://www.metropoles.com/distrito-federal",
+			"ativo": true
+		}
+		{
+			"nome": "G1 - Brasília",
+			"tipo": "html",
+			"url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/",
 			"ativo": true
 		}
 	],
