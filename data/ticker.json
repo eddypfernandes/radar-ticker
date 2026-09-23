@@ -1,74 +1,62 @@
 {
   "items": [
     {
-      "title": "Arniqueira: mulher é presa após matar homem a facadas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
+      "title": "Espetáculo de dança contemporânea Sem Osso estreia em Brasília com corpo como centro da experiência cênica",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-sem-osso-estreia-em-brasilia-com-corpo-como-centro-da-experiencia-cenica",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Bradesco Fórmula 4 Brasil estreia em Brasília com argentino na liderança",
+      "url": "https://www.visitebrasilia.com.br/noticias/bradesco-formula-4-brasil-estreia-em-brasilia-com-argentino-na-lideranca",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
+      "title": "Emater-DF abre inscrições para o 2º Concurso Distrital de Queijos Artesanais",
+      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-abre-inscricoes-para-o-2-concurso-distrital-de-queijos-artesanais",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Soldado da PM morre durante treinamento de mergulho no Lago Paranoá",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/soldado-da-pm-morre-durante-treinamento-de-mergulho-no-lago-paranoa-em-brasilia-22092026",
+      "title": "Brasília articula ações para receber a Copa do Mundo Feminina de 2027",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-articula-acoes-para-receber-a-copa-do-mundo-feminina-de-2027",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
+      "title": "Alameda Shopping acelera o fim de semana com encontro de motos e carros customizados",
+      "url": "https://www.visitebrasilia.com.br/noticias/alameda-shopping-acelera-o-fim-de-semana-com-encontro-de-motos-e-carros-customizados",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Caesb nega relação com apagão de semáforos no Eixo Monumental",
+      "url": "https://www.metropoles.com/colunas/grande-angular/caesb-nega-relacao-com-apagao-de-semaforos-no-eixo-monumental",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Governo quer reforçar verificação de idade e ampliar supervisão dos pais no Discord",
-      "url": "https://noticias.r7.com/brasilia/governo-quer-reforcar-verificacao-de-idade-e-ampliar-supervisao-dos-pais-no-discord-23092026",
+      "title": "Revendedores de gás de cozinha protestam contra aumento do produto no DF .",
+      "url": "https://www.metropoles.com/distrito-federal/revendedores-de-gas-de-cozinha-protestam-contra-aumento-do-produto-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "dica",
+      "title": "DER-DF suspende CNHs de 121 motoristas por infrações graves. Veja lista",
+      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-121-motoristas-por-infracoes-graves-veja-lista",
+      "tipo": "utilidade pública",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "title": "GDF sanciona lei que suspende prazo de concursos públicos em ano eleitoral",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-sanciona-lei-que-suspende-prazo-de-concursos-publicos-em-ano-eleitoral",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de pimenta",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-pimenta-14772828.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de batata-doce",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-batata-doce-14540328.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Síndicos do Cruzeiro questiam cobranças da Caesb",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sindicos-do-cruzeiro-questiam-cobrancas-da-caesb-14982640.ghtml",
+      "title": "“Elétrico do pó”: homem que fazia delivery de drogas na Asa Norte é preso .",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/eletrico-do-po-homem-que-fazia-delivery-de-drogas-na-asa-norte-e-preso",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,14 +67,56 @@
       "urgente": false
     },
     {
-      "title": "Um acidente quase terminou em tragédia, em um restaurante no SIG",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/um-acidente-quase-terminou-em-tragedia-em-um-restaurante-no-sig-14979327.ghtml",
+      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Síndicos do Cruzeiro questiam cobranças da Caesb",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sindicos-do-cruzeiro-questiam-cobrancas-da-caesb-14982640.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dois transformadores pegaram fogo na 311 sul",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-transformadores-pegaram-fogo-na-311-sul-14979239.ghtml",
+      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Arniqueira: mulher é presa após matar homem a facadas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia mira grupo suspeito de agiotagem e extorsão que movimentou R$ 5,7 milhões",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-mira-grupo-suspeito-de-agiotagem-e-extorsao-que-movimentou-r-57-milhoes-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Atirador de Vicente Pires deixa prisão e vai para domiciliar",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/atirador-de-vicente-pires-df-deixa-prisao-e-vai-para-domiciliar-por-decisao-judicial-22092026",
       "tipo": "noticia",
       "urgente": false
     }
