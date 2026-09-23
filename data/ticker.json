@@ -1,26 +1,14 @@
 {
   "items": [
     {
-      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Arniqueira: mulher é presa após matar homem a facadas",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-apos-matar-homem-a-facadas-em-frente-a-restaurante-comunitario-no-df-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Michelle Bolsonaro é internada para tratar quadro de enxaqueca",
-      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-e-internada-em-brasilia-para-tratar-quadro-de-enxaqueca-22092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
+      "title": "Incêndio em lancha no Lago Paranoá deixa 13 feridos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-lancha-no-lago-paranoa-em-brasilia-deixa-13-pessoas-feridas-22092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -31,14 +19,20 @@
       "urgente": false
     },
     {
-      "title": "Polícia mira grupo suspeito de agiotagem e extorsão que movimentou R$ 5,7 milhões",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-mira-grupo-suspeito-de-agiotagem-e-extorsao-que-movimentou-r-57-milhoes-22092026",
+      "title": "Fiscalização interdita 125 estabelecimentos após irregularidades",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/fiscalizacao-interdita-125-locais-no-df-apos-irregularidades-em-servicos-de-saude-e-estetica-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Atirador de Vicente Pires deixa prisão e vai para domiciliar",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/atirador-de-vicente-pires-df-deixa-prisao-e-vai-para-domiciliar-por-decisao-judicial-22092026",
+      "title": "Michelle Bolsonaro é internada para tratar quadro de enxaqueca",
+      "url": "https://noticias.r7.com/brasilia/michelle-bolsonaro-e-internada-em-brasilia-para-tratar-quadro-de-enxaqueca-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cantora brasiliense Ju Marques relembra relação da família com Rick e Renner",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/cantora-brasiliense-ju-marques-relembra-relacao-da-familia-com-rick-e-renner-22092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,15 +43,51 @@
       "urgente": false
     },
     {
-      "title": "STF anula lei de Goiás que autorizava a extração de amianto",
-      "url": "https://www.cartacapital.com.br/justica/stf-anula-lei-de-goias-que-autorizava-a-extracao-de-amianto/?utm_source=terra_capa_noticias&utm_medium=referral",
+      "title": "Governo libera R$ 64 milhões para reduzir impactos do El Niño no país",
+      "url": "https://noticias.r7.com/brasilia/governo-libera-r-64-milhoes-para-reduzir-impactos-do-el-nino-no-pais-22092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Reabertura do Teatro Nacional: Sala Martins Pena",
-      "url": "https://www.agenciabrasilia.df.gov.br/web/guest/topicos?tag=Especial%20Teatro&sort=createDate-",
-      "tipo": "evento",
+      "title": "Compras internacionais disparam desde o fim da ‘taxa das blusinhas’, diz associação",
+      "url": "https://noticias.r7.com/economia/compras-internacionais-disparam-desde-o-fim-da-taxa-das-blusinhas-diz-associacao-22092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Resultado da Mega Sena 3061: veja os números do sorteio de hoje (22/9)",
+      "url": "https://noticiasdemogi.com.br/resultado-da-mega-sena-3061/?utm_source=terra_capa_noticias&utm_medium=referral",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Estadão e Casa do Saber fecham parceria para educação continuada",
+      "url": "https://www.terra.com.br/noticias/educacao/estadao-e-casa-do-saber-fecham-parceria-para-educacao-continuada,5eeb568707a775fecbc0719de23a3420jl0v5a8h.html",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Tecnologia transforma a experiência da fé no Brasil",
+      "url": "https://www.terra.com.br/noticias/tecnologia-transforma-a-experiencia-da-fe-no-brasil,445e0adcd2fdd7071bdfebc1deb92331nusc3oob.html",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pescador fica cara a cara com onça pintada durante expedição pelo Pantanal",
+      "url": "https://www.terra.com.br/planeta/meio-ambiente/pescador-fica-cara-a-cara-com-onca-pintada-durante-expedicao-pelo-pantanal,2911e33889b974756e1bca4322fdfdfflymzarz8.html",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Criança de 2 anos morre após se engasgar com pão de queijo em SP",
+      "url": "https://www.terra.com.br/noticias/brasil/cidades/crianca-de-2-anos-morre-apos-se-engasgar-com-pao-de-queijo-em-sp,fd77a8d7614800c51db65b28bb1cb6eb1vlndb0e.html",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Brasil atrai russos em busca de um segundo passaporte",
+      "url": "https://www.terra.com.br/noticias/brasil-atrai-russos-em-busca-de-um-segundo-passaporte,7b9fe090e72e2323482cc0e1728095a8e9ur6x43.html",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
