@@ -1,15 +1,9 @@
 {
   "items": [
     {
-      "title": "Cascavel é encontrada em garagem no Park Way",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Homem é preso em flagrante após apalpar bunda de mulher em Taguatinga",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-e-preso-em-flagrante-apos-apalpar-bunda-de-mulher-em-taguatinga",
-      "tipo": "noticia",
+      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -19,57 +13,33 @@
       "urgente": false
     },
     {
-      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Espetáculo \"Alinha Céu, Fiás da Terra\" encerra circulação gratuita pelo DF neste sábado (26), na Estrutural",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-alinha-ceu-fias-da-terra-encerra-circulacao-gratuita-pelo-df-neste-sabado-26-na-estrutural",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Comércio de varejo do DF cresce 7,3%, acima da média nacional",
-      "url": "https://www.metropoles.com/distrito-federal/comercio-de-varejo-do-df-cresce-73-acima-da-media-nacional",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
-      "tipo": "atualidade",
-      "urgente": true
-    },
-    {
-      "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
+      "title": "Maker Day Brasil 2026 reúne criatividade, tecnologia e aprendizagem prática em Brasília, Goiânia e Uberlândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/maker-day-brasil-2026-reune-criatividade-tecnologia-e-aprendizagem-pratica-em-brasilia-goiania-e-uberlandia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casal que teve festa cancelada 8 dias antes da cerimônia será indenizado",
-      "url": "https://www.metropoles.com/distrito-federal/casal-que-teve-festa-cancelada-8-dias-antes-da-cerimonia-sera-indenizado",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "dica",
+      "title": "Brasília recebe final do Concurso Nacional de Piano com nove jovens pianistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-final-do-concurso-nacional-de-piano-com-nove-jovens-pianistas",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
       "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
-      "tipo": "oferta",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -79,32 +49,8 @@
       "urgente": false
     },
     {
-      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
       "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Partage Lago Sul tem estreia de Cine Araújo e programação cultural com orquestra e alta gastronomia",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-tem-estreia-de-cine-araujo-e-programacao-cultural-com-orquestra-e-alta-gastronomia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Mais de 3.000 pessoas vivem em áreas de risco de alagamento no DF, aponta Defesa Civil",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-3000-pessoas-vivem-em-areas-de-risco-de-alagamento-no-df-aponta-defesa-civil-24092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "LabDay 2026 – Turismo chega à 9ª edição e conecta inovação e oportunidades em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/labday-2026-turismo-chega-a-9-edicao-e-conecta-inovacao-e-oportunidades-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -115,9 +61,63 @@
       "urgente": false
     },
     {
-      "title": "Aniversário de Dhi Ribeiro na Feijoada com Samba no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/aniversario-de-dhi-ribeiro-na-feijoada-com-samba-no-clube-do-choro",
+      "title": "Cascavel é encontrada em garagem no Park Way",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "RECORD nas Cidades celebra 37 anos de Samambaia (DF) com prêmios e atrações neste sábado",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-celebra-37-anos-de-samambaia-df-com-premios-e-atracoes-neste-sabado-24092026",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Lobo-guará é resgatado passeando perto de igreja na Estrutural",
+      "url": "https://www.metropoles.com/distrito-federal/lobo-guara-e-resgatado-passeando-perto-de-igreja-na-estrutural",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem furta carro, bate em outro veículo e acaba preso em Ceilândia .",
+      "url": "https://www.metropoles.com/distrito-federal/homem-furta-carro-bate-em-outro-veiculo-e-acaba-preso-em-ceilandia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
