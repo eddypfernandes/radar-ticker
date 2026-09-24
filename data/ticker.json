@@ -21,19 +21,31 @@
     {
       "title": "Partage Lago Sul tem estreia de Cine Araújo e programação cultural com orquestra e alta gastronomia",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-tem-estreia-de-cine-araujo-e-programacao-cultural-com-orquestra-e-alta-gastronomia",
-      "tipo": "novidade",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
       "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "New Balance amplia Race Series e anuncia primeira corrida da marca em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/new-balance-amplia-race-series-e-anuncia-primeira-corrida-da-marca-em-brasilia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vale Jurássico chega a Brasília em outubro com aventura entre dinossauros",
+      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-chega-a-brasilia-em-outubro-com-aventura-entre-dinossauros",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Primavera em Brasília convida a refeições frescas, leves e cheias de sabor em restaurantes da cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/primavera-em-brasilia-convida-a-refeicoes-frescas-leves-e-cheias-de-sabor-em-restaurantes-da-cidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -49,38 +61,32 @@
       "urgente": false
     },
     {
-      "title": "Espetáculo de dança contemporânea Sem Osso estreia em Brasília com corpo como centro da experiência cênica",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-sem-osso-estreia-em-brasilia-com-corpo-como-centro-da-experiencia-cenica",
-      "tipo": "evento",
-      "urgente": false
+      "title": "BR-060: acidente entre caminhões mata duas pessoas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/acidente-grave-entre-caminhoes-deixa-duas-pessoas-carbonizadas-na-br-060-23092026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
-      "title": "Dia do Sorvete inspira roteiro de sobremesas no Manhattan Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-do-sorvete-inspira-roteiro-de-sobremesas-no-manhattan-shopping",
-      "tipo": "dica",
-      "urgente": false
+      "title": "Incêndio em lancha: médica fica gravemente ferida",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/medica-fica-gravemente-ferida-apos-incendio-em-lancha-no-lago-paranoa-em-brasilia-23092026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
-      "title": "Vencedora recebe caminhão de prêmios do RECORD nas Cidades realizado no Sol Nascente (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/vencedora-recebe-caminhao-de-premios-do-record-nas-cidades-realizado-no-sol-nascente-df-23092026",
+      "title": "Motorista agride frentista após alerta por urinar em posto de Águas Claras",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-agride-frentista-apos-ser-alertado-por-urinar-em-posto-de-aguas-claras-df-23092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Homem é preso após atacar outro com faca em restaurante comunitário do DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-e-preso-apos-atacar-outro-com-faca-em-restaurante-comunitario-do-df-23092026",
+      "title": "Protetoras procuram mais de dez cães comunitários que desapareceram na Ponte Alta",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/protetoras-procuram-mais-de-dez-caes-comunitarios-que-desapareceram-no-df-23092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a produção de cana-de-açúcar",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
@@ -91,21 +97,15 @@
       "urgente": false
     },
     {
-      "title": "\"Setor Comercial Sul vai voltar a ser o lugar mais nobre do DF\", diz Celina",
-      "url": "https://www.metropoles.com/distrito-federal/setor-comercial-sul-vai-voltar-a-ser-o-lugar-mais-nobre-do-df-diz-celina",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Mulher leva golpe da \"falsa audiência\" e fica no prejuízo de R$ 3 mil no DF",
       "url": "https://www.metropoles.com/distrito-federal/mulher-leva-golpe-da-falsa-audiencia-e-fica-no-prejuizo-de-r-3-mil-no-df",
-      "tipo": "alerta",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Aluna de 14 anos é agredida com canivete perto de escola",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aluna-de-14-anos-e-agredida-com-canivete-perto-de-escola-14985700.ghtml",
-      "tipo": "noticia",
+      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
