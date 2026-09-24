@@ -33,7 +33,7 @@
     {
       "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
       "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
-      "tipo": "evento",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -61,62 +61,62 @@
       "urgente": false
     },
     {
+      "title": "BR-060: acidente entre caminhões mata duas pessoas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/acidente-grave-entre-caminhoes-deixa-duas-pessoas-carbonizadas-na-br-060-23092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Semáforos desligados no Eixo Monumental complicam trânsito",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/semaforos-desligados-complicam-travessia-de-pedestres-e-transito-no-eixo-monumental-em-brasilia-23092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Incêndio em lancha: médica fica gravemente ferida",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/medica-fica-gravemente-ferida-apos-incendio-em-lancha-no-lago-paranoa-em-brasilia-23092026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
       "title": "Motorista agride frentista após alerta por urinar em posto de Águas Claras",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-agride-frentista-apos-ser-alertado-por-urinar-em-posto-de-aguas-claras-df-23092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Eletricista é preso suspeito de furtar relógio de luxo de R$ 50 mil e escondê-lo em marmita",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eletricista-e-preso-suspeito-de-furtar-relogio-de-luxo-de-r-50-mil-e-esconde-lo-em-marmita-23092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Protetoras procuram mais de dez cães comunitários que desapareceram na Ponte Alta",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/protetoras-procuram-mais-de-dez-caes-comunitarios-que-desapareceram-no-df-23092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a produção de cana-de-açúcar",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Sete jovens cientistas do DF são nomeados embaixadores mirins do MCTI",
-      "url": "https://www.metropoles.com/distrito-federal/sete-jovens-cientistas-do-df-sao-nomeados-embaixadores-mirins-do-mcti",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "\"Setor Comercial Sul vai voltar a ser o lugar mais nobre do DF\", diz Celina",
-      "url": "https://www.metropoles.com/distrito-federal/setor-comercial-sul-vai-voltar-a-ser-o-lugar-mais-nobre-do-df-diz-celina",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Seleção se prepara para amistosos na Austrália",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistosos-na-australia-14985772.ghtml",
+      "title": "Bebida de fachada: PCDF prende suspeito com drogas em caixinhas de suco",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/bebida-de-fachada-pcdf-prende-suspeito-com-drogas-em-caixinhas-de-suco",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dia Mundial Sem Carro: menos carros nas ruas e menos poluição",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-mundial-sem-carro-menos-carros-nas-ruas-e-menos-poluicao-14982685.ghtml",
+      "title": "Acidente na BR-020 interdita faixa e trava trânsito no sentido Plano Piloto",
+      "url": "https://www.metropoles.com/distrito-federal/acidente-na-br-020-interdita-faixa-e-trava-transito-no-sentido-plano-piloto",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Agências do trabalhador têm mais de 1,5 mil vagas de emprego nesta quinta",
+      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-tem-mais-de-15-mil-vagas-de-emprego-nesta-quinta",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Síndicos do Cruzeiro questiam cobranças da Caesb",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sindicos-do-cruzeiro-questiam-cobrancas-da-caesb-14982640.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Flamengo vence o Bragantino pelo Brasileirão",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-bragantino-pelo-brasileirao-14979667.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
