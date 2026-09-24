@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Turismo Nacional leva batalha pelo campeonato para a Capital Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-nacional-leva-batalha-pelo-campeonato-para-a-capital-federal",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
       "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
       "tipo": "evento",
@@ -21,13 +27,13 @@
     {
       "title": "Partage Lago Sul tem estreia de Cine Araújo e programação cultural com orquestra e alta gastronomia",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-tem-estreia-de-cine-araujo-e-programacao-cultural-com-orquestra-e-alta-gastronomia",
-      "tipo": "evento",
+      "tipo": "novidade",
       "urgente": false
     },
     {
       "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
       "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
-      "tipo": "noticia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -43,12 +49,6 @@
       "urgente": false
     },
     {
-      "title": "Primavera em Brasília convida a refeições frescas, leves e cheias de sabor em restaurantes da cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/primavera-em-brasilia-convida-a-refeicoes-frescas-leves-e-cheias-de-sabor-em-restaurantes-da-cidade",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "Festival Estilo Brasil 2026 traz shows de Seal, Criolo, Samuel Rosa, Marina Sena e muito mais",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-estilo-brasil-2026-traz-shows-de-seal-criolo-samuel-rosa-marina-sena-e-muito-mais",
       "tipo": "evento",
@@ -61,20 +61,14 @@
       "urgente": false
     },
     {
-      "title": "BR-060: acidente entre caminhões mata duas pessoas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/acidente-grave-entre-caminhoes-deixa-duas-pessoas-carbonizadas-na-br-060-23092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Incêndio em lancha: médica fica gravemente ferida",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/medica-fica-gravemente-ferida-apos-incendio-em-lancha-no-lago-paranoa-em-brasilia-23092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
       "title": "Motorista agride frentista após alerta por urinar em posto de Águas Claras",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-agride-frentista-apos-ser-alertado-por-urinar-em-posto-de-aguas-claras-df-23092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Eletricista é preso suspeito de furtar relógio de luxo de R$ 50 mil e escondê-lo em marmita",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eletricista-e-preso-suspeito-de-furtar-relogio-de-luxo-de-r-50-mil-e-esconde-lo-em-marmita-23092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -97,8 +91,14 @@
       "urgente": false
     },
     {
-      "title": "Mulher leva golpe da \"falsa audiência\" e fica no prejuízo de R$ 3 mil no DF",
-      "url": "https://www.metropoles.com/distrito-federal/mulher-leva-golpe-da-falsa-audiencia-e-fica-no-prejuizo-de-r-3-mil-no-df",
+      "title": "\"Setor Comercial Sul vai voltar a ser o lugar mais nobre do DF\", diz Celina",
+      "url": "https://www.metropoles.com/distrito-federal/setor-comercial-sul-vai-voltar-a-ser-o-lugar-mais-nobre-do-df-diz-celina",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Seleção se prepara para amistosos na Austrália",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistosos-na-australia-14985772.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -115,8 +115,8 @@
       "urgente": false
     },
     {
-      "title": "Número de casos de importunação sexual cresce 18% no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/numero-de-casos-de-importunacao-sexual-cresce-18-no-df-14979034.ghtml",
+      "title": "Flamengo vence o Bragantino pelo Brasileirão",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-bragantino-pelo-brasileirao-14979667.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
