@@ -1,93 +1,21 @@
 {
   "items": [
     {
-      "title": "LabDay 2026 – Turismo chega à 9ª edição e conecta inovação e oportunidades em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/labday-2026-turismo-chega-a-9-edicao-e-conecta-inovacao-e-oportunidades-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
-      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "New Balance amplia Race Series e anuncia primeira corrida da marca em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/new-balance-amplia-race-series-e-anuncia-primeira-corrida-da-marca-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Receita mira ‘lavanderia’ do crime no setor de combustíveis, diz Durigan",
-      "url": "https://noticias.r7.com/brasilia/receita-mira-lavanderia-do-crime-no-setor-de-combustiveis-diz-durigan-24092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cascavel é encontrada na garagem de casa e capturada pela PM no Park Way (DF)",
+      "title": "Cascavel é encontrada em garagem no Park Way",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Previsão de tempestade em Brasília: Inmet prevê chuva forte, vento e risco de granizo no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
-      "tipo": "atualidade",
-      "urgente": true
+      "title": "Homem é preso em flagrante após apalpar bunda de mulher em Taguatinga",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-e-preso-em-flagrante-apos-apalpar-bunda-de-mulher-em-taguatinga",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
+      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
       "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Homem assalta mulher após rondar rua no DF em busca de vítimas",
-      "url": "https://www.metropoles.com/distrito-federal/homem-assalta-mulher-apos-rondar-rua-no-df-em-busca-de-vitimas",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Gasolina fica até R$ 0,20 mais cara em postos de combustíveis do DF",
-      "url": "https://www.metropoles.com/distrito-federal/gasolina-fica-ate-r-020-mais-cara-em-postos-de-combustiveis-do-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Jovem que teve perna amputada após corte com linha de pipa recebe alta",
-      "url": "https://www.metropoles.com/distrito-federal/jovem-que-teve-perna-amputada-apos-corte-com-linha-de-pipa-recebe-alta",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mulher é detida em clínica lotada no DF ao se passar por cirurgiã-dentista .",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-e-detida-no-df-em-clinica-lotada-ao-se-passar-por-cirurgia-dentista",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -97,9 +25,99 @@
       "urgente": false
     },
     {
+      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Comércio de varejo do DF cresce 7,3%, acima da média nacional",
+      "url": "https://www.metropoles.com/distrito-federal/comercio-de-varejo-do-df-cresce-73-acima-da-media-nacional",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "DF Plaza Shopping recebe Dia D de Multivacinação neste sábado (26)",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-dia-d-de-multivacinacao-neste-sabado-26",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Casal que teve festa cancelada 8 dias antes da cerimônia será indenizado",
+      "url": "https://www.metropoles.com/distrito-federal/casal-que-teve-festa-cancelada-8-dias-antes-da-cerimonia-sera-indenizado",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Zeca Pagodinho & Alcione & Jorge Aragão chegam a Brasília com O Maior Encontro do Samba",
+      "url": "https://www.visitebrasilia.com.br/noticias/zeca-pagodinho-alcione-jorge-aragao-chegam-a-brasilia-com-o-maior-encontro-do-samba",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
+      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul tem estreia de Cine Araújo e programação cultural com orquestra e alta gastronomia",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-tem-estreia-de-cine-araujo-e-programacao-cultural-com-orquestra-e-alta-gastronomia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Mais de 3.000 pessoas vivem em áreas de risco de alagamento no DF, aponta Defesa Civil",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-3000-pessoas-vivem-em-areas-de-risco-de-alagamento-no-df-aponta-defesa-civil-24092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "LabDay 2026 – Turismo chega à 9ª edição e conecta inovação e oportunidades em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/labday-2026-turismo-chega-a-9-edicao-e-conecta-inovacao-e-oportunidades-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Feira do Setor Criativo Sul reúne tecnologia, design e produção autoral no centro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/feira-do-setor-criativo-sul-reune-tecnologia-design-e-producao-autoral-no-centro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Aniversário de Dhi Ribeiro na Feijoada com Samba no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/aniversario-de-dhi-ribeiro-na-feijoada-com-samba-no-clube-do-choro",
+      "tipo": "evento",
       "urgente": false
     }
   ]
