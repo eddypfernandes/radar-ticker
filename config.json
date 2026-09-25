@@ -88,6 +88,12 @@
 			"tipo": "html",
 			"url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/",
 			"ativo": true
+		},
+		{
+			"nome": "Cultural-Brasília",
+			"tipo": "html",
+			"url": "https://www.agendaculturalbrasilia.art.br/eventos/",
+			"ativo": true
 		}
 	],
 	"quantidade": 20
