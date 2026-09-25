@@ -1,9 +1,27 @@
 {
   "items": [
     {
+      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
+      "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
       "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -19,70 +37,70 @@
       "urgente": false
     },
     {
-      "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
-      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cascavel é encontrada em garagem no Park Way",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
+      "title": "IPCA-15: prévia da inflação sobe 0,70% em setembro, puxada pela alta na conta de luz",
+      "url": "https://noticias.r7.com/economia/ipca-15-setembro-2026-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
+      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
       "tipo": "atualidade",
       "urgente": true
     },
     {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: veja os eventos do fim de semana no DF",
+      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
       "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Anvisa determina apreensão de lotes de medicamento Ocrevus",
-      "url": "https://noticias.r7.com/brasilia/anvisa-determina-apreensao-de-lotes-de-medicamento-ocrevus-25092026",
+      "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "TRE-DF faz alteração em locais de votação em Águas Claras. Veja mudanças",
-      "url": "https://www.metropoles.com/distrito-federal/tre-df-faz-alteracao-em-locais-de-votacao-em-aguas-claras-veja-mudancas",
+      "title": "Mãe de recém-nascido encontrado carbonizado é localizada pela polícia",
+      "url": "https://www.metropoles.com/distrito-federal/mae-de-recem-nascido-encontrado-carbonizado-e-localizada-pela-policia",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Detran-DF altera regras de provas práticas e teóricas para tirar a CNH",
-      "url": "https://www.metropoles.com/distrito-federal/detran-df-divulga-mudancas-em-provas-praticas-e-teoricas-para-tirar-cnh",
+      "title": "DF recebe feira gratuita para orientar interessados em estudar nos EUA",
+      "url": "https://www.metropoles.com/distrito-federal/df-recebe-feira-gratuita-para-orientar-interessados-em-estudar-nos-eua",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Senacon identifica alta abusiva da gasolina em postos do DF",
+      "url": "https://www.metropoles.com/distrito-federal/senacon-identifica-alta-injustificada-da-gasolina-em-postos-do-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mega-Sena: aposta do DF acerta a quina e leva R$ 19,7 mil",
-      "url": "https://www.metropoles.com/distrito-federal/mega-sena-aposta-do-df-acerta-a-quina-e-leva-r-197-mil",
+      "title": "Seleção Brasileira enfrenta a Austrália",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
       "tipo": "noticia",
       "urgente": false
-    },
-    {
-      "title": "Áreas de 4 cidades do DF ficam sem energia nesta sexta-feira; veja locais",
-      "url": "https://www.metropoles.com/distrito-federal/areas-de-4-cidades-do-df-ficam-sem-energia-nesta-sexta-feira-veja-locais",
-      "tipo": "noticia",
-      "urgente": true
     },
     {
       "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
@@ -97,21 +115,9 @@
       "urgente": false
     },
     {
-      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
-      "tipo": "atualidade",
       "urgente": false
     }
   ]
