@@ -1,33 +1,15 @@
 {
   "items": [
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "Cartão Gás: mais de 30 mil famílias do DF devem trocar documento até 15/10",
+      "url": "https://www.metropoles.com/distrito-federal/cartao-gas-mais-de-30-mil-familias-do-df-devem-trocar-documento-ate-15-10",
+      "tipo": "utilidade publica",
+      "urgente": false
+    },
+    {
+      "title": "Fim de semana tem teatro, circo, dança e atrações para crianças em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/fim-de-semana-tem-teatro-circo-danca-e-atracoes-para-criancas-em-brasilia-25092026",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF recebe feira gratuita para orientar interessados em estudar nos EUA",
-      "url": "https://www.metropoles.com/distrito-federal/df-recebe-feira-gratuita-para-orientar-interessados-em-estudar-nos-eua",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Passageiros enfrentam problemas no metrô na volta para casa",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-enfrentam-problemas-no-metro-na-volta-para-casa-14992635.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/seringas-agulhas-e-outros-materiais-cortantes-precisam-de-um-descarte-especial-14992665.ghtml",
-      "tipo": "dica",
       "urgente": false
     },
     {
@@ -37,57 +19,105 @@
       "urgente": true
     },
     {
-      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
-      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
+      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "RECORD nas Cidades: veja quais serviços MP oferece em Samambaia (DF) neste sábado",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-veja-quais-servicos-mp-oferece-em-samambaia-df-neste-sabado-25092026",
+      "tipo": "utilidade publica",
+      "urgente": false
+    },
+    {
+      "title": "Passageiros enfrentam problemas no metrô na volta para casa",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-enfrentam-problemas-no-metro-na-volta-para-casa-14992635.ghtml",
+      "tipo": "transito",
+      "urgente": false
+    },
+    {
+      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
+      "tipo": "saude",
+      "urgente": false
+    },
+    {
+      "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/seringas-agulhas-e-outros-materiais-cortantes-precisam-de-um-descarte-especial-14992665.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Maker Day Brasil 2026 reúne criatividade, tecnologia e aprendizagem prática em Brasília, Goiânia e Uberlândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/maker-day-brasil-2026-reune-criatividade-tecnologia-e-aprendizagem-pratica-em-brasilia-goiania-e-uberlandia",
       "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
-      "tipo": "noticia",
+      "tipo": "esporte",
       "urgente": false
     },
     {
-      "title": "Seleção Brasileira enfrenta a Austrália",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
-      "tipo": "noticia",
+      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
+      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
+      "tipo": "educacao",
+      "urgente": false
+    },
+    {
+      "title": "LabDay 2026 – Turismo chega à 9ª edição e conecta inovação e oportunidades em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/labday-2026-turismo-chega-a-9-edicao-e-conecta-inovacao-e-oportunidades-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "HOJE: Brasília recebe 'Moraes Musical Moreira' após temporadas de sucesso em Salvador e Recife",
+      "url": "https://www.visitebrasilia.com.br/noticias/hoje-brasilia-recebe-moraes-musical-moreira-apos-temporadas-de-sucesso-em-salvador-e-recife",
+      "tipo": "cultura",
       "urgente": false
     },
     {
       "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
       "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
-      "tipo": "dica",
+      "tipo": "gastronomia",
       "urgente": false
     },
     {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Policia mira grupo que vendia dados de milhões de brasileiros",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-civil-do-df-mira-grupo-que-vendia-dados-pessoais-de-milhoes-de-brasileiros-25092026",
-      "tipo": "noticia",
+      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
-      "tipo": "noticia",
+      "tipo": "cultura",
       "urgente": false
     },
     {
-      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
-      "tipo": "noticia",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "comercio",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "Seleção Brasileira enfrenta a Austrália",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
+      "tipo": "esporte",
+      "urgente": false
+    },
+    {
+      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
       "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Cancelamentos de voos crescem 14,5% no Brasil entre junho e agosto, aponta AirHelp",
+      "url": "https://www.visitebrasilia.com.br/noticias/cancelamentos-de-voos-crescem-14-5-no-brasil-entre-junho-e-agosto-aponta-airhelp",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
