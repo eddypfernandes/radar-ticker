@@ -1,21 +1,21 @@
 {
   "items": [
     {
-      "title": "Cascavel é encontrada em garagem no Park Way",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
+      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "TCDF libera construção do hospital ortopédico no Guará, anuncia Celina .",
-      "url": "https://www.metropoles.com/distrito-federal/tcdf-libera-construcao-do-hospital-ortopedico-no-guara-anuncia-celina",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ministério Público oferece serviços gratuitos no RECORD nas Cidades, em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/ministerio-publico-oferece-servicos-gratuitos-no-record-nas-cidades-em-samambaia-df-24092026",
-      "tipo": "servico",
+      "title": "Maker Day Brasil 2026 reúne criatividade, tecnologia e aprendizagem prática em Brasília, Goiânia e Uberlândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/maker-day-brasil-2026-reune-criatividade-tecnologia-e-aprendizagem-pratica-em-brasilia-goiania-e-uberlandia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -25,20 +25,14 @@
       "urgente": false
     },
     {
-      "title": "Metrô-DF falha em duas estações e passageiros são retirados dos trens",
-      "url": "https://www.metropoles.com/distrito-federal/metro-df-da-pane-em-duas-estacoes-do-df-e-trens-sao-evacuados",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: veja os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
+      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
+      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
+      "title": "Cascavel é encontrada em garagem no Park Way",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cascavel-e-encontrada-na-garagem-de-casa-e-capturada-pela-pm-no-park-way-df-24092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,9 +43,57 @@
       "urgente": true
     },
     {
-      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
-      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
+      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Anvisa determina apreensão de lotes de medicamento Ocrevus",
+      "url": "https://noticias.r7.com/brasilia/anvisa-determina-apreensao-de-lotes-de-medicamento-ocrevus-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "TRE-DF faz alteração em locais de votação em Águas Claras. Veja mudanças",
+      "url": "https://www.metropoles.com/distrito-federal/tre-df-faz-alteracao-em-locais-de-votacao-em-aguas-claras-veja-mudancas",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Detran-DF altera regras de provas práticas e teóricas para tirar a CNH",
+      "url": "https://www.metropoles.com/distrito-federal/detran-df-divulga-mudancas-em-provas-praticas-e-teoricas-para-tirar-cnh",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mega-Sena: aposta do DF acerta a quina e leva R$ 19,7 mil",
+      "url": "https://www.metropoles.com/distrito-federal/mega-sena-aposta-do-df-acerta-a-quina-e-leva-r-197-mil",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Áreas de 4 cidades do DF ficam sem energia nesta sexta-feira; veja locais",
+      "url": "https://www.metropoles.com/distrito-federal/areas-de-4-cidades-do-df-ficam-sem-energia-nesta-sexta-feira-veja-locais",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/seringas-agulhas-e-outros-materiais-cortantes-precisam-de-um-descarte-especial-14992665.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Passageiros enfrentam problemas no metrô na volta para casa",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-enfrentam-problemas-no-metro-na-volta-para-casa-14992635.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -61,63 +103,15 @@
       "urgente": false
     },
     {
-      "title": "Eleições 2026: veja regras para quem trabalha no comércio do DF no domingo",
-      "url": "https://www.metropoles.com/distrito-federal/eleicoes-2026-veja-regras-para-quem-trabalha-no-comercio-do-df-no-domingo",
-      "tipo": "servico",
+      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mais de 3.000 pessoas vivem em áreas de risco de alagamento no DF, aponta Defesa Civil",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-3000-pessoas-vivem-em-areas-de-risco-de-alagamento-no-df-aponta-defesa-civil-24092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
-      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Zeca Pagodinho & Alcione & Jorge Aragão chegam a Brasília com O Maior Encontro do Samba",
-      "url": "https://www.visitebrasilia.com.br/noticias/zeca-pagodinho-alcione-jorge-aragao-chegam-a-brasilia-com-o-maior-encontro-do-samba",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
-      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Brasília recebe final do Concurso Nacional de Piano com nove jovens pianistas",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-final-do-concurso-nacional-de-piano-com-nove-jovens-pianistas",
-      "tipo": "evento",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
