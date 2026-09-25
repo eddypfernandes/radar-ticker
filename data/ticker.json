@@ -13,39 +13,27 @@
       "urgente": false
     },
     {
+      "title": "Ministério Público oferece serviços gratuitos no RECORD nas Cidades, em Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/ministerio-publico-oferece-servicos-gratuitos-no-record-nas-cidades-em-samambaia-df-24092026",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Metrô-DF falha em duas estações e passageiros são retirados dos trens",
       "url": "https://www.metropoles.com/distrito-federal/metro-df-da-pane-em-duas-estacoes-do-df-e-trens-sao-evacuados",
       "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "Ministério Público oferece serviços gratuitos no RECORD nas Cidades, em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/ministerio-publico-oferece-servicos-gratuitos-no-record-nas-cidades-em-samambaia-df-24092026",
+      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
-      "tipo": "atualidade",
-      "urgente": true
-    },
-    {
-      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
-      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -55,14 +43,56 @@
       "urgente": false
     },
     {
+      "title": "Inmet prevê chuva forte, vento e risco de granizo no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/previsao-de-tempestade-em-brasilia-inmet-preve-chuva-forte-vento-e-risco-de-granizo-no-df-24092026",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "Pátio Brasil Shopping promove experiência gratuita de ginástica artística para o público infantil",
+      "url": "https://www.visitebrasilia.com.br/noticias/patio-brasil-shopping-promove-experiencia-gratuita-de-ginastica-artistica-para-o-publico-infantil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mané Mercado Águas Claras lança menu de três etapas para o almoço durante a semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-lanca-menu-de-tres-etapas-para-o-almoco-durante-a-semana",
+      "title": "Eleições 2026: veja regras para quem trabalha no comércio do DF no domingo",
+      "url": "https://www.metropoles.com/distrito-federal/eleicoes-2026-veja-regras-para-quem-trabalha-no-comercio-do-df-no-domingo",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Caio Collet estreia na Stock Car com Felipe Massa em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-estreia-na-stock-car-com-felipe-massa-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mais de 3.000 pessoas vivem em áreas de risco de alagamento no DF, aponta Defesa Civil",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-3000-pessoas-vivem-em-areas-de-risco-de-alagamento-no-df-aponta-defesa-civil-24092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
+      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
@@ -73,20 +103,20 @@
       "urgente": false
     },
     {
-      "title": "Duas tartarugas foram flagradas no espelho d'água do Palácio do Itamaraty",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/duas-tartarugas-foram-flagradas-no-espelho-dagua-do-palacio-do-itamaraty-14989121.ghtml",
+      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Maker Day Brasil 2026 reúne criatividade, tecnologia e aprendizagem prática em Brasília, Goiânia e Uberlândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/maker-day-brasil-2026-reune-criatividade-tecnologia-e-aprendizagem-pratica-em-brasilia-goiania-e-uberlandia",
+      "title": "Brasília recebe final do Concurso Nacional de Piano com nove jovens pianistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-final-do-concurso-nacional-de-piano-com-nove-jovens-pianistas",
       "tipo": "evento",
       "urgente": false
     }
