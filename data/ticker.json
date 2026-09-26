@@ -7,14 +7,14 @@
       "urgente": false
     },
     {
-      "title": "Campanha da Louvre Hotels Group - Brazil oferece até 30% off para se hospedar até março de 2027",
-      "url": "https://www.visitebrasilia.com.br/noticias/campanha-da-louvre-hotels-group-brazil-oferece-ate-30-off-para-se-hospedar-ate-marco-de-2027",
-      "tipo": "oferta",
+      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
+      "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
+      "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
       "tipo": "evento",
       "urgente": false
     },
@@ -31,20 +31,20 @@
       "urgente": false
     },
     {
-      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
+      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "TRE-DF veta 46 cidades do exterior sem limite mínimo e 426 eleitores ficam sem votar",
+      "url": "https://noticias.r7.com/eleicoes/2026/tre-df-veta-46-cidades-do-exterior-sem-limite-minimo-e-426-eleitores-ficam-sem-votar-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Águas Claras: polícia apreende dois carros usados em rachas",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dupla é presa após consumir mais de R$ 300 e não pagar",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-apos-consumir-mais-de-r-300-e-se-recusar-a-pagar-em-shopping-de-brasilia-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,20 +61,8 @@
       "urgente": false
     },
     {
-      "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Incêndio em frente à oficina destrói 4 carros e causa prejuízo de R$ 50 mil",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/quatro-carros-sao-incendiados-em-frente-a-oficina-e-prejuizo-passa-de-r-50-mil-no-df-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -87,7 +75,13 @@
     {
       "title": "RECORD nas Cidades: veja quais serviços MP oferece em Samambaia (DF) neste sábado",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-veja-quais-servicos-mp-oferece-em-samambaia-df-neste-sabado-25092026",
-      "tipo": "dica",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -97,16 +91,22 @@
       "urgente": false
     },
     {
-      "title": "Casal que abandonou bebê dentro de sacola é indiciado por infanticídio",
-      "url": "https://www.metropoles.com/distrito-federal/casal-que-abandonou-bebe-dentro-de-sacola-e-indiciado-por-infanticidio",
+      "title": "Exclusivo: câmera flagra homem ateando fogo em lixo com recém-nascido no DF",
+      "url": "https://www.metropoles.com/distrito-federal/exclusivo-camera-flagra-homem-ateando-fogo-em-lixo-com-recem-nascido-no-df",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Ludopatia: mulher processa bet após perder R$ 100 mil em 3,7 mil apostas",
+      "url": "https://www.metropoles.com/distrito-federal/ludopatia-mulher-processa-bet-apos-perder-r-205-mil-em-37-mil-apostas",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Rodoviários do DF definem detalhes de greve marcada para segunda (28/9)",
-      "url": "https://www.metropoles.com/distrito-federal/rodoviarios-do-df-definem-detalhes-de-greve-marcada-para-segunda-28-9",
+      "title": "Casal que abandonou bebê dentro de sacola é indiciado por infanticídio",
+      "url": "https://www.metropoles.com/distrito-federal/casal-que-abandonou-bebe-dentro-de-sacola-e-indiciado-por-infanticidio",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Seleção Brasileira enfrenta a Austrália",
