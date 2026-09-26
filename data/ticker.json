@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "'Mais Atrevido': Gustavo Mendes está de volta aos palcos com show inédito de standup, dia 3 de outubro, no Teatro dos Bancários",
+      "url": "https://www.visitebrasilia.com.br/noticias/mais-atrevido-gustavo-mendes-esta-de-volta-aos-palcos-com-show-inedito-de-standup-dia-3-de-outubro-no-teatro-dos-bancarios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Distrito Federal comemora 25 anos de Krav Maga com a presença do introdutor da modalidade na América Latina",
+      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-comemora-25-anos-de-krav-maga-com-a-presenca-do-introdutor-da-modalidade-na-america-latina",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Banda Lado A anima a noite de sábado na Hop Capital Beer",
       "url": "https://www.visitebrasilia.com.br/noticias/banda-lado-a-anima-a-noite-de-sabado-na-hop-capital-beer",
       "tipo": "evento",
@@ -10,12 +28,6 @@
       "title": "Campanha da Louvre Hotels Group - Brazil oferece até 30% off para se hospedar até março de 2027",
       "url": "https://www.visitebrasilia.com.br/noticias/campanha-da-louvre-hotels-group-brazil-oferece-ate-30-off-para-se-hospedar-ate-marco-de-2027",
       "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
-      "tipo": "evento",
       "urgente": false
     },
     {
@@ -31,21 +43,9 @@
       "urgente": false
     },
     {
-      "title": "Novo sistema agiliza visitas institucionais ao Congresso Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/novo-sistema-agiliza-visitas-institucionais-ao-congresso-nacional",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -55,15 +55,9 @@
       "urgente": false
     },
     {
-      "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
-      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
-      "tipo": "atualidade",
+      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
+      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -81,13 +75,13 @@
     {
       "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
-      "tipo": "urgente",
+      "tipo": "atualidade",
       "urgente": true
     },
     {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
-      "tipo": "evento",
+      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -97,28 +91,28 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Por vingança, mulher ateia fogo em barraco com cachorro dentro no DF",
-      "url": "https://www.metropoles.com/distrito-federal/por-vinganca-mulher-ateia-fogo-em-barraco-com-cachorro-dentro-no-df",
+      "title": "Autódromo de Brasília obtém licença para receber corridas internacionais",
+      "url": "https://www.metropoles.com/colunas/grande-angular/autodromo-de-brasilia-obtem-licenca-para-receber-corridas-internacionais",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mulher é ferida a tiros durante briga generalizada em Ceilândia",
-      "url": "https://www.metropoles.com/distrito-federal/mulher-e-ferida-a-tiros-durante-briga-generalizada-em-ceilandia",
+      "title": "Jovem de 20 anos é baleado após esbarrar em outro homem em festa no DF",
+      "url": "https://www.metropoles.com/distrito-federal/jovem-de-20-anos-e-baleado-apos-esbarrar-em-outro-homem-em-festa-no-df",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     }
   ]
 }
