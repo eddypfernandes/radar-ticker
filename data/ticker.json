@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
-      "tipo": "evento",
+      "title": "Stock Light: Luis Trombini e Zezinho Muggiati são os grandes vitoriosos da Endurance em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/stock-light-luis-trombini-e-zezinho-muggiati-sao-os-grandes-vitoriosos-da-endurance-em-brasilia",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "'Mais Atrevido': Gustavo Mendes está de volta aos palcos com show inédito de standup, dia 3 de outubro, no Teatro dos Bancários",
-      "url": "https://www.visitebrasilia.com.br/noticias/mais-atrevido-gustavo-mendes-esta-de-volta-aos-palcos-com-show-inedito-de-standup-dia-3-de-outubro-no-teatro-dos-bancarios",
+      "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
       "tipo": "evento",
       "urgente": false
     },
@@ -31,33 +31,33 @@
       "urgente": false
     },
     {
+      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
       "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "O Boticário inaugura tendência internacional de perfumaria laundry com o novo Floratta Blue Crystal",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-boticario-inaugura-tendencia-internacional-de-perfumaria-laundry-com-o-novo-floratta-blue-crystal",
-      "tipo": "novidade",
+      "title": "Novo sistema agiliza visitas institucionais ao Congresso Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/novo-sistema-agiliza-visitas-institucionais-ao-congresso-nacional",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
-      "tipo": "noticia",
+      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
       "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
       "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,12 +85,6 @@
       "urgente": false
     },
     {
-      "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
       "tipo": "noticia",
@@ -99,20 +93,32 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/seringas-agulhas-e-outros-materiais-cortantes-precisam-de-um-descarte-especial-14992665.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Autódromo de Brasília obtém licença para receber corridas internacionais",
-      "url": "https://www.metropoles.com/colunas/grande-angular/autodromo-de-brasilia-obtem-licenca-para-receber-corridas-internacionais",
+      "title": "Passageiros enfrentam problemas no metrô na volta para casa",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-enfrentam-problemas-no-metro-na-volta-para-casa-14992635.ghtml",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Jovem de 20 anos é baleado após esbarrar em outro homem em festa no DF",
-      "url": "https://www.metropoles.com/distrito-federal/jovem-de-20-anos-e-baleado-apos-esbarrar-em-outro-homem-em-festa-no-df",
-      "tipo": "noticia",
-      "urgente": true
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
     }
   ]
 }
