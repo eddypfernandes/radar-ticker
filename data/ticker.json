@@ -1,14 +1,20 @@
 {
   "items": [
     {
-      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
+      "title": "Banda Lado A anima a noite de sábado na Hop Capital Beer",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-lado-a-anima-a-noite-de-sabado-na-hop-capital-beer",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
-      "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
+      "title": "Campanha da Louvre Hotels Group - Brazil oferece até 30% off para se hospedar até março de 2027",
+      "url": "https://www.visitebrasilia.com.br/noticias/campanha-da-louvre-hotels-group-brazil-oferece-ate-30-off-para-se-hospedar-ate-marco-de-2027",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -25,32 +31,20 @@
       "urgente": false
     },
     {
-      "title": "Biblioteca Demonstrativa oferece curso online de contação de histórias para bibliotecários",
-      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-oferece-curso-online-de-contacao-de-historias-para-bibliotecarios",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Lula proíbe bets e dá até o dia 5 para apostador resgatar valores; saiba como será",
-      "url": "https://noticias.r7.com/brasilia/lula-proibe-bets-e-cria-cronograma-para-resgate-de-valores-apostados-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
       "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Prazo para baixar o e-Título para as Eleições 2026 é estendido; confira",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ultimos-dias-para-baixar-aplicativo-e-titulo-para-as-eleicoes-de-2026-25092026",
-      "tipo": "servico",
+      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
+      "title": "Dupla é presa após consumir mais de R$ 300 e não pagar",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-apos-consumir-mais-de-r-300-e-se-recusar-a-pagar-em-shopping-de-brasilia-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -63,12 +57,24 @@
     {
       "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
-      "tipo": "servico",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Incêndio em frente à oficina destrói 4 carros e causa prejuízo de R$ 50 mil",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/quatro-carros-sao-incendiados-em-frente-a-oficina-e-prejuizo-passa-de-r-50-mil-no-df-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -81,18 +87,18 @@
     {
       "title": "RECORD nas Cidades: veja quais serviços MP oferece em Samambaia (DF) neste sábado",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-veja-quais-servicos-mp-oferece-em-samambaia-df-neste-sabado-25092026",
-      "tipo": "servico",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
-      "tipo": "noticia",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "title": "Casal que abandonou bebê dentro de sacola é indiciado por infanticídio",
+      "url": "https://www.metropoles.com/distrito-federal/casal-que-abandonou-bebe-dentro-de-sacola-e-indiciado-por-infanticidio",
       "tipo": "noticia",
       "urgente": false
     },
@@ -106,12 +112,6 @@
       "title": "Seleção Brasileira enfrenta a Austrália",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Seringas, agulhas e outros materiais cortantes precisam de um descarte especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/seringas-agulhas-e-outros-materiais-cortantes-precisam-de-um-descarte-especial-14992665.ghtml",
-      "tipo": "servico",
       "urgente": false
     }
   ]
