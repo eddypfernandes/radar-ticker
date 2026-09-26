@@ -7,6 +7,12 @@
       "urgente": false
     },
     {
+      "title": "Campanha da Louvre Hotels Group - Brazil oferece até 30% off para se hospedar até março de 2027",
+      "url": "https://www.visitebrasilia.com.br/noticias/campanha-da-louvre-hotels-group-brazil-oferece-ate-30-off-para-se-hospedar-ate-marco-de-2027",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
       "title": "Gustavo Mendes abre sessão extra de \"Atrevido\" em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/gustavo-mendes-abre-sessao-extra-de-atrevido-em-brasilia",
       "tipo": "evento",
@@ -19,9 +25,21 @@
       "urgente": false
     },
     {
+      "title": "O Boticário inaugura tendência internacional de perfumaria laundry com o novo Floratta Blue Crystal",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-boticario-inaugura-tendencia-internacional-de-perfumaria-laundry-com-o-novo-floratta-blue-crystal",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Novo sistema agiliza visitas institucionais ao Congresso Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/novo-sistema-agiliza-visitas-institucionais-ao-congresso-nacional",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
-      "tipo": "noticia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -31,15 +49,21 @@
       "urgente": false
     },
     {
+      "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
+      "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Hidden Brasília se despede da Sala de Rock nesta sexta-feira",
       "url": "https://www.visitebrasilia.com.br/noticias/hidden-brasilia-se-despede-da-sala-de-rock-nesta-sexta-feira",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "TRE-DF veta 46 cidades do exterior sem limite mínimo e 426 eleitores ficam sem votar",
-      "url": "https://noticias.r7.com/eleicoes/2026/tre-df-veta-46-cidades-do-exterior-sem-limite-minimo-e-426-eleitores-ficam-sem-votar-25092026",
-      "tipo": "noticia",
+      "title": "Pesquisa em Brasília ouve turistas para mapear hábitos, preferências e experiências de viagens",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-em-brasilia-ouve-turistas-para-mapear-habitos-preferencias-e-experiencias-de-viagens",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -49,39 +73,33 @@
       "urgente": false
     },
     {
+      "title": "Dupla é presa após consumir mais de R$ 300 e não pagar",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-apos-consumir-mais-de-r-300-e-se-recusar-a-pagar-em-shopping-de-brasilia-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
-      "tipo": "atualidade",
+      "tipo": "urgente",
       "urgente": true
     },
     {
-      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
-      "tipo": "noticia",
+      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mulher deixa carro em oficina do Guará (DF) e só descobre furto um mês depois",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/mulher-deixa-carro-em-oficina-do-guara-df-e-so-descobre-furto-um-mes-depois-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "RECORD nas Cidades: veja quais serviços MP oferece em Samambaia (DF) neste sábado",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-veja-quais-servicos-mp-oferece-em-samambaia-df-neste-sabado-25092026",
+      "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -91,26 +109,14 @@
       "urgente": false
     },
     {
-      "title": "Exclusivo: câmera flagra homem ateando fogo em lixo com recém-nascido no DF",
-      "url": "https://www.metropoles.com/distrito-federal/exclusivo-camera-flagra-homem-ateando-fogo-em-lixo-com-recem-nascido-no-df",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Ludopatia: mulher processa bet após perder R$ 100 mil em 3,7 mil apostas",
-      "url": "https://www.metropoles.com/distrito-federal/ludopatia-mulher-processa-bet-apos-perder-r-205-mil-em-37-mil-apostas",
+      "title": "Por vingança, mulher ateia fogo em barraco com cachorro dentro no DF",
+      "url": "https://www.metropoles.com/distrito-federal/por-vinganca-mulher-ateia-fogo-em-barraco-com-cachorro-dentro-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Casal que abandonou bebê dentro de sacola é indiciado por infanticídio",
-      "url": "https://www.metropoles.com/distrito-federal/casal-que-abandonou-bebe-dentro-de-sacola-e-indiciado-por-infanticidio",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Seleção Brasileira enfrenta a Austrália",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
+      "title": "Mulher é ferida a tiros durante briga generalizada em Ceilândia",
+      "url": "https://www.metropoles.com/distrito-federal/mulher-e-ferida-a-tiros-durante-briga-generalizada-em-ceilandia",
       "tipo": "noticia",
       "urgente": false
     }
