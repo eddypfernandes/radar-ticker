@@ -13,9 +13,27 @@
       "urgente": false
     },
     {
+      "title": "Distrito Federal comemora 25 anos de Krav Maga com a presença do introdutor da modalidade na América Latina",
+      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-comemora-25-anos-de-krav-maga-com-a-presenca-do-introdutor-da-modalidade-na-america-latina",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Banda Lado A anima a noite de sábado na Hop Capital Beer",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-lado-a-anima-a-noite-de-sabado-na-hop-capital-beer",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
       "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Novo sistema agiliza visitas institucionais ao Congresso Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/novo-sistema-agiliza-visitas-institucionais-ao-congresso-nacional",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -27,12 +45,12 @@
     {
       "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
       "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
-      "tipo": "dica",
+      "tipo": "oferta",
       "urgente": false
     },
     {
-      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
+      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -43,9 +61,15 @@
       "urgente": false
     },
     {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
-      "tipo": "evento",
+      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,32 +91,20 @@
       "urgente": false
     },
     {
-      "title": "Delegado explica resgate de mulheres em situação de exploração sexual em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/delegado-explica-resgate-de-mulheres-em-situacao-de-exploracao-sexual-em-brasilia-26092026",
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Morre, aos 79 anos, João Elias Rosa, fundador de escola infantil no DF",
-      "url": "https://www.metropoles.com/distrito-federal/morre-aos-79-anos-joao-elias-rosa-fundador-de-escola-infantil-no-df",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mãe de bebê encontrado carbonizado no DF é solta; companheiro segue preso",
-      "url": "https://www.metropoles.com/distrito-federal/mae-de-bebe-encontrado-carbonizado-no-df-e-solta-companheiro-segue-preso",
+      "title": "Trabalhadores doentes: afastamentos por transtornos mentais sobem 77% no DF",
+      "url": "https://www.metropoles.com/distrito-federal/trabalhadores-doentes-afastamentos-por-transtornos-mentais-sobem-77-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -105,12 +117,6 @@
     {
       "title": "Cappelli quer construir estação do Metrô-DF no Setor O, em Ceilândia",
       "url": "https://www.metropoles.com/distrito-federal/cappelli-quer-construir-estacao-do-metro-df-no-setor-o-em-ceilandia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Seleção Brasileira enfrenta a Austrália",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
