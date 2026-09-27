@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Caravana da Criança leva arte e brincadeiras populares a escolas públicas do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/caravana-da-crianca-leva-arte-e-brincadeiras-populares-a-escolas-publicas-do-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Alimenta 2026 vai reunir especialistas para debater as mudanças do perfil de consumo na gastronomia",
+      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-vai-reunir-especialistas-para-debater-as-mudancas-do-perfil-de-consumo-na-gastronomia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Matheus Vilanova, João Dias e Meriele são convidados do Choro Livre nesta quarta (30)",
       "url": "https://www.visitebrasilia.com.br/noticias/matheus-vilanova-joao-dias-e-meriele-sao-convidados-do-choro-livre-nesta-quarta-30",
       "tipo": "evento",
@@ -33,6 +45,18 @@
     {
       "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
       "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
       "tipo": "evento",
       "urgente": false
     },
@@ -73,50 +97,26 @@
       "urgente": false
     },
     {
-      "title": "Setembro Verde: idosos também podem ser doadores vivos de órgãos",
-      "url": "https://noticias.r7.com/brasilia/setembro-verde-idosos-tambem-podem-ser-doadores-vivos-de-orgaos-27092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "RECORD nas Cidades reúne moradores em comemoração aos 37 anos de Samambaia (DF)",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-reune-moradores-em-comemoracao-aos-37-anos-de-samambaia-df-26092026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "ExpoFlores reúne plantas, música e atrações para toda a família em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/expoflores-reune-plantas-musica-e-atracoes-para-toda-a-familia-em-taguatinga-df-26092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "TRT manda sindicato cumprir 80% dos serviços de ônibus em horários de pico",
-      "url": "https://www.metropoles.com/colunas/grande-angular/trt-manda-sindicato-cumprir-80-dos-servicos-de-onibus-em-horarios-de-pico",
+      "title": "Devido à greve dos rodoviários, Metrô-DF estenderá horário de pico nesta 2ª",
+      "url": "https://www.metropoles.com/distrito-federal/devido-a-greve-dos-rodoviarios-metro-df-estendera-horario-de-pico-nesta-2a",
       "tipo": "noticia",
       "urgente": true
     },
     {
       "title": "Quina: duas apostas do DF acertam a quadra e ganham R$ 28 mil em prêmios",
       "url": "https://www.metropoles.com/distrito-federal/quina-duas-apostas-do-df-acertam-a-quadra-e-ganham-r-28-mil-em-premios",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Morre, aos 67 anos, professor Filemon, especialista em língua portuguesa",
-      "url": "https://www.metropoles.com/distrito-federal/morre-aos-67-anos-professor-filemon-especialista-em-lingua-portuguesa",
       "tipo": "noticia",
       "urgente": false
     }
