@@ -1,9 +1,21 @@
 {
   "items": [
     {
+      "title": "Matheus Vilanova, João Dias e Meriele são convidados do Choro Livre nesta quarta (30)",
+      "url": "https://www.visitebrasilia.com.br/noticias/matheus-vilanova-joao-dias-e-meriele-sao-convidados-do-choro-livre-nesta-quarta-30",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Última oportunidade de 2026 para participar do Mega Finisher é na Maratona Monumental de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/ultima-oportunidade-de-2026-para-participar-do-mega-finisher-e-na-maratona-monumental-de-brasilia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Stock Light: Luis Trombini e Zezinho Muggiati são os grandes vitoriosos da Endurance em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/stock-light-luis-trombini-e-zezinho-muggiati-sao-os-grandes-vitoriosos-da-endurance-em-brasilia",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -25,44 +37,32 @@
       "urgente": false
     },
     {
-      "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
-      "tipo": "evento",
+      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
+      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
-      "tipo": "evento",
+      "title": "Prazo para baixar o e-Título para as Eleições 2026 é estendido; confira",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ultimos-dias-para-baixar-aplicativo-e-titulo-para-as-eleicoes-de-2026-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Fogo de Chão celebra a Primavera com novas receitas na mesa de saladas",
-      "url": "https://www.visitebrasilia.com.br/noticias/fogo-de-chao-celebra-a-primavera-com-novas-receitas-na-mesa-de-saladas",
-      "tipo": "dica",
+      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": true
-    },
-    {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
-      "tipo": "evento",
-      "urgente": false
     },
     {
       "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Polícia investiga furto de cabos em eletroposto do DF com prejuízo de R$ 10 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-furtos-de-cabos-em-eletroposto-do-df-que-causaram-prejuizo-de-r-10-mil-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -93,31 +93,31 @@
     {
       "title": "DF no Campo: conheça a produção de mudas no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Passageiros enfrentam problemas no metrô na volta para casa",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-enfrentam-problemas-no-metro-na-volta-para-casa-14992635.ghtml",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "TRT manda sindicato cumprir 80% dos serviços de ônibus em horários de pico",
+      "url": "https://www.metropoles.com/colunas/grande-angular/trt-manda-sindicato-cumprir-80-dos-servicos-de-onibus-em-horarios-de-pico",
       "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "Biblioteca Nacional tenta recuperar livros desaparecidos e outros que não foram devolvidos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/biblioteca-nacional-tenta-recuperar-livros-desaparecidos-e-outros-que-nao-foram-devolvidos-14989422.ghtml",
+      "title": "Quina: duas apostas do DF acertam a quadra e ganham R$ 28 mil em prêmios",
+      "url": "https://www.metropoles.com/distrito-federal/quina-duas-apostas-do-df-acertam-a-quadra-e-ganham-r-28-mil-em-premios",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Pacientes têm dificuldade para usar sistemas da Farmácia de Alto Custo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-tem-dificuldade-para-usar-sistemas-da-farmacia-de-alto-custo-14989196.ghtml",
+      "title": "Morre, aos 67 anos, professor Filemon, especialista em língua portuguesa",
+      "url": "https://www.metropoles.com/distrito-federal/morre-aos-67-anos-professor-filemon-especialista-em-lingua-portuguesa",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
       "urgente": false
     }
   ]
