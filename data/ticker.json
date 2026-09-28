@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "'Mais Atrevido': Gustavo Mendes está de volta aos palcos com show inédito de standup, dia 3 de outubro, no Teatro dos Bancários",
+      "url": "https://www.visitebrasilia.com.br/noticias/mais-atrevido-gustavo-mendes-esta-de-volta-aos-palcos-com-show-inedito-de-standup-dia-3-de-outubro-no-teatro-dos-bancarios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Caravana da Criança leva arte e brincadeiras populares a escolas públicas do DF",
       "url": "https://www.visitebrasilia.com.br/noticias/caravana-da-crianca-leva-arte-e-brincadeiras-populares-a-escolas-publicas-do-df",
       "tipo": "evento",
@@ -19,8 +25,20 @@
       "urgente": false
     },
     {
+      "title": "Stock Light: Luis Trombini e Zezinho Muggiati são os grandes vitoriosos da Endurance em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/stock-light-luis-trombini-e-zezinho-muggiati-sao-os-grandes-vitoriosos-da-endurance-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Distrito Federal comemora 25 anos de Krav Maga com a presença do introdutor da modalidade na América Latina",
+      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-comemora-25-anos-de-krav-maga-com-a-presenca-do-introdutor-da-modalidade-na-america-latina",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,44 +55,14 @@
       "urgente": false
     },
     {
-      "title": "Lula proíbe bets e dá até o dia 5 para apostador resgatar valores; saiba como será",
-      "url": "https://noticias.r7.com/brasilia/lula-proibe-bets-e-cria-cronograma-para-resgate-de-valores-apostados-25092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
+      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Águas Claras: polícia apreende dois carros usados em rachas",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dupla é presa após consumir mais de R$ 300 e não pagar",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-apos-consumir-mais-de-r-300-e-se-recusar-a-pagar-em-shopping-de-brasilia-25092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -99,13 +87,25 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
       "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Salário e ticket: veja benefícios dos rodoviários após ameaça de greve",
+      "url": "https://www.metropoles.com/distrito-federal/salario-e-ticket-veja-beneficios-dos-rodoviarios-apos-ameaca-de-greve",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Rodoviários suspendem greve após acordo com as empresas de ônibus .",
+      "url": "https://www.metropoles.com/colunas/grande-angular/rodoviarios-suspendem-greve-apos-acordo-com-as-empresas-de-onibus",
+      "tipo": "noticia",
       "urgente": false
     },
     {
