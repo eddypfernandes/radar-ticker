@@ -9,13 +9,7 @@
     {
       "title": "Alimenta 2026 vai reunir especialistas para debater as mudanças do perfil de consumo na gastronomia",
       "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-vai-reunir-especialistas-para-debater-as-mudancas-do-perfil-de-consumo-na-gastronomia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Matheus Vilanova, João Dias e Meriele são convidados do Choro Livre nesta quarta (30)",
-      "url": "https://www.visitebrasilia.com.br/noticias/matheus-vilanova-joao-dias-e-meriele-sao-convidados-do-choro-livre-nesta-quarta-30",
-      "tipo": "evento",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -25,20 +19,8 @@
       "urgente": false
     },
     {
-      "title": "Stock Light: Luis Trombini e Zezinho Muggiati são os grandes vitoriosos da Endurance em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/stock-light-luis-trombini-e-zezinho-muggiati-sao-os-grandes-vitoriosos-da-endurance-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Distrito Federal comemora 25 anos de Krav Maga com a presença do introdutor da modalidade na América Latina",
-      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-comemora-25-anos-de-krav-maga-com-a-presenca-do-introdutor-da-modalidade-na-america-latina",
       "tipo": "evento",
       "urgente": false
     },
@@ -49,26 +31,20 @@
       "urgente": false
     },
     {
-      "title": "Alexandre Louza disputa quarta etapa da F4 Brasil no Autódromo Nelson Piquet, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/alexandre-louza-disputa-quarta-etapa-da-f4-brasil-no-autodromo-nelson-piquet-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
       "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
+      "title": "Lula proíbe bets e dá até o dia 5 para apostador resgatar valores; saiba como será",
+      "url": "https://noticias.r7.com/brasilia/lula-proibe-bets-e-cria-cronograma-para-resgate-de-valores-apostados-25092026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "Prazo para baixar o e-Título para as Eleições 2026 é estendido; confira",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ultimos-dias-para-baixar-aplicativo-e-titulo-para-as-eleicoes-de-2026-25092026",
+      "title": "Anvisa proíbe propaganda da ‘caneta emagrecedora’ Semavy; entenda",
+      "url": "https://noticias.r7.com/saude/anvisa-proibe-propaganda-da-caneta-emagrecedora-com-semaglutida-semavy-25092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,10 +55,22 @@
       "urgente": false
     },
     {
+      "title": "Dupla é presa após consumir mais de R$ 300 e não pagar",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-apos-consumir-mais-de-r-300-e-se-recusar-a-pagar-em-shopping-de-brasilia-25092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "DF entra em alerta para tempestades; veja a previsão do tempo para os próximos dias",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-entra-em-alerta-para-tempestades-veja-a-previsao-do-tempo-para-os-proximos-dias-25092026",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": true
+    },
+    {
+      "title": "Clima de Montanha, Sidney Magal e Felipe & Rodrigo: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/clima-de-montanha-sidney-magal-e-felipe-rodrigo-veja-os-eventos-do-fim-de-semana-no-df-25092026",
+      "tipo": "evento",
+      "urgente": false
     },
     {
       "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
@@ -103,20 +91,32 @@
       "urgente": false
     },
     {
+      "title": "ExpoFlores reúne plantas, música e atrações para toda a família em Taguatinga (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/expoflores-reune-plantas-musica-e-atracoes-para-toda-a-familia-em-taguatinga-df-26092026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Jovem de 26 anos é morto a pauladas dentro de casa no DF",
+      "url": "https://www.metropoles.com/distrito-federal/jovem-de-26-anos-e-morto-a-pauladas-dentro-de-casa-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Devido à greve dos rodoviários, Metrô-DF estenderá horário de pico nesta 2ª",
-      "url": "https://www.metropoles.com/distrito-federal/devido-a-greve-dos-rodoviarios-metro-df-estendera-horario-de-pico-nesta-2a",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Quina: duas apostas do DF acertam a quadra e ganham R$ 28 mil em prêmios",
-      "url": "https://www.metropoles.com/distrito-federal/quina-duas-apostas-do-df-acertam-a-quadra-e-ganham-r-28-mil-em-premios",
+      "title": "Seleção Brasileira enfrenta a Austrália",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
