@@ -1,87 +1,69 @@
 {
   "items": [
     {
-      "title": "'Mais Atrevido': Gustavo Mendes está de volta aos palcos com show inédito de standup, dia 3 de outubro, no Teatro dos Bancários",
-      "url": "https://www.visitebrasilia.com.br/noticias/mais-atrevido-gustavo-mendes-esta-de-volta-aos-palcos-com-show-inedito-de-standup-dia-3-de-outubro-no-teatro-dos-bancarios",
+      "title": "Tradicional Dia das Crianças do Pátio Brasil ganha novidade este ano com Bailinho Especial de Halloween",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-dia-das-criancas-do-patio-brasil-ganha-novidade-este-ano-com-bailinho-especial-de-halloween",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Caravana da Criança leva arte e brincadeiras populares a escolas públicas do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/caravana-da-crianca-leva-arte-e-brincadeiras-populares-a-escolas-publicas-do-df",
+      "title": "Buraco do Jazz encerra temporada de 10 anos neste mês de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-neste-mes-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Alimenta 2026 vai reunir especialistas para debater as mudanças do perfil de consumo na gastronomia",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-vai-reunir-especialistas-para-debater-as-mudancas-do-perfil-de-consumo-na-gastronomia",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Última oportunidade de 2026 para participar do Mega Finisher é na Maratona Monumental de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ultima-oportunidade-de-2026-para-participar-do-mega-finisher-e-na-maratona-monumental-de-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Stock Light: Luis Trombini e Zezinho Muggiati são os grandes vitoriosos da Endurance em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/stock-light-luis-trombini-e-zezinho-muggiati-sao-os-grandes-vitoriosos-da-endurance-em-brasilia",
+      "title": "Fausto Arnaudo vence primeira corrida da Bradesco Fórmula 4 Brasil em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/fausto-arnaudo-vence-primeira-corrida-da-bradesco-formula-4-brasil-em-brasilia",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Caixa Cultural Brasília apresenta Zona Franca, espetáculo de dança da Companhia Suave",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-zona-franca-espetaculo-de-danca-da-companhia-suave",
+      "title": "ParkShopping apresenta a exposição \"Animais do Cerrado\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/parkshopping-apresenta-a-exposicao-animais-do-cerrado",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Distrito Federal comemora 25 anos de Krav Maga com a presença do introdutor da modalidade na América Latina",
-      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-comemora-25-anos-de-krav-maga-com-a-presenca-do-introdutor-da-modalidade-na-america-latina",
+      "title": "Caminhada, pilates e palestras: evento em Brasília promove manhã dedicada à saúde",
+      "url": "https://www.visitebrasilia.com.br/noticias/caminhada-pilates-e-palestras-evento-em-brasilia-promove-manha-dedicada-a-saude",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Documentário Self Portrait estreia no Cine Brasília em 13 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/documentario-self-portrait-estreia-no-cine-brasilia-em-13-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul, em Taguatinga",
-      "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Animação e cinema nacional: Cine Drive-in divulga atrações para o fim de setembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/animacao-e-cinema-nacional-cine-drive-in-divulga-atracoes-para-o-fim-de-setembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cadastro desatualizado: 13 mil famílias podem perder desconto na conta de luz",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/falta-de-atualizacao-cadastral-pode-fazer-13-mil-familias-do-df-perderem-desconto-na-luz-25092026",
+      "title": "Governo monitora rede de divulgação de bets e derruba 506 sites",
+      "url": "https://noticias.r7.com/brasilia/governo-monitora-rede-de-divulgacao-de-bets-e-derruba-506-sites-28092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Águas Claras: polícia apreende dois carros usados em rachas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-apreende-dois-carros-de-luxo-usados-em-rachas-em-aguas-claras-df-25092026",
+      "title": "Pneumonia e meningite: Anvisa aprova registro de vacina",
+      "url": "https://noticias.r7.com/brasilia/anvisa-aprova-registro-de-vacina-contra-bacteria-causadora-de-pneumonia-e-meningite-28092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Moradora fica presa em casa após enxame de abelhas invadir sobrado em Taguatinga",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradora-fica-presa-em-casa-apos-enxame-de-abelhas-invadir-sobrado-em-taguatinga-df-25092026",
+      "title": "Família pede ajuda para encontrar pasta com documentos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/familia-de-samambaia-sul-df-pede-ajuda-para-encontrar-pasta-com-documentos-28092026",
+      "tipo": "utilidade",
+      "urgente": false
+    },
+    {
+      "title": "Após acordo com reajuste de 8% e incremento em benefícios, greve dos rodoviários é suspensa",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/greve-dos-rodoviarios-e-suspensa-no-df-28092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "RECORD nas Cidades reúne moradores em comemoração aos 37 anos de Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/record-nas-cidades-reune-moradores-em-comemoracao-aos-37-anos-de-samambaia-df-26092026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "ExpoFlores reúne plantas, música e atrações para toda a família em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/expoflores-reune-plantas-musica-e-atracoes-para-toda-a-familia-em-taguatinga-df-26092026",
-      "tipo": "evento",
+      "title": "Novos viadutos da EPIG ampliam fluidez do trânsito entre Sudoeste e Octogonal",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/novos-viadutos-da-epig-ampliam-fluidez-do-transito-entre-sudoeste-e-octogonal-28092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -97,26 +79,44 @@
       "urgente": false
     },
     {
-      "title": "Salário e ticket: veja benefícios dos rodoviários após ameaça de greve",
-      "url": "https://www.metropoles.com/distrito-federal/salario-e-ticket-veja-beneficios-dos-rodoviarios-apos-ameaca-de-greve",
+      "title": "Brasília registra maior temperatura para setembro e a menor umidade do ano",
+      "url": "https://www.metropoles.com/distrito-federal/brasilia-registra-maior-temperatura-para-setembro-e-a-menor-umidade-do-ano",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Eleições: escolas do DF que são locais de votação terão aula suspensa na 6ª",
+      "url": "https://www.metropoles.com/distrito-federal/eleicoes-escolas-do-df-que-sao-locais-de-votacao-terao-aula-suspensa-na-6a",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Rodoviários suspendem greve após acordo com as empresas de ônibus .",
-      "url": "https://www.metropoles.com/colunas/grande-angular/rodoviarios-suspendem-greve-apos-acordo-com-as-empresas-de-onibus",
+      "title": "Kiko Caputo propõe que UBS no DF funcione aos fins de semana",
+      "url": "https://www.metropoles.com/distrito-federal/kiko-caputo-propoe-que-ubss-no-df-funcionem-aos-fins-de-semana",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Jovem de 26 anos é morto a pauladas dentro de casa no DF",
-      "url": "https://www.metropoles.com/distrito-federal/jovem-de-26-anos-e-morto-a-pauladas-dentro-de-casa-no-df",
+      "title": "Livro conta histórias de casos de doação de órgãos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/livro-conta-historias-de-casos-de-doacao-de-orgaos-14999525.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Seleção Brasileira enfrenta a Austrália",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-a-australia-14993296.ghtml",
+      "title": "Buraco de telefonia aberto há mais de um mês preocupa moradores de Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/buraco-de-telefonia-aberto-ha-mais-de-um-mes-preocupa-moradores-de-samambaia-df-28092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Filhote de onça-parda é resgatado em plantação de milho próximo à BR-060 .",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/filhote-de-onca-parda-e-resgatado-em-plantacao-de-milho-proximo-a-br-060",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Prêmio Café do Cerrado: inscrições abertas para DF e GO",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/premio-cafe-do-cerrado-central-recebe-inscricoes-de-produtores-do-df-e-de-goias-28092026",
       "tipo": "noticia",
       "urgente": false
     }
