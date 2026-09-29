@@ -1,14 +1,8 @@
 {
   "items": [
     {
-      "title": "Venâncio Shopping recebe campeonato de xadrez com categorias para todas as idades",
-      "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-campeonato-de-xadrez-com-categorias-para-todas-as-idades",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Caio Collet surpreende e brilha com Felipe Massa na Stock Car em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-surpreende-e-brilha-com-felipe-massa-na-stock-car-em-brasilia",
+      "title": "A garagem ganha novo conceito no projeto de Fabiana Boner para a CASACOR Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-garagem-ganha-novo-conceito-no-projeto-de-fabiana-boner-para-a-casacor-brasilia",
       "tipo": "noticia",
       "urgente": false
     },
@@ -25,21 +19,15 @@
       "urgente": false
     },
     {
-      "title": "Buraco do Jazz encerra temporada de 10 anos neste mês de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-neste-mes-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "ParkShopping apresenta a exposição \"Animais do Cerrado\"",
       "url": "https://www.visitebrasilia.com.br/noticias/parkshopping-apresenta-a-exposicao-animais-do-cerrado",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Documentário Self Portrait estreia no Cine Brasília em 13 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/documentario-self-portrait-estreia-no-cine-brasilia-em-13-de-outubro",
-      "tipo": "evento",
+      "title": "Homem ataca jovem de 17 anos em vagão feminino do metrô no DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-ataca-jovem-de-17-anos-em-vagao-feminino-do-metro-no-df-28092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -55,39 +43,45 @@
       "urgente": false
     },
     {
-      "title": "Novos viadutos da EPIG ampliam fluidez do trânsito entre Sudoeste e Octogonal",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/novos-viadutos-da-epig-ampliam-fluidez-do-transito-entre-sudoeste-e-octogonal-28092026",
+      "title": "Carros elétricos avançam com mais pontos de recarga",
+      "url": "https://noticias.r7.com/brasilia/auto-record/video/carros-eletricos-avancam-em-brasilia-com-expansao-da-rede-de-carregamento-28092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Metrô-DF reforça fiscalização em vagão exclusivo após adolescente ser atacada com garrafa",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/metro-df-reforca-fiscalizacao-em-vagao-exclusivo-apos-adolescente-ser-atacada-com-garrafa-28092026",
+      "title": "Prêmio Café do Cerrado: inscrições abertas para DF e GO",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/premio-cafe-do-cerrado-central-recebe-inscricoes-de-produtores-do-df-e-de-goias-28092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Cão é resgatado de barraco em chamas, sofre queimaduras e perde visão de um olho no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cao-e-resgatado-de-barraco-em-chamas-sofre-queimaduras-e-perde-visao-de-um-olho-no-df-28092026",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Tribunal do Júri condena três irmãos por invadir casa e matar mulher no DF",
-      "url": "https://www.metropoles.com/distrito-federal/tribunal-do-juri-condena-tres-irmaos-por-invadir-casa-e-matar-mulher-no-df",
+      "title": "Fim de aluguel pode fazer com que 35 alunos PCDs estudem longe de casa",
+      "url": "https://www.metropoles.com/distrito-federal/fim-de-aluguel-pode-fazer-com-que-35-alunos-pcds-estudem-longe-de-casa",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Brasília registra maior temperatura para setembro e a menor umidade do ano",
-      "url": "https://www.metropoles.com/distrito-federal/brasilia-registra-maior-temperatura-para-setembro-e-a-menor-umidade-do-ano",
-      "tipo": "atualidade",
+      "title": "Passageiras reclamam de falta de segurança no Metrô: \"Não temos sossego\"",
+      "url": "https://www.metropoles.com/distrito-federal/nao-temos-sossego-passageiras-reclamam-de-falta-de-seguranca-no-metro",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cão incendiado em barraco no DF teve 55% do corpo queimado e perdeu o olho",
+      "url": "https://www.metropoles.com/distrito-federal/cao-incendiado-em-barraco-no-df-teve-55-do-corpo-queimado-e-perdeu-o-olho",
+      "tipo": "noticia",
       "urgente": false
     },
     {
