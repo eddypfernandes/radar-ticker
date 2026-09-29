@@ -1,93 +1,111 @@
 {
   "items": [
     {
-      "title": "IA 60+ promove encontro sobre tecnologia, empreendedorismo e novas oportunidades em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ia-60-promove-encontro-sobre-tecnologia-empreendedorismo-e-novas-oportunidades-em-brasilia",
+      "title": "Sulamérica patrocina Night Run em Brasília leva saúde e bem-estar à capital federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/sulamerica-patrocina-night-run-em-brasilia-leva-saude-e-bem-estar-a-capital-federal",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Venâncio Shopping recebe campeonato de xadrez com categorias para todas as idades",
-      "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-campeonato-de-xadrez-com-categorias-para-todas-as-idades",
+      "title": "Renato Albani apresenta pela primeira vez em Brasília o novo espetáculo \"Salve-se Quem Puder\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/renato-albani-apresenta-pela-primeira-vez-em-brasilia-o-novo-espetaculo-salve-se-quem-puder",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Caio Collet surpreende e brilha com Felipe Massa na Stock Car em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-surpreende-e-brilha-com-felipe-massa-na-stock-car-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Teatro de bonecos gratuito no Ponto de Cultura Espaço Cultural Bagagem; confira a programação deste sábado",
-      "url": "https://www.visitebrasilia.com.br/noticias/teatro-de-bonecos-gratuito-no-ponto-de-cultura-espaco-cultural-bagagem-confira-a-programacao-deste-sabado",
+      "title": "Gole de Poesia reúne literatura periférica, música e hip-hop no Mercado Sul em Taguatinga",
+      "url": "https://www.visitebrasilia.com.br/noticias/gole-de-poesia-reune-literatura-periferica-musica-e-hip-hop-no-mercado-sul-em-taguatinga-2",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Tradicional Dia das Crianças do Pátio Brasil ganha novidade este ano com Bailinho Especial de Halloween",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-dia-das-criancas-do-patio-brasil-ganha-novidade-este-ano-com-bailinho-especial-de-halloween",
+      "title": "Instituto Cervantes de Brasília sedia encontro sobre \"Mulheres na Ciência Oceânica\" nesta quarta (30)",
+      "url": "https://www.visitebrasilia.com.br/noticias/instituto-cervantes-de-brasilia-sedia-encontro-sobre-mulheres-na-ciencia-oceanica-nesta-quarta-30",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Buraco do Jazz encerra temporada de 10 anos neste mês de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-neste-mes-de-outubro",
+      "title": "Tutory: maior edtech da América Latina inaugura sede de 1 mil m² no DF nesta sexta-feira (2)",
+      "url": "https://www.visitebrasilia.com.br/noticias/tutory-maior-edtech-da-america-latina-inaugura-sede-de-1-mil-m-no-df-nesta-sexta-feira-2",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Brasília recebe Zeca Pagodinho, Alcione e Jorge Aragão no show \"O Maior Encontro do Samba\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-zeca-pagodinho-alcione-e-jorge-aragao-no-show-o-maior-encontro-do-samba",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "ParkShopping apresenta a exposição \"Animais do Cerrado\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/parkshopping-apresenta-a-exposicao-animais-do-cerrado",
+      "title": "O projeto Celebrando Rita Lee chega ao Eye Patch Panda no próximo sábado, 03 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-projeto-celebrando-rita-lee-chega-ao-eye-patch-panda-no-proximo-sabado-03-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Caminhada, pilates e palestras: evento em Brasília promove manhã dedicada à saúde",
-      "url": "https://www.visitebrasilia.com.br/noticias/caminhada-pilates-e-palestras-evento-em-brasilia-promove-manha-dedicada-a-saude",
+      "title": "CCBB Brasília apresenta Leo Gandelman na reta final de Tom e Vinicius",
+      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-leo-gandelman-na-reta-final-de-tom-e-vinicius",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Família pede ajuda para encontrar pasta com documentos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/familia-de-samambaia-sul-df-pede-ajuda-para-encontrar-pasta-com-documentos-28092026",
-      "tipo": "utilidade pública",
+      "title": "Carros elétricos avançam com mais pontos de recarga",
+      "url": "https://noticias.r7.com/brasilia/auto-record/video/carros-eletricos-avancam-em-brasilia-com-expansao-da-rede-de-carregamento-28092026",
+      "tipo": "novidade",
       "urgente": false
     },
     {
-      "title": "Após acordo com reajuste de 8% e incremento em benefícios, greve dos rodoviários é suspensa",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/greve-dos-rodoviarios-e-suspensa-no-df-28092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Onda de calor atinge o DF e marca recorde de temperatura para setembro",
+      "title": "Onda de calor atinge o Distrito Federal e marca recorde de temperatura para setembro",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/onda-de-calor-atinge-o-df-e-marca-recorde-de-temperatura-para-setembro-29092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF entra em alerta vermelho para umidade abaixo de 12% nesta terça-feira",
-      "url": "https://www.metropoles.com/distrito-federal/df-entra-em-alerta-vermelho-para-umidade-abaixo-de-12-nesta-terca-feira",
+      "title": "Agrofloresta em Taguatinga recupera o solo, produz alimentos e preserva a natureza",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/agrofloresta-em-taguatinga-df-recupera-o-solo-produz-alimentos-e-preserva-a-natureza-28092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DETRAN-DF anuncia novas regras para provas teóricas e práticas da CNH",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/detran-df-anuncia-novas-regras-para-provas-teoricas-e-praticas-da-cnh-29092026",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Com umidade do ar em 11%, DF bate recorde de tempo seco em 2026",
+      "url": "https://www.metropoles.com/distrito-federal/com-umidade-do-ar-em-11-df-bate-recorde-de-tempo-seco-em-2026",
       "tipo": "atualidade",
       "urgente": true
     },
     {
-      "title": "Corpo de sargento da PMDF é encontrado carbonizado no Entorno",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/corpo-de-sargento-da-pmdf-e-encontrado-carbonizado-no-entorno",
+      "title": "Acidente entre dois caminhões causa engarrafamento extenso na Epia Sul",
+      "url": "https://www.metropoles.com/distrito-federal/acidente-entre-dois-caminhoes-causa-longo-engarrafamento-na-epia-sul",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "Moradores de Águas Claras denunciam abandono de área no Parque Sul",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-de-aguas-claras-denunciam-abandono-de-area-no-parque-sul-15002685.ghtml",
-      "tipo": "noticia",
+      "title": "Ônibus do DF vão circular com tabela de dia útil no domingo de eleição",
+      "url": "https://www.metropoles.com/distrito-federal/onibus-do-df-vao-circular-com-tabela-de-dia-util-no-domingo-de-eleicao",
+      "tipo": "utilidade_publica",
       "urgente": false
     },
     {
@@ -97,26 +115,8 @@
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
-      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "title": "Corridas de rua movimentam fim de semana no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/corridas-de-rua-movimentam-fim-de-semana-no-df-14999232.ghtml",
       "tipo": "evento",
       "urgente": false
     }
