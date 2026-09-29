@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Venâncio Shopping recebe campeonato de xadrez com categorias para todas as idades",
+      "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-campeonato-de-xadrez-com-categorias-para-todas-as-idades",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Caio Collet surpreende e brilha com Felipe Massa na Stock Car em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-surpreende-e-brilha-com-felipe-massa-na-stock-car-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Teatro de bonecos gratuito no Ponto de Cultura Espaço Cultural Bagagem; confira a programação deste sábado",
+      "url": "https://www.visitebrasilia.com.br/noticias/teatro-de-bonecos-gratuito-no-ponto-de-cultura-espaco-cultural-bagagem-confira-a-programacao-deste-sabado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Tradicional Dia das Crianças do Pátio Brasil ganha novidade este ano com Bailinho Especial de Halloween",
       "url": "https://www.visitebrasilia.com.br/noticias/tradicional-dia-das-criancas-do-patio-brasil-ganha-novidade-este-ano-com-bailinho-especial-de-halloween",
       "tipo": "evento",
@@ -13,21 +31,9 @@
       "urgente": false
     },
     {
-      "title": "Fausto Arnaudo vence primeira corrida da Bradesco Fórmula 4 Brasil em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/fausto-arnaudo-vence-primeira-corrida-da-bradesco-formula-4-brasil-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "ParkShopping apresenta a exposição \"Animais do Cerrado\"",
       "url": "https://www.visitebrasilia.com.br/noticias/parkshopping-apresenta-a-exposicao-animais-do-cerrado",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Caminhada, pilates e palestras: evento em Brasília promove manhã dedicada à saúde",
-      "url": "https://www.visitebrasilia.com.br/noticias/caminhada-pilates-e-palestras-evento-em-brasilia-promove-manha-dedicada-a-saude",
-      "tipo": "dica",
       "urgente": false
     },
     {
@@ -37,21 +43,9 @@
       "urgente": false
     },
     {
-      "title": "Governo monitora rede de divulgação de bets e derruba 506 sites",
-      "url": "https://noticias.r7.com/brasilia/governo-monitora-rede-de-divulgacao-de-bets-e-derruba-506-sites-28092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Pneumonia e meningite: Anvisa aprova registro de vacina",
-      "url": "https://noticias.r7.com/brasilia/anvisa-aprova-registro-de-vacina-contra-bacteria-causadora-de-pneumonia-e-meningite-28092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Família pede ajuda para encontrar pasta com documentos",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/familia-de-samambaia-sul-df-pede-ajuda-para-encontrar-pasta-com-documentos-28092026",
-      "tipo": "utilidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,15 +61,27 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "title": "Metrô-DF reforça fiscalização em vagão exclusivo após adolescente ser atacada com garrafa",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/metro-df-reforca-fiscalizacao-em-vagao-exclusivo-apos-adolescente-ser-atacada-com-garrafa-28092026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "title": "Cão é resgatado de barraco em chamas, sofre queimaduras e perde visão de um olho no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cao-e-resgatado-de-barraco-em-chamas-sofre-queimaduras-e-perde-visao-de-um-olho-no-df-28092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Tribunal do Júri condena três irmãos por invadir casa e matar mulher no DF",
+      "url": "https://www.metropoles.com/distrito-federal/tribunal-do-juri-condena-tres-irmaos-por-invadir-casa-e-matar-mulher-no-df",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,38 +91,8 @@
       "urgente": false
     },
     {
-      "title": "Eleições: escolas do DF que são locais de votação terão aula suspensa na 6ª",
-      "url": "https://www.metropoles.com/distrito-federal/eleicoes-escolas-do-df-que-sao-locais-de-votacao-terao-aula-suspensa-na-6a",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Kiko Caputo propõe que UBS no DF funcione aos fins de semana",
-      "url": "https://www.metropoles.com/distrito-federal/kiko-caputo-propoe-que-ubss-no-df-funcionem-aos-fins-de-semana",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Livro conta histórias de casos de doação de órgãos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/livro-conta-historias-de-casos-de-doacao-de-orgaos-14999525.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Buraco de telefonia aberto há mais de um mês preocupa moradores de Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/buraco-de-telefonia-aberto-ha-mais-de-um-mes-preocupa-moradores-de-samambaia-df-28092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Filhote de onça-parda é resgatado em plantação de milho próximo à BR-060 .",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/filhote-de-onca-parda-e-resgatado-em-plantacao-de-milho-proximo-a-br-060",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Prêmio Café do Cerrado: inscrições abertas para DF e GO",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/premio-cafe-do-cerrado-central-recebe-inscricoes-de-produtores-do-df-e-de-goias-28092026",
       "tipo": "noticia",
       "urgente": false
     }
