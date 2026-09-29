@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "A garagem ganha novo conceito no projeto de Fabiana Boner para a CASACOR Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-garagem-ganha-novo-conceito-no-projeto-de-fabiana-boner-para-a-casacor-brasilia",
+      "title": "IA 60+ promove encontro sobre tecnologia, empreendedorismo e novas oportunidades em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ia-60-promove-encontro-sobre-tecnologia-empreendedorismo-e-novas-oportunidades-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Venâncio Shopping recebe campeonato de xadrez com categorias para todas as idades",
+      "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-campeonato-de-xadrez-com-categorias-para-todas-as-idades",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Caio Collet surpreende e brilha com Felipe Massa na Stock Car em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-collet-surpreende-e-brilha-com-felipe-massa-na-stock-car-em-brasilia",
       "tipo": "noticia",
       "urgente": false
     },
@@ -19,21 +31,27 @@
       "urgente": false
     },
     {
+      "title": "Buraco do Jazz encerra temporada de 10 anos neste mês de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-neste-mes-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "ParkShopping apresenta a exposição \"Animais do Cerrado\"",
       "url": "https://www.visitebrasilia.com.br/noticias/parkshopping-apresenta-a-exposicao-animais-do-cerrado",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Homem ataca jovem de 17 anos em vagão feminino do metrô no DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-ataca-jovem-de-17-anos-em-vagao-feminino-do-metro-no-df-28092026",
-      "tipo": "noticia",
+      "title": "Caminhada, pilates e palestras: evento em Brasília promove manhã dedicada à saúde",
+      "url": "https://www.visitebrasilia.com.br/noticias/caminhada-pilates-e-palestras-evento-em-brasilia-promove-manha-dedicada-a-saude",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Família pede ajuda para encontrar pasta com documentos",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/familia-de-samambaia-sul-df-pede-ajuda-para-encontrar-pasta-com-documentos-28092026",
-      "tipo": "noticia",
+      "tipo": "utilidade pública",
       "urgente": false
     },
     {
@@ -43,44 +61,32 @@
       "urgente": false
     },
     {
-      "title": "Carros elétricos avançam com mais pontos de recarga",
-      "url": "https://noticias.r7.com/brasilia/auto-record/video/carros-eletricos-avancam-em-brasilia-com-expansao-da-rede-de-carregamento-28092026",
+      "title": "Onda de calor atinge o DF e marca recorde de temperatura para setembro",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/onda-de-calor-atinge-o-df-e-marca-recorde-de-temperatura-para-setembro-29092026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Prêmio Café do Cerrado: inscrições abertas para DF e GO",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/premio-cafe-do-cerrado-central-recebe-inscricoes-de-produtores-do-df-e-de-goias-28092026",
+      "title": "DF entra em alerta vermelho para umidade abaixo de 12% nesta terça-feira",
+      "url": "https://www.metropoles.com/distrito-federal/df-entra-em-alerta-vermelho-para-umidade-abaixo-de-12-nesta-terca-feira",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "Corpo de sargento da PMDF é encontrado carbonizado no Entorno",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/corpo-de-sargento-da-pmdf-e-encontrado-carbonizado-no-entorno",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Fim de aluguel pode fazer com que 35 alunos PCDs estudem longe de casa",
-      "url": "https://www.metropoles.com/distrito-federal/fim-de-aluguel-pode-fazer-com-que-35-alunos-pcds-estudem-longe-de-casa",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Passageiras reclamam de falta de segurança no Metrô: \"Não temos sossego\"",
-      "url": "https://www.metropoles.com/distrito-federal/nao-temos-sossego-passageiras-reclamam-de-falta-de-seguranca-no-metro",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cão incendiado em barraco no DF teve 55% do corpo queimado e perdeu o olho",
-      "url": "https://www.metropoles.com/distrito-federal/cao-incendiado-em-barraco-no-df-teve-55-do-corpo-queimado-e-perdeu-o-olho",
+      "title": "Moradores de Águas Claras denunciam abandono de área no Parque Sul",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-de-aguas-claras-denunciam-abandono-de-area-no-parque-sul-15002685.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -88,6 +94,30 @@
       "title": "Livro conta histórias de casos de doação de órgãos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/livro-conta-historias-de-casos-de-doacao-de-orgaos-14999525.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
+      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
