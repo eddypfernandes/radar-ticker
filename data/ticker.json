@@ -7,26 +7,8 @@
       "urgente": false
     },
     {
-      "title": "Sucesso de público estende Life Expo Wellness, que ganha dois dias extras de programação em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sucesso-de-publico-estende-life-expo-wellness-que-ganha-dois-dias-extras-de-programacao-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Sulamérica patrocina Night Run em Brasília leva saúde e bem-estar à capital federal",
       "url": "https://www.visitebrasilia.com.br/noticias/sulamerica-patrocina-night-run-em-brasilia-leva-saude-e-bem-estar-a-capital-federal",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Carflix, rede de intermediação de compra e venda de carros, chega a Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/carflix-rede-de-intermediacao-de-compra-e-venda-de-carros-chega-a-brasilia",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Renato Albani apresenta pela primeira vez em Brasília o novo espetáculo \"Salve-se Quem Puder\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/renato-albani-apresenta-pela-primeira-vez-em-brasilia-o-novo-espetaculo-salve-se-quem-puder",
       "tipo": "evento",
       "urgente": false
     },
@@ -45,7 +27,7 @@
     {
       "title": "Tutory: maior edtech da América Latina inaugura sede de 1 mil m² no DF nesta sexta-feira (2)",
       "url": "https://www.visitebrasilia.com.br/noticias/tutory-maior-edtech-da-america-latina-inaugura-sede-de-1-mil-m-no-df-nesta-sexta-feira-2",
-      "tipo": "novidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -55,8 +37,8 @@
       "urgente": false
     },
     {
-      "title": "Diesel aumenta em 25 estados e no DF; governo pressiona ANP para mais fiscalização",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/diesel-aumenta-em-25-estados-e-no-df-governo-pressiona-anp-para-mais-fiscalizacao-29092026",
+      "title": "Mulher ataca outra com pedaço de vidro e é presa",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-presa-por-tentativa-de-homicidio-apos-atacar-vitima-com-pedaco-de-vidro-em-brasilia-29092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -64,11 +46,17 @@
       "title": "Onda de calor atinge o Distrito Federal e marca recorde de temperatura para setembro",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/onda-de-calor-atinge-o-df-e-marca-recorde-de-temperatura-para-setembro-29092026",
       "tipo": "atualidade",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Detran-DF anuncia novas regras para provas teóricas e práticas da CNH",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/detran-df-anuncia-novas-regras-para-provas-teoricas-e-praticas-da-cnh-29092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Motorista embriagado atropela homem e bebê de 1 ano e tenta fugir no Itapoã (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-embriagado-atropela-homem-e-bebe-de-1-ano-e-tenta-fugir-no-itapoa-df-29092026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,15 +67,9 @@
       "urgente": false
     },
     {
-      "title": "Polícia prende suspeitos de aplicar golpe do falso delegado no DF e em outros estados",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-prende-suspeitos-de-aplicar-golpe-do-falso-delegado-no-df-e-em-outros-estados-29092026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -97,14 +79,32 @@
       "urgente": false
     },
     {
-      "title": "DF terá monitoramento feito por drones nos principais pontos de votação",
-      "url": "https://www.metropoles.com/distrito-federal/df-tera-monitoramento-feito-por-drones-nos-principais-pontos-de-votacao",
+      "title": "Quiosques, bares e restaurantes do Cruzeiro têm novos horários para fechar",
+      "url": "https://www.metropoles.com/distrito-federal/quiosques-bares-e-restaurantes-do-cruzeiro-tem-novos-horarios-para-fechar",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Traficante ameaça motoristas e vai preso após monitoramento da PMDF",
-      "url": "https://www.metropoles.com/distrito-federal/traficante-ameaca-motoristas-e-vai-preso-apos-monitoramento-da-pmdf",
+      "title": "GDF define datas do recesso de fim de ano dos servidores públicos; veja",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-define-datas-do-recesso-de-fim-de-ano-dos-servidores-publicos-veja",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Agências do trabalhador do DF têm 1.089 vagas de emprego nesta quarta-feira",
+      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-do-df-tem-1-089-vagas-de-emprego-nesta-quarta-feira",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Áreas de Sobradinho e Paranoá ficam sem energia nesta quarta-feira (30/9)",
+      "url": "https://www.metropoles.com/distrito-federal/areas-de-sobradinho-e-paranoa-ficam-sem-energia-nesta-quarta-feira-30-9-2",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Novas medidas para tentar conter a alta do preço dos combustíveis",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/novas-medidas-para-tentar-conter-a-alta-do-preco-dos-combustiveis-15006127.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -112,12 +112,6 @@
       "title": "Moradores de Águas Claras denunciam abandono de área no Parque Sul",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-de-aguas-claras-denunciam-abandono-de-area-no-parque-sul-15002685.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Livro conta histórias de casos de doação de órgãos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/livro-conta-historias-de-casos-de-doacao-de-orgaos-14999525.ghtml",
-      "tipo": "dica",
       "urgente": false
     }
   ]
