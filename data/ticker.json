@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "PM apreende 80 pés de maconha e duas espingardas em chácara no Guará",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pm-apreende-80-pes-de-maconha-e-duas-espingardas-em-chacara-no-guara-df-30092026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Bla's Cozinha Criativa apresenta menu convidativo do chef Gabriel Blas",
+      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-apresenta-menu-convidativo-do-chef-gabriel-blas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Fala Materna une tradições musicais em show no Clube do Choro",
       "url": "https://www.visitebrasilia.com.br/noticias/fala-materna-une-tradicoes-musicais-em-show-no-clube-do-choro",
       "tipo": "evento",
@@ -9,13 +27,13 @@
     {
       "title": "Sebrae LabDay conecta turismo, inovação e novas oportunidades de negócios em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/sebrae-labday-conecta-turismo-inovacao-e-novas-oportunidades-de-negocios-em-brasilia",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Teatro Nacional abre documentário sobre espaços que ajudam a contar a história cultural de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/teatro-nacional-abre-documentario-sobre-espacos-que-ajudam-a-contar-a-historia-cultural-de-brasilia",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -37,8 +55,32 @@
       "urgente": false
     },
     {
+      "title": "G7 Comédia : “As Aventuras de Nina e a Cidade Avião” terá duas sessões especiais",
+      "url": "https://www.visitebrasilia.com.br/noticias/g7-comedia-as-aventuras-de-nina-e-a-cidade-aviao-tera-duas-sessoes-especiais",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Brincando com Arte leva forró e mamulengo a escolas públicas do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/brincando-com-arte-leva-forro-e-mamulengo-a-escolas-publicas-do-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Taguatinga Shopping capacita mulheres para criação de cenografia sustentável de Halloween",
+      "url": "https://www.visitebrasilia.com.br/noticias/taguatinga-shopping-capacita-mulheres-para-criacao-de-cenografia-sustentavel-de-halloween",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Uma noite para celebrar o rock nas vozes femininas em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/uma-noite-para-celebrar-o-rock-nas-vozes-femininas-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "A tradição da Oktoberfest ganha o jeito da Hop no dia 03/10",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-tradicao-da-oktoberfest-ganha-o-jeito-da-hop-no-dia-03-10",
       "tipo": "evento",
       "urgente": false
     },
@@ -49,69 +91,33 @@
       "urgente": false
     },
     {
-      "title": "PM apreende 80 pés de maconha e duas espingardas em chácara no Guará",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pm-apreende-80-pes-de-maconha-e-duas-espingardas-em-chacara-no-guara-df-30092026",
+      "title": "Sucesso de público estende Life Expo Wellness, que ganha dois dias extras de programação em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sucesso-de-publico-estende-life-expo-wellness-que-ganha-dois-dias-extras-de-programacao-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Meteorologista alerta para calor intenso e possibilidade de novo recorde no DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/meteorologista-alerta-para-calor-intenso-e-possibilidade-de-novo-recorde-no-df-30092026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Cliente paga R$ 18 mil por móveis, mas marceneiro some",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/cliente-paga-r-18-mil-por-moveis-planejados-e-denuncia-desaparecimento-de-marceneiro-30092026",
+      "title": "“Ave-fantasma da Amazônia” é resgatada ferida dentro de apartamento no DF",
+      "url": "https://www.metropoles.com/distrito-federal/ave-fantasma-da-amazonia-e-resgatada-ferida-dentro-de-apartamento-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "Metrô-DF vai ampliar horário de funcionamento nos dias da eleição",
+      "url": "https://www.metropoles.com/distrito-federal/metro-df-vai-ampliar-horario-de-funcionamento-nos-dias-da-eleicao",
       "tipo": "noticia",
       "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "TRE oferece transporte gratuito para eleitores da zona rural. Confira rotas",
-      "url": "https://www.metropoles.com/distrito-federal/tre-oferece-transporte-gratuito-para-eleitores-da-zona-rural-confira-rotas",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Tráfico na \"Rota dos Bares\" é sufocado e PCDF fez 40 prisões na Asa Norte",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/trafico-na-rota-dos-bares-e-sufocado-e-pcdf-fez-40-prisoes-na-asa-norte",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Acidente entre carro e moto trava trânsito no viaduto da Estrutural .",
-      "url": "https://www.metropoles.com/distrito-federal/acidente-entre-carro-e-moto-trava-transito-no-viaduto-da-estrutural",
-      "tipo": "noticia",
-      "urgente": true
     },
     {
       "title": "Seleção Brasília enfrenta a Índia no sábado (03/10)",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasilia-enfrenta-a-india-no-sabado-0310-15007302.ghtml",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Localização de parque inclusivo preocupa moradores de Ceilândia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/localizacao-de-parque-inclusivo-preocupa-moradores-de-ceilandia-15006175.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Projeto oferece capacitação gratuita em tecnologia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/projeto-oferece-capacitacao-gratuita-em-tecnologia-15006292.ghtml",
-      "tipo": "vaga",
       "urgente": false
     }
   ]
