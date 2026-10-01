@@ -7,12 +7,6 @@
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Bla's Cozinha Criativa apresenta menu convidativo do chef Gabriel Blas",
       "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-apresenta-menu-convidativo-do-chef-gabriel-blas",
       "tipo": "dica",
@@ -27,13 +21,13 @@
     {
       "title": "Sebrae LabDay conecta turismo, inovação e novas oportunidades de negócios em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/sebrae-labday-conecta-turismo-inovacao-e-novas-oportunidades-de-negocios-em-brasilia",
-      "tipo": "atualidade",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Teatro Nacional abre documentário sobre espaços que ajudam a contar a história cultural de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/teatro-nacional-abre-documentario-sobre-espacos-que-ajudam-a-contar-a-historia-cultural-de-brasilia",
-      "tipo": "noticia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -51,18 +45,6 @@
     {
       "title": "Projeto \"ARTE PARA A INQUIETUDE CONTEMPORÂNEA\" ocupa o Espaço Cultural Renato Russo",
       "url": "https://www.visitebrasilia.com.br/noticias/projeto-arte-para-a-inquietude-contemporanea-ocupa-o-espaco-cultural-renato-russo",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "G7 Comédia : “As Aventuras de Nina e a Cidade Avião” terá duas sessões especiais",
-      "url": "https://www.visitebrasilia.com.br/noticias/g7-comedia-as-aventuras-de-nina-e-a-cidade-aviao-tera-duas-sessoes-especiais",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Brincando com Arte leva forró e mamulengo a escolas públicas do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/brincando-com-arte-leva-forro-e-mamulengo-a-escolas-publicas-do-df",
       "tipo": "evento",
       "urgente": false
     },
@@ -91,15 +73,27 @@
       "urgente": false
     },
     {
-      "title": "Sucesso de público estende Life Expo Wellness, que ganha dois dias extras de programação em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sucesso-de-publico-estende-life-expo-wellness-que-ganha-dois-dias-extras-de-programacao-em-brasilia",
-      "tipo": "evento",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Dono torturava cachorro jogando água e aplicando choques com taser .",
+      "url": "https://www.metropoles.com/distrito-federal/dono-torturava-cachorro-jogando-agua-e-aplicando-choques-com-taser",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Outubro terá altas temperaturas e chuvas abaixo da média no DF",
+      "url": "https://www.metropoles.com/distrito-federal/outubro-tera-altas-temperaturas-e-chuvas-abaixo-da-media-no-df",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -109,15 +103,21 @@
       "urgente": false
     },
     {
-      "title": "Metrô-DF vai ampliar horário de funcionamento nos dias da eleição",
-      "url": "https://www.metropoles.com/distrito-federal/metro-df-vai-ampliar-horario-de-funcionamento-nos-dias-da-eleicao",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Seleção Brasília enfrenta a Índia no sábado (03/10)",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasilia-enfrenta-a-india-no-sabado-0310-15007302.ghtml",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Projeto oferece capacitação gratuita em tecnologia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/projeto-oferece-capacitacao-gratuita-em-tecnologia-15006292.ghtml",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Alimentação saudável nas escolas",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/alimentacao-saudavel-nas-escolas-15006163.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
