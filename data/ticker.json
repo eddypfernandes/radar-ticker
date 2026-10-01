@@ -1,104 +1,62 @@
 {
   "items": [
     {
+      "title": "A Embaixada da Espanha apresenta a Mostra de Cinema Espanhol 2026 no Cine Brasília de 8 a 11 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-embaixada-da-espanha-apresenta-a-mostra-de-cinema-espanhol-2026-no-cine-brasilia-de-8-a-11-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Pix por aproximação deixa de ter teto de R$ 500 a partir desta quinta-feira",
+      "url": "https://noticias.r7.com/economia/pix-por-aproximacao-deixa-de-ter-teto-de-r-500-a-partir-desta-quinta-01102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Falta de energia afeta funcionamento de alas do Hospital de Base do DF",
+      "url": "https://www.metropoles.com/distrito-federal/falta-de-energia-afeta-funcionamento-de-alas-do-hospital-de-base-do-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "GDF muda regra de agendamento das Farmácias de Alto Custo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/gdf-muda-regra-de-agendamento-das-farmacias-de-alto-custo-15009708.ghtml",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
       "title": "PM apreende 80 pés de maconha e duas espingardas em chácara no Guará",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pm-apreende-80-pes-de-maconha-e-duas-espingardas-em-chacara-no-guara-df-30092026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Bla's Cozinha Criativa apresenta menu convidativo do chef Gabriel Blas",
-      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-apresenta-menu-convidativo-do-chef-gabriel-blas",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Fala Materna une tradições musicais em show no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/fala-materna-une-tradicoes-musicais-em-show-no-clube-do-choro",
+      "title": "Samba, feijoada e tradição se encontram no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/samba-feijoada-e-tradicao-se-encontram-no-clube-do-choro-de-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Sebrae LabDay conecta turismo, inovação e novas oportunidades de negócios em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sebrae-labday-conecta-turismo-inovacao-e-novas-oportunidades-de-negocios-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Teatro Nacional abre documentário sobre espaços que ajudam a contar a história cultural de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/teatro-nacional-abre-documentario-sobre-espacos-que-ajudam-a-contar-a-historia-cultural-de-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Brechó da Glória participa da 3ª edição do Bsb Brechós no Liberty Mall",
-      "url": "https://www.visitebrasilia.com.br/noticias/brecho-da-gloria-participa-da-3-edicao-do-bsb-brechos-no-liberty-mall",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "'Feijoada com Samba' recebe Samba da Tia Zélia neste sábado (3)",
-      "url": "https://www.visitebrasilia.com.br/noticias/feijoada-com-samba-recebe-samba-da-tia-zelia-neste-sabado-3",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Projeto \"ARTE PARA A INQUIETUDE CONTEMPORÂNEA\" ocupa o Espaço Cultural Renato Russo",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-arte-para-a-inquietude-contemporanea-ocupa-o-espaco-cultural-renato-russo",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Taguatinga Shopping capacita mulheres para criação de cenografia sustentável de Halloween",
-      "url": "https://www.visitebrasilia.com.br/noticias/taguatinga-shopping-capacita-mulheres-para-criacao-de-cenografia-sustentavel-de-halloween",
+      "title": "Alunos do Cilg estão há mais de um mês sem aulas por falta de professor",
+      "url": "https://www.metropoles.com/distrito-federal/alunos-do-cilg-estao-ha-mais-de-um-mes-sem-aulas-por-falta-de-professor",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Uma noite para celebrar o rock nas vozes femininas em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/uma-noite-para-celebrar-o-rock-nas-vozes-femininas-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "A tradição da Oktoberfest ganha o jeito da Hop no dia 03/10",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-tradicao-da-oktoberfest-ganha-o-jeito-da-hop-no-dia-03-10",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Trust Love se despede no dia 4 de outubro após temporada 2026 à beira do Lago Paranoá",
-      "url": "https://www.visitebrasilia.com.br/noticias/trust-love-se-despede-no-dia-4-de-outubro-apos-temporada-2026-a-beira-do-lago-paranoa",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Dono torturava cachorro jogando água e aplicando choques com taser .",
-      "url": "https://www.metropoles.com/distrito-federal/dono-torturava-cachorro-jogando-agua-e-aplicando-choques-com-taser",
+      "title": "Moradores de Arniqueira sofrem com quedas e oscilações na energia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-de-arniqueira-sofrem-com-quedas-e-oscilacoes-na-energia-15009613.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Outubro terá altas temperaturas e chuvas abaixo da média no DF",
-      "url": "https://www.metropoles.com/distrito-federal/outubro-tera-altas-temperaturas-e-chuvas-abaixo-da-media-no-df",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "“Ave-fantasma da Amazônia” é resgatada ferida dentro de apartamento no DF",
-      "url": "https://www.metropoles.com/distrito-federal/ave-fantasma-da-amazonia-e-resgatada-ferida-dentro-de-apartamento-no-df",
+      "title": "ANP intensifica fiscalização da qualidade dos combustíveis no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/anp-intensifica-fiscalizacao-da-qualidade-dos-combustiveis-no-df-01102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -109,14 +67,26 @@
       "urgente": false
     },
     {
-      "title": "Projeto oferece capacitação gratuita em tecnologia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/projeto-oferece-capacitacao-gratuita-em-tecnologia-15006292.ghtml",
-      "tipo": "vaga",
+      "title": "Operação contra o tráfico de drogas prende 79 pessoas na Asa Norte, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-contra-o-trafico-de-drogas-prende-79-pessoas-na-asa-norte-em-brasilia-01102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Alimentação saudável nas escolas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/alimentacao-saudavel-nas-escolas-15006163.ghtml",
+      "title": "Justiça determina reintegração de candidata autista a concurso do CBMDF",
+      "url": "https://www.metropoles.com/distrito-federal/justica-determina-reintegracao-de-candidata-autista-a-concurso-do-cbmdf",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Sabadinho Divertido celebra o Mês das Crianças com aventuras no teatro do Venâncio",
+      "url": "https://www.visitebrasilia.com.br/noticias/sabadinho-divertido-celebra-o-mes-das-criancas-com-aventuras-no-teatro-do-venancio",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
