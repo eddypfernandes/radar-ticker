@@ -13,9 +13,21 @@
       "urgente": false
     },
     {
+      "title": "Babynic: uma manhã de amor, descobertas e afeto em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/babynic-uma-manha-de-amor-descobertas-e-afeto-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "'Gigantes do Jardim': Conjunto Nacional recebe atração imersiva com insetos gigantes",
       "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-jardim-conjunto-nacional-recebe-atracao-imersiva-com-insetos-gigantes",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -25,16 +37,28 @@
       "urgente": false
     },
     {
+      "title": "Samba, feijoada e tradição se encontram no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/samba-feijoada-e-tradicao-se-encontram-no-clube-do-choro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Pix por aproximação deixa de ter teto de R$ 500 a partir desta quinta-feira",
       "url": "https://noticias.r7.com/economia/pix-por-aproximacao-deixa-de-ter-teto-de-r-500-a-partir-desta-quinta-01102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Operação contra o tráfico de drogas prende 79 pessoas na Asa Norte",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-contra-o-trafico-de-drogas-prende-79-pessoas-na-asa-norte-em-brasilia-01102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "ANP intensifica fiscalização em postos com testes para checar a qualidade dos combustíveis no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/anp-intensifica-fiscalizacao-da-qualidade-dos-combustiveis-no-df-01102026",
-      "tipo": "noticia",
-      "urgente": false
+      "title": "Taguatinga: incêndio em apartamento mobiliza 11 viaturas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-apartamento-assusta-moradores-e-mobiliza-11-viaturas-em-taguatinga-df-01102026",
+      "tipo": "urgente",
+      "urgente": true
     },
     {
       "title": "PM apreende 80 pés de maconha e duas espingardas em chácara no Guará",
@@ -43,20 +67,38 @@
       "urgente": false
     },
     {
+      "title": "Homem é detido após arremessar mochila suspeita ao lado do STF, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/homem-e-detido-apos-arremessar-mochila-suspeita-ao-lado-do-stf-em-brasilia-01102026",
+      "tipo": "urgente",
+      "urgente": true
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Homem é preso após fugir em carro clonado e bater em veículos no DF",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-apos-fugir-em-carro-clonado-e-bater-em-veiculos-no-df",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Embaixada dos EUA é alvo de ameaça e funcionários vão para home office",
+      "url": "https://www.metropoles.com/distrito-federal/embaixada-dos-eua-e-alvo-de-ameaca-e-funcionarios-vao-para-home-office",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "TRE-DF faz simulado de teste de autenticidade e integridade das urnas",
-      "url": "https://www.metropoles.com/distrito-federal/tre-df-faz-simulado-de-teste-de-autenticidade-e-integridade-das-urnas",
+      "title": "Mulher é atropelada por ônibus na plataforma da Rodoviária do Plano Piloto .",
+      "url": "https://www.metropoles.com/distrito-federal/mulher-e-atropelada-por-onibus-na-plataforma-da-rodoviaria-do-plano-piloto",
+      "tipo": "urgente",
+      "urgente": true
+    },
+    {
+      "title": "Homem é preso após fugir em carro clonado e bater em veículos no DF",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-apos-fugir-em-carro-clonado-e-bater-em-veiculos-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -67,57 +109,9 @@
       "urgente": false
     },
     {
-      "title": "Falta de luz no ambulatório prejudica atendimento no Hospital de Base",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/falta-de-luz-no-ambulatorio-prejudica-atendimento-no-hospital-de-base-15009621.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "GDF muda regra de agendamento das Farmácias de Alto Custo",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/gdf-muda-regra-de-agendamento-das-farmacias-de-alto-custo-15009708.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "A cura através da lente: Câmara Legislativa do DF recebe a exposição \"Marias: Um Novo Olhar\" e ciclo de ações educativas",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-cura-atraves-da-lente-camara-legislativa-do-df-recebe-a-exposicao-marias-um-novo-olhar-e-ciclo-de-acoes-educativas",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Janelas da Inclusão lança ciclo de formação gratuita em acessibilidade no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/janelas-da-inclusao-lanca-ciclo-de-formacao-gratuita-em-acessibilidade-no-df",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Taguatinga: incêndio em apartamento mobiliza 11 viaturas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-em-apartamento-assusta-moradores-e-mobiliza-11-viaturas-em-taguatinga-df-01102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Médica que teve 50% do corpo queimado em explosão de lancha deixa a UTI",
-      "url": "https://www.metropoles.com/distrito-federal/medica-que-teve-50-do-corpo-queimado-em-explosao-de-lancha-deixa-a-uti",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Sebrae LabDay conecta turismo, inovação e novas oportunidades de negócios em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sebrae-labday-conecta-turismo-inovacao-e-novas-oportunidades-de-negocios-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Operação contra o tráfico de drogas prende 79 pessoas na Asa Norte",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-contra-o-trafico-de-drogas-prende-79-pessoas-na-asa-norte-em-brasilia-01102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Hoje é o Dia Internacional das Pessoas Idosas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/hoje-e-o-dia-internacional-das-pessoas-idosas-15009787.ghtml",
-      "tipo": "atualidade",
       "urgente": false
     }
   ]
