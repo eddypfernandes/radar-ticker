@@ -1,27 +1,9 @@
 {
   "items": [
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Sebrae leva Turismo de Experiência para agentes de viagens durante a Abav Expo 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/sebrae-leva-turismo-de-experiencia-para-agentes-de-viagens-durante-a-abav-expo-2026",
+      "title": "Labarr inaugura loja no ParkShopping e abre nova fase de expansão",
+      "url": "https://www.visitebrasilia.com.br/noticias/labarr-inaugura-loja-no-parkshopping-e-abre-nova-fase-de-expansao",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cine Drive-In apresenta programação de 01 a 07 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-apresenta-programacao-de-01-a-07-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
-      "tipo": "evento",
       "urgente": false
     },
     {
@@ -37,20 +19,20 @@
       "urgente": false
     },
     {
-      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "A Embaixada da Espanha apresenta a Mostra de Cinema Espanhol 2026 no Cine Brasília de 8 a 11 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-embaixada-da-espanha-apresenta-a-mostra-de-cinema-espanhol-2026-no-cine-brasilia-de-8-a-11-de-outubro",
+      "title": "CCBB Brasília apresenta Clube de Leitura com Ana Miranda e Andressa Marques",
+      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-clube-de-leitura-com-ana-miranda-e-andressa-marques",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Samba, feijoada e tradição se encontram no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/samba-feijoada-e-tradicao-se-encontram-no-clube-do-choro-de-brasilia",
+      "title": "Outubro Rosa em movimento: Pátio Brasil recebe o Pink Flow, uma manhã de saúde, prevenção e autocuidado",
+      "url": "https://www.visitebrasilia.com.br/noticias/outubro-rosa-em-movimento-patio-brasil-recebe-o-pink-flow-uma-manha-de-saude-prevencao-e-autocuidado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vinum Brasilis chega à 21ª edição com novidades",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novidades",
       "tipo": "evento",
       "urgente": false
     },
@@ -61,15 +43,27 @@
       "urgente": false
     },
     {
-      "title": "Polícia Civil incinera quase 7 toneladas de drogas e apreende carga de R$ 4 mi",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-civil-do-df-incinera-quase-7-toneladas-de-drogas-e-apreende-carga-de-r-4-milhoes-02102026",
+      "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -82,12 +76,6 @@
       "title": "DF no Campo: colheita do morango está a todo vapor",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Posso beber e ir votar? Saiba como funciona a lei seca eleitoral",
-      "url": "https://www.metropoles.com/distrito-federal/posso-beber-e-ir-votar-saiba-como-funciona-a-lei-seca-eleitoral",
-      "tipo": "utilidade pública",
       "urgente": false
     },
     {
@@ -115,9 +103,21 @@
       "urgente": false
     },
     {
-      "title": "Hoje é o Dia Internacional das Pessoas Idosas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/hoje-e-o-dia-internacional-das-pessoas-idosas-15009787.ghtml",
-      "tipo": "atualidade",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
