@@ -7,20 +7,44 @@
       "urgente": false
     },
     {
-      "title": "Outubro Rosa: Sesc-DF oferece mamografia e atendimentos médicos gratuitos",
-      "url": "https://www.metropoles.com/distrito-federal/outubro-rosa-sesc-df-oferece-mamografia-e-atendimentos-medicos-gratuitos",
+      "title": "Cine Drive-In apresenta programação de 01 a 07 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-apresenta-programacao-de-01-a-07-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
+      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Zoológico de Brasília estará fechado ao público no domingo de eleições",
-      "url": "https://www.metropoles.com/distrito-federal/zoologico-de-brasilia-estara-fechado-ao-publico-no-domingo-de-eleicoes",
+      "title": "Aeroporto de Brasília homenageia piloto Lito Sousa com rito da aviação .",
+      "url": "https://www.metropoles.com/distrito-federal/aeroporto-de-brasilia-homenageia-piloto-lito-sousa-com-rito-da-aviacao",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Inmet prevê tempo instável no DF para o domingo de eleições",
+      "url": "https://www.metropoles.com/distrito-federal/inmet-preve-tempo-instavel-no-df-para-o-domingo-de-eleicoes",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Calor faz aumentar consumo de energia em todo DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -33,25 +57,19 @@
     {
       "title": "Festival Juventude Preta Em Cena abre Inscrições para artistas iniciantes do DF",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-juventude-preta-em-cena-abre-inscricoes-para-artistas-iniciantes-do-df",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
-      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
-      "tipo": "novidade",
+      "title": "Ministério Público inspeciona Rio Melchior após relatório da CPI",
+      "url": "https://www.metropoles.com/distrito-federal/ministerio-publico-inspeciona-rio-melchior-apos-relatorio-da-cpi",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,51 +85,39 @@
       "urgente": false
     },
     {
-      "title": "Samba, feijoada e tradição se encontram no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/samba-feijoada-e-tradicao-se-encontram-no-clube-do-choro-de-brasilia",
+      "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Detran começa fiscalização de veículos com placas terminadas em 1 e 2",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-comeca-fiscalizacao-de-veiculos-com-placas-terminadas-em-1-e-2-02102026",
+      "title": "Helicóptero da PM ajuda a interceptar carro clonado após perseguição",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/helicoptero-da-pm-ajuda-a-interceptar-carro-clonado-apos-perseguicao-no-distrito-federal-02102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Motoboy ajudou a salvar menino lançado com pai no lago: \"A bag virou boia\"",
-      "url": "https://www.metropoles.com/distrito-federal/motoboy-ajudou-a-salvar-menino-lancado-com-pai-no-lago-a-bag-virou-boia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ministério Público inspeciona Rio Melchior após relatório da CPI",
-      "url": "https://www.metropoles.com/distrito-federal/ministerio-publico-inspeciona-rio-melchior-apos-relatorio-da-cpi",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Visitas guiadas ao Congresso ficam suspensas nesta quinta, sexta, e domingo",
       "url": "https://www.visitebrasilia.com.br/noticias/visitas-guiadas-ao-congresso-ficam-suspensas-nesta-quinta-sexta-e-domingo",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
-      "tipo": "noticia",
+      "title": "Detran começa fiscalização de veículos com placas terminadas em 1 e 2",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-comeca-fiscalizacao-de-veiculos-com-placas-terminadas-em-1-e-2-02102026",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
+      "tipo": "novidade",
       "urgente": false
     }
   ]
