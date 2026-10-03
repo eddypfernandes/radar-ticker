@@ -7,74 +7,38 @@
       "urgente": false
     },
     {
-      "title": "Cine Drive-In apresenta programação de 01 a 07 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-apresenta-programacao-de-01-a-07-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Aeroporto de Brasília homenageia piloto Lito Sousa com rito da aviação .",
-      "url": "https://www.metropoles.com/distrito-federal/aeroporto-de-brasilia-homenageia-piloto-lito-sousa-com-rito-da-aviacao",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Calor faz aumentar consumo de energia em todo DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Festival Juventude Preta Em Cena abre Inscrições para artistas iniciantes do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-juventude-preta-em-cena-abre-inscricoes-para-artistas-iniciantes-do-df",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
-      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "'Gigantes do Jardim': Conjunto Nacional recebe atração imersiva com insetos gigantes",
-      "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-jardim-conjunto-nacional-recebe-atracao-imersiva-com-insetos-gigantes",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "A Embaixada da Espanha apresenta a Mostra de Cinema Espanhol 2026 no Cine Brasília de 8 a 11 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-embaixada-da-espanha-apresenta-a-mostra-de-cinema-espanhol-2026-no-cine-brasilia-de-8-a-11-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Detran começa fiscalização de veículos com placas terminadas em 1 e 2",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-comeca-fiscalizacao-de-veiculos-com-placas-terminadas-em-1-e-2-02102026",
-      "tipo": "atualidade",
+      "title": "Casos de afogamentos no DF explodem e deixam autoridades em alerta",
+      "url": "https://www.metropoles.com/distrito-federal/casos-de-afogamentos-no-df-explodem-e-deixam-autoridades-em-alerta",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Não vai conseguir votar? Saiba como justificar ausência pelo celular",
+      "url": "https://www.metropoles.com/distrito-federal/nao-vai-conseguir-votar-saiba-como-justificar-ausencia-pelo-celular",
+      "tipo": "utilidade pública",
       "urgente": false
     },
     {
       "title": "Quina: seis apostas do DF acertam a quadra e acumulam R$ 70 mil em prêmios",
       "url": "https://www.metropoles.com/distrito-federal/quina-seis-apostas-do-df-acertam-a-quadra-e-acumulam-r-70-mil-em-premios",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -85,14 +49,38 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "Galeto da Serra Gaúcha chega à beira do Lago Paranoá com estreia do Di Paolo em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/galeto-da-serra-gaucha-chega-a-beira-do-lago-paranoa-com-estreia-do-di-paolo-em-brasilia",
+      "tipo": "novidade",
       "urgente": false
     },
     {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "title": "Festival Juventude Preta Em Cena abre Inscrições para artistas iniciantes do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-juventude-preta-em-cena-abre-inscricoes-para-artistas-iniciantes-do-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cine Drive-In apresenta programação de 01 a 07 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-apresenta-programacao-de-01-a-07-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "'Gigantes do Jardim': Conjunto Nacional recebe atração imersiva com insetos gigantes",
+      "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-jardim-conjunto-nacional-recebe-atracao-imersiva-com-insetos-gigantes",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "A Embaixada da Espanha apresenta a Mostra de Cinema Espanhol 2026 no Cine Brasília de 8 a 11 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-embaixada-da-espanha-apresenta-a-mostra-de-cinema-espanhol-2026-no-cine-brasilia-de-8-a-11-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
@@ -103,20 +91,32 @@
       "urgente": false
     },
     {
-      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
+      "title": "Sabadinho Divertido celebra o Mês das Crianças com aventuras no teatro do Venâncio",
+      "url": "https://www.visitebrasilia.com.br/noticias/sabadinho-divertido-celebra-o-mes-das-criancas-com-aventuras-no-teatro-do-venancio",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Janelas da Inclusão lança ciclo de formação gratuita em acessibilidade no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/janelas-da-inclusao-lanca-ciclo-de-formacao-gratuita-em-acessibilidade-no-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Bla's Cozinha Criativa apresenta menu convidativo do chef Gabriel Blas",
+      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-apresenta-menu-convidativo-do-chef-gabriel-blas",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Impressão 3D transforma ideias em brinquedos e vira fonte de renda para famílias",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/impressao-3d-transforma-ideias-em-brinquedos-e-vira-fonte-de-renda-para-familias-02102026",
+      "title": "Detran começa fiscalização de veículos com placas terminadas em 1 e 2",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-comeca-fiscalizacao-de-veiculos-com-placas-terminadas-em-1-e-2-02102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Não vai conseguir votar? Saiba como justificar ausência pelo celular",
-      "url": "https://www.metropoles.com/distrito-federal/nao-vai-conseguir-votar-saiba-como-justificar-ausencia-pelo-celular",
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "atualidade",
       "urgente": false
     }
