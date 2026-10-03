@@ -7,20 +7,8 @@
       "urgente": false
     },
     {
-      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
-      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "'Gigantes do Jardim': Conjunto Nacional recebe atração imersiva com insetos gigantes",
-      "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-jardim-conjunto-nacional-recebe-atracao-imersiva-com-insetos-gigantes",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "CCBB Brasília apresenta Clube de Leitura com Ana Miranda e Andressa Marques",
-      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-clube-de-leitura-com-ana-miranda-e-andressa-marques",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
       "tipo": "evento",
       "urgente": false
     },
@@ -31,9 +19,45 @@
       "urgente": false
     },
     {
+      "title": "Carreta do projeto CriAtiva chega a Ceilândia com cursos gratuitos de comunicação e audiovisual",
+      "url": "https://www.visitebrasilia.com.br/noticias/carreta-do-projeto-criativa-chega-a-ceilandia-com-cursos-gratuitos-de-comunicacao-e-audiovisual",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Vinum Brasilis chega à 21ª edição com novidades",
       "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novidades",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "CCBB Brasília apresenta Clube de Leitura com Ana Miranda e Andressa Marques",
+      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-clube-de-leitura-com-ana-miranda-e-andressa-marques",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Hop Capital Beer celebra Oktoberfest com música, chope e R$ 1,5 mil em prêmios",
+      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-celebra-oktoberfest-com-musica-chope-e-r-1-5-mil-em-premios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cine Drive-In apresenta programação de 01 a 07 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-apresenta-programacao-de-01-a-07-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
+      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -61,27 +85,21 @@
       "urgente": false
     },
     {
+      "title": "Exposição, samba, rock e shows gratuitos movimentam o fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/exposicao-samba-rock-e-shows-gratuitos-movimentam-o-fim-de-semana-no-df-03102026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Calor faz aumentar consumo de energia em todo DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -94,24 +112,6 @@
       "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
       "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
       "urgente": false
     },
     {
