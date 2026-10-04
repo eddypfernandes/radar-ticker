@@ -1,50 +1,14 @@
 {
   "items": [
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "Diogo Almeida traz \"Especial Mês dos Professores 2026\" a Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/diogo-almeida-traz-especial-mes-dos-professores-2026-a-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Labarr inaugura loja no ParkShopping e abre nova fase de expansão",
-      "url": "https://www.visitebrasilia.com.br/noticias/labarr-inaugura-loja-no-parkshopping-e-abre-nova-fase-de-expansao",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Laje em chácara cede e 30 pessoas caem em buraco de 3 metros",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/laje-em-chacara-cede-e-30-pessoas-caem-em-buraco-de-3-metros",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Calor faz aumentar consumo de energia em todo DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "2ª Edição do Festival de Teatro do DF celebra a força da cena local ao longo de nove dias de sessões gratuitas de espetáculos",
-      "url": "https://www.visitebrasilia.com.br/noticias/2-edicao-do-festival-de-teatro-do-df-celebra-a-forca-da-cena-local-ao-longo-de-nove-dias-de-sessoes-gratuitas-de-espetaculos",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cerrado Jazz homenageia César Camargo Mariano e reúne Sandra de Sá, Metá Metá e diferentes gerações da música brasileira na CAIXA Cultural Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/cerrado-jazz-homenageia-cesar-camargo-mariano-e-reune-sandra-de-sa-meta-meta-e-diferentes-geracoes-da-musica-brasileira-na-caixa-cultural-brasilia",
+      "title": "1º Festival da Passarinha ocupa o Parque da Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-da-passarinha-ocupa-o-parque-da-cidade",
       "tipo": "evento",
       "urgente": false
     },
@@ -55,32 +19,80 @@
       "urgente": false
     },
     {
-      "title": "Hop Capital Beer celebra Oktoberfest com música, chope e R$ 1,5 mil em prêmios",
-      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-celebra-oktoberfest-com-musica-chope-e-r-1-5-mil-em-premios",
-      "tipo": "evento",
+      "title": "Labarr inaugura loja no ParkShopping e abre nova fase de expansão",
+      "url": "https://www.visitebrasilia.com.br/noticias/labarr-inaugura-loja-no-parkshopping-e-abre-nova-fase-de-expansao",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Vinum Brasilis chega à 21ª edição com novidades",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novidades",
-      "tipo": "evento",
+      "title": "Chuva provoca acidentes em trecho entre DF e GO",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-deixa-pista-escorregadia-e-provoca-acidentes-em-trecho-entre-df-e-go-03102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "CCBB Brasília apresenta Clube de Leitura com Ana Miranda e Andressa Marques",
-      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-clube-de-leitura-com-ana-miranda-e-andressa-marques",
-      "tipo": "evento",
+      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Carreta do projeto CriAtiva chega a Ceilândia com cursos gratuitos de comunicação e audiovisual",
-      "url": "https://www.visitebrasilia.com.br/noticias/carreta-do-projeto-criativa-chega-a-ceilandia-com-cursos-gratuitos-de-comunicacao-e-audiovisual",
+      "title": "Motorista de ônibus é baleado por passageiro após discussão causada por problema no veículo",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-onibus-e-baleado-por-passageiro-apos-discussao-causada-por-problema-no-veiculo-03102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
       "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF tem 19 urnas eletrônicas trocadas neste domingo de eleição, aponta TRE",
+      "url": "https://www.metropoles.com/distrito-federal/df-tem-19-urnas-trocadas-em-fim-de-semana-de-votacao-aponta-tre",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem dá soco em mulher em frente a local de votação em Taguatinga .",
+      "url": "https://www.metropoles.com/distrito-federal/homem-da-soco-em-mulher-em-frente-a-local-de-votacao-em-taguatinga",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Seleção se prepara para amistoso contra a Índia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -100,24 +112,12 @@
       "title": "Mais um caso de importunação no Metrô",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/mais-um-caso-de-importunacao-no-metro-15013001.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
-      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
-      "tipo": "vaga",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
