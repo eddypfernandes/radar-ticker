@@ -1,8 +1,110 @@
 {
   "items": [
     {
+      "title": "Dia das Crianças: Batalha de Tintas chega à 5ª edição com muita música, alegria e inclusão",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-batalha-de-tintas-chega-a-5-edicao-com-muita-musica-alegria-e-inclusao",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Outubro Rosa em movimento: Pátio Brasil recebe o Pink Flow, uma manhã de saúde, prevenção e autocuidado",
+      "url": "https://www.visitebrasilia.com.br/noticias/outubro-rosa-em-movimento-patio-brasil-recebe-o-pink-flow-uma-manha-de-saude-prevencao-e-autocuidado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Carreta do projeto CriAtiva chega a Ceilândia com cursos gratuitos de comunicação e audiovisual",
+      "url": "https://www.visitebrasilia.com.br/noticias/carreta-do-projeto-criativa-chega-a-ceilandia-com-cursos-gratuitos-de-comunicacao-e-audiovisual",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Labarr inaugura loja no ParkShopping e abre nova fase de expansão",
       "url": "https://www.visitebrasilia.com.br/noticias/labarr-inaugura-loja-no-parkshopping-e-abre-nova-fase-de-expansao",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Hop Capital Beer celebra Oktoberfest com música, chope e R$ 1,5 mil em prêmios",
+      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-celebra-oktoberfest-com-musica-chope-e-r-1-5-mil-em-premios",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
+      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Votação segue normalmente; apenas uma urna precisou ser trocada, diz TRE-DF",
+      "url": "https://www.metropoles.com/distrito-federal/votacao-segue-normalmente-apenas-uma-urna-precisou-ser-trocada-diz-tre-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Professor Robson vota no Guará e admite \"expectativas realistas\" .",
+      "url": "https://www.metropoles.com/distrito-federal/professor-robson-vota-no-guara-e-admite-expectativas-realistas",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Paciente oncológica deixa hospital para votar no DF, aos 73 anos",
+      "url": "https://www.metropoles.com/distrito-federal/paciente-oncologica-deixa-hospital-para-votar-no-df-aos-73-anos",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Calor faz aumentar consumo de energia em todo DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -13,105 +115,9 @@
       "urgente": false
     },
     {
-      "title": "Criança de oito anos foge e é atropelada por motociclista, em Ceilândia",
-      "url": "https://www.metropoles.com/distrito-federal/crianca-de-oito-anos-foge-e-e-atropelada-por-motociclista-em-ceilandia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Vinum Brasilis chega à 21ª edição com novidades",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novidades",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Programe-se: veja o que vai funcionar no DF neste domingo de Eleições",
-      "url": "https://www.metropoles.com/distrito-federal/programe-se-veja-o-que-vai-funcionar-no-df-neste-domingo-de-eleicoes",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
-      "tipo": "serviço",
-      "urgente": false
-    },
-    {
       "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
       "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Calor faz aumentar consumo de energia em todo DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Hop Capital Beer celebra Oktoberfest com música, chope e R$ 1,5 mil em prêmios",
-      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-celebra-oktoberfest-com-musica-chope-e-r-1-5-mil-em-premios",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "CCBB Brasília apresenta Clube de Leitura com Ana Miranda e Andressa Marques",
-      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-clube-de-leitura-com-ana-miranda-e-andressa-marques",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Mais um caso de importunação no Metrô",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/mais-um-caso-de-importunacao-no-metro-15013001.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "VEJA Brasília Comer & Beber 2026 celebra os nomes que movimentam a gastronomia local",
-      "url": "https://www.visitebrasilia.com.br/noticias/veja-brasilia-comer-beber-2026-celebra-os-nomes-que-movimentam-a-gastronomia-local",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "JK Shopping recebe encontro da comunidade Pokémon TCG",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-recebe-encontro-da-comunidade-pokemon-tcg",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Beneficiários de programas do GDF ainda não receberam pagamentos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/beneficiarios-de-programas-do-gdf-ainda-nao-receberam-pagamentos-15012961.ghtml",
-      "tipo": "serviço",
       "urgente": false
     }
   ]
