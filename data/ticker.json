@@ -1,105 +1,75 @@
 {
   "items": [
     {
-      "title": "Querido Festival reúne música, circo e brincadeiras no fim de semana do Dia das Crianças",
-      "url": "https://www.visitebrasilia.com.br/noticias/querido-festival-reune-musica-circo-e-brincadeiras-no-fim-de-semana-do-dia-das-criancas",
+      "title": "Meriele celebra o legado de Marinês e Anastácia no palco do Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/meriele-celebra-o-legado-de-marines-e-anastacia-no-palco-do-clube-do-choro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Anat Cohen e Marcello Gonçalves homenageiam Moacir Santos no Complexo Cultural do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/anat-cohen-e-marcello-goncalves-homenageiam-moacir-santos-no-complexo-cultural-do-choro",
+      "title": "No Mês das Crianças, o Rolê Cultural transforma o CCBB Brasília em território de brincadeira",
+      "url": "https://www.visitebrasilia.com.br/noticias/no-mes-das-criancas-o-role-cultural-transforma-o-ccbb-brasilia-em-territorio-de-brincadeira",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Luan Santana leva a turnê “Registro Histórico” para Brasília na Arena Mané Garrincha",
-      "url": "https://www.visitebrasilia.com.br/noticias/luan-santana-leva-a-turne-registro-historico-para-brasilia-na-arena-mane-garrincha",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Primeira feira dedicada à cultura exótica do país estreia em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/primeira-feira-dedicada-a-cultura-exotica-do-pais-estreia-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Pesquisa nacional vai traçar perfil dos turistas em 50 destinos brasileiros",
-      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-nacional-vai-tracar-perfil-dos-turistas-em-50-destinos-brasileiros",
+      "title": "Projeto Reparos cria espaço de acolhimento, escuta e troca entre mulheres do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-reparos-cria-espaco-de-acolhimento-escuta-e-troca-entre-mulheres-do-distrito-federal",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Restaurante cheio não é sinônimo de negócio lucrativo",
-      "url": "https://www.visitebrasilia.com.br/noticias/restaurante-cheio-nao-e-sinonimo-de-negocio-lucrativo",
+      "title": "Feriadão em Brasília terá 7ª etapa do Brasília Kart Series com entrada gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/feriadao-em-brasilia-tera-7-etapa-do-brasilia-kart-series-com-entrada-gratuita",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Adote um \"Aumigo\": DF Plaza Shopping promove nova edição do evento de adoção",
+      "url": "https://www.visitebrasilia.com.br/noticias/adote-um-aumigo-df-plaza-shopping-promove-nova-edicao-do-evento-de-adocao",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Espetáculo \"Calcário\" entra em cartaz no Espaço Cultural Renato Russo",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-calcario-entra-em-cartaz-no-espaco-cultural-renato-russo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Jornada Sensorial, Brunch Harmonizado e Degustação de cafés estarão na programação de outubro do Ernesto Cafés Especiais",
+      "url": "https://www.visitebrasilia.com.br/noticias/jornada-sensorial-brunch-harmonizado-e-degustacao-de-cafes-estarao-na-programacao-de-outubro-do-ernesto-cafes-especiais",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Diogo Almeida traz \"Especial Mês dos Professores 2026\" a Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/diogo-almeida-traz-especial-mes-dos-professores-2026-a-brasilia",
+      "title": "Brasília recebe, em outubro e novembro, a primeira Corrida do Idoso do país",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-em-outubro-e-novembro-a-primeira-corrida-do-idoso-do-pais",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "1º Festival da Passarinha ocupa o Parque da Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-da-passarinha-ocupa-o-parque-da-cidade",
+      "title": "Dia das Crianças: Taguatinga Shopping recebe edição de 10 anos do VideoGameShow",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-taguatinga-shopping-recebe-edicao-de-10-anos-do-videogameshow",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Rota Metropolitana de Design volta a Brasília para evento de premiação",
-      "url": "https://www.visitebrasilia.com.br/noticias/rota-metropolitana-de-design-volta-a-brasilia-para-evento-de-premiacao",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Preso engole arma artesanal após ameaçar outro interno na Papuda",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/preso-engole-arma-artesanal-apos-ameacar-outro-interno-na-papuda-no-distrito-federal-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Chuva provoca acidentes em trecho entre DF e GO",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-deixa-pista-escorregadia-e-provoca-acidentes-em-trecho-entre-df-e-go-03102026",
-      "tipo": "noticia",
+      "title": "Termina nesta segunda o prazo para resgatar dinheiro de plataformas de bets",
+      "url": "https://noticias.r7.com/brasilia/termina-hoje-o-prazo-para-resgatar-dinheiro-de-plataformas-de-bets-05102026",
+      "tipo": "utilidade_publica",
       "urgente": true
     },
     {
-      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Motorista de ônibus é baleado por passageiro após discussão causada por problema no veículo",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-onibus-e-baleado-por-passageiro-apos-discussao-causada-por-problema-no-veiculo-03102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Unindo sabor e praticidade, empreendedora ensina receita de biscoito de maracujá",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/unindo-sabor-e-praticidade-empreendedora-ensina-receita-de-biscoito-de-maracuja-05102026",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Mirtilo transforma história de superação em fonte de renda para família de Sobradinho (DF)",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/mirtilo-transforma-historia-de-superacao-em-fonte-de-renda-para-familia-de-sobradinho-df-05102026",
+      "title": "Veado-do-cerrado é resgatado debilitado após ser atacado por cães em Sobradinho",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/veado-do-cerrado-e-resgatado-debilitado-apos-ser-atacado-por-caes-em-sobradinho-df-05102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -109,14 +79,44 @@
       "urgente": false
     },
     {
-      "title": "Mulher tem parada cardíaca e morre após tentar ajudar filho em surto no DF",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-tem-parada-cardiaca-e-morre-apos-tentar-ajudar-filho-em-surto-no-df",
+      "title": "Homem é condenado a 10 anos por esfaquear motociclista após queima de pneu",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-condenado-a-10-anos-por-esfaquear-motociclista-apos-queima-de-pneu",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "20 toneladas de lixo gerado por material eleitoral foram recolhidos no DF",
-      "url": "https://www.metropoles.com/distrito-federal/20-toneladas-de-lixo-gerado-por-material-eleitoral-foram-recolhidos-no-df",
+      "title": "Tutores encaram temporal e aguardam atendimento no Hvet sob tenda furada .",
+      "url": "https://www.metropoles.com/distrito-federal/tutores-encaram-temporal-e-aguardam-atendimento-no-hvet-sob-tenda-furada",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DPDF promove mutirão retificação de nome e gênero para pessoas trans no DF",
+      "url": "https://www.metropoles.com/distrito-federal/dpdf-promove-mutirao-retificacao-de-nome-e-genero-para-pessoas-trans-no-df",
+      "tipo": "servico",
+      "urgente": false
+    },
+    {
+      "title": "Calor faz aumentar consumo de energia em todo DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
+      "tipo": "utilidade_publica",
+      "urgente": false
+    },
+    {
+      "title": "Eleitores devem ficar atentos às regras para votar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/eleitores-devem-ficar-atentos-as-regras-para-votar-15013055.ghtml",
+      "tipo": "utilidade_publica",
+      "urgente": false
+    },
+    {
+      "title": "Seleção se prepara para amistoso contra a Índia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "São Paulo conquista o título do Brasileirão Feminino",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sao-paulo-conquista-o-titulo-do-brasileirao-feminino-15023791.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
