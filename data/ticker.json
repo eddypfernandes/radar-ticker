@@ -1,26 +1,50 @@
 {
   "items": [
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "1º Festival Cultural da Consciência Negra reúne música, formação e ancestralidade em Pirenópolis",
+      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-cultural-da-consciencia-negra-reune-musica-formacao-e-ancestralidade-em-pirenopolis",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Projeto Caravana de Histórias encerra jornada lúdica da 20ª edição com cantigas e brincadeiras em Samambaia",
-      "url": "https://www.agendaculturalbrasilia.art.br/projeto-caravana-de-historias-encerra-jornada-ludica-da-20a-edicao-com-cantigas-e-brincadeiras-em-samambaia",
+      "title": "Primeira feira dedicada à cultura exótica do país estreia em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/primeira-feira-dedicada-a-cultura-exotica-do-pais-estreia-em-brasilia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Diogo Almeida traz \"Especial Mês dos Professores 2026\" a Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/diogo-almeida-traz-especial-mes-dos-professores-2026-a-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival da Passarinha ocupa o Parque da Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-da-passarinha-ocupa-o-parque-da-cidade",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "2ª Edição do Festival de Teatro do DF celebra a força da cena local ao longo de nove dias de sessões gratuitas de espetáculos",
+      "url": "https://www.visitebrasilia.com.br/noticias/2-edicao-do-festival-de-teatro-do-df-celebra-a-forca-da-cena-local-ao-longo-de-nove-dias-de-sessoes-gratuitas-de-espetaculos",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cerrado Jazz homenageia César Camargo Mariano e reúne Sandra de Sá, Metá Metá e diferentes gerações da música brasileira na CAIXA Cultural Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/cerrado-jazz-homenageia-cesar-camargo-mariano-e-reune-sandra-de-sa-meta-meta-e-diferentes-geracoes-da-musica-brasileira-na-caixa-cultural-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
       "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -31,45 +55,51 @@
       "urgente": false
     },
     {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Seleção se prepara para amistoso contra a Índia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Buraco do Jazz celebra 10 anos de ocupação cultural",
-      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-celebra-10-anos-de-ocupacao-cultural",
-      "tipo": "evento",
+      "title": "Bombeiros combatem incêndio residencial em Samambaia Norte",
+      "url": "https://www.metropoles.com/distrito-federal/bombeiros-combatem-incendio-residencial-em-samambaia-norte",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "DF elege cinco deputadas distritais e amplia bancada feminina para 20%",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-elege-cinco-deputadas-distritais-e-amplia-bancada-feminina-para-20",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Calor faz aumentar consumo de energia em todo DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
+      "tipo": "dica",
       "urgente": false
     }
   ]
