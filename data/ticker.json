@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "1º Festival Cultural da Consciência Negra reúne música, formação e ancestralidade em Pirenópolis",
-      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-cultural-da-consciencia-negra-reune-musica-formacao-e-ancestralidade-em-pirenopolis",
+      "title": "Querido Festival reúne música, circo e brincadeiras no fim de semana do Dia das Crianças",
+      "url": "https://www.visitebrasilia.com.br/noticias/querido-festival-reune-musica-circo-e-brincadeiras-no-fim-de-semana-do-dia-das-criancas",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Anat Cohen e Marcello Gonçalves homenageiam Moacir Santos no Complexo Cultural do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/anat-cohen-e-marcello-goncalves-homenageiam-moacir-santos-no-complexo-cultural-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Luan Santana leva a turnê “Registro Histórico” para Brasília na Arena Mané Garrincha",
+      "url": "https://www.visitebrasilia.com.br/noticias/luan-santana-leva-a-turne-registro-historico-para-brasilia-na-arena-mane-garrincha",
       "tipo": "evento",
       "urgente": false
     },
@@ -10,6 +22,18 @@
       "title": "Primeira feira dedicada à cultura exótica do país estreia em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/primeira-feira-dedicada-a-cultura-exotica-do-pais-estreia-em-brasilia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Pesquisa nacional vai traçar perfil dos turistas em 50 destinos brasileiros",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisa-nacional-vai-tracar-perfil-dos-turistas-em-50-destinos-brasileiros",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Restaurante cheio não é sinônimo de negócio lucrativo",
+      "url": "https://www.visitebrasilia.com.br/noticias/restaurante-cheio-nao-e-sinonimo-de-negocio-lucrativo",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -25,32 +49,50 @@
       "urgente": false
     },
     {
-      "title": "2ª Edição do Festival de Teatro do DF celebra a força da cena local ao longo de nove dias de sessões gratuitas de espetáculos",
-      "url": "https://www.visitebrasilia.com.br/noticias/2-edicao-do-festival-de-teatro-do-df-celebra-a-forca-da-cena-local-ao-longo-de-nove-dias-de-sessoes-gratuitas-de-espetaculos",
+      "title": "Rota Metropolitana de Design volta a Brasília para evento de premiação",
+      "url": "https://www.visitebrasilia.com.br/noticias/rota-metropolitana-de-design-volta-a-brasilia-para-evento-de-premiacao",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cerrado Jazz homenageia César Camargo Mariano e reúne Sandra de Sá, Metá Metá e diferentes gerações da música brasileira na CAIXA Cultural Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/cerrado-jazz-homenageia-cesar-camargo-mariano-e-reune-sandra-de-sa-meta-meta-e-diferentes-geracoes-da-musica-brasileira-na-caixa-cultural-brasilia",
-      "tipo": "evento",
+      "title": "Preso engole arma artesanal após ameaçar outro interno na Papuda",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/preso-engole-arma-artesanal-apos-ameacar-outro-interno-na-papuda-no-distrito-federal-03102026",
+      "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Chuva provoca acidentes em trecho entre DF e GO",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-deixa-pista-escorregadia-e-provoca-acidentes-em-trecho-entre-df-e-go-03102026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
       "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Motorista de ônibus é baleado por passageiro após discussão causada por problema no veículo",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-onibus-e-baleado-por-passageiro-apos-discussao-causada-por-problema-no-veiculo-03102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
-      "tipo": "noticia",
+      "title": "Unindo sabor e praticidade, empreendedora ensina receita de biscoito de maracujá",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/unindo-sabor-e-praticidade-empreendedora-ensina-receita-de-biscoito-de-maracuja-05102026",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
+      "title": "Mirtilo transforma história de superação em fonte de renda para família de Sobradinho (DF)",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/mirtilo-transforma-historia-de-superacao-em-fonte-de-renda-para-familia-de-sobradinho-df-05102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -67,39 +109,15 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bombeiros combatem incêndio residencial em Samambaia Norte",
-      "url": "https://www.metropoles.com/distrito-federal/bombeiros-combatem-incendio-residencial-em-samambaia-norte",
+      "title": "Mulher tem parada cardíaca e morre após tentar ajudar filho em surto no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-tem-parada-cardiaca-e-morre-apos-tentar-ajudar-filho-em-surto-no-df",
       "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "DF elege cinco deputadas distritais e amplia bancada feminina para 20%",
-      "url": "https://www.metropoles.com/colunas/grande-angular/df-elege-cinco-deputadas-distritais-e-amplia-bancada-feminina-para-20",
+      "title": "20 toneladas de lixo gerado por material eleitoral foram recolhidos no DF",
+      "url": "https://www.metropoles.com/distrito-federal/20-toneladas-de-lixo-gerado-por-material-eleitoral-foram-recolhidos-no-df",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Calor faz aumentar consumo de energia em todo DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casa da Mãe Atípica oferece alívio para quem está sempre cuidando do outro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/casa-da-mae-atipica-oferece-alivio-para-quem-esta-sempre-cuidando-do-outro-15013194.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
-      "tipo": "dica",
       "urgente": false
     }
   ]
