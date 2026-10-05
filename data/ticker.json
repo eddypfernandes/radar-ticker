@@ -1,98 +1,20 @@
 {
   "items": [
     {
-      "title": "Diogo Almeida traz \"Especial Mês dos Professores 2026\" a Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/diogo-almeida-traz-especial-mes-dos-professores-2026-a-brasilia",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "1º Festival da Passarinha ocupa o Parque da Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/1-festival-da-passarinha-ocupa-o-parque-da-cidade",
+      "title": "Projeto Caravana de Histórias encerra jornada lúdica da 20ª edição com cantigas e brincadeiras em Samambaia",
+      "url": "https://www.agendaculturalbrasilia.art.br/projeto-caravana-de-historias-encerra-jornada-ludica-da-20a-edicao-com-cantigas-e-brincadeiras-em-samambaia",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Outubro Rosa em movimento: Pátio Brasil recebe o Pink Flow, uma manhã de saúde, prevenção e autocuidado",
-      "url": "https://www.visitebrasilia.com.br/noticias/outubro-rosa-em-movimento-patio-brasil-recebe-o-pink-flow-uma-manha-de-saude-prevencao-e-autocuidado",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Labarr inaugura loja no ParkShopping e abre nova fase de expansão",
-      "url": "https://www.visitebrasilia.com.br/noticias/labarr-inaugura-loja-no-parkshopping-e-abre-nova-fase-de-expansao",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Chuva provoca acidentes em trecho entre DF e GO",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-deixa-pista-escorregadia-e-provoca-acidentes-em-trecho-entre-df-e-go-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Motorista de ônibus é baleado por passageiro após discussão causada por problema no veículo",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-onibus-e-baleado-por-passageiro-apos-discussao-causada-por-problema-no-veiculo-03102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Cachorro sofre agressões e choques e é resgatado após denúncias de vizinhos",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/cachorro-sofre-agressoes-e-choques-e-e-resgatado-apos-denuncias-de-vizinhos-no-df-03102026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "TJDFT promove mutirão para negociar dívidas de mensalidades escolares",
       "url": "https://noticias.r7.com/brasilia/df-record/video/tjdft-promove-mutirao-para-negociar-dividas-de-mensalidades-escolares-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF tem 19 urnas eletrônicas trocadas neste domingo de eleição, aponta TRE",
-      "url": "https://www.metropoles.com/distrito-federal/df-tem-19-urnas-trocadas-em-fim-de-semana-de-votacao-aponta-tre",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Homem dá soco em mulher em frente a local de votação em Taguatinga .",
-      "url": "https://www.metropoles.com/distrito-federal/homem-da-soco-em-mulher-em-frente-a-local-de-votacao-em-taguatinga",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Seleção se prepara para amistoso contra a Índia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -103,21 +25,51 @@
       "urgente": false
     },
     {
+      "title": "Energia solar ganha espaço no DF com aumento do consumo de eletricidade",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/energia-solar-ganha-espaco-no-df-com-aumento-do-consumo-de-eletricidade-03102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Outubro começa com chuva e recorde de calor de 36,4°C no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/outubro-comeca-com-chuva-e-recorde-de-calor-de-364c-no-distrito-federal-03102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "Cães e gatos também sentem o desconforto das altas temperaturas",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caes-e-gatos-tambem-sentem-o-desconforto-das-altas-temperaturas-15013040.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Mais um caso de importunação no Metrô",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/mais-um-caso-de-importunacao-no-metro-15013001.ghtml",
+      "title": "Seleção se prepara para amistoso contra a Índia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Conheça a história da dona Maria Inês. Aos 100 anos, ela é uma das alunas de natação do Sesc do Gama.",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/conheca-a-historia-da-dona-maria-ines-aos-100-anos-ela-e-uma-das-alunas-de-natacao-do-sesc-do-gama-15010520.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Buraco do Jazz celebra 10 anos de ocupação cultural",
+      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-celebra-10-anos-de-ocupacao-cultural",
+      "tipo": "evento",
       "urgente": false
     }
   ]
