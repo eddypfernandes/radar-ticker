@@ -1,26 +1,14 @@
 {
   "items": [
     {
-      "title": "Meriele celebra o legado de Marinês e Anastácia no palco do Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/meriele-celebra-o-legado-de-marines-e-anastacia-no-palco-do-clube-do-choro",
+      "title": "Halloween Casapark convida crianças para uma divertida aventura de \"doces ou travessuras\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-casapark-convida-criancas-para-uma-divertida-aventura-de-doces-ou-travessuras",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "No Mês das Crianças, o Rolê Cultural transforma o CCBB Brasília em território de brincadeira",
-      "url": "https://www.visitebrasilia.com.br/noticias/no-mes-das-criancas-o-role-cultural-transforma-o-ccbb-brasilia-em-territorio-de-brincadeira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Projeto Reparos cria espaço de acolhimento, escuta e troca entre mulheres do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-reparos-cria-espaco-de-acolhimento-escuta-e-troca-entre-mulheres-do-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Feriadão em Brasília terá 7ª etapa do Brasília Kart Series com entrada gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/feriadao-em-brasilia-tera-7-etapa-do-brasilia-kart-series-com-entrada-gratuita",
+      "title": "Meriele reverencia Marinês e Anastácia no palco do Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/meriele-reverencia-marines-e-anastacia-no-palco-do-clube-do-choro",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,9 +25,15 @@
       "urgente": false
     },
     {
-      "title": "Jornada Sensorial, Brunch Harmonizado e Degustação de cafés estarão na programação de outubro do Ernesto Cafés Especiais",
-      "url": "https://www.visitebrasilia.com.br/noticias/jornada-sensorial-brunch-harmonizado-e-degustacao-de-cafes-estarao-na-programacao-de-outubro-do-ernesto-cafes-especiais",
-      "tipo": "dica",
+      "title": "CrianCei – Sementes do Amanhã leva cultura, diversão e cuidados com a saúde para crianças de Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/criancei-sementes-do-amanha-leva-cultura-diversao-e-cuidados-com-a-saude-para-criancas-de-ceilandia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Festival Trilha da Inclusão promove arte acessível no CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-trilha-da-inclusao-promove-arte-acessivel-no-ccbb-brasilia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -49,16 +43,28 @@
       "urgente": false
     },
     {
-      "title": "Dia das Crianças: Taguatinga Shopping recebe edição de 10 anos do VideoGameShow",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-taguatinga-shopping-recebe-edicao-de-10-anos-do-videogameshow",
+      "title": "Show do React leva vídeos que viralizam na internet para o palco do Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/show-do-react-leva-videos-que-viralizam-na-internet-para-o-palco-do-teatro-brasilia-shopping",
       "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Termina nesta segunda o prazo para resgatar dinheiro de plataformas de bets",
       "url": "https://noticias.r7.com/brasilia/termina-hoje-o-prazo-para-resgatar-dinheiro-de-plataformas-de-bets-05102026",
-      "tipo": "utilidade_publica",
+      "tipo": "atualidade",
       "urgente": true
+    },
+    {
+      "title": "Homem agride mulher com soco após batida de trânsito em local de votação",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-agride-mulher-com-soco-apos-batida-de-transito-em-local-de-votacao-de-taguatinga-df-05102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Família tem casa destruída por incêndio e pede ajuda",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/familia-tem-casa-destruida-por-incendio-e-pede-ajuda-para-reconstruir-imovel-no-df-05102026",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Veado-do-cerrado é resgatado debilitado após ser atacado por cães em Sobradinho",
@@ -67,9 +73,15 @@
       "urgente": false
     },
     {
+      "title": "Motorista de aplicativo é brutalmente espancado após se envolver em batida no Guará (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-de-aplicativo-e-brutalmente-espancado-apos-se-envolver-em-batida-no-guara-df-05102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -79,38 +91,26 @@
       "urgente": false
     },
     {
+      "title": "Falta de energia afetará endereços em Santa Maria e Fercal nesta 3ª (6/10)",
+      "url": "https://www.metropoles.com/distrito-federal/falta-de-energia-afetara-enderecos-em-santa-maria-e-fercal-nesta-3a-6-10",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Áreas de Ceilândia ficarão sem água nesta terça-feira (6/10); veja locais",
+      "url": "https://www.metropoles.com/distrito-federal/areas-de-ceilandia-ficarao-sem-agua-nesta-terca-feira-6-10-veja-locais",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Adolescente de 16 anos é apreendido após esfaquear pastor alemão no DF",
+      "url": "https://www.metropoles.com/distrito-federal/adolescente-de-16-anos-e-apreendido-apos-esfaquear-pastor-alemao-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Homem é condenado a 10 anos por esfaquear motociclista após queima de pneu",
       "url": "https://www.metropoles.com/distrito-federal/homem-e-condenado-a-10-anos-por-esfaquear-motociclista-apos-queima-de-pneu",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Tutores encaram temporal e aguardam atendimento no Hvet sob tenda furada .",
-      "url": "https://www.metropoles.com/distrito-federal/tutores-encaram-temporal-e-aguardam-atendimento-no-hvet-sob-tenda-furada",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DPDF promove mutirão retificação de nome e gênero para pessoas trans no DF",
-      "url": "https://www.metropoles.com/distrito-federal/dpdf-promove-mutirao-retificacao-de-nome-e-genero-para-pessoas-trans-no-df",
-      "tipo": "servico",
-      "urgente": false
-    },
-    {
-      "title": "Calor faz aumentar consumo de energia em todo DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/calor-faz-aumentar-consumo-de-energia-em-todo-df-15013030.ghtml",
-      "tipo": "utilidade_publica",
-      "urgente": false
-    },
-    {
-      "title": "Eleitores devem ficar atentos às regras para votar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/eleitores-devem-ficar-atentos-as-regras-para-votar-15013055.ghtml",
-      "tipo": "utilidade_publica",
-      "urgente": false
-    },
-    {
-      "title": "Seleção se prepara para amistoso contra a Índia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-se-prepara-para-amistoso-contra-a-india-15013224.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
