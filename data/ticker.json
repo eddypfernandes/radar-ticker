@@ -1,14 +1,26 @@
 {
   "items": [
     {
-      "title": "Halloween Casapark convida crianças para uma divertida aventura de \"doces ou travessuras\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-casapark-convida-criancas-para-uma-divertida-aventura-de-doces-ou-travessuras",
+      "title": "IA nas Escolas entra na reta final após receber 1.800 estudantes em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ia-nas-escolas-entra-na-reta-final-apos-receber-1-800-estudantes-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "G7 Comédia apresenta duas sessões especiais de \"AS AVENTURAS DE NINA E A CIDADE AVIÃO\" para o Dia das Crianças",
+      "url": "https://www.visitebrasilia.com.br/noticias/g7-comedia-apresenta-duas-sessoes-especiais-de-as-aventuras-de-nina-e-a-cidade-aviao-para-o-dia-das-criancas",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Meriele reverencia Marinês e Anastácia no palco do Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/meriele-reverencia-marines-e-anastacia-no-palco-do-clube-do-choro",
+      "title": "Banda Quatro Estações faz show em homenagem Renato Russo e a Legião Urbana no Bar do Kareka em Taguatinga",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-quatro-estacoes-faz-show-em-homenagem-renato-russo-e-a-legiao-urbana-no-bar-do-kareka-em-taguatinga",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vale Jurássico abre nesta quinta-feira no Parque da Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-abre-nesta-quinta-feira-no-parque-da-cidade",
       "tipo": "evento",
       "urgente": false
     },
@@ -19,62 +31,32 @@
       "urgente": false
     },
     {
-      "title": "Espetáculo \"Calcário\" entra em cartaz no Espaço Cultural Renato Russo",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-calcario-entra-em-cartaz-no-espaco-cultural-renato-russo",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "CrianCei – Sementes do Amanhã leva cultura, diversão e cuidados com a saúde para crianças de Ceilândia",
       "url": "https://www.visitebrasilia.com.br/noticias/criancei-sementes-do-amanha-leva-cultura-diversao-e-cuidados-com-a-saude-para-criancas-de-ceilandia",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Festival Trilha da Inclusão promove arte acessível no CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-trilha-da-inclusao-promove-arte-acessivel-no-ccbb-brasilia",
-      "tipo": "evento",
+      "title": "Motoqueiro que salvou criança em acidente ganha tratamento de saúde",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoboy-de-brasilia-recebe-apoio-medico-apos-salvar-crianca-em-acidente-06102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Brasília recebe, em outubro e novembro, a primeira Corrida do Idoso do país",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-em-outubro-e-novembro-a-primeira-corrida-do-idoso-do-pais",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Show do React leva vídeos que viralizam na internet para o palco do Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/show-do-react-leva-videos-que-viralizam-na-internet-para-o-palco-do-teatro-brasilia-shopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Termina nesta segunda o prazo para resgatar dinheiro de plataformas de bets",
-      "url": "https://noticias.r7.com/brasilia/termina-hoje-o-prazo-para-resgatar-dinheiro-de-plataformas-de-bets-05102026",
-      "tipo": "atualidade",
+      "title": "Motorista de aplicativo é agredido após batida no trânsito no Guará (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-aplicativo-e-agredido-apos-batida-no-transito-no-guara-df-06102026",
+      "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "Homem agride mulher com soco após batida de trânsito em local de votação",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-agride-mulher-com-soco-apos-batida-de-transito-em-local-de-votacao-de-taguatinga-df-05102026",
+      "title": "Incêndio de grandes proporções atinge apartamento no Itapoã Parque (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-de-grandes-proporcoes-atinge-apartamento-no-itapoa-parque-df-06102026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "Família tem casa destruída por incêndio e pede ajuda",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/familia-tem-casa-destruida-por-incendio-e-pede-ajuda-para-reconstruir-imovel-no-df-05102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Veado-do-cerrado é resgatado debilitado após ser atacado por cães em Sobradinho",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/veado-do-cerrado-e-resgatado-debilitado-apos-ser-atacado-por-caes-em-sobradinho-df-05102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Motorista de aplicativo é brutalmente espancado após se envolver em batida no Guará (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-de-aplicativo-e-brutalmente-espancado-apos-se-envolver-em-batida-no-guara-df-05102026",
+      "title": "Obra inacabada deixa avenida interditada e complica trânsito no Guará Park (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/obra-inacabada-deixa-avenida-interditada-e-complica-transito-no-guara-park-df-06102026",
       "tipo": "noticia",
       "urgente": true
     },
@@ -91,32 +73,38 @@
       "urgente": false
     },
     {
-      "title": "Falta de energia afetará endereços em Santa Maria e Fercal nesta 3ª (6/10)",
-      "url": "https://www.metropoles.com/distrito-federal/falta-de-energia-afetara-enderecos-em-santa-maria-e-fercal-nesta-3a-6-10",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Áreas de Ceilândia ficarão sem água nesta terça-feira (6/10); veja locais",
-      "url": "https://www.metropoles.com/distrito-federal/areas-de-ceilandia-ficarao-sem-agua-nesta-terca-feira-6-10-veja-locais",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Adolescente de 16 anos é apreendido após esfaquear pastor alemão no DF",
-      "url": "https://www.metropoles.com/distrito-federal/adolescente-de-16-anos-e-apreendido-apos-esfaquear-pastor-alemao-no-df",
+      "title": "Celina diz que privatização do BRB está \"descartada completamente\"",
+      "url": "https://www.metropoles.com/distrito-federal/celina-diz-que-privatizacao-do-brb-esta-descartada-completamente",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Homem é condenado a 10 anos por esfaquear motociclista após queima de pneu",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-condenado-a-10-anos-por-esfaquear-motociclista-apos-queima-de-pneu",
+      "title": "PM preso após atirar em menina de 15 anos em saída de festa estava de folga",
+      "url": "https://www.metropoles.com/distrito-federal/pm-preso-apos-atirar-em-menina-de-15-anos-em-saida-de-festa-estava-de-folga",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Feriado de 12 de outubro: comércio do DF poderá abrir seguindo regras",
+      "url": "https://www.metropoles.com/distrito-federal/feriado-de-12-de-outubro-comercio-do-df-podera-abrir-seguindo-regras",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "São Paulo conquista o título do Brasileirão Feminino",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sao-paulo-conquista-o-titulo-do-brasileirao-feminino-15023791.ghtml",
+      "title": "Chuva abre cratera no Guará, deixa veículos atolados e interdita via .",
+      "url": "https://www.metropoles.com/distrito-federal/chuva-abre-cratera-no-guara-deixa-veiculos-atolados-e-interdita-via",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Tribunal de Justiça lança cartilha com direitos das mulheres com câncer",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/tribunal-de-justica-lanca-cartilha-com-direitos-das-mulheres-com-cancer-15029542.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Ônibus escolar usado por alunos têm falhas e quebram no trajeto",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-escolar-usado-por-alunos-tem-falhas-e-quebram-no-trajeto-15029482.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
