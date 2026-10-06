@@ -1,20 +1,8 @@
 {
   "items": [
     {
-      "title": "IA nas Escolas entra na reta final após receber 1.800 estudantes em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ia-nas-escolas-entra-na-reta-final-apos-receber-1-800-estudantes-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "G7 Comédia apresenta duas sessões especiais de \"AS AVENTURAS DE NINA E A CIDADE AVIÃO\" para o Dia das Crianças",
-      "url": "https://www.visitebrasilia.com.br/noticias/g7-comedia-apresenta-duas-sessoes-especiais-de-as-aventuras-de-nina-e-a-cidade-aviao-para-o-dia-das-criancas",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Banda Quatro Estações faz show em homenagem Renato Russo e a Legião Urbana no Bar do Kareka em Taguatinga",
-      "url": "https://www.visitebrasilia.com.br/noticias/banda-quatro-estacoes-faz-show-em-homenagem-renato-russo-e-a-legiao-urbana-no-bar-do-kareka-em-taguatinga",
+      "title": "Terraço Shopping celebra Dia das Crianças com três dias de diversão gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/terraco-shopping-celebra-dia-das-criancas-com-tres-dias-de-diversao-gratuita",
       "tipo": "evento",
       "urgente": false
     },
@@ -25,45 +13,33 @@
       "urgente": false
     },
     {
-      "title": "Adote um \"Aumigo\": DF Plaza Shopping promove nova edição do evento de adoção",
-      "url": "https://www.visitebrasilia.com.br/noticias/adote-um-aumigo-df-plaza-shopping-promove-nova-edicao-do-evento-de-adocao",
-      "tipo": "evento",
+      "title": "Safras do Cerrado em Brasília: como resgatar ingresso e aproveitar as experiências com vinho",
+      "url": "https://www.visitebrasilia.com.br/noticias/safras-do-cerrado-em-brasilia-como-resgatar-ingresso-e-aproveitar-as-experiencias-com-vinho",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "CrianCei – Sementes do Amanhã leva cultura, diversão e cuidados com a saúde para crianças de Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/criancei-sementes-do-amanha-leva-cultura-diversao-e-cuidados-com-a-saude-para-criancas-de-ceilandia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Motoqueiro que salvou criança em acidente ganha tratamento de saúde",
+      "title": "Motoboy que salvou criança em acidente ganha tratamento de saúde",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoboy-de-brasilia-recebe-apoio-medico-apos-salvar-crianca-em-acidente-06102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
+      "title": "Bombeiro alerta para risco de fumaça após incêndio destruir apartamento em Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiro-alerta-para-risco-de-fumaca-apos-incendio-destruir-apartamento-em-samambaia-df-06102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
       "title": "Motorista de aplicativo é agredido após batida no trânsito no Guará (DF)",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-aplicativo-e-agredido-apos-batida-no-transito-no-guara-df-06102026",
       "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Incêndio de grandes proporções atinge apartamento no Itapoã Parque (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/incendio-de-grandes-proporcoes-atinge-apartamento-no-itapoa-parque-df-06102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Obra inacabada deixa avenida interditada e complica trânsito no Guará Park (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/obra-inacabada-deixa-avenida-interditada-e-complica-transito-no-guara-park-df-06102026",
-      "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -73,32 +49,26 @@
       "urgente": false
     },
     {
-      "title": "Celina diz que privatização do BRB está \"descartada completamente\"",
-      "url": "https://www.metropoles.com/distrito-federal/celina-diz-que-privatizacao-do-brb-esta-descartada-completamente",
+      "title": "Influenciadora \"Beyoncé do Mounjaro\" vendia canetas furtadas nas drogarias",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/influenciadora-beyonce-do-mounjaro-vendia-canetas-furtadas-nas-drogarias",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "PM preso após atirar em menina de 15 anos em saída de festa estava de folga",
-      "url": "https://www.metropoles.com/distrito-federal/pm-preso-apos-atirar-em-menina-de-15-anos-em-saida-de-festa-estava-de-folga",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Feriado de 12 de outubro: comércio do DF poderá abrir seguindo regras",
-      "url": "https://www.metropoles.com/distrito-federal/feriado-de-12-de-outubro-comercio-do-df-podera-abrir-seguindo-regras",
+      "title": "Médica que teve corpo queimado em explosão de lancha recebe alta: \"Curada\"",
+      "url": "https://www.metropoles.com/distrito-federal/medica-que-teve-corpo-queimado-em-explosao-de-lancha-recebe-alta-curada",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Chuva abre cratera no Guará, deixa veículos atolados e interdita via .",
-      "url": "https://www.metropoles.com/distrito-federal/chuva-abre-cratera-no-guara-deixa-veiculos-atolados-e-interdita-via",
+      "title": "\"Bois nadadores\" de 500 kg caem em piscina e são resgatados pelos bombeiros",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/bois-nadadores-de-500-kg-caem-em-piscina-e-sao-resgatados-pelos-bombeiros",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Tribunal de Justiça lança cartilha com direitos das mulheres com câncer",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/tribunal-de-justica-lanca-cartilha-com-direitos-das-mulheres-com-cancer-15029542.ghtml",
+      "title": "Bebê nasce dentro de viatura da PRF após atendimento a gestante em rodovia",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/bebe-nasce-dentro-de-viatura-da-prf-apos-atendimento-a-gestante-em-rodovia",
       "tipo": "noticia",
       "urgente": false
     },
@@ -106,6 +76,36 @@
       "title": "Ônibus escolar usado por alunos têm falhas e quebram no trajeto",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-escolar-usado-por-alunos-tem-falhas-e-quebram-no-trajeto-15029482.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Câmeras de segurança flagram jovens atacando casas no Guará",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cameras-de-seguranca-flagram-jovens-atacando-casas-no-guara-15029516.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
+      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
