@@ -1,38 +1,14 @@
 {
   "items": [
     {
-      "title": "Terraço Shopping celebra Dia das Crianças com três dias de diversão gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/terraco-shopping-celebra-dia-das-criancas-com-tres-dias-de-diversao-gratuita",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Vale Jurássico abre nesta quinta-feira no Parque da Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-abre-nesta-quinta-feira-no-parque-da-cidade",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Safras do Cerrado em Brasília: como resgatar ingresso e aproveitar as experiências com vinho",
-      "url": "https://www.visitebrasilia.com.br/noticias/safras-do-cerrado-em-brasilia-como-resgatar-ingresso-e-aproveitar-as-experiencias-com-vinho",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Motoboy que salvou criança em acidente ganha tratamento de saúde",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoboy-de-brasilia-recebe-apoio-medico-apos-salvar-crianca-em-acidente-06102026",
+      "title": "Motorista de app é espancado após batida no Guará",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-de-aplicativo-e-brutalmente-espancado-apos-se-envolver-em-batida-no-guara-df-05102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Bombeiro alerta para risco de fumaça após incêndio destruir apartamento em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiro-alerta-para-risco-de-fumaca-apos-incendio-destruir-apartamento-em-samambaia-df-06102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Motorista de aplicativo é agredido após batida no trânsito no Guará (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motorista-de-aplicativo-e-agredido-apos-batida-no-transito-no-guara-df-06102026",
+      "title": "Engenheiro explica danos causados pela chuva e prevê fim de obra no Guará Park",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/engenheiro-explica-danos-causados-pela-chuva-e-preve-fim-de-obra-no-guara-park-df-06102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -43,44 +19,14 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Influenciadora \"Beyoncé do Mounjaro\" vendia canetas furtadas nas drogarias",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/influenciadora-beyonce-do-mounjaro-vendia-canetas-furtadas-nas-drogarias",
+      "title": "Vistoria do MPDFT aponta comércio, lixo e fogueiras na orla do Lago Paranoá",
+      "url": "https://www.metropoles.com/distrito-federal/vistoria-do-mpdft-aponta-comercio-lixo-e-fogueiras-na-orla-do-lago-paranoa",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Médica que teve corpo queimado em explosão de lancha recebe alta: \"Curada\"",
-      "url": "https://www.metropoles.com/distrito-federal/medica-que-teve-corpo-queimado-em-explosao-de-lancha-recebe-alta-curada",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "\"Bois nadadores\" de 500 kg caem em piscina e são resgatados pelos bombeiros",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/bois-nadadores-de-500-kg-caem-em-piscina-e-sao-resgatados-pelos-bombeiros",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bebê nasce dentro de viatura da PRF após atendimento a gestante em rodovia",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/bebe-nasce-dentro-de-viatura-da-prf-apos-atendimento-a-gestante-em-rodovia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ônibus escolar usado por alunos têm falhas e quebram no trajeto",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-escolar-usado-por-alunos-tem-falhas-e-quebram-no-trajeto-15029482.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Câmeras de segurança flagram jovens atacando casas no Guará",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cameras-de-seguranca-flagram-jovens-atacando-casas-no-guara-15029516.ghtml",
+      "title": "Tribunal de Justiça lança cartilha com direitos das mulheres com câncer",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/tribunal-de-justica-lanca-cartilha-com-direitos-das-mulheres-com-cancer-15029542.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -91,20 +37,56 @@
       "urgente": false
     },
     {
+      "title": "Motoboy que salvou criança em acidente ganha tratamento de saúde",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoboy-de-brasilia-recebe-apoio-medico-apos-salvar-crianca-em-acidente-06102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Alunos da rede pública do DF apresentam produções no Cine Brasília",
+      "url": "https://www.metropoles.com/distrito-federal/alunos-da-rede-publica-do-df-apresentam-producoes-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Câmeras de segurança flagram jovens atacando casas no Guará",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cameras-de-seguranca-flagram-jovens-atacando-casas-no-guara-15029516.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
       "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
-      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
-      "tipo": "vaga",
+      "title": "Projeto Caravana de Histórias encerra jornada lúdica da 20ª edição com cantigas e brincadeiras em Samambaia",
+      "url": "https://www.agendaculturalbrasilia.art.br/projeto-caravana-de-historias-encerra-jornada-ludica-da-20a-edicao-com-cantigas-e-brincadeiras-em-samambaia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Incêndio em Santa Maria destrói casa de família",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/incendio-em-santa-maria-df-destroi-casa-de-familia-06102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
       "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Ônibus escolar usado por alunos têm falhas e quebram no trajeto",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-escolar-usado-por-alunos-tem-falhas-e-quebram-no-trajeto-15029482.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
+      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
       "tipo": "evento",
       "urgente": false
     }
