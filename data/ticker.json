@@ -39,7 +39,7 @@
     {
       "title": "Mais de 90 mil famílias do DF podem ter até 100% de desconto na conta de luz: saiba como",
       "url": "https://noticias.r7.com/brasilia/df-record/video/mais-de-90-mil-familias-do-df-podem-ter-ate-100-de-desconto-na-conta-de-luz-saiba-como-07102026",
-      "tipo": "utilidade pública",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -51,7 +51,7 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -61,21 +61,33 @@
       "urgente": false
     },
     {
+      "title": "Professores da UnB fazem acordo com MGI e dão fim ao indicativo de greve",
+      "url": "https://www.metropoles.com/distrito-federal/professores-da-unb-fazem-acordo-com-mgi-e-dao-fim-ao-indicativo-de-greve",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem oferece falsa vaga de massagista tântrica e estupra mulher no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-oferece-falsa-vaga-de-massagista-tantrica-e-estupra-mulher-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Acidente entre carro e moto causa engarrafamento quilométrico no Eixão Sul .",
       "url": "https://www.metropoles.com/distrito-federal/acidente-entre-carro-e-moto-causa-engarrafamento-quilometrico-no-eixao-sul",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Nota Legal fará depósitos a beneficiários até final do ano, diz secretário",
-      "url": "https://www.metropoles.com/distrito-federal/nota-legal-fara-depositos-a-beneficiarios-ate-final-do-ano-diz-secretario",
+      "title": "Três foragidos da Justiça são presos pela Polícia Penal no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/tres-foragidos-da-justica-sao-presos-pela-policia-penal-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Plano Piloto e Águas Claras lideram ranking sobre moradias verticais",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/plano-piloto-e-aguas-claras-lideram-ranking-sobre-moradias-verticais-15034873.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,9 +97,27 @@
       "urgente": false
     },
     {
+      "title": "Hora da Saída retorna a Brasília após passagem premiada pelo Festival de João Pessoa",
+      "url": "https://www.visitebrasilia.com.br/noticias/hora-da-saida-retorna-a-brasilia-apos-passagem-premiada-pelo-festival-de-joao-pessoa",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Projeto Tom e Vinicius encerra temporada com apresentação gratuita no Eixão Norte",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-tom-e-vinicius-encerra-temporada-com-apresentacao-gratuita-no-eixao-norte",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Família de Ceilândia ainda espera ter de volta cavalos furtados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-de-ceilandia-ainda-espera-ter-de-volta-cavalos-furtados-15034731.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mané Mercado prepara programação especial para as crianças durante todo o mês de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-prepara-programacao-especial-para-as-criancas-durante-todo-o-mes-de-outubro-2",
+      "tipo": "evento",
       "urgente": false
     }
   ]
