@@ -1,21 +1,87 @@
 {
   "items": [
     {
-      "title": "Terracap lança edital para regularizar lotes comerciais no Guará II",
-      "url": "https://www.metropoles.com/distrito-federal/terracap-lanca-edital-para-regularizar-lotes-comerciais-no-guara-ii",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF Plaza Shopping prepara Dia das Crianças com programação gratuita, oficinas e show de mágica",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-prepara-dia-das-criancas-com-programacao-gratuita-oficinas-e-show-de-magica",
+      "title": "City Tour Rota JK + Day Use no Brasília Country Club: história, cultura e natureza em uma experiência única",
+      "url": "https://www.visitebrasilia.com.br/noticias/city-tour-rota-jk-day-use-no-brasilia-country-club-historia-cultura-e-natureza-em-uma-experiencia-unica",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Infraestrutura precária prejudica acesso a creche em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/infraestrutura-precaria-prejudica-acesso-a-creche-em-samambaia-df-08102026",
+      "title": "Dança, drag, música e diversidade ocupam o Guará no encerramento de “Dançando a Vida com Close”",
+      "url": "https://www.visitebrasilia.com.br/noticias/danca-drag-musica-e-diversidade-ocupam-o-guara-no-encerramento-de-dancando-a-vida-com-close",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Dia das Crianças terá participação de mascotes e brindes grátis no Nicolândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-tera-participacao-de-mascotes-e-brindes-gratis-no-nicolandia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul Shopping recebe festival italiano com alta gastronomia e workshops gratuitos",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-festival-italiano-com-alta-gastronomia-e-workshops-gratuitos-2",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Metrô ficará fechado neste domingo para manutenção preventiva em trecho próximo à estação Shopping",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Trabalho temporário: empresas no Distrito Federal abrem vagas temporárias para Black Friday e festas de fim de ano",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/empresas-do-df-abrem-vagas-temporarias-para-black-friday-e-festas-de-fim-de-ano-07102026",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Parada de ônibus fica danificada após ser atingida por coletivo no Park Way (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/parada-de-onibus-fica-danificada-apos-ser-atingida-por-coletivo-no-park-way-df-08102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Morador conta como família está se reerguendo após incêndio em Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/morador-conta-como-familia-esta-se-reerguendo-apos-incendio-em-samambaia-df-08102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Outdoor na EPNB cai e derruba homem sobre carro no acostamento",
+      "url": "https://www.metropoles.com/distrito-federal/homem-cai-sobre-o-proprio-carro-enquanto-instalava-outdoor-na-epnb",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Defesa Civil emite alerta de baixa umidade relativa do ar no DF",
+      "url": "https://www.metropoles.com/distrito-federal/defesa-civil-emite-alerta-de-baixa-umidade-relativa-do-ar-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Hospital veterinário de Sobradinho II muda de endereço após furtos",
+      "url": "https://www.metropoles.com/distrito-federal/hospital-veterinario-movel-de-sobradinho-ii-muda-de-endereco-apos-furtos",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Dia do Nordestino é celebrado hoje",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -25,75 +91,15 @@
       "urgente": false
     },
     {
-      "title": "Juiz nega pedido de associação e mantém cotas de 2% para trans na UnB",
-      "url": "https://www.metropoles.com/colunas/grande-angular/juiz-nega-pedido-de-associacao-e-mantem-cotas-de-2-para-trans-na-unb",
+      "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Samba no pé, feijoada à vontade e muita alegria! Clube do Choro anima os sábados de outubro.",
-      "url": "https://www.visitebrasilia.com.br/noticias/samba-no-pe-feijoada-a-vontade-e-muita-alegria-clube-do-choro-anima-os-sabados-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Fim do ano amplia oferta de vagas temporárias no DF; veja direitos dos trabalhadores",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/fim-do-ano-amplia-oferta-de-vagas-temporarias-no-df-veja-direitos-dos-trabalhadores-07102026",
+      "title": "Rede de supermercado aposta na contratação de aposentados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
       "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Mais de 90 mil famílias do DF podem ter até 100% de desconto na conta de luz: saiba como",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/mais-de-90-mil-familias-do-df-podem-ter-ate-100-de-desconto-na-conta-de-luz-saiba-como-07102026",
-      "tipo": "utilidade_publica",
-      "urgente": false
-    },
-    {
-      "title": "Documentário dirigido pelo professor da UnB Diego Borges estreia no Cine Brasília em 13 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/documentario-dirigido-pelo-professor-da-unb-diego-borges-estreia-no-cine-brasilia-em-13-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Anvisa aprova registro de remédio para doença de Fabry",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Partage Lago Sul Shopping recebe festival italiano com alta gastronomia e workshops gratuitos",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-festival-italiano-com-alta-gastronomia-e-workshops-gratuitos",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Carro cai em cratera e moradores cobram fim de obra em rua",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carro-cai-em-cratera-e-moradores-cobram-fim-de-obra-no-guara-park-no-df-06102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Projeto Tom e Vinicius encerra temporada com apresentação gratuita no Eixão Norte",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-tom-e-vinicius-encerra-temporada-com-apresentacao-gratuita-no-eixao-norte",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Detran divulga lista de quem está sujeito à suspensão da CNH",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-df-divulga-lista-de-motoristas-sujeitos-a-suspensao-do-direito-de-dirigir-07102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mané Mercado prepara programação especial para as crianças durante todo o mês de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-prepara-programacao-especial-para-as-criancas-durante-todo-o-mes-de-outubro-2",
-      "tipo": "evento",
       "urgente": false
     }
   ]
