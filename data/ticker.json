@@ -1,14 +1,20 @@
 {
   "items": [
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "DF Plaza Shopping prepara Dia das Crianças com programação gratuita, oficinas e show de mágica",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-prepara-dia-das-criancas-com-programacao-gratuita-oficinas-e-show-de-magica",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF Plaza Shopping prepara Dia das Crianças com programação gratuita, oficinas e show de mágica",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-prepara-dia-das-criancas-com-programacao-gratuita-oficinas-e-show-de-magica",
+      "title": "Cerrado Cultural aproxima diferentes olhares em exposições de Alfredo Volpi e Kuenan Mayu",
+      "url": "https://www.visitebrasilia.com.br/noticias/cerrado-cultural-aproxima-diferentes-olhares-em-exposicoes-de-alfredo-volpi-e-kuenan-mayu",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul Shopping recebe festival italiano com alta gastronomia e workshops gratuitos",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-festival-italiano-com-alta-gastronomia-e-workshops-gratuitos",
       "tipo": "evento",
       "urgente": false
     },
@@ -19,8 +25,8 @@
       "urgente": false
     },
     {
-      "title": "Carreta do Sesc oferece exames gratuitos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/carreta-do-sesc-oferece-exames-gratuitos-15034906.ghtml",
+      "title": "Anvisa aprova registro de remédio para doença de Fabry",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -31,33 +37,21 @@
       "urgente": false
     },
     {
-      "title": "Cerrado Cultural aproxima diferentes olhares em exposições de Alfredo Volpi e Kuenan Mayu",
-      "url": "https://www.visitebrasilia.com.br/noticias/cerrado-cultural-aproxima-diferentes-olhares-em-exposicoes-de-alfredo-volpi-e-kuenan-mayu",
-      "tipo": "evento",
+      "title": "Mais de 90 mil famílias do DF podem ter até 100% de desconto na conta de luz: saiba como",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/mais-de-90-mil-familias-do-df-podem-ter-ate-100-de-desconto-na-conta-de-luz-saiba-como-07102026",
+      "tipo": "utilidade pública",
       "urgente": false
     },
     {
-      "title": "Tribunal de Justiça lança cartilha com direitos das mulheres com câncer",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/tribunal-de-justica-lanca-cartilha-com-direitos-das-mulheres-com-cancer-15029542.ghtml",
+      "title": "Robô com tecnologia brasileira usa IA para monitorar ambientes e auxiliar forças de segurança",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/robo-com-tecnologia-brasileira-usa-ia-para-monitorar-ambientes-e-auxiliar-forcas-de-seguranca-07102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "EPTG é parcialmente liberada após derramamento de 2.000 litros de óleo na pista",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eptg-e-parcialmente-liberada-apos-derramamento-de-2000-litros-de-oleo-na-pista-07102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Plano Piloto e Águas Claras lideram ranking sobre moradias verticais",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/plano-piloto-e-aguas-claras-lideram-ranking-sobre-moradias-verticais-15034873.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Partage Lago Sul Shopping recebe festival italiano com alta gastronomia e workshops gratuitos",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-festival-italiano-com-alta-gastronomia-e-workshops-gratuitos",
-      "tipo": "evento",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -67,27 +61,33 @@
       "urgente": false
     },
     {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
-      "tipo": "evento",
-      "urgente": false
+      "title": "Acidente entre carro e moto causa engarrafamento quilométrico no Eixão Sul .",
+      "url": "https://www.metropoles.com/distrito-federal/acidente-entre-carro-e-moto-causa-engarrafamento-quilometrico-no-eixao-sul",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
-      "title": "Anvisa aprova registro de remédio para doença de Fabry",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
+      "title": "Nota Legal fará depósitos a beneficiários até final do ano, diz secretário",
+      "url": "https://www.metropoles.com/distrito-federal/nota-legal-fara-depositos-a-beneficiarios-ate-final-do-ano-diz-secretario",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Detran divulga lista de quem está sujeito à suspensão da CNH",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-df-divulga-lista-de-motoristas-sujeitos-a-suspensao-do-direito-de-dirigir-07102026",
-      "tipo": "noticia",
+      "title": "Plano Piloto e Águas Claras lideram ranking sobre moradias verticais",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/plano-piloto-e-aguas-claras-lideram-ranking-sobre-moradias-verticais-15034873.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Mané Mercado prepara programação especial para as crianças durante todo o mês de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-prepara-programacao-especial-para-as-criancas-durante-todo-o-mes-de-outubro-2",
+      "title": "Carreta do Sesc oferece exames gratuitos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/carreta-do-sesc-oferece-exames-gratuitos-15034906.ghtml",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Família de Ceilândia ainda espera ter de volta cavalos furtados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-de-ceilandia-ainda-espera-ter-de-volta-cavalos-furtados-15034731.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
