@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Camilla Siren transforma galeria em território de fantasia em nova exposição individual em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/camilla-siren-transforma-galeria-em-territorio-de-fantasia-em-nova-exposicao-individual-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Heineken Ultimate promove experiência imersiva no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/heineken-ultimate-promove-experiencia-imersiva-no-df",
       "tipo": "evento",
@@ -13,8 +19,8 @@
       "urgente": false
     },
     {
-      "title": "Partage Lago Sul Shopping recebe festival italiano com alta gastronomia e workshops gratuitos",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-festival-italiano-com-alta-gastronomia-e-workshops-gratuitos-2",
+      "title": "Dia das Crianças terá participação de mascotes e brindes grátis no Nicolândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-tera-participacao-de-mascotes-e-brindes-gratis-no-nicolandia",
       "tipo": "evento",
       "urgente": false
     },
@@ -25,21 +31,27 @@
       "urgente": false
     },
     {
-      "title": "Incêndio destrói apartamento de casal com bebê, e família planeja recomeçar em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/incendio-destroi-apartamento-de-casal-com-bebe-e-familia-planeja-recomecar-em-samambaia-df-08102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Trabalho temporário: empresas no Distrito Federal abrem vagas temporárias para Black Friday e festas de fim de ano",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/empresas-do-df-abrem-vagas-temporarias-para-black-friday-e-festas-de-fim-de-ano-07102026",
       "tipo": "vaga",
       "urgente": false
     },
     {
+      "title": "Incêndio destrói apartamento de casal com bebê, e família planeja recomeçar em Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/incendio-destroi-apartamento-de-casal-com-bebe-e-familia-planeja-recomecar-em-samambaia-df-08102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Operação fiscaliza postos e apura possível aumento abusivo no preço dos combustíveis no DF",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/operacao-fiscaliza-postos-e-apura-possivel-aumento-abusivo-no-preco-dos-combustiveis-no-df-08102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -82,6 +94,12 @@
       "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Rede de supermercado aposta na contratação de aposentados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
+      "tipo": "vaga",
       "urgente": false
     }
   ]
