@@ -1,51 +1,81 @@
 {
   "items": [
     {
-      "title": "Camilla Siren transforma galeria em território de fantasia em nova exposição individual em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/camilla-siren-transforma-galeria-em-territorio-de-fantasia-em-nova-exposicao-individual-em-brasilia",
+      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Heineken Ultimate promove experiência imersiva no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/heineken-ultimate-promove-experiencia-imersiva-no-df",
+      "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Dança, drag, música e diversidade ocupam o Guará no encerramento de “Dançando a Vida com Close”",
-      "url": "https://www.visitebrasilia.com.br/noticias/danca-drag-musica-e-diversidade-ocupam-o-guara-no-encerramento-de-dancando-a-vida-com-close",
+      "title": "Colégio Católica Brasília celebra Dia das Crianças com programação gratuita e aberta à comunidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/colegio-catolica-brasilia-celebra-dia-das-criancas-com-programacao-gratuita-e-aberta-a-comunidade",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Dia das Crianças terá participação de mascotes e brindes grátis no Nicolândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-das-criancas-tera-participacao-de-mascotes-e-brindes-gratis-no-nicolandia",
+      "title": "CASACOR Brasília encerra 34ª edição com o já tradicional Special Sale",
+      "url": "https://www.visitebrasilia.com.br/noticias/casacor-brasilia-encerra-34-edicao-com-o-ja-tradicional-special-sale",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Onde comer com as crianças em Brasília no feriado",
+      "url": "https://www.visitebrasilia.com.br/noticias/onde-comer-com-as-criancas-em-brasilia-no-feriado",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "City Tour Rota JK + Day Use no Brasília Country Club: história, cultura e natureza em uma experiência única",
+      "url": "https://www.visitebrasilia.com.br/noticias/city-tour-rota-jk-day-use-no-brasilia-country-club-historia-cultura-e-natureza-em-uma-experiencia-unica",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Operação Rota 060 visa desarticular quadrilha de furtos de caminhonete",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-rota-060-visa-desarticular-quadrilha-de-furtos-de-caminhonete-08102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Carro cai em cratera e moradores cobram fim de obra em rua",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carro-cai-em-cratera-e-moradores-cobram-fim-de-obra-no-guara-park-no-df-06102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Anvisa aprova registro de remédio para doença de Fabry",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "PCDF fecha seis casas de prostituição no Plano, em dois meses",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-civil-fecha-seis-casas-de-prostituicao-na-asa-norte-df-em-dois-meses-07102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Detran divulga lista de quem está sujeito à suspensão da CNH",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-df-divulga-lista-de-motoristas-sujeitos-a-suspensao-do-direito-de-dirigir-07102026",
+      "tipo": "servico",
       "urgente": false
     },
     {
       "title": "Metrô ficará fechado neste domingo para manutenção preventiva em trecho próximo à estação Shopping",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "Trabalho temporário: empresas no Distrito Federal abrem vagas temporárias para Black Friday e festas de fim de ano",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/empresas-do-df-abrem-vagas-temporarias-para-black-friday-e-festas-de-fim-de-ano-07102026",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Incêndio destrói apartamento de casal com bebê, e família planeja recomeçar em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/incendio-destroi-apartamento-de-casal-com-bebe-e-familia-planeja-recomecar-em-samambaia-df-08102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Operação fiscaliza postos e apura possível aumento abusivo no preço dos combustíveis no DF",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/operacao-fiscaliza-postos-e-apura-possivel-aumento-abusivo-no-preco-dos-combustiveis-no-df-08102026",
-      "tipo": "noticia",
+      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -61,45 +91,33 @@
       "urgente": false
     },
     {
-      "title": "Homem é levado ao hospital após atropelamento na Ponte do Bragueto",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-levado-ao-hospital-apos-atropelamento-na-ponte-do-bragueto",
+      "title": "Polícia prende homem que agrediu vítima até a morte no Gama .",
+      "url": "https://www.metropoles.com/distrito-federal/policia-prende-homem-que-espancou-ex-companheira-ate-a-morte-no-gama",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Justiça condena ex-síndica por desviar R$ 244 mil de condomínio na Asa Sul",
-      "url": "https://www.metropoles.com/distrito-federal/justica-condena-ex-sindica-por-desviar-r-244-mil-de-condominio-na-asa-sul",
+      "title": "Mega-Sena: aposta feita em Samambaia acerta a quina e fatura R$ 207 mil",
+      "url": "https://www.metropoles.com/distrito-federal/mega-sena-aposta-feita-em-samambaia-fatura-r-207-mil",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dia do Nordestino é celebrado hoje",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "title": "Mãe é presa após ameaçar matar bebê de 4 meses no DF; pai denunciou o caso",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/mae-e-presa-apos-ameacar-matar-bebe-de-4-meses-no-df-pai-denunciou-o-caso",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
-      "tipo": "utilidade pública",
+      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Rede de supermercado aposta na contratação de aposentados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
-      "tipo": "vaga",
       "urgente": false
     }
   ]
