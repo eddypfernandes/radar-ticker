@@ -15,12 +15,12 @@
     {
       "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
       "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
+      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
@@ -31,33 +31,9 @@
       "urgente": false
     },
     {
-      "title": "Inflação oficial sobe 0,82% em setembro, puxada pela energia elétrica",
-      "url": "https://noticias.r7.com/economia/inflacao-oficial-ipca-brasil-setembro-2026-10102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Operação Rota 060 visa desarticular quadrilha de furtos de caminhonete",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-rota-060-visa-desarticular-quadrilha-de-furtos-de-caminhonete-08102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Carro cai em cratera e moradores cobram fim de obra em rua",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carro-cai-em-cratera-e-moradores-cobram-fim-de-obra-no-guara-park-no-df-06102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Anvisa aprova registro de remédio para doença de Fabry",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Detran divulga lista de quem está sujeito à suspensão da CNH",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-df-divulga-lista-de-motoristas-sujeitos-a-suspensao-do-direito-de-dirigir-07102026",
-      "tipo": "noticia",
+      "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -73,8 +49,14 @@
       "urgente": false
     },
     {
-      "title": "Bancos começam a devolver R$ 1,3 bilhão a apostadores de bets",
-      "url": "https://noticias.r7.com/brasilia/bancos-comecam-a-devolver-r-13-bilhao-a-apostadores-de-bets-09102026",
+      "title": "Noiva leva golpe e fica sem bolo e doces a poucos dias do casamento em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/noiva-leva-golpe-e-fica-sem-bolo-e-doces-a-poucos-dias-do-casamento-em-brasilia-07102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Motorista de caminhão bate em poste e afeta iluminação pública no Itapoã (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/motorista-de-caminhao-bate-em-poste-e-afeta-iluminacao-publica-no-itapoa-df-09102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -85,10 +67,16 @@
       "urgente": false
     },
     {
-      "title": "Trabalhador é hospitalizado após vazamento de amônia em máquina de gelo",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/trabalhador-e-hospitalizado-apos-vazamento-de-amonia-em-maquina-de-gelo",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "Larvas na cabeça: pais presos por maus-tratos barraram assistente social",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/larvas-na-cabeca-pais-presos-por-maus-tratos-barraram-assistente-social",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Calorão: Inmet registra 12% e emite alerta laranja para baixa umidade no DF",
@@ -97,20 +85,8 @@
       "urgente": true
     },
     {
-      "title": "Zoológico de Brasília terá entrada gratuita no Dia das Crianças",
-      "url": "https://www.metropoles.com/distrito-federal/zoologico-de-brasilia-tera-entrada-gratuita-no-dia-das-criancas",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "MPBA investiga influencer do DF por xenofobia após vídeo contra nordestino .",
-      "url": "https://www.metropoles.com/distrito-federal/mpba-investiga-influencer-do-df-por-xenofobia-apos-video-contra-nordestino",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "title": "Santos e Flamengo empatam na Vila Belmiro",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/santos-e-flamengo-empatam-na-vila-belmiro-15042218.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -118,6 +94,12 @@
       "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
