@@ -9,19 +9,7 @@
     {
       "title": "Curso gratuito de audiovisual abre inscrições no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
-      "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
-      "tipo": "evento",
+      "tipo": "vaga",
       "urgente": false
     },
     {
@@ -34,7 +22,7 @@
       "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
@@ -43,9 +31,21 @@
       "urgente": false
     },
     {
-      "title": "Motorista de caminhão bate em poste e afeta iluminação pública no Itapoã (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/motorista-de-caminhao-bate-em-poste-e-afeta-iluminacao-publica-no-itapoa-df-09102026",
+      "title": "Cratera se abre na Asa Norte e interdita área de grande circulação",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cratera-se-abre-na-asa-norte-df-e-interdita-area-de-grande-circulacao-09102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Saidão: 1.479 reeucandos são beneficiados pelo feriado do Dia das Crianças",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/saidao-1479-reeucandos-sao-beneficiados-pelo-feriado-do-dia-das-criancas-10102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Vendas no DF para Dia das Crianças devem crescer 7,4%",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -61,14 +61,14 @@
       "urgente": false
     },
     {
-      "title": "Homem é preso após tentar matar 3 pessoas a tiros em bar no DF",
-      "url": "https://www.metropoles.com/distrito-federal/homem-preso-tentar-matar-3-bar",
+      "title": "Homem é preso por estupro de vulnerável após tocar perna de criança no DF",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-por-estupro-de-vulneravel-apos-tocar-perna-de-crianca-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Militares do DF lamentam morte de PMs em queda de avião em MG: \"Imensa dor\"",
-      "url": "https://www.metropoles.com/distrito-federal/militares-do-df-lamentam-morte-de-pms-em-queda-de-aviao-em-mg-imensa-dor",
+      "title": "Incêndio de grandes proporções atinge galpão de recicláveis no DF .",
+      "url": "https://www.metropoles.com/distrito-federal/incendio-de-grandes-proporcoes-atinge-galpao-de-reciclaveis-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,45 +79,9 @@
       "urgente": false
     },
     {
-      "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Rede de supermercado aposta na contratação de aposentados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
-      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
-      "tipo": "evento",
       "urgente": false
     }
   ]
