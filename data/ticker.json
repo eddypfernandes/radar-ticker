@@ -1,26 +1,44 @@
 {
   "items": [
     {
-      "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Curso gratuito de audiovisual abre inscrições no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
-      "tipo": "vaga",
       "urgente": false
     },
     {
       "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
       "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
+      "title": "Calorão: Inmet registra 12% e emite alerta laranja para baixa umidade no DF",
+      "url": "https://www.metropoles.com/distrito-federal/calorao-inmet-registra-12-e-emite-alerta-laranja-para-baixa-umidade-no-df",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Rede de supermercado aposta na contratação de aposentados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -31,33 +49,21 @@
       "urgente": false
     },
     {
+      "title": "Curso gratuito de audiovisual abre inscrições no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
       "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Metrô ficará fechado neste domingo para manutenção preventiva em trecho próximo à estação Shopping",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Noiva leva golpe e fica sem bolo e doces a poucos dias do casamento em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/noiva-leva-golpe-e-fica-sem-bolo-e-doces-a-poucos-dias-do-casamento-em-brasilia-07102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Motorista de caminhão bate em poste e afeta iluminação pública no Itapoã (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/motorista-de-caminhao-bate-em-poste-e-afeta-iluminacao-publica-no-itapoa-df-09102026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,32 +73,8 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Larvas na cabeça: pais presos por maus-tratos barraram assistente social",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/larvas-na-cabeca-pais-presos-por-maus-tratos-barraram-assistente-social",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Calorão: Inmet registra 12% e emite alerta laranja para baixa umidade no DF",
-      "url": "https://www.metropoles.com/distrito-federal/calorao-inmet-registra-12-e-emite-alerta-laranja-para-baixa-umidade-no-df",
-      "tipo": "atualidade",
-      "urgente": true
-    },
-    {
-      "title": "Santos e Flamengo empatam na Vila Belmiro",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/santos-e-flamengo-empatam-na-vila-belmiro-15042218.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
       "tipo": "evento",
       "urgente": false
     },
@@ -100,6 +82,42 @@
       "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Colégio Católica Brasília celebra Dia das Crianças com programação gratuita e aberta à comunidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/colegio-catolica-brasilia-celebra-dia-das-criancas-com-programacao-gratuita-e-aberta-a-comunidade",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Asa Norte vira berço do rufianismo e PCDF faz cerco a bordéis e cafetões",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/asa-norte-vira-berco-do-rufianismo-e-pcdf-faz-cerco-a-bordeis-e-cafetoes",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Com Claudia Ohana e grande elenco, \"Festa no Arraial, O Musical\" chega a Brasília em turnê nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/com-claudia-ohana-e-grande-elenco-festa-no-arraial-o-musical-chega-a-brasilia-em-turne-nacional",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Sonia Capelli Cartaxo transforma duas décadas de experiência no mercado de beleza em marca brasiliense",
+      "url": "https://www.visitebrasilia.com.br/noticias/sonia-capelli-cartaxo-transforma-duas-decadas-de-experiencia-no-mercado-de-beleza-em-marca-brasiliense",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
