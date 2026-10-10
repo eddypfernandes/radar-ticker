@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "Sonia Capelli Cartaxo transforma duas décadas de experiência no mercado de beleza em marca brasiliense",
-      "url": "https://www.visitebrasilia.com.br/noticias/sonia-capelli-cartaxo-transforma-duas-decadas-de-experiencia-no-mercado-de-beleza-em-marca-brasiliense",
-      "tipo": "noticia",
+      "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -13,26 +13,8 @@
       "urgente": false
     },
     {
-      "title": "A cultura latina, por meio da música, é levada a escolas do DF na voz de Fernanda Cabral e no violão de Leo Bleggi",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-cultura-latina-por-meio-da-musica-e-levada-a-escolas-do-df-na-voz-de-fernanda-cabral-e-no-violao-de-leo-bleggi",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
       "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
       "tipo": "evento",
       "urgente": false
     },
@@ -43,15 +25,15 @@
       "urgente": false
     },
     {
-      "title": "Colégio Católica Brasília celebra Dia das Crianças com programação gratuita e aberta à comunidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/colegio-catolica-brasilia-celebra-dia-das-criancas-com-programacao-gratuita-e-aberta-a-comunidade",
+      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Onde comer com as crianças em Brasília no feriado",
-      "url": "https://www.visitebrasilia.com.br/noticias/onde-comer-com-as-criancas-em-brasilia-no-feriado",
-      "tipo": "dica",
+      "title": "Inflação oficial sobe 0,82% em setembro, puxada pela energia elétrica",
+      "url": "https://noticias.r7.com/economia/inflacao-oficial-ipca-brasil-setembro-2026-10102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,57 +49,75 @@
       "urgente": false
     },
     {
+      "title": "Anvisa aprova registro de remédio para doença de Fabry",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/anvisa-aprova-registro-de-novo-medicamento-para-doenca-de-fabry-07102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Detran divulga lista de quem está sujeito à suspensão da CNH",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/detran-df-divulga-lista-de-motoristas-sujeitos-a-suspensao-do-direito-de-dirigir-07102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Metrô ficará fechado neste domingo para manutenção preventiva em trecho próximo à estação Shopping",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "Redução no preço da gasolina no DF depende de distribuidoras, diz sindicato",
-      "url": "https://www.metropoles.com/distrito-federal/reducao-no-preco-da-gasolina-no-df-depende-de-distribuidoras-diz-sindicato",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mesários que faltaram ou abandonaram trabalho na eleição devem justificar",
-      "url": "https://www.metropoles.com/distrito-federal/mesarios-que-faltaram-ou-abandonaram-trabalho-na-eleicao-devem-justificar",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Linhas de ônibus terão reforço no domingo sem circulação do Metrô no DF",
-      "url": "https://www.metropoles.com/distrito-federal/linhas-de-onibus-terao-reforco-no-domingo-sem-circulacao-do-metro-no-df",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Saidão libera 1.479 presos no DF neste fim de semana",
-      "url": "https://www.metropoles.com/distrito-federal/saidao-libera-1-479-presos-no-df-neste-fim-de-semana",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "UnB promove palestra com secretário de Educação Superior do MEC",
-      "url": "https://www.metropoles.com/distrito-federal/unb-promove-palestra-com-secretario-de-educacao-superior-do-mec",
+      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "title": "Bancos começam a devolver R$ 1,3 bilhão a apostadores de bets",
+      "url": "https://noticias.r7.com/brasilia/bancos-comecam-a-devolver-r-13-bilhao-a-apostadores-de-bets-09102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Trabalhador é hospitalizado após vazamento de amônia em máquina de gelo",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/trabalhador-e-hospitalizado-apos-vazamento-de-amonia-em-maquina-de-gelo",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Calorão: Inmet registra 12% e emite alerta laranja para baixa umidade no DF",
+      "url": "https://www.metropoles.com/distrito-federal/calorao-inmet-registra-12-e-emite-alerta-laranja-para-baixa-umidade-no-df",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "Zoológico de Brasília terá entrada gratuita no Dia das Crianças",
+      "url": "https://www.metropoles.com/distrito-federal/zoologico-de-brasilia-tera-entrada-gratuita-no-dia-das-criancas",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "MPBA investiga influencer do DF por xenofobia após vídeo contra nordestino .",
+      "url": "https://www.metropoles.com/distrito-federal/mpba-investiga-influencer-do-df-por-xenofobia-apos-video-contra-nordestino",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "tipo": "evento",
       "urgente": false
     }
   ]
