@@ -7,6 +7,12 @@
       "urgente": false
     },
     {
+      "title": "CineClube Mapati exibe \"2001: Uma Odisseia no Espaço\" e propõe reflexão sobre inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/cineclube-mapati-exibe-2001-uma-odisseia-no-espaco-e-propoe-reflexao-sobre-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
       "tipo": "dica",
@@ -16,6 +22,12 @@
       "title": "Curso gratuito de audiovisual abre inscrições no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
       "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -37,6 +49,12 @@
       "urgente": false
     },
     {
+      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Secretaria de Saúde realiza mutirão para atualização vacinal na Feira dos Importados no DF",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/secretaria-de-saude-realiza-mutirao-para-atualizacao-vacinal-na-feira-dos-importados-no-df-10102026",
       "tipo": "noticia",
@@ -49,12 +67,6 @@
       "urgente": false
     },
     {
-      "title": "Saidão: 1.479 reeucandos são beneficiados pelo feriado do Dia das Crianças",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/saidao-1479-reeucandos-sao-beneficiados-pelo-feriado-do-dia-das-criancas-10102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Vendas no DF para Dia das Crianças devem crescer 7,4%",
       "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
       "tipo": "atualidade",
@@ -63,7 +75,7 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -73,14 +85,8 @@
       "urgente": false
     },
     {
-      "title": "Cantor sertanejo publicou vídeos poucas horas antes de ser morto no DF",
-      "url": "https://www.metropoles.com/distrito-federal/cantor-sertanejo-publicou-videos-poucas-horas-antes-de-ser-morto-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mega-Sena: 5 apostas do DF acertam quina e levam até R$ 52 mil",
-      "url": "https://www.metropoles.com/distrito-federal/mega-sena-apostas-df-quina-2",
+      "title": "Vizinho suspeito de matar casal em Ceilândia se entrega à polícia",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/vizinho-suspeito-de-matar-casal-em-ceilandia-se-entrega-a-policia",
       "tipo": "noticia",
       "urgente": false
     },
@@ -91,15 +97,27 @@
       "urgente": false
     },
     {
-      "title": "Dia do Nordestino é celebrado hoje",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Ato pró-Lula toma o Eixo Norte e leva brasilienses às ruas do DF .",
+      "url": "https://www.metropoles.com/distrito-federal/ato-pro-lula-toma-o-eixo-norte-e-leva-brasilienses-as-ruas-do-df",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
-      "tipo": "noticia",
+      "title": "Dia do Nordestino é celebrado hoje",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
