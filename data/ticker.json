@@ -9,7 +9,13 @@
     {
       "title": "Curso gratuito de audiovisual abre inscrições no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
-      "tipo": "vaga",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -25,14 +31,14 @@
       "urgente": false
     },
     {
-      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
-      "tipo": "evento",
+      "title": "Secretaria de Saúde realiza mutirão para atualização vacinal na Feira dos Importados no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/secretaria-de-saude-realiza-mutirao-para-atualizacao-vacinal-na-feira-dos-importados-no-df-10102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Cratera se abre na Asa Norte e interdita área de grande circulação",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cratera-se-abre-na-asa-norte-df-e-interdita-area-de-grande-circulacao-09102026",
+      "title": "Mais de 30 animais são resgatados em situação de maus-tratos no Guará (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-30-animais-sao-resgatados-em-situacao-de-maus-tratos-no-guara-df-10102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -45,7 +51,7 @@
     {
       "title": "Vendas no DF para Dia das Crianças devem crescer 7,4%",
       "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -61,8 +67,20 @@
       "urgente": false
     },
     {
-      "title": "Homem é preso por estupro de vulnerável após tocar perna de criança no DF",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-por-estupro-de-vulneravel-apos-tocar-perna-de-crianca-no-df",
+      "title": "Capivara dá trabalho, mas é resgatada após \"invadir\" quintal de casa no DF",
+      "url": "https://www.metropoles.com/distrito-federal/capivara-da-trabalho-mas-e-resgatada-apos-invadir-quintal-de-casa-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Três pessoas são resgatadas em trilha no Grande Colorado, em Sobradinho .",
+      "url": "https://www.metropoles.com/distrito-federal/tres-pessoas-sao-resgatadas-em-trilha-no-grande-colorado-em-sobradinho",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pedestre tenta atravessar a Estrutural e morre após ser atingido por ônibus",
+      "url": "https://www.metropoles.com/distrito-federal/pedestre-tenta-atravessar-a-estrutural-e-morre-apos-ser-atingido-por-onibus",
       "tipo": "noticia",
       "urgente": false
     },
@@ -82,6 +100,24 @@
       "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
+      "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
+      "tipo": "evento",
       "urgente": false
     }
   ]
