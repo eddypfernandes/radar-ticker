@@ -1,9 +1,15 @@
 {
   "items": [
     {
+      "title": "Espetáculo inédito \"Isso Não É Uma Peça\" estreia no Espaço Cultural Renato Russo",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-inedito-isso-nao-e-uma-peca-estreia-no-espaco-cultural-renato-russo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
-      "tipo": "evento",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -13,44 +19,14 @@
       "urgente": false
     },
     {
-      "title": "Brazilian Fight Arena movimenta Brazlândia e terá noite de grandes confrontos neste sábado (10)",
-      "url": "https://www.visitebrasilia.com.br/noticias/brazilian-fight-arena-movimenta-brazlandia-e-tera-noite-de-grandes-confrontos-neste-sabado-10",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
-      "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Colégio Católica Brasília celebra Dia das Crianças com programação gratuita e aberta à comunidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/colegio-catolica-brasilia-celebra-dia-das-criancas-com-programacao-gratuita-e-aberta-a-comunidade",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Heineken Ultimate promove experiência imersiva no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/heineken-ultimate-promove-experiencia-imersiva-no-df",
+      "title": "CASACOR Brasília encerra 34ª edição com o já tradicional Special Sale",
+      "url": "https://www.visitebrasilia.com.br/noticias/casacor-brasilia-encerra-34-edicao-com-o-ja-tradicional-special-sale",
       "tipo": "evento",
       "urgente": false
     },
@@ -58,7 +34,7 @@
       "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Secretaria de Saúde realiza mutirão para atualização vacinal na Feira dos Importados no DF",
@@ -73,9 +49,21 @@
       "urgente": false
     },
     {
+      "title": "Saidão: 1.479 reeucandos são beneficiados pelo feriado do Dia das Crianças",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/saidao-1479-reeucandos-sao-beneficiados-pelo-feriado-do-dia-das-criancas-10102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Vendas no DF para Dia das Crianças devem crescer 7,4%",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,26 +73,14 @@
       "urgente": false
     },
     {
-      "title": "Brasiliense atingido por onda dá primeiros passos após perder movimentos .",
-      "url": "https://www.metropoles.com/distrito-federal/brasiliense-atingido-por-onda-da-primeiros-passos-apos-perder-movimentos",
+      "title": "Cantor sertanejo publicou vídeos poucas horas antes de ser morto no DF",
+      "url": "https://www.metropoles.com/distrito-federal/cantor-sertanejo-publicou-videos-poucas-horas-antes-de-ser-morto-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dois homens são agredidos perto de estação do metrô em Águas Claras .",
-      "url": "https://www.metropoles.com/distrito-federal/dois-homens-sao-agredidos-perto-de-estacao-do-metro-em-aguas-claras",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Capivara dá trabalho, mas é resgatada após \"invadir\" quintal de casa no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/capivara-da-trabalho-mas-e-resgatada-apos-invadir-quintal-de-casa-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Três pessoas são resgatadas em trilha no Grande Colorado, em Sobradinho .",
-      "url": "https://www.metropoles.com/distrito-federal/tres-pessoas-sao-resgatadas-em-trilha-no-grande-colorado-em-sobradinho",
+      "title": "Mega-Sena: 5 apostas do DF acertam quina e levam até R$ 52 mil",
+      "url": "https://www.metropoles.com/distrito-federal/mega-sena-apostas-df-quina-2",
       "tipo": "noticia",
       "urgente": false
     },
@@ -115,9 +91,15 @@
       "urgente": false
     },
     {
-      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
-      "tipo": "utilidade pública",
+      "title": "Dia do Nordestino é celebrado hoje",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
