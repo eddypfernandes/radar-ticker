@@ -3,13 +3,13 @@
     {
       "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
-      "tipo": "evento",
+      "tipo": "lazer",
       "urgente": false
     },
     {
       "title": "Curso gratuito de audiovisual abre inscrições no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
-      "tipo": "noticia",
+      "tipo": "vaga",
       "urgente": false
     },
     {
@@ -28,6 +28,12 @@
       "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -43,12 +49,6 @@
       "urgente": false
     },
     {
-      "title": "Saidão: 1.479 reeucandos são beneficiados pelo feriado do Dia das Crianças",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/saidao-1479-reeucandos-sao-beneficiados-pelo-feriado-do-dia-das-criancas-10102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Vendas no DF para Dia das Crianças devem crescer 7,4%",
       "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
       "tipo": "noticia",
@@ -57,7 +57,7 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,7 +67,7 @@
       "urgente": false
     },
     {
-      "title": "Capivara dá trabalho, mas é resgatada após \"invadir\" quintal de casa no DF",
+      "title": "Capivara dá trabalho, mas é resgatada após \"invadir\" quintal de casa no DF .",
       "url": "https://www.metropoles.com/distrito-federal/capivara-da-trabalho-mas-e-resgatada-apos-invadir-quintal-de-casa-no-df",
       "tipo": "noticia",
       "urgente": false
@@ -79,16 +79,10 @@
       "urgente": false
     },
     {
-      "title": "Pedestre tenta atravessar a Estrutural e morre após ser atingido por ônibus",
-      "url": "https://www.metropoles.com/distrito-federal/pedestre-tenta-atravessar-a-estrutural-e-morre-apos-ser-atingido-por-onibus",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Incêndio de grandes proporções atinge galpão de recicláveis no DF .",
       "url": "https://www.metropoles.com/distrito-federal/incendio-de-grandes-proporcoes-atinge-galpao-de-reciclaveis-no-df",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
@@ -97,27 +91,9 @@
       "urgente": false
     },
     {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
-      "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Confira as programação do Cine Drive-In de 08 a 14 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/confira-as-programacao-do-cine-drive-in-de-08-a-14-de-outubro",
-      "tipo": "evento",
+      "tipo": "utilidade pública",
       "urgente": false
     }
   ]
