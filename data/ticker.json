@@ -7,12 +7,6 @@
       "urgente": false
     },
     {
-      "title": "CineClube Mapati exibe \"2001: Uma Odisseia no Espaço\" e propõe reflexão sobre inteligência artificial",
-      "url": "https://www.visitebrasilia.com.br/noticias/cineclube-mapati-exibe-2001-uma-odisseia-no-espaco-e-propoe-reflexao-sobre-inteligencia-artificial",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
       "tipo": "dica",
@@ -25,20 +19,8 @@
       "urgente": false
     },
     {
-      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "CASACOR Brasília encerra 34ª edição com o já tradicional Special Sale",
-      "url": "https://www.visitebrasilia.com.br/noticias/casacor-brasilia-encerra-34-edicao-com-o-ja-tradicional-special-sale",
       "tipo": "evento",
       "urgente": false
     },
@@ -46,7 +28,7 @@
       "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
@@ -73,9 +55,9 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -85,8 +67,8 @@
       "urgente": false
     },
     {
-      "title": "Vizinho suspeito de matar casal em Ceilândia se entrega à polícia",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/vizinho-suspeito-de-matar-casal-em-ceilandia-se-entrega-a-policia",
+      "title": "Suspeito de matar casal no DF fica preso após se apresentar em delegacia",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeito-de-matar-casal-no-df-fica-preso-apos-se-apresentar-em-delegacia",
       "tipo": "noticia",
       "urgente": false
     },
@@ -97,27 +79,15 @@
       "urgente": false
     },
     {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "Ato pró-Lula toma o Eixo Norte e leva brasilienses às ruas do DF .",
-      "url": "https://www.metropoles.com/distrito-federal/ato-pro-lula-toma-o-eixo-norte-e-leva-brasilienses-as-ruas-do-df",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
       "title": "Dia do Nordestino é celebrado hoje",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
       "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
