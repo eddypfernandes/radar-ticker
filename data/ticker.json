@@ -1,16 +1,34 @@
 {
   "items": [
     {
-      "title": "Espetáculo inédito \"Isso Não É Uma Peça\" estreia no Espaço Cultural Renato Russo",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-inedito-isso-nao-e-uma-peca-estreia-no-espaco-cultural-renato-russo",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Rota da Diversão reúne 12 atrativos para aproveitar o Dia das Crianças em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/rota-da-diversao-reune-12-atrativos-para-aproveitar-o-dia-das-criancas-em-brasilia",
-      "tipo": "dica",
+      "title": "Mais de 30 animais são resgatados em situação de maus-tratos no Guará (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-30-animais-sao-resgatados-em-situacao-de-maus-tratos-no-guara-df-10102026",
+      "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Ação social do ParkShopping reúne mais de 400 crianças em manhã de diversão na HotZone",
+      "url": "https://www.visitebrasilia.com.br/noticias/acao-social-do-parkshopping-reune-mais-de-400-criancas-em-manha-de-diversao-na-hotzone",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Secretaria de Saúde realiza mutirão para atualização vacinal na Feira dos Importados no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/secretaria-de-saude-realiza-mutirao-para-atualizacao-vacinal-na-feira-dos-importados-no-df-10102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Curso gratuito de audiovisual abre inscrições no DF",
@@ -25,27 +43,51 @@
       "urgente": false
     },
     {
-      "title": "Metrô do DF ficará fechado deste domingo (11) às 7h de segunda-feira para manutenção",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-fica-fechado-neste-domingo-para-manutencao-08102026",
+      "title": "\"Transtorno\": Deco Machado transforma diagnóstico de autismo em comédia no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/transtorno-deco-machado-transforma-diagnostico-de-autismo-em-comedia-no-teatro-brasilia-shopping",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Espetáculo inédito \"Isso Não É Uma Peça\" estreia no Espaço Cultural Renato Russo",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-inedito-isso-nao-e-uma-peca-estreia-no-espaco-cultural-renato-russo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "CineClube Mapati exibe \"2001: Uma Odisseia no Espaço\" e propõe reflexão sobre inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/cineclube-mapati-exibe-2001-uma-odisseia-no-espaco-e-propoe-reflexao-sobre-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Consumidores do DF estão recebendo contas de energia elétrica muito mais caras",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/consumidores-do-df-estao-recebendo-contas-de-energia-eletrica-muito-mais-caras-15038663.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "Rede de supermercado aposta na contratação de aposentados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/rede-de-supermercado-aposta-na-contratacao-de-aposentados-15038337.ghtml",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Luan Santana, João Gomes e Samba da Tia Zélia: confira os eventos do fim de semana no DF",
       "url": "https://noticias.r7.com/brasilia/luan-santana-joao-gomes-e-samba-da-tia-zelia-confira-os-eventos-do-fim-de-semana-no-df-09102026",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Secretaria de Saúde realiza mutirão para atualização vacinal na Feira dos Importados no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/secretaria-de-saude-realiza-mutirao-para-atualizacao-vacinal-na-feira-dos-importados-no-df-10102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mais de 30 animais são resgatados em situação de maus-tratos no Guará (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-30-animais-sao-resgatados-em-situacao-de-maus-tratos-no-guara-df-10102026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -55,8 +97,8 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "dica",
       "urgente": false
     },
@@ -67,27 +109,15 @@
       "urgente": false
     },
     {
-      "title": "Suspeito de matar casal no DF fica preso após se apresentar em delegacia",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeito-de-matar-casal-no-df-fica-preso-apos-se-apresentar-em-delegacia",
-      "tipo": "noticia",
+      "title": "AfroExplo 2026 abre inscrições para oficinas gratuitas em São Sebastião e seleção de modelos voluntários",
+      "url": "https://www.agendaculturalbrasilia.art.br/afroexplo-2026-abre-inscricoes-para-oficinas-gratuitas-em-sao-sebastiao-e-selecao-de-modelos-voluntarios",
+      "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "title": "Colégio Católica Brasília celebra Dia das Crianças com programação gratuita e aberta à comunidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/colegio-catolica-brasilia-celebra-dia-das-criancas-com-programacao-gratuita-e-aberta-a-comunidade",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Dia do Nordestino é celebrado hoje",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
-      "tipo": "noticia",
       "urgente": false
     }
   ]
