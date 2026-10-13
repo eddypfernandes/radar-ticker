@@ -1,20 +1,62 @@
 {
   "items": [
     {
-      "title": "4ª edição do Festival Despertacular ocupa Espaço cultural Renato Russo com arte e cultura surda",
-      "url": "https://www.visitebrasilia.com.br/noticias/4-edicao-do-festival-despertacular-ocupa-espaco-cultural-renato-russo-com-arte-e-cultura-surda-2",
+      "title": "Festival QZO / Quaresmada ocupa Núcleo Bandeirante neste sábado",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-qzo-quaresmada-ocupa-nucleo-bandeirante-neste-sabado",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cine Araújo celebra Mês das Crianças com 50% de desconto em baldes colecionáveis e programação especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-araujo-celebra-mes-das-criancas-com-50-de-desconto-em-baldes-colecionaveis-e-programacao-especial",
-      "tipo": "oferta",
+      "title": "Halloween gratuito no Taguatinga Shopping terá bailinho, caça aos doces e cenário inspirado no laboratório do Frankenstein",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-gratuito-no-taguatinga-shopping-tera-bailinho-caca-aos-doces-e-cenario-inspirado-no-laboratorio-do-frankenstein",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Maus-tratos: mais de 30 animais são resgatados no Guará",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-30-animais-sao-resgatados-em-situacao-de-maus-tratos-no-guara-df-10102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Abandono de praça e parque infantil em Samambaia (DF) continua sem resolução",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/abandono-de-praca-e-parque-infantil-em-samambaia-df-continua-sem-resolucao-12102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Onde está Sushi? Família procura por cachorro que fugiu em Taguatinga",
+      "url": "https://www.metropoles.com/distrito-federal/onde-esta-sushi-familia-procura-por-cachorro-que-fugiu-em-taguatinga",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Show “Canções de Rio, Serra e Sertão” reúne Jane Duboc, Márcia Tauil e Marcos Farias no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/show-cancoes-de-rio-serra-e-sertao-reune-jane-duboc-marcia-tauil-e-marcos-farias-no-clube-do-choro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Exposição para tocar: arte, inclusão e música ocupam o Teatro de Sobradinho",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-para-tocar-arte-inclusao-e-musica-ocupam-o-teatro-de-sobradinho",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "IGG celebra Dia das Crianças com HackaKids e game de segurança digital",
+      "url": "https://www.visitebrasilia.com.br/noticias/igg-celebra-dia-das-criancas-com-hackakids-e-game-de-seguranca-digital",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Alimenta 2026 traz programação sobre nutrição, saúde e bem-estar",
       "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-traz-programacao-sobre-nutricao-saude-e-bem-estar",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "CineClube Mapati exibe \"2001: Uma Odisseia no Espaço\" e propõe reflexão sobre inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/cineclube-mapati-exibe-2001-uma-odisseia-no-espaco-e-propoe-reflexao-sobre-inteligencia-artificial",
       "tipo": "evento",
       "urgente": false
     },
@@ -25,26 +67,26 @@
       "urgente": false
     },
     {
-      "title": "Exposição Gigantes do Jardim reúne insetos de até 6 metros, projeções 360° e atividades interativas em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-gigantes-do-jardim-reune-insetos-de-ate-6-metros-projecoes-360-e-atividades-interativas-em-brasilia",
-      "tipo": "evento",
+      "title": "Projeto Flores do Cerrado oferece curso gratuito de costura para mulheres",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/projeto-flores-do-cerrado-oferece-curso-gratuito-de-costura-para-mulheres-12102026",
+      "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Produtora do DF transforma aloe vera em produtos de cuidados pessoais",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/produtora-do-df-transforma-aloe-vera-em-produtos-de-cuidados-pessoais-12102026",
+      "title": "Vendas no Distrito Federal para o Dia das Crianças devem crescer 7,4%",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Produção de carambola cresce no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/producao-de-carambola-cresce-no-distrito-federal-12102026",
+      "title": "Segurança pública: robô policial é visto como inovação",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/arcanjo-robo-policial-e-apresentado-como-inovacao-na-seguranca-publica-09102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Senar-DF celebra 31 anos com avanços em capacitação e produção",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/senar-df-celebra-31-anos-com-avancos-em-capacitacao-e-producao-12102026",
+      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,62 +103,20 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "title": "Arcebispo de Brasília sobre polarização: \"A Igreja não é partidária”",
+      "url": "https://www.metropoles.com/distrito-federal/arcebispo-de-brasilia-sobre-polarizacao-a-igreja-nao-e-partidaria",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Onde está Sushi? Família procura por cachorro que fugiu em Taguatinga",
-      "url": "https://www.metropoles.com/distrito-federal/onde-esta-sushi-familia-procura-por-cachorro-que-fugiu-em-taguatinga",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Escola no DF recebe mutirão grátis de emissão de identidade e teste de DNA",
-      "url": "https://www.metropoles.com/distrito-federal/escola-no-df-recebe-mutirao-gratis-de-emissao-de-identidade-e-teste-de-dna",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasília receberá relíquia de São Carlo Acutis, santo canonizado em 2025",
-      "url": "https://www.metropoles.com/distrito-federal/brasilia-recebera-reliquia-de-sao-carlo-acutis-santo-canonizado-em-2025",
-      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Dia do Nordestino é celebrado hoje",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Família procura cachorro que desapareceu na orla do Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familia-procura-cachorro-que-desapareceu-na-orla-do-lago-norte-15038328.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Segurança pública: robô policial é visto como inovação",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/arcanjo-robo-policial-e-apresentado-como-inovacao-na-seguranca-publica-09102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Vendas no Distrito Federal para o Dia das Crianças devem crescer 7,4%",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
       "tipo": "atualidade",
       "urgente": false
     }
