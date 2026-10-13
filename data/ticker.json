@@ -1,92 +1,80 @@
 {
   "items": [
     {
-      "title": "Festival QZO / Quaresmada ocupa Núcleo Bandeirante neste sábado",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-qzo-quaresmada-ocupa-nucleo-bandeirante-neste-sabado",
+      "title": "Espetáculo “O Menino e o Tempo” retorna aos palcos com música, teatro e acessibilidade em nova temporada gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-o-menino-e-o-tempo-retorna-aos-palcos-com-musica-teatro-e-acessibilidade-em-nova-temporada-gratuita",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Halloween gratuito no Taguatinga Shopping terá bailinho, caça aos doces e cenário inspirado no laboratório do Frankenstein",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-gratuito-no-taguatinga-shopping-tera-bailinho-caca-aos-doces-e-cenario-inspirado-no-laboratorio-do-frankenstein",
+      "title": "Festival Clube do Choro abre venda de ingressos nesta terça (13) para shows de Paula Lima, Lucy Alves, Wagner Tiso e outros artistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-clube-do-choro-abre-venda-de-ingressos-nesta-terca-13-para-shows-de-paula-lima-lucy-alves-wagner-tiso-e-outros-artistas",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Maus-tratos: mais de 30 animais são resgatados no Guará",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-30-animais-sao-resgatados-em-situacao-de-maus-tratos-no-guara-df-10102026",
+      "title": "Brasília ganha loja dedicada ao tiramisù, idealizada pelo italiano Paolo Calanchini, fundador da Cremeria Italiana",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-ganha-loja-dedicada-ao-tiramisu-idealizada-pelo-italiano-paolo-calanchini-fundador-da-cremeria-italiana",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Halloween do Terraço Shopping terá oficina que transforma desenhos em personagens com inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-do-terraco-shopping-tera-oficina-que-transforma-desenhos-em-personagens-com-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Com direção de Miguel Falabella, o espetáculo “Marrom, o Musical” chega a Brasília nos dias 6, 7 e 8 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/com-direcao-de-miguel-falabella-o-espetaculo-marrom-o-musical-chega-a-brasilia-nos-dias-6-7-e-8-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Luan Santana reúne quase 40 mil pessoas em noite histórica na Arena Mané Garrincha, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/luan-santana-reune-quase-40-mil-pessoas-em-noite-historica-na-arena-mane-garrincha-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Emater-DF reúne mais de 300 produtos e experiências de turismo rural no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-reune-mais-de-300-produtos-e-experiencias-de-turismo-rural-no-distrito-federal",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Senado retoma debate sobre fim da escala 6x1; votação é prevista para quarta-feira",
+      "url": "https://noticias.r7.com/brasilia/senado-retoma-debate-sobre-fim-da-escala-6x1-votacao-e-prevista-para-quarta-13102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Abandono de praça e parque infantil em Samambaia (DF) continua sem resolução",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/abandono-de-praca-e-parque-infantil-em-samambaia-df-continua-sem-resolucao-12102026",
+      "title": "DF registra 101 afogamentos neste ano, e Corpo de Bombeiros faz alerta",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/df-registra-101-ocorrencias-de-afogamento-em-2026-e-bombeiros-fazem-alerta-13102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Onde está Sushi? Família procura por cachorro que fugiu em Taguatinga",
-      "url": "https://www.metropoles.com/distrito-federal/onde-esta-sushi-familia-procura-por-cachorro-que-fugiu-em-taguatinga",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "Show “Canções de Rio, Serra e Sertão” reúne Jane Duboc, Márcia Tauil e Marcos Farias no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/show-cancoes-de-rio-serra-e-sertao-reune-jane-duboc-marcia-tauil-e-marcos-farias-no-clube-do-choro-de-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Exposição para tocar: arte, inclusão e música ocupam o Teatro de Sobradinho",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-para-tocar-arte-inclusao-e-musica-ocupam-o-teatro-de-sobradinho",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "IGG celebra Dia das Crianças com HackaKids e game de segurança digital",
-      "url": "https://www.visitebrasilia.com.br/noticias/igg-celebra-dia-das-criancas-com-hackakids-e-game-de-seguranca-digital",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Alimenta 2026 traz programação sobre nutrição, saúde e bem-estar",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-traz-programacao-sobre-nutricao-saude-e-bem-estar",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "CineClube Mapati exibe \"2001: Uma Odisseia no Espaço\" e propõe reflexão sobre inteligência artificial",
-      "url": "https://www.visitebrasilia.com.br/noticias/cineclube-mapati-exibe-2001-uma-odisseia-no-espaco-e-propoe-reflexao-sobre-inteligencia-artificial",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Curso gratuito de audiovisual abre inscrições no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/curso-gratuito-de-audiovisual-abre-inscricoes-no-df",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Projeto Flores do Cerrado oferece curso gratuito de costura para mulheres",
+      "title": "Projeto oferece curso gratuito de costura para mulheres",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/projeto-flores-do-cerrado-oferece-curso-gratuito-de-costura-para-mulheres-12102026",
       "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Vendas no Distrito Federal para o Dia das Crianças devem crescer 7,4%",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/vendas-no-df-para-dia-das-criancas-devem-crescer-74-10102026",
+      "title": "Escola rural de Brazlândia (DF) oferece aulas de japonês a estudantes",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/escola-rural-de-brazlandia-df-oferece-aulas-de-japones-a-estudantes-13102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Segurança pública: robô policial é visto como inovação",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/arcanjo-robo-policial-e-apresentado-como-inovacao-na-seguranca-publica-09102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Relatório do Ministério Público aponta problemas de conservação e segurança nos cemitérios",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/relatorio-do-ministerio-publico-aponta-problemas-de-conservacao-e-seguranca-nos-cemiterios-15038348.ghtml",
+      "title": "Enem 2026: prazo para candidato escolher entre inglês e espanhol termina neste domingo",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/enem-2026-prazo-para-candidato-escolher-entre-ingles-e-espanhol-termina-neste-domingo-13102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -103,21 +91,27 @@
       "urgente": false
     },
     {
-      "title": "Arcebispo de Brasília sobre polarização: \"A Igreja não é partidária”",
-      "url": "https://www.metropoles.com/distrito-federal/arcebispo-de-brasilia-sobre-polarizacao-a-igreja-nao-e-partidaria",
+      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Em comemoração ao Dia das Crianças, escolas promovem programação especial",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/em-comemoracao-ao-dia-das-criancas-escolas-promovem-programacao-especial-15042143.ghtml",
+      "title": "Famílias de baixa renda têm direito a pagar menos na conta de energia elétrica",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familias-de-baixa-renda-tem-direito-a-pagar-menos-na-conta-de-energia-eletrica-15052907.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dia do Nordestino é celebrado hoje",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-nordestino-e-celebrado-hoje-15038378.ghtml",
-      "tipo": "atualidade",
+      "title": "Em agenda com empresários, Celina diz que pretende construir 40 km de metrô",
+      "url": "https://www.metropoles.com/distrito-federal/em-agenda-com-empresarios-celina-diz-pretende-construir-40-km-de-metro",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Estátua da Havan é pichada e Hang oferece R$ 10 mil: \"Vagabundos canhotas\"",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/estatua-da-havan-e-pichada-e-hang-oferece-r-10-mil-vagabundos-canhotas",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
