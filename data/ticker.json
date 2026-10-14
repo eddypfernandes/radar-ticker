@@ -7,9 +7,21 @@
       "urgente": false
     },
     {
-      "title": "UnB forma primeiro mestre surdocego da história da universidade",
-      "url": "https://www.metropoles.com/distrito-federal/unb-forma-primeiro-mestre-surdocego-da-historia-da-universidade",
+      "title": "Sorteio do Nota Legal: 78 milhões de bilhetes concorrem a R$ 3,5 milhões",
+      "url": "https://www.metropoles.com/distrito-federal/sorteio-do-nota-legal-78-milhoes-de-bilhetes-concorrem-a-r-35-milhoes",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF tem 751 vagas de emprego nesta quarta-feira nas agências do trabalhador",
+      "url": "https://www.metropoles.com/distrito-federal/df-tem-751-vagas-de-emprego-nesta-quarta-feira-nas-agencias-do-trabalhador",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Com umidade de até 20%, DF tem previsão de chuva e trovoadas isoladas",
+      "url": "https://www.metropoles.com/distrito-federal/com-umidade-de-ate-20-df-tem-previsao-de-chuva-e-trovoadas-isoladas",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -19,81 +31,15 @@
       "urgente": false
     },
     {
-      "title": "Famílias de baixa renda têm direito a pagar menos na conta de energia elétrica",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familias-de-baixa-renda-tem-direito-a-pagar-menos-na-conta-de-energia-eletrica-15052907.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "Brasília ganha loja dedicada ao tiramisù, idealizada pelo italiano Paolo Calanchini, fundador da Cremeria Italiana",
       "url": "https://www.visitebrasilia.com.br/noticias/brasilia-ganha-loja-dedicada-ao-tiramisu-idealizada-pelo-italiano-paolo-calanchini-fundador-da-cremeria-italiana",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Projeto oferece curso gratuito de costura para mulheres",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/projeto-flores-do-cerrado-oferece-curso-gratuito-de-costura-para-mulheres-12102026",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Halloween do Terraço Shopping terá oficina que transforma desenhos em personagens com inteligência artificial",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-do-terraco-shopping-tera-oficina-que-transforma-desenhos-em-personagens-com-inteligencia-artificial",
-      "tipo": "evento",
+      "tipo": "dica",
       "urgente": false
     },
     {
       "title": "Emater-DF reúne mais de 300 produtos e experiências de turismo rural no Distrito Federal",
       "url": "https://www.visitebrasilia.com.br/noticias/emater-df-reune-mais-de-300-produtos-e-experiencias-de-turismo-rural-no-distrito-federal",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Enem 2026: prazo para candidato escolher entre inglês e espanhol termina neste domingo",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/enem-2026-prazo-para-candidato-escolher-entre-ingles-e-espanhol-termina-neste-domingo-13102026",
-      "tipo": "urgente",
-      "urgente": true
-    },
-    {
-      "title": "DF registra 101 afogamentos neste ano, e Corpo de Bombeiros faz alerta",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/df-registra-101-ocorrencias-de-afogamento-em-2026-e-bombeiros-fazem-alerta-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dentista é levado a delegacia por atender com registro suspenso no DF",
-      "url": "https://www.metropoles.com/distrito-federal/dentista-e-levado-a-delegacia-por-atender-com-registro-suspenso-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Escola rural de Brazlândia (DF) oferece aulas de japonês a estudantes",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/escola-rural-de-brazlandia-df-oferece-aulas-de-japones-a-estudantes-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casa Niemeyer recebe selo por preservação do patrimônio arquitetônico de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/casa-niemeyer-recebe-selo-por-preservacao-do-patrimonio-arquitetonico-de-brasilia",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -103,21 +49,75 @@
       "urgente": false
     },
     {
+      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Senac e Canva conquistam prêmio nacional por uso de IA na educação",
       "url": "https://www.visitebrasilia.com.br/noticias/senac-e-canva-conquistam-premio-nacional-por-uso-de-ia-na-educacao",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "PM prende dois foragidos por furto, violência doméstica e tráfico no DF",
+      "url": "https://www.metropoles.com/distrito-federal/pm-prende-dois-foragidos-por-furto-violencia-domestica-e-trafico-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Ônibus derruba poste de iluminação na BR-020 e motorista fica ferido",
+      "url": "https://www.metropoles.com/distrito-federal/onibus-derruba-poste-de-iluminacao-na-br-020-e-motorista-fica-ferido",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Bombeiros resgatam três pessoas em trilha de Sobradinho",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiros-resgatam-tres-pessoas-em-trilha-de-sobradinho-df-13102026",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Famílias de baixa renda têm direito a pagar menos na conta de energia elétrica",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familias-de-baixa-renda-tem-direito-a-pagar-menos-na-conta-de-energia-eletrica-15052907.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Halloween do Terraço Shopping terá oficina que transforma desenhos em personagens com inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-do-terraco-shopping-tera-oficina-que-transforma-desenhos-em-personagens-com-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Casa Niemeyer recebe selo por preservação do patrimônio arquitetônico de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/casa-niemeyer-recebe-selo-por-preservacao-do-patrimonio-arquitetonico-de-brasilia",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Festival Clube do Choro abre venda de ingressos nesta terça (13) para shows de Paula Lima, Lucy Alves, Wagner Tiso e outros artistas",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-clube-do-choro-abre-venda-de-ingressos-nesta-terca-13-para-shows-de-paula-lima-lucy-alves-wagner-tiso-e-outros-artistas",
-      "tipo": "oferta",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Escola rural de Brazlândia (DF) oferece aulas de japonês a estudantes",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/escola-rural-de-brazlandia-df-oferece-aulas-de-japones-a-estudantes-13102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Projeto oferece curso gratuito de costura para mulheres",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/projeto-flores-do-cerrado-oferece-curso-gratuito-de-costura-para-mulheres-12102026",
+      "tipo": "dica",
       "urgente": false
     }
   ]
