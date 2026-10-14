@@ -7,38 +7,26 @@
       "urgente": false
     },
     {
-      "title": "Bebê é encontrada com hematomas e sinais de violência",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-encontrada-com-hematomas-e-sinais-de-violencia-em-samambaia-df-14102026",
-      "tipo": "noticia",
+      "title": "Grau Técnico Gama promove Feira de Empregabilidade com 700 vagas e recrutamento no local",
+      "url": "https://www.visitebrasilia.com.br/noticias/grau-tecnico-gama-promove-feira-de-empregabilidade-com-700-vagas-e-recrutamento-no-local",
+      "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "No mês das crianças, Partage Lago Sul Shopping sorteia três viagens internacionais para famílias",
-      "url": "https://www.visitebrasilia.com.br/noticias/no-mes-das-criancas-partage-lago-sul-shopping-sorteia-tres-viagens-internacionais-para-familias",
+      "title": "5º Festival Espetaculim reúne apresentações gratuitas de teatro, circo, bonecos, mágica e música no Gama",
+      "url": "https://www.visitebrasilia.com.br/noticias/5-festival-espetaculim-reune-apresentacoes-gratuitas-de-teatro-circo-bonecos-magica-e-musica-no-gama",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Concurso da Educação: Celina diz que banca será divulgada na quinta-feira",
-      "url": "https://www.metropoles.com/distrito-federal/concurso-da-educacao-celina-diz-que-banca-sera-divulgada-na-quinta-feira",
-      "tipo": "noticia",
+      "title": "Moradores do Gama recebem evento com atendimento jurídico gratuito",
+      "url": "https://www.metropoles.com/distrito-federal/moradores-do-gama-recebem-evento-com-atendimento-juridico-gratuito",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Cratera está aberta na Asa Norte há quase uma semana",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cratera-esta-aberta-na-asa-norte-ha-quase-uma-semana-15056341.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasília ganha loja dedicada ao tiramisù, idealizada pelo italiano Paolo Calanchini, fundador da Cremeria Italiana",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-ganha-loja-dedicada-ao-tiramisu-idealizada-pelo-italiano-paolo-calanchini-fundador-da-cremeria-italiana",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Incêndio destrói materiais recicláveis e afeta 500 catadores na Estrutural",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/incendio-destroi-materiais-reciclaveis-e-afeta-500-catadores-na-estrutural-df-14102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,21 +37,21 @@
       "urgente": false
     },
     {
-      "title": "Quina e Lotofácil: 10 apostas feitas no DF ganham prêmios de até R$ 5 mil",
-      "url": "https://www.metropoles.com/distrito-federal/quina-e-lotofacil-10-apostas-feitas-no-df-ganham-premios-de-ate-r-5-mil",
+      "title": "Incêndio destrói materiais recicláveis e afeta 500 catadores na Estrutural",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/incendio-destroi-materiais-reciclaveis-e-afeta-500-catadores-na-estrutural-df-14102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Ônibus com romeiros capota na BR-020",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-com-romeiros-capota-na-br-020-15056347.ghtml",
+      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Halloween do Terraço Shopping terá oficina que transforma desenhos em personagens com inteligência artificial",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-do-terraco-shopping-tera-oficina-que-transforma-desenhos-em-personagens-com-inteligencia-artificial",
-      "tipo": "evento",
+      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -73,20 +61,62 @@
       "urgente": false
     },
     {
-      "title": "Com direção de Miguel Falabella, o espetáculo “Marrom, o Musical” chega a Brasília nos dias 6, 7 e 8 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/com-direcao-de-miguel-falabella-o-espetaculo-marrom-o-musical-chega-a-brasilia-nos-dias-6-7-e-8-de-novembro",
+      "title": "Pedidos de internação compulsória crescem 160% nos últimos anos, segundo Ministério Público do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pedidos-de-internacao-compulsoria-crescem-160-nos-ultimos-anos-segundo-ministerio-publico-do-df-15056420.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Bodytech Asa Sul prolonga comemorações do Dia das Crianças com programação especial nesta sexta (16)",
+      "url": "https://www.visitebrasilia.com.br/noticias/bodytech-asa-sul-prolonga-comemoracoes-do-dia-das-criancas-com-programacao-especial-nesta-sexta-16",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Semeando Cultura leva programação especial gratuita para celebrar o Dia das Crianças em São Sebastião",
-      "url": "https://www.agendaculturalbrasilia.art.br/semeando-cultura-leva-programacao-especial-gratuita-para-celebrar-o-dia-das-criancas-em-sao-sebastiao",
+      "title": "Prime Beach brinda sua chegada em noite exclusiva à beira do Lago Paranoá",
+      "url": "https://www.visitebrasilia.com.br/noticias/prime-beach-brinda-sua-chegada-em-noite-exclusiva-a-beira-do-lago-paranoa",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
+      "title": "\"E Homem, Serve Pra Quê?\": Uma homenagem às mulheres em forma de comédia",
+      "url": "https://www.visitebrasilia.com.br/noticias/e-homem-serve-pra-que-uma-homenagem-as-mulheres-em-forma-de-comedia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Começa hoje: Feira Gestante tem entrada gratuita e espera receber 10 mil visitantes",
+      "url": "https://www.visitebrasilia.com.br/noticias/comeca-hoje-feira-gestante-tem-entrada-gratuita-e-espera-receber-10-mil-visitantes",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Banda tributo a Los Hermanos apresenta especial no Eye Patch Panda",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-tributo-a-los-hermanos-apresenta-especial-no-eye-patch-panda",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Julia Lemmertz e Orã Figueiredo em \"Alta Sociedade\", um hilariante retrato da burguesia",
+      "url": "https://www.visitebrasilia.com.br/noticias/julia-lemmertz-e-ora-figueiredo-em-alta-sociedade-um-hilariante-retrato-da-burguesia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Gafieira Pindorama traz essência do baile de salão ao palco do Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/gafieira-pindorama-traz-essencia-do-baile-de-salao-ao-palco-do-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "No mês das crianças, Partage Lago Sul Shopping sorteia três viagens internacionais para famílias",
+      "url": "https://www.visitebrasilia.com.br/noticias/no-mes-das-criancas-partage-lago-sul-shopping-sorteia-tres-viagens-internacionais-para-familias",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Festival Clube do Choro abre venda de ingressos nesta terça (13) para shows de Paula Lima, Lucy Alves, Wagner Tiso e outros artistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-clube-do-choro-abre-venda-de-ingressos-nesta-terca-13-para-shows-de-paula-lima-lucy-alves-wagner-tiso-e-outros-artistas",
       "tipo": "evento",
       "urgente": false
     }
