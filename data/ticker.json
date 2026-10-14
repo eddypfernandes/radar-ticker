@@ -7,8 +7,8 @@
       "urgente": false
     },
     {
-      "title": "Celina promete construir restaurante comunitártio no Riacho Fundo",
-      "url": "https://www.metropoles.com/distrito-federal/celina-promete-construir-restaurante-comunitartio-no-riacho-fundo",
+      "title": "UnB forma primeiro mestre surdocego da história da universidade",
+      "url": "https://www.metropoles.com/distrito-federal/unb-forma-primeiro-mestre-surdocego-da-historia-da-universidade",
       "tipo": "noticia",
       "urgente": false
     },
@@ -21,36 +21,18 @@
     {
       "title": "Famílias de baixa renda têm direito a pagar menos na conta de energia elétrica",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/familias-de-baixa-renda-tem-direito-a-pagar-menos-na-conta-de-energia-eletrica-15052907.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Emater-DF reúne mais de 300 produtos e experiências de turismo rural no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-reune-mais-de-300-produtos-e-experiencias-de-turismo-rural-no-distrito-federal",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF registra 101 afogamentos neste ano, e Corpo de Bombeiros faz alerta",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/df-registra-101-ocorrencias-de-afogamento-em-2026-e-bombeiros-fazem-alerta-13102026",
-      "tipo": "noticia",
+      "tipo": "dica",
       "urgente": false
     },
     {
       "title": "Brasília ganha loja dedicada ao tiramisù, idealizada pelo italiano Paolo Calanchini, fundador da Cremeria Italiana",
       "url": "https://www.visitebrasilia.com.br/noticias/brasilia-ganha-loja-dedicada-ao-tiramisu-idealizada-pelo-italiano-paolo-calanchini-fundador-da-cremeria-italiana",
-      "tipo": "dica",
+      "tipo": "novidade",
       "urgente": false
     },
     {
-      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Senac e Canva conquistam prêmio nacional por uso de IA na educação",
-      "url": "https://www.visitebrasilia.com.br/noticias/senac-e-canva-conquistam-premio-nacional-por-uso-de-ia-na-educacao",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
@@ -61,8 +43,44 @@
       "urgente": false
     },
     {
+      "title": "Halloween do Terraço Shopping terá oficina que transforma desenhos em personagens com inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-do-terraco-shopping-tera-oficina-que-transforma-desenhos-em-personagens-com-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Emater-DF reúne mais de 300 produtos e experiências de turismo rural no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/emater-df-reune-mais-de-300-produtos-e-experiencias-de-turismo-rural-no-distrito-federal",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Enem 2026: prazo para candidato escolher entre inglês e espanhol termina neste domingo",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/enem-2026-prazo-para-candidato-escolher-entre-ingles-e-espanhol-termina-neste-domingo-13102026",
+      "tipo": "urgente",
+      "urgente": true
+    },
+    {
+      "title": "DF registra 101 afogamentos neste ano, e Corpo de Bombeiros faz alerta",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/df-registra-101-ocorrencias-de-afogamento-em-2026-e-bombeiros-fazem-alerta-13102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Dentista é levado a delegacia por atender com registro suspenso no DF",
+      "url": "https://www.metropoles.com/distrito-federal/dentista-e-levado-a-delegacia-por-atender-com-registro-suspenso-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -73,45 +91,33 @@
       "urgente": false
     },
     {
+      "title": "Casa Niemeyer recebe selo por preservação do patrimônio arquitetônico de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/casa-niemeyer-recebe-selo-por-preservacao-do-patrimonio-arquitetonico-de-brasilia",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "Com direção de Miguel Falabella, o espetáculo “Marrom, o Musical” chega a Brasília nos dias 6, 7 e 8 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/com-direcao-de-miguel-falabella-o-espetaculo-marrom-o-musical-chega-a-brasilia-nos-dias-6-7-e-8-de-novembro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Sala imersiva de Yoshitaka Amano atrai milhares de visitantes ao CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sala-imersiva-de-yoshitaka-amano-atrai-milhares-de-visitantes-ao-ccbb-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Criminosos quebram parede e furtam farmácia de manipulação na Asa Sul",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/criminosos-quebram-parede-e-furtam-farmacia-de-manipulacao-na-asa-sul-em-brasilia-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dia do Pão: empresário brasiliense transforma sonho de infância em padaria artesanal em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-do-pao-empresario-brasiliense-transforma-sonho-de-infancia-em-padaria-artesanal-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cratera se abre após asfalto ceder na Asa Norte, e via fica interditada",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/cratera-se-abre-apos-asfalto-ceder-na-asa-norte-em-brasilia-e-via-fica-interditada-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Casa Niemeyer recebe selo por preservação do patrimônio arquitetônico de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/casa-niemeyer-recebe-selo-por-preservacao-do-patrimonio-arquitetonico-de-brasilia",
+      "title": "Senac e Canva conquistam prêmio nacional por uso de IA na educação",
+      "url": "https://www.visitebrasilia.com.br/noticias/senac-e-canva-conquistam-premio-nacional-por-uso-de-ia-na-educacao",
       "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Bombeiros resgatam três pessoas em trilha de Sobradinho",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiros-resgatam-tres-pessoas-em-trilha-de-sobradinho-df-13102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Festival Clube do Choro abre venda de ingressos nesta terça (13) para shows de Paula Lima, Lucy Alves, Wagner Tiso e outros artistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-clube-do-choro-abre-venda-de-ingressos-nesta-terca-13-para-shows-de-paula-lima-lucy-alves-wagner-tiso-e-outros-artistas",
+      "tipo": "oferta",
       "urgente": false
     }
   ]
