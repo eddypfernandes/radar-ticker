@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
-      "tipo": "noticia",
+      "title": "Leroy Merlin Brasília promove talk show com Paulo Biacchi e Joana Lira",
+      "url": "https://www.visitebrasilia.com.br/noticias/leroy-merlin-brasilia-promove-talk-show-com-paulo-biacchi-e-joana-lira",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -19,21 +19,9 @@
       "urgente": false
     },
     {
-      "title": "Moradores do Gama recebem evento com atendimento jurídico gratuito",
-      "url": "https://www.metropoles.com/distrito-federal/moradores-do-gama-recebem-evento-com-atendimento-juridico-gratuito",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cratera está aberta na Asa Norte há quase uma semana",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cratera-esta-aberta-na-asa-norte-ha-quase-uma-semana-15056341.ghtml",
+      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -43,14 +31,50 @@
       "urgente": false
     },
     {
+      "title": "Bebê é encontrada com hematomas e sinais de violência",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-encontrada-com-hematomas-e-sinais-de-violencia-em-samambaia-df-14102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
       "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
       "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "TJDFT adia julgamento de recurso contra psicológo acusado de matar 17 gatos",
+      "url": "https://www.metropoles.com/distrito-federal/tjdft-adia-julgamento-de-recurso-contra-psicologo-acusado-de-matar-17-gatos",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
+      "title": "Primeira Casa da Mãe Atípica do país é inaugurada no Parque da Cidade",
+      "url": "https://www.metropoles.com/distrito-federal/primeira-casa-da-mae-atipica-do-pais-e-inaugurada-no-parque-da-cidade",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Comércio do DF deve abrir 4,5 mil vagas temporárias no fim do ano",
+      "url": "https://www.metropoles.com/distrito-federal/comercio-do-df-deve-abrir-45-mil-vagas-temporarias-no-fim-do-ano",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Cratera está aberta na Asa Norte há quase uma semana",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cratera-esta-aberta-na-asa-norte-ha-quase-uma-semana-15056341.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pedidos de internação compulsória crescem 160% nos últimos anos, segundo Ministério Público do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pedidos-de-internacao-compulsoria-crescem-160-nos-ultimos-anos-segundo-ministerio-publico-do-df-15056420.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,8 +85,20 @@
       "urgente": false
     },
     {
-      "title": "Pedidos de internação compulsória crescem 160% nos últimos anos, segundo Ministério Público do DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pedidos-de-internacao-compulsoria-crescem-160-nos-ultimos-anos-segundo-ministerio-publico-do-df-15056420.ghtml",
+      "title": "Ônibus com romeiros capota na BR-020",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-com-romeiros-capota-na-br-020-15056347.ghtml",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pais denunciam risco para alunos na entrada de escola em Taguatinga",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pais-denunciam-risco-para-alunos-na-entrada-de-escola-em-taguatinga-15052991.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -75,48 +111,12 @@
     {
       "title": "Prime Beach brinda sua chegada em noite exclusiva à beira do Lago Paranoá",
       "url": "https://www.visitebrasilia.com.br/noticias/prime-beach-brinda-sua-chegada-em-noite-exclusiva-a-beira-do-lago-paranoa",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "\"E Homem, Serve Pra Quê?\": Uma homenagem às mulheres em forma de comédia",
-      "url": "https://www.visitebrasilia.com.br/noticias/e-homem-serve-pra-que-uma-homenagem-as-mulheres-em-forma-de-comedia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Começa hoje: Feira Gestante tem entrada gratuita e espera receber 10 mil visitantes",
-      "url": "https://www.visitebrasilia.com.br/noticias/comeca-hoje-feira-gestante-tem-entrada-gratuita-e-espera-receber-10-mil-visitantes",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Banda tributo a Los Hermanos apresenta especial no Eye Patch Panda",
-      "url": "https://www.visitebrasilia.com.br/noticias/banda-tributo-a-los-hermanos-apresenta-especial-no-eye-patch-panda",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Julia Lemmertz e Orã Figueiredo em \"Alta Sociedade\", um hilariante retrato da burguesia",
-      "url": "https://www.visitebrasilia.com.br/noticias/julia-lemmertz-e-ora-figueiredo-em-alta-sociedade-um-hilariante-retrato-da-burguesia",
-      "tipo": "evento",
+      "tipo": "dica",
       "urgente": false
     },
     {
       "title": "Gafieira Pindorama traz essência do baile de salão ao palco do Clube do Choro",
       "url": "https://www.visitebrasilia.com.br/noticias/gafieira-pindorama-traz-essencia-do-baile-de-salao-ao-palco-do-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "No mês das crianças, Partage Lago Sul Shopping sorteia três viagens internacionais para famílias",
-      "url": "https://www.visitebrasilia.com.br/noticias/no-mes-das-criancas-partage-lago-sul-shopping-sorteia-tres-viagens-internacionais-para-familias",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Festival Clube do Choro abre venda de ingressos nesta terça (13) para shows de Paula Lima, Lucy Alves, Wagner Tiso e outros artistas",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-clube-do-choro-abre-venda-de-ingressos-nesta-terca-13-para-shows-de-paula-lima-lucy-alves-wagner-tiso-e-outros-artistas",
       "tipo": "evento",
       "urgente": false
     }
