@@ -1,33 +1,15 @@
 {
   "items": [
     {
-      "title": "Clube do Choro de Brasília recebe a \"Gypsy Experience\", maior tributo aos Gipsy Kings da América Latina",
-      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-recebe-a-gypsy-experience-maior-tributo-aos-gipsy-kings-da-america-latina",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Alimenta 2026 recebe 3ª edição do Berry Day, seminário sobre frutas vermelhas do DF e Entorno",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-recebe-3-edicao-do-berry-day-seminario-sobre-frutas-vermelhas-do-df-e-entorno",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Mercado Malunga promove Festival de Novidades neste sábado",
-      "url": "https://www.visitebrasilia.com.br/noticias/mercado-malunga-promove-festival-de-novidades-neste-sabado",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Grau Técnico Gama promove Feira de Empregabilidade com 700 vagas e recrutamento no local",
-      "url": "https://www.visitebrasilia.com.br/noticias/grau-tecnico-gama-promove-feira-de-empregabilidade-com-700-vagas-e-recrutamento-no-local",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
       "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "\"Zés\" - espetáculo de encerramento de oficina debate preconceito e negritude em Samambaia",
+      "url": "https://www.visitebrasilia.com.br/noticias/zes-espetaculo-de-encerramento-de-oficina-debate-preconceito-e-negritude-em-samambaia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -37,14 +19,38 @@
       "urgente": false
     },
     {
-      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policial-militar-da-reserva-e-condenado-a-15-anos-por-tentativa-de-feminicidio-no-df-15102026",
+      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Prejuízo de R$ 8 mil: academia em Águas Claras (DF) é furtada duas vezes em menos de um mês",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/prejuizo-de-r-8-mil-academia-em-aguas-claras-df-e-furtada-duas-vezes-em-menos-de-um-mes-15102026",
+      "title": "Cine Drive-In divulga filmes em cartaz para a semana de 15 a 21 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-filmes-em-cartaz-para-a-semana-de-15-a-21-de-outubro",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Clube do Choro de Brasília recebe a \"Gypsy Experience\", maior tributo aos Gipsy Kings da América Latina",
+      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-recebe-a-gypsy-experience-maior-tributo-aos-gipsy-kings-da-america-latina",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Venâncio Shopping recebe encontro de miniaturas e cultura automotiva",
+      "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-encontro-de-miniaturas-e-cultura-automotiva",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-desmantela-esquema-de-contrabando-de-vinhos-no-df-e-outros-estados-15102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -55,63 +61,21 @@
       "urgente": false
     },
     {
-      "title": "Tempestades e mudanças bruscas de temperatura marcam o início da semana no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/tempestades-e-mudancas-bruscas-de-temperatura-marcam-o-inicio-da-semana-no-df-15102026",
-      "tipo": "atualidade",
+      "title": "Defensoria Pública abre inscrições para o 5º Seminário na Luta Antirracista",
+      "url": "https://www.metropoles.com/distrito-federal/defensoria-publica-abre-inscricoes-para-o-5o-seminario-na-luta-antirracista",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Áreas são cercadas por tapumes e surpreendem moradores de Samambaia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/areas-sao-cercadas-por-tapumes-e-surpreendem-moradores-de-samambaia-15060007.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Polícia prende novo suspeito de matar casal em Ceilândia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-prende-novo-suspeito-de-matar-casal-em-ceilandia-15060008.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cratera está aberta na Asa Norte há quase uma semana",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/cratera-esta-aberta-na-asa-norte-ha-quase-uma-semana-15056341.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Pedidos de internação compulsória crescem 160% nos últimos anos, segundo Ministério Público do DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pedidos-de-internacao-compulsoria-crescem-160-nos-ultimos-anos-segundo-ministerio-publico-do-df-15056420.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ônibus com romeiros capota na BR-020",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-com-romeiros-capota-na-br-020-15056347.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
+      "tipo": "atualidade",
       "urgente": false
     }
   ]
