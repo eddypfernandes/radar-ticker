@@ -1,16 +1,22 @@
 {
   "items": [
     {
-      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
-      "tipo": "noticia",
+      "title": "Clube do Choro de Brasília recebe a \"Gypsy Experience\", maior tributo aos Gipsy Kings da América Latina",
+      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-recebe-a-gypsy-experience-maior-tributo-aos-gipsy-kings-da-america-latina",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Estações do BRT ficam lotadas após interdição de trânsito na Epia Sul",
-      "url": "https://www.metropoles.com/distrito-federal/estacoes-do-brt-ficam-lotadas-apos-interdicao-de-transito-na-epia-sul",
-      "tipo": "noticia",
-      "urgente": true
+      "title": "Alimenta 2026 recebe 3ª edição do Berry Day, seminário sobre frutas vermelhas do DF e Entorno",
+      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-recebe-3-edicao-do-berry-day-seminario-sobre-frutas-vermelhas-do-df-e-entorno",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Mercado Malunga promove Festival de Novidades neste sábado",
+      "url": "https://www.visitebrasilia.com.br/noticias/mercado-malunga-promove-festival-de-novidades-neste-sabado",
+      "tipo": "evento",
+      "urgente": false
     },
     {
       "title": "Grau Técnico Gama promove Feira de Empregabilidade com 700 vagas e recrutamento no local",
@@ -19,9 +25,57 @@
       "urgente": false
     },
     {
-      "title": "5º Festival Espetaculim reúne apresentações gratuitas de teatro, circo, bonecos, mágica e música no Gama",
-      "url": "https://www.visitebrasilia.com.br/noticias/5-festival-espetaculim-reune-apresentacoes-gratuitas-de-teatro-circo-bonecos-magica-e-musica-no-gama",
-      "tipo": "evento",
+      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Governo inaugura novo Centro Pop em Brasília e atendimento passa a ser no Setor de Garagens",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-inaugura-novo-centro-pop-em-brasilia-e-atendimento-passa-a-ser-no-setor-de-garagens-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policial-militar-da-reserva-e-condenado-a-15-anos-por-tentativa-de-feminicidio-no-df-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Prejuízo de R$ 8 mil: academia em Águas Claras (DF) é furtada duas vezes em menos de um mês",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/prejuizo-de-r-8-mil-academia-em-aguas-claras-df-e-furtada-duas-vezes-em-menos-de-um-mes-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Delegada é presa no DF suspeita de receber R$ 50 mil de organização criminosa",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/delegada-e-presa-no-df-suspeita-de-receber-r-50-mil-de-organizacao-criminosa-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Tempestades e mudanças bruscas de temperatura marcam o início da semana no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/tempestades-e-mudancas-bruscas-de-temperatura-marcam-o-inicio-da-semana-no-df-15102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Polícia prende novo suspeito de matar casal em Ceilândia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-prende-novo-suspeito-de-matar-casal-em-ceilandia-15060008.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -31,93 +85,33 @@
       "urgente": false
     },
     {
-      "title": "Quina e Lotofácil: quatro apostas do DF levam juntas R$ 20 mil",
-      "url": "https://www.metropoles.com/distrito-federal/quina-e-lotofacil-quatro-apostas-do-df-levam-juntas-r-20-mil",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Entradas do Grupo Santé ganham protagonismo em experiências para compartilhar",
-      "url": "https://www.visitebrasilia.com.br/noticias/entradas-do-grupo-sante-ganham-protagonismo-em-experiencias-para-compartilhar",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Aeroporto de Brasília vira mais um local para pessoas em situação de rua",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aeroporto-de-brasilia-vira-mais-um-local-para-pessoas-em-situacao-de-rua-15056378.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Megaoperação prende líder do PCC que namora delegada presa no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/megaoperacao-prende-lider-do-pcc-que-mantinha-relacao-com-delegada",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Prime Beach brinda sua chegada em noite exclusiva à beira do Lago Paranoá",
-      "url": "https://www.visitebrasilia.com.br/noticias/prime-beach-brinda-sua-chegada-em-noite-exclusiva-a-beira-do-lago-paranoa",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Pedidos de internação compulsória crescem 160% nos últimos anos, segundo Ministério Público do DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pedidos-de-internacao-compulsoria-crescem-160-nos-ultimos-anos-segundo-ministerio-publico-do-df-15056420.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Novo complexo Senado Cultural tem inauguração prevista para dezembro às margens do Lago Paranoá",
-      "url": "https://www.visitebrasilia.com.br/noticias/novo-complexo-senado-cultural-tem-inauguracao-prevista-para-dezembro-as-margens-do-lago-paranoa",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "Leroy Merlin Brasília promove talk show com Paulo Biacchi e Joana Lira",
-      "url": "https://www.visitebrasilia.com.br/noticias/leroy-merlin-brasilia-promove-talk-show-com-paulo-biacchi-e-joana-lira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Gafieira Pindorama traz essência do baile de salão ao palco do Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/gafieira-pindorama-traz-essencia-do-baile-de-salao-ao-palco-do-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Ônibus com romeiros capota na BR-020",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-com-romeiros-capota-na-br-020-15056347.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Cada passo conta: corrida inclusiva convida Brasília a participar de uma causa social",
-      "url": "https://www.visitebrasilia.com.br/noticias/cada-passo-conta-corrida-inclusiva-convida-brasilia-a-participar-de-uma-causa-social",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Projeto em colégio público rural de Brazlândia oferece aulas de japonês a estudantes",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/escola-rural-de-brazlandia-df-oferece-aulas-de-japones-a-estudantes-13102026",
-      "tipo": "noticia",
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
