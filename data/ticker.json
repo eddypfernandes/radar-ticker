@@ -1,15 +1,57 @@
 {
   "items": [
     {
+      "title": "Grau Técnico Gama promove Feira de Empregabilidade com 700 vagas e recrutamento no local",
+      "url": "https://www.visitebrasilia.com.br/noticias/grau-tecnico-gama-promove-feira-de-empregabilidade-com-700-vagas-e-recrutamento-no-local",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Monitor obrigatório e recadastro: CLDF aprova marco legal de vans escolares",
+      "url": "https://www.metropoles.com/distrito-federal/monitor-obrigatorio-e-recadastro-cldf-aprova-marco-legal-de-vans-escolares",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Entradas do Grupo Santé ganham protagonismo em experiências para compartilhar",
+      "url": "https://www.visitebrasilia.com.br/noticias/entradas-do-grupo-sante-ganham-protagonismo-em-experiencias-para-compartilhar",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Leroy Merlin Brasília promove talk show com Paulo Biacchi e Joana Lira",
       "url": "https://www.visitebrasilia.com.br/noticias/leroy-merlin-brasilia-promove-talk-show-com-paulo-biacchi-e-joana-lira",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Grau Técnico Gama promove Feira de Empregabilidade com 700 vagas e recrutamento no local",
-      "url": "https://www.visitebrasilia.com.br/noticias/grau-tecnico-gama-promove-feira-de-empregabilidade-com-700-vagas-e-recrutamento-no-local",
-      "tipo": "vaga",
+      "title": "Cada passo conta: corrida inclusiva convida Brasília a participar de uma causa social",
+      "url": "https://www.visitebrasilia.com.br/noticias/cada-passo-conta-corrida-inclusiva-convida-brasilia-a-participar-de-uma-causa-social",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Prime Beach brinda sua chegada em noite exclusiva à beira do Lago Paranoá",
+      "url": "https://www.visitebrasilia.com.br/noticias/prime-beach-brinda-sua-chegada-em-noite-exclusiva-a-beira-do-lago-paranoa",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "\"E Homem, Serve Pra Quê?\": Uma homenagem às mulheres em forma de comédia",
+      "url": "https://www.visitebrasilia.com.br/noticias/e-homem-serve-pra-que-uma-homenagem-as-mulheres-em-forma-de-comedia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Banda tributo a Los Hermanos apresenta especial no Eye Patch Panda",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-tributo-a-los-hermanos-apresenta-especial-no-eye-patch-panda",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Gafieira Pindorama traz essência do baile de salão ao palco do Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/gafieira-pindorama-traz-essencia-do-baile-de-salao-ao-palco-do-clube-do-choro",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -19,51 +61,9 @@
       "urgente": false
     },
     {
-      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Incêndio destrói materiais recicláveis e afeta 500 catadores na Estrutural",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/incendio-destroi-materiais-reciclaveis-e-afeta-500-catadores-na-estrutural-df-14102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bebê é encontrada com hematomas e sinais de violência",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-encontrada-com-hematomas-e-sinais-de-violencia-em-samambaia-df-14102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
-      "tipo": "utilidade pública",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "TJDFT adia julgamento de recurso contra psicológo acusado de matar 17 gatos",
-      "url": "https://www.metropoles.com/distrito-federal/tjdft-adia-julgamento-de-recurso-contra-psicologo-acusado-de-matar-17-gatos",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Primeira Casa da Mãe Atípica do país é inaugurada no Parque da Cidade",
       "url": "https://www.metropoles.com/distrito-federal/primeira-casa-da-mae-atipica-do-pais-e-inaugurada-no-parque-da-cidade",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Comércio do DF deve abrir 4,5 mil vagas temporárias no fim do ano",
-      "url": "https://www.metropoles.com/distrito-federal/comercio-do-df-deve-abrir-45-mil-vagas-temporarias-no-fim-do-ano",
-      "tipo": "vaga",
       "urgente": false
     },
     {
@@ -85,39 +85,33 @@
       "urgente": false
     },
     {
-      "title": "Ônibus com romeiros capota na BR-020",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/onibus-com-romeiros-capota-na-br-020-15056347.ghtml",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
       "title": "Acúmulo de lixo gera transtorno em diferentes regiões do DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/acumulo-de-lixo-gera-transtorno-em-diferentes-regioes-do-df-15052924.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Pais denunciam risco para alunos na entrada de escola em Taguatinga",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pais-denunciam-risco-para-alunos-na-entrada-de-escola-em-taguatinga-15052991.ghtml",
+      "title": "Incêndio destrói materiais recicláveis e afeta 500 catadores na Estrutural",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/incendio-destroi-materiais-reciclaveis-e-afeta-500-catadores-na-estrutural-df-14102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Bodytech Asa Sul prolonga comemorações do Dia das Crianças com programação especial nesta sexta (16)",
-      "url": "https://www.visitebrasilia.com.br/noticias/bodytech-asa-sul-prolonga-comemoracoes-do-dia-das-criancas-com-programacao-especial-nesta-sexta-16",
-      "tipo": "evento",
+      "title": "Bebê é encontrada com hematomas e sinais de violência",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-encontrada-com-hematomas-e-sinais-de-violencia-em-samambaia-df-14102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Prime Beach brinda sua chegada em noite exclusiva à beira do Lago Paranoá",
-      "url": "https://www.visitebrasilia.com.br/noticias/prime-beach-brinda-sua-chegada-em-noite-exclusiva-a-beira-do-lago-paranoa",
-      "tipo": "dica",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Gafieira Pindorama traz essência do baile de salão ao palco do Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/gafieira-pindorama-traz-essencia-do-baile-de-salao-ao-palco-do-clube-do-choro",
-      "tipo": "evento",
+      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
+      "tipo": "utilidade pública",
       "urgente": false
     }
   ]
