@@ -13,21 +13,9 @@
       "urgente": false
     },
     {
-      "title": "Governo inaugura novo Centro Pop em Brasília e atendimento passa a ser no Setor de Garagens",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-inaugura-novo-centro-pop-em-brasilia-e-atendimento-passa-a-ser-no-setor-de-garagens-15102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
-      "tipo": "noticia",
+      "title": "CCBB Brasília reúne Ruy Castro e Heloisa Seixas em encontro sobre biografia e memória",
+      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-reune-ruy-castro-e-heloisa-seixas-em-encontro-sobre-biografia-e-memoria",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -43,20 +31,44 @@
       "urgente": false
     },
     {
+      "title": "Mercado Malunga promove Festival de Novidades neste sábado",
+      "url": "https://www.visitebrasilia.com.br/noticias/mercado-malunga-promove-festival-de-novidades-neste-sabado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Venâncio Shopping recebe encontro de miniaturas e cultura automotiva",
       "url": "https://www.visitebrasilia.com.br/noticias/venancio-shopping-recebe-encontro-de-miniaturas-e-cultura-automotiva",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-desmantela-esquema-de-contrabando-de-vinhos-no-df-e-outros-estados-15102026",
+      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Governo inaugura novo Centro Pop em Brasília e atendimento passa a ser no Setor de Garagens",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-inaugura-novo-centro-pop-em-brasilia-e-atendimento-passa-a-ser-no-setor-de-garagens-15102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Delegada é presa no DF suspeita de receber R$ 50 mil de organização criminosa",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/delegada-e-presa-no-df-suspeita-de-receber-r-50-mil-de-organizacao-criminosa-15102026",
+      "title": "Senado aprova ampliação do teto do MEI de R$ 81 mil para R$ 140 mil",
+      "url": "https://noticias.r7.com/brasilia/senado-aprova-ampliacao-do-teto-do-mei-de-r-81-mil-para-r-140-mil-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Congresso promulga fim da escala 6x1 e aposentadoria de agentes de saúde nesta sexta",
+      "url": "https://noticias.r7.com/brasilia/congresso-promulga-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude-nesta-sexta-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -67,14 +79,44 @@
       "urgente": false
     },
     {
+      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-desmantela-esquema-de-contrabando-de-vinhos-no-df-e-outros-estados-15102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Sabor que dá vontade de voltar: Restaurante Japonês Haná apresenta cashback de 10% para clientes",
+      "url": "https://www.visitebrasilia.com.br/noticias/sabor-que-da-vontade-de-voltar-restaurante-japones-hana-apresenta-cashback-de-10-para-clientes",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Do clássico ao artesanal: Galpão 17 conta com 39 torneiras com opções diversas de cervejas",
+      "url": "https://www.visitebrasilia.com.br/noticias/do-classico-ao-artesanal-galpao-17-conta-com-39-torneiras-com-opcoes-diversas-de-cervejas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "Áreas são cercadas por tapumes e surpreendem moradores de Samambaia",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/areas-sao-cercadas-por-tapumes-e-surpreendem-moradores-de-samambaia-15060007.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "Tempestades e mudanças bruscas de temperatura marcam o início da semana no DF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/tempestades-e-mudancas-bruscas-de-temperatura-marcam-o-inicio-da-semana-no-df-15102026",
       "tipo": "atualidade",
       "urgente": false
     }
