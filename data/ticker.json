@@ -7,21 +7,9 @@
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Presa dupla suspeita de furtar casas no Park Way e causar prejuízo de mais de R$ 1 milhão",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/presa-dupla-suspeita-de-furtar-casas-no-park-way-e-causar-prejuizo-de-mais-de-r-1-milhao-16102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "\"Zés\" - espetáculo de encerramento de oficina debate preconceito e negritude em Samambaia",
-      "url": "https://www.visitebrasilia.com.br/noticias/zes-espetaculo-de-encerramento-de-oficina-debate-preconceito-e-negritude-em-samambaia",
-      "tipo": "evento",
       "urgente": false
     },
     {
@@ -31,38 +19,14 @@
       "urgente": false
     },
     {
-      "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
-      "tipo": "noticia",
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
+      "tipo": "novidade",
       "urgente": false
     },
     {
-      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
-      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Grupo Lagartixa Chorosa celebra 10 anos de história no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/grupo-lagartixa-chorosa-celebra-10-anos-de-historia-no-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "title": "Homem de 72 anos é preso por estuprar neta adolescente no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-de-72-anos-e-preso-por-estuprar-neta-adolescente-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -73,22 +37,22 @@
       "urgente": false
     },
     {
-      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
       "tipo": "evento",
       "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Duas pessoas são atropeladas por ônibus em parada da Asa Sul",
+      "url": "https://www.metropoles.com/distrito-federal/onibus-atropela-duas-pessoas-em-ponto-de-onibus-na-asa-sul",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
@@ -97,8 +61,56 @@
       "urgente": false
     },
     {
-      "title": "Brasília pede sorvete: como o clima da capital influencia o consumo de gelados",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-pede-sorvete-como-o-clima-da-capital-influencia-o-consumo-de-gelados",
+      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mãe e filho escapam ilesos de incêndio que destruiu casa da família no DF .",
+      "url": "https://www.metropoles.com/distrito-federal/mae-e-filho-escapam-ilesos-de-incendio-que-destruiu-casa-da-familia-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Sandra Duailibe celebra 20 anos de carreira com espetáculo especial em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sandra-duailibe-celebra-20-anos-de-carreira-com-espetaculo-especial-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Dnit não prevê prazo para concluir obra em erosão que ameaça a BR-040",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dnit-nao-preve-prazo-para-concluir-obra-em-erosao-que-ameaca-a-br-040-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Funcionário é rendido por homens armados durante roubo de carro na Ponte Alta (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/funcionario-e-rendido-por-homens-armados-durante-roubo-de-carro-na-ponte-alta-df-16102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
+      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
       "tipo": "atualidade",
       "urgente": false
     },
@@ -106,18 +118,6 @@
       "title": "GDF explica mudança do Centro Pop da Asa Sul para o Setor de Garagens Oficiais",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/gdf-explica-mudanca-do-centro-pop-da-asa-sul-para-o-setor-de-garagens-oficiais-16102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
       "urgente": false
     }
   ]
