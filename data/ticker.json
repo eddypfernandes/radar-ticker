@@ -1,98 +1,50 @@
 {
   "items": [
     {
-      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Agências do trabalhador encerram a semana com 747 vagas de emprego no DF",
-      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-encerram-a-semana-com-747-vagas-de-emprego-no-df",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Zés - espetáculo de encerramento de oficina debate preconceito e negritude em Samambaia",
-      "url": "https://www.visitebrasilia.com.br/noticias/zes-espetaculo-de-encerramento-de-oficina-debate-preconceito-e-negritude-em-samambaia",
+      "title": "Euterpe apresenta “Escrito em mim” pela primeira vez em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/euterpe-apresenta-escrito-em-mim-pela-primeira-vez-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Áreas são cercadas por tapumes e surpreendem moradores de Samambaia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/areas-sao-cercadas-por-tapumes-e-surpreendem-moradores-de-samambaia-15060007.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Zé Neto & Cristiano, Doze por Oito e Festival Literário: veja os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/ze-neto-cristiano-doze-por-oito-e-festival-literario-veja-os-eventos-do-fim-de-semana-no-df-16102026",
+      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Área do Lago Norte fica sem energia por 5 horas nesta sexta-feira (16/10)",
-      "url": "https://www.metropoles.com/distrito-federal/area-do-lago-norte-fica-sem-energia-por-5-horas-nesta-sexta-feira-16-10",
+      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
+      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Congresso promulga fim da 6x1 nesta sexta; trabalhador terá 2 folgas a partir de dezembro",
-      "url": "https://noticias.r7.com/brasilia/congresso-promulga-fim-da-6x1-nesta-sexta-trabalhador-tera-2-folgas-a-partir-de-dezembro-16102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Governo inaugura novo Centro Pop em Brasília e atendimento passa a ser no Setor de Garagens",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-inaugura-novo-centro-pop-em-brasilia-e-atendimento-passa-a-ser-no-setor-de-garagens-15102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Clube do Choro de Brasília recebe a \"Gypsy Experience\", maior tributo aos Gipsy Kings da América Latina",
-      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-recebe-a-gypsy-experience-maior-tributo-aos-gipsy-kings-da-america-latina",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Tempestades e mudanças bruscas de temperatura marcam o início da semana no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/tempestades-e-mudancas-bruscas-de-temperatura-marcam-o-inicio-da-semana-no-df-15102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Sabor que dá vontade de voltar: Restaurante Japonês Haná apresenta cashback de 10% para clientes",
-      "url": "https://www.visitebrasilia.com.br/noticias/sabor-que-da-vontade-de-voltar-restaurante-japones-hana-apresenta-cashback-de-10-para-clientes",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Polícia Federal desmantela esquema de contrabando de vinhos no DF e outros estados",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-desmantela-esquema-de-contrabando-de-vinhos-no-df-e-outros-estados-15102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
-      "tipo": "utilidade_publica",
-      "urgente": false
-    },
-    {
-      "title": "Inscrições abertas para a segunda etapa da Corrida do Idoso 2026, em Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/inscricoes-abertas-para-a-segunda-etapa-da-corrida-do-idoso-2026-em-ceilandia",
+      "title": "\"Zés\" - espetáculo de encerramento de oficina debate preconceito e negritude em Samambaia",
+      "url": "https://www.visitebrasilia.com.br/noticias/zes-espetaculo-de-encerramento-de-oficina-debate-preconceito-e-negritude-em-samambaia",
       "tipo": "evento",
       "urgente": false
     },
@@ -103,21 +55,63 @@
       "urgente": false
     },
     {
+      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Em 10 anos, trabalho infantil cai 28,6% e atinge o menor número da série histórica, indica IBGE",
+      "url": "https://noticias.r7.com/economia/em-10-anos-trabalho-infantil-cai-286-e-atinge-o-menor-numero-da-serie-historica-indica-ibge-16102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Comerciantes de Águas Claras (DF) denunciam aumento de crimes",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/comerciantes-de-aguas-claras-df-denunciam-aumento-de-crimes-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Bruxismo durante o dia pode causar dores de cabeça e desgaste dos dentes",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/bruxismo-durante-o-dia-pode-causar-dores-de-cabeca-e-desgaste-dos-dentes-16102026",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
       "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Cine Drive-In divulga filmes em cartaz para a semana de 15 a 21 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-filmes-em-cartaz-para-a-semana-de-15-a-21-de-outubro",
-      "tipo": "evento",
+      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mercado Malunga promove Festival de Novidades neste sábado",
-      "url": "https://www.visitebrasilia.com.br/noticias/mercado-malunga-promove-festival-de-novidades-neste-sabado",
-      "tipo": "evento",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
