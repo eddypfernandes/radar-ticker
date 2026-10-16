@@ -1,44 +1,20 @@
 {
   "items": [
     {
-      "title": "Euterpe apresenta “Escrito em mim” pela primeira vez em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/euterpe-apresenta-escrito-em-mim-pela-primeira-vez-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
-      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
-      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
+      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Presa dupla suspeita de furtar casas no Park Way e causar prejuízo de mais de R$ 1 milhão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/presa-dupla-suspeita-de-furtar-casas-no-park-way-e-causar-prejuizo-de-mais-de-r-1-milhao-16102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,62 +25,8 @@
       "urgente": false
     },
     {
-      "title": "CCBB Brasília reúne Ruy Castro e Heloisa Seixas em encontro sobre biografia e memória",
-      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-reune-ruy-castro-e-heloisa-seixas-em-encontro-sobre-biografia-e-memoria",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Governo federal anuncia novas regras para bloqueio de ligações indesejadas e golpes telefônicos; saiba o que mudou",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-federal-anuncia-regras-para-bloquear-ligacoes-indesejadas-e-golpes-14102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Falta de poda provoca queda de árvore e reclamações no Núcleo Bandeirante",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/queda-de-arvore-no-nucleo-bandeirante-df-alerta-moradores-sobre-falta-de-poda-13102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Em 10 anos, trabalho infantil cai 28,6% e atinge o menor número da série histórica, indica IBGE",
-      "url": "https://noticias.r7.com/economia/em-10-anos-trabalho-infantil-cai-286-e-atinge-o-menor-numero-da-serie-historica-indica-ibge-16102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Comerciantes de Águas Claras (DF) denunciam aumento de crimes",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/comerciantes-de-aguas-claras-df-denunciam-aumento-de-crimes-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bruxismo durante o dia pode causar dores de cabeça e desgaste dos dentes",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/bruxismo-durante-o-dia-pode-causar-dores-de-cabeca-e-desgaste-dos-dentes-16102026",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -112,6 +34,90 @@
       "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Grupo Lagartixa Chorosa celebra 10 anos de história no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/grupo-lagartixa-chorosa-celebra-10-anos-de-historia-no-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF Plaza Shopping inaugura nova loja da Riachuelo e reforça expansão de marcas nacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-inaugura-nova-loja-da-riachuelo-e-reforca-expansao-de-marcas-nacionais",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Carreta da Assessoria Jurídica para Pessoas com Deficiência realiza nova etapa no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/carreta-da-assessoria-juridica-para-pessoas-com-deficiencia-realiza-nova-etapa-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Brasília pede sorvete: como o clima da capital influencia o consumo de gelados",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-pede-sorvete-como-o-clima-da-capital-influencia-o-consumo-de-gelados",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "GDF explica mudança do Centro Pop da Asa Sul para o Setor de Garagens Oficiais",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/gdf-explica-mudanca-do-centro-pop-da-asa-sul-para-o-setor-de-garagens-oficiais-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
       "urgente": false
     }
   ]
