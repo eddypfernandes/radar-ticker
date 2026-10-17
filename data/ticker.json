@@ -13,27 +13,15 @@
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
+      "title": "Dia Mundial do Pão: Los Santos Pizza e Pão celebra tradição, técnica e novos sabores à mesa",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-mundial-do-pao-los-santos-pizza-e-pao-celebra-tradicao-tecnica-e-novos-sabores-a-mesa",
+      "tipo": "dica",
       "urgente": false
     },
     {
       "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
       "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Homem de 72 anos é preso por estuprar neta adolescente no DF",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-de-72-anos-e-preso-por-estuprar-neta-adolescente-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "atualidade",
+      "tipo": "oferta",
       "urgente": false
     },
     {
@@ -43,16 +31,16 @@
       "urgente": false
     },
     {
+      "title": "Ciclista é assaltado e leva facada na perna em trilha no DF; ladrões foram presos",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/ciclista-e-assaltado-e-leva-facada-na-perna-em-trilha-no-df-ladroes-foram-presos",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Epia Sul: carreta tomba e causa engarrafamento",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
       "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Duas pessoas são atropeladas por ônibus em parada da Asa Sul",
-      "url": "https://www.metropoles.com/distrito-federal/onibus-atropela-duas-pessoas-em-ponto-de-onibus-na-asa-sul",
-      "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
@@ -69,24 +57,30 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mãe e filho escapam ilesos de incêndio que destruiu casa da família no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/mae-e-filho-escapam-ilesos-de-incendio-que-destruiu-casa-da-familia-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Sandra Duailibe celebra 20 anos de carreira com espetáculo especial em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sandra-duailibe-celebra-20-anos-de-carreira-com-espetaculo-especial-em-brasilia",
+      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
+      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Dnit não prevê prazo para concluir obra em erosão que ameaça a BR-040",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dnit-nao-preve-prazo-para-concluir-obra-em-erosao-que-ameaca-a-br-040-16102026",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Duas pessoas são atropeladas por ônibus em parada da Asa Sul",
+      "url": "https://www.metropoles.com/distrito-federal/onibus-atropela-duas-pessoas-em-ponto-de-onibus-na-asa-sul",
       "tipo": "noticia",
       "urgente": false
     },
@@ -97,26 +91,32 @@
       "urgente": false
     },
     {
-      "title": "Funcionário é rendido por homens armados durante roubo de carro na Ponte Alta (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/funcionario-e-rendido-por-homens-armados-durante-roubo-de-carro-na-ponte-alta-df-16102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
-      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
-      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
-      "tipo": "atualidade",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
       "title": "GDF explica mudança do Centro Pop da Asa Sul para o Setor de Garagens Oficiais",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/gdf-explica-mudanca-do-centro-pop-da-asa-sul-para-o-setor-de-garagens-oficiais-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Dnit não prevê prazo para concluir obra em erosão que ameaça a BR-040",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dnit-nao-preve-prazo-para-concluir-obra-em-erosao-que-ameaca-a-br-040-16102026",
       "tipo": "noticia",
       "urgente": false
     }
