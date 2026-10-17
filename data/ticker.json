@@ -1,45 +1,21 @@
 {
   "items": [
     {
-      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
+      "title": "Jovem bandolinista de Brasília lança álbum autoral que transforma 21 anos de trajetória em um mergulho na música brasileira",
+      "url": "https://www.visitebrasilia.com.br/noticias/jovem-bandolinista-de-brasilia-lanca-album-autoral-que-transforma-21-anos-de-trajetoria-em-um-mergulho-na-musica-brasileira",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Presa dupla suspeita de furtar casas no Park Way e causar prejuízo de mais de R$ 1 milhão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/presa-dupla-suspeita-de-furtar-casas-no-park-way-e-causar-prejuizo-de-mais-de-r-1-milhao-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Detentos do CPP invadem USB no DF, ameaçam vigilante e roubam arma",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/detentos-do-cpp-invadem-usb-no-df-ameacam-vigilante-e-roubam-arma",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
-      "tipo": "atualidade",
+      "title": "Dia Mundial do Pão: Los Santos Pizza e Pão celebra tradição, técnica e novos sabores à mesa",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-mundial-do-pao-los-santos-pizza-e-pao-celebra-tradicao-tecnica-e-novos-sabores-a-mesa",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -49,15 +25,75 @@
       "urgente": false
     },
     {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "title": "Auditora fiscal maranhense transforma experiência de aprovação em mentoria para mulheres que buscam uma nova carreira",
+      "url": "https://www.visitebrasilia.com.br/noticias/auditora-fiscal-maranhense-transforma-experiencia-de-aprovacao-em-mentoria-para-mulheres-que-buscam-uma-nova-carreira",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
+      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Assista de graça à programação da RECORD BRASÍLIA no RecordPlus",
+      "url": "https://recordplus.onelink.me/bTiI/yaibw6al",
       "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Confusão termina com condomínio depredado no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/confusao-entre-entregador-e-comerciante-termina-com-condominio-depredado-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Presa dupla suspeita de furtar casas no Park Way e causar prejuízo de mais de R$ 1 milhão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/presa-dupla-suspeita-de-furtar-casas-no-park-way-e-causar-prejuizo-de-mais-de-r-1-milhao-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "PM de folga prende ladrões após mulher ser feita refém em área nobre do DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/pm-de-folga-prende-ladroes-apos-mulher-ser-feita-refem-em-area-nobre-do-df",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,39 +103,21 @@
       "urgente": false
     },
     {
-      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
-      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
-      "tipo": "evento",
+      "title": "Diplomata é alvo de ação por trabalho escravo doméstico no Lago Sul",
+      "url": "https://www.metropoles.com/distrito-federal/diplomata-e-alvo-de-acao-por-trabalho-escravo-domestico-no-lago-sul",
+      "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
       "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Zé Neto & Cristiano, Doze por Oito e Festival Literário: veja os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/ze-neto-cristiano-doze-por-oito-e-festival-literario-veja-os-eventos-do-fim-de-semana-no-df-16102026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
-      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Semeando Cultura leva programação especial gratuita para celebrar o Dia das Crianças em São Sebastião",
-      "url": "https://www.agendaculturalbrasilia.art.br/semeando-cultura-leva-programacao-especial-gratuita-para-celebrar-o-dia-das-criancas-em-sao-sebastiao",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Alertas de risco emitidos pela Defesa Civil previnem acidentes",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/alertas-de-risco-emitidos-pela-defesa-civil-previnem-acidentes-15078142.ghtml",
-      "tipo": "dica",
       "urgente": false
     }
   ]
