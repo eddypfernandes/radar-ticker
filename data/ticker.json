@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Jovem bandolinista de Brasília lança álbum autoral que transforma 21 anos de trajetória em um mergulho na música brasileira",
       "url": "https://www.visitebrasilia.com.br/noticias/jovem-bandolinista-de-brasilia-lanca-album-autoral-que-transforma-21-anos-de-trajetoria-em-um-mergulho-na-musica-brasileira",
       "tipo": "noticia",
@@ -13,33 +19,9 @@
       "urgente": false
     },
     {
-      "title": "Dia Mundial do Pão: Los Santos Pizza e Pão celebra tradição, técnica e novos sabores à mesa",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-mundial-do-pao-los-santos-pizza-e-pao-celebra-tradicao-tecnica-e-novos-sabores-a-mesa",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
-      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Auditora fiscal maranhense transforma experiência de aprovação em mentoria para mulheres que buscam uma nova carreira",
-      "url": "https://www.visitebrasilia.com.br/noticias/auditora-fiscal-maranhense-transforma-experiencia-de-aprovacao-em-mentoria-para-mulheres-que-buscam-uma-nova-carreira",
+      "title": "Policia Civil prende dupla de suspeitos de furtos em casas no Park Way (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-civil-prende-dupla-de-suspeitos-de-furtos-em-casas-no-park-way-df-17102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
-      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
-      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -49,50 +31,38 @@
       "urgente": false
     },
     {
-      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
-      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Assista de graça à programação da RECORD BRASÍLIA no RecordPlus",
-      "url": "https://recordplus.onelink.me/bTiI/yaibw6al",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Confusão termina com condomínio depredado no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/confusao-entre-entregador-e-comerciante-termina-com-condominio-depredado-no-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Presa dupla suspeita de furtar casas no Park Way e causar prejuízo de mais de R$ 1 milhão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/presa-dupla-suspeita-de-furtar-casas-no-park-way-e-causar-prejuizo-de-mais-de-r-1-milhao-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "PM de folga prende ladrões após mulher ser feita refém em área nobre do DF",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/pm-de-folga-prende-ladroes-apos-mulher-ser-feita-refem-em-area-nobre-do-df",
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Detentos do CPP invadem UBS no DF, ameaçam vigilante e roubam arma .",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/detentos-do-cpp-invadem-usb-no-df-ameacam-vigilante-e-roubam-arma",
       "tipo": "noticia",
       "urgente": false
     },
@@ -103,21 +73,51 @@
       "urgente": false
     },
     {
-      "title": "Diplomata é alvo de ação por trabalho escravo doméstico no Lago Sul",
-      "url": "https://www.metropoles.com/distrito-federal/diplomata-e-alvo-de-acao-por-trabalho-escravo-domestico-no-lago-sul",
+      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
-      "tipo": "noticia",
-      "urgente": true
+      "title": "Projeto RiSUS realiza intervenção de palhaçaria na UBS 1 da Cidade Estrutural",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-risus-realiza-intervencao-de-palhacaria-na-ubs-1-da-cidade-estrutural",
+      "tipo": "evento",
+      "urgente": false
     },
     {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "atualidade",
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Alerta de risco emitidos pela Defesa Civil previnem acidentes",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/alertas-de-risco-emitidos-pela-defesa-civil-previnem-acidentes-15078142.ghtml",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Dia Mundial do Pão: Los Santos Pizza e Pão celebra tradição, técnica e novos sabores à mesa",
+      "url": "https://www.visitebrasilia.com.br/noticias/dia-mundial-do-pao-los-santos-pizza-e-pao-celebra-tradicao-tecnica-e-novos-sabores-a-mesa",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
