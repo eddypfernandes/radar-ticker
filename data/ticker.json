@@ -25,39 +25,21 @@
       "urgente": false
     },
     {
+      "title": "Detentos do CPP invadem USB no DF, ameaçam vigilante e roubam arma",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/detentos-do-cpp-invadem-usb-no-df-ameacam-vigilante-e-roubam-arma",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
       "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "noticia",
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -67,45 +49,57 @@
       "urgente": false
     },
     {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
-      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "GDF explica mudança do Centro Pop da Asa Sul para o Setor de Garagens Oficiais",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/gdf-explica-mudanca-do-centro-pop-da-asa-sul-para-o-setor-de-garagens-oficiais-16102026",
+      "title": "Agentes de saúde são alvos da PCDF por venda ilegal de Mounjaro do Paraguai .",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/agentes-de-saude-sao-alvos-da-pcdf-por-venda-ilegal-de-mounjaro-do-paraguai",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Grupo Lagartixa Chorosa celebra 10 anos de história no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/grupo-lagartixa-chorosa-celebra-10-anos-de-historia-no-clube-do-choro",
+      "title": "\"Street Fighter\" e \"Dentro da Baleia\" estão entre as novidades da semana no Cine Araújo",
+      "url": "https://www.visitebrasilia.com.br/noticias/street-fighter-e-dentro-da-baleia-estao-entre-as-novidades-da-semana-no-cine-araujo",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Zé Neto & Cristiano, Doze por Oito e Festival Literário: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/ze-neto-cristiano-doze-por-oito-e-festival-literario-veja-os-eventos-do-fim-de-semana-no-df-16102026",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
-      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
-      "tipo": "novidade",
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Semeando Cultura leva programação especial gratuita para celebrar o Dia das Crianças em São Sebastião",
+      "url": "https://www.agendaculturalbrasilia.art.br/semeando-cultura-leva-programacao-especial-gratuita-para-celebrar-o-dia-das-criancas-em-sao-sebastiao",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Alertas de risco emitidos pela Defesa Civil previnem acidentes",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/alertas-de-risco-emitidos-pela-defesa-civil-previnem-acidentes-15078142.ghtml",
+      "tipo": "dica",
       "urgente": false
     }
   ]
