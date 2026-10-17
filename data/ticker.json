@@ -31,6 +31,24 @@
       "urgente": false
     },
     {
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
       "tipo": "evento",
@@ -45,19 +63,7 @@
     {
       "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
       "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "⯑ Mostra do Filme Livre 2027 abre inscrições gratuitas para produções independentes até 15 de novembro!",
-      "url": "https://www.visitebrasilia.com.br/noticias/mostra-do-filme-livre-2027-abre-inscricoes-gratuitas-para-producoes-independentes-ate-15-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Grupo Lagartixa Chorosa celebra 10 anos de história no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/grupo-lagartixa-chorosa-celebra-10-anos-de-historia-no-clube-do-choro",
-      "tipo": "evento",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -73,33 +79,33 @@
       "urgente": false
     },
     {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
       "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "title": "GDF explica mudança do Centro Pop da Asa Sul para o Setor de Garagens Oficiais",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/gdf-explica-mudanca-do-centro-pop-da-asa-sul-para-o-setor-de-garagens-oficiais-16102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
-      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
+      "title": "Grupo Lagartixa Chorosa celebra 10 anos de história no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/grupo-lagartixa-chorosa-celebra-10-anos-de-historia-no-clube-do-choro",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "tipo": "novidade",
       "urgente": false
     }
   ]
