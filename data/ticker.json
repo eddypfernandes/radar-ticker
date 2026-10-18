@@ -13,21 +13,15 @@
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Projeto Caravana de Histórias encerra jornada lúdica da 20ª edição com cantigas e brincadeiras em Samambaia",
-      "url": "https://www.agendaculturalbrasilia.art.br/projeto-caravana-de-historias-encerra-jornada-ludica-da-20a-edicao-com-cantigas-e-brincadeiras-em-samambaia",
-      "tipo": "evento",
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -37,8 +31,14 @@
       "urgente": false
     },
     {
-      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
+      "title": "\"A TRAVESSIA - UMA REALIDADE FICCIONAL\" reestreia em Brasília e convida público a reflexão",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-travessia-uma-realidade-ficcional-reestreia-em-brasilia-e-convida-publico-a-reflexao",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Para ver, tocar e sentir: exposição gratuita em Brasília terá obras táteis e olfativas",
+      "url": "https://www.visitebrasilia.com.br/noticias/para-ver-tocar-e-sentir-exposicao-gratuita-em-brasilia-tera-obras-tateis-e-olfativas",
       "tipo": "evento",
       "urgente": false
     },
@@ -49,57 +49,21 @@
       "urgente": false
     },
     {
-      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
-      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Plano de árvores mobiliza voluntários no Parque da Cidade, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/plantio-de-arvores-mobiliza-voluntarios-no-parque-da-cidade-em-brasilia-17102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
-      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
-      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
-      "tipo": "evento",
       "urgente": false
     },
     {
@@ -109,9 +73,51 @@
       "urgente": false
     },
     {
-      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
-      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "dica",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cães de suporte emocional trazem benefícios para a saúde mental",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/caes-de-suporte-emocional-e-seus-beneficios-para-a-saude-mental-17102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Donos de apês em famoso hotel de GO selam acordo e voltam a alugar imóveis",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/donos-de-apes-em-famoso-hotel-de-go-selam-acordo-e-voltam-a-alugar-imoveis",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Idosa morre dentro de igreja após 50 minutos de tentativas de reanimação",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/idosa-morre-dentro-de-igreja-apos-50-minutos-de-tentativas-de-reanimacao",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
