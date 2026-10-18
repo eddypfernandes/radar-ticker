@@ -7,26 +7,20 @@
       "urgente": false
     },
     {
-      "title": "Defesa Civil emite alerta de chuva intensa com ventos de até 60 km/h no DF",
-      "url": "https://www.metropoles.com/distrito-federal/defesa-civil-emite-alerta-de-chuva-intensa-com-ventos-de-ate-60-km-h-no-df",
-      "tipo": "atualidade",
-      "urgente": true
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mulher é hospitalizada após carros saírem da pista em acidente na DF-001",
+      "url": "https://www.metropoles.com/distrito-federal/mulher-e-hospitalizada-apos-carros-sairem-da-pista-em-acidente-na-df-001",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "1ª Semana de Arte e Fé reúne exposição, música e solidariedade em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/1-semana-de-arte-e-fe-reune-exposicao-musica-e-solidariedade-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Zé Neto & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,9 +31,21 @@
       "urgente": false
     },
     {
+      "title": "Animais do Cerrado: últimos dias da exposição no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/animais-do-cerrado-ultimos-dias-da-exposicao-no-parkshopping",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Zé Neto & Cristiano, Doze por Oito e Festival Literário: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/ze-neto-cristiano-doze-por-oito-e-festival-literario-veja-os-eventos-do-fim-de-semana-no-df-16102026",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
       "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "dica",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -49,15 +55,15 @@
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
-      "tipo": "noticia",
+      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -73,38 +79,14 @@
       "urgente": false
     },
     {
-      "title": "Desmoronamento em Valparaíso de Goiás interdita BR-040",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/desmoronamento-em-valparaiso-de-goias-interdita-br-040-17102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Trabalhadores têm queimaduras de 3º grau ao levar choque em obra na Fercal",
-      "url": "https://www.metropoles.com/distrito-federal/trabalhadores-tem-queimaduras-de-3o-grau-ao-levar-choque-em-obra-na-fercal",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
+      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
       "tipo": "atualidade",
       "urgente": false
     },
@@ -118,6 +100,24 @@
       "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
       "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Desmoronamento em Valparaíso de Goiás interdita BR-040",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/desmoronamento-em-valparaiso-de-goias-interdita-br-040-17102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "MEI terá perdão de dívidas e limite de faturamento de até R$ 140 mil; entenda",
+      "url": "https://noticias.r7.com/brasilia/mei-tera-perdao-de-dividas-e-teto-de-faturamento-de-r-140-mil-veja-o-que-muda-16102026",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
