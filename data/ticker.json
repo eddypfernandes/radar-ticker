@@ -13,32 +13,38 @@
       "urgente": false
     },
     {
-      "title": "Projeto Caravana de Histórias encerra jornada lúdica da 20ª edição com cantigas e brincadeiras em Samambaia",
-      "url": "https://www.agendaculturalbrasilia.art.br/projeto-caravana-de-historias-encerra-jornada-ludica-da-20a-edicao-com-cantigas-e-brincadeiras-em-samambaia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Instituto Olga Kos DF encerra projeto de capoeira e inclusão com sarau cultural",
-      "url": "https://www.visitebrasilia.com.br/noticias/instituto-olga-kos-df-encerra-projeto-de-capoeira-e-inclusao-com-sarau-cultural",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Para ver, tocar e sentir: exposição gratuita em Brasília terá obras táteis e olfativas",
-      "url": "https://www.visitebrasilia.com.br/noticias/para-ver-tocar-e-sentir-exposicao-gratuita-em-brasilia-tera-obras-tateis-e-olfativas",
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Café Filosófico CPFL retorna a Brasília em edição especial com Monja Coen e Gustavo Arns",
+      "url": "https://www.visitebrasilia.com.br/noticias/cafe-filosofico-cpfl-retorna-a-brasilia-em-edicao-especial-com-monja-coen-e-gustavo-arns",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "title": "Chuva forte derruba árvore sobre muro de casa no Lago Norte",
+      "url": "https://www.metropoles.com/distrito-federal/chuva-forte-derruba-arvore-sobre-muro-de-casa-no-lago-norte",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "“Marrom, o Musical” celebra a trajetória de Alcione com três apresentações em Brasília, de 6 a 8 de novembro, no Ulysses Centro de Convenções.",
+      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-celebra-a-trajetoria-de-alcione-com-tres-apresentacoes-em-brasilia-de-6-a-8-de-novembro-no-ulysses-centro-de-convencoes",
       "tipo": "evento",
       "urgente": false
     },
@@ -49,32 +55,56 @@
       "urgente": false
     },
     {
+      "title": "Para ver, tocar e sentir: exposição gratuita em Brasília terá obras táteis e olfativas",
+      "url": "https://www.visitebrasilia.com.br/noticias/para-ver-tocar-e-sentir-exposicao-gratuita-em-brasilia-tera-obras-tateis-e-olfativas",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Homem descumpre medida protetiva e é preso com R$ 100 mil em drogas no DF",
+      "url": "https://www.metropoles.com/distrito-federal/homem-descumpre-medida-protetiva-e-e-preso-com-r-100-mil-em-drogas-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
       "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
       "tipo": "novidade",
       "urgente": false
     },
     {
-      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Turismo inclusivo em Brasília começa com informação e acolhimento",
-      "url": "https://www.visitebrasilia.com.br/noticias/turismo-inclusivo-em-brasilia-comeca-com-informacao-e-acolhimento",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
+      "title": "Street Cadeirante Virtual leva aulas gratuitas de dança a pessoas com deficiência física de todo o Brasil",
+      "url": "https://www.agendaculturalbrasilia.art.br/street-cadeirante-virtual-leva-aulas-gratuitas-de-danca-a-pessoas-com-deficiencia-fisica-de-todo-o-brasil",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "Desmoronamento em Valparaíso de Goiás interdita BR-040",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/desmoronamento-em-valparaiso-de-goias-interdita-br-040-17102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -85,20 +115,8 @@
       "urgente": false
     },
     {
-      "title": "Buraco do Jazz celebra 10 anos de ocupação cultural",
-      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-celebra-10-anos-de-ocupacao-cultural",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Zezão & Cristiano comemoram 15 anos de carreira com maior show de sua história em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ze-neto-cristiano-comemoram-15-anos-de-carreira-com-maior-show-de-sua-historia-em-brasilia",
+      "title": "Letícia Miranda lança \"Furacão Tornado\" em 22 de outubro, no Glória Cafés Especiais e Livros, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/leticia-miranda-lanca-furacao-tornado-em-22-de-outubro-no-gloria-cafes-especiais-e-livros-em-brasilia",
       "tipo": "evento",
       "urgente": false
     }
