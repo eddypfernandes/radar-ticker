@@ -13,14 +13,8 @@
       "urgente": true
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "title": "1ª Semana de Arte e Fé reúne exposição, música e solidariedade em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/1-semana-de-arte-e-fe-reune-exposicao-musica-e-solidariedade-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,27 +31,33 @@
       "urgente": false
     },
     {
+      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
       "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
-      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "novidade",
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
-      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
-      "tipo": "evento",
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -73,10 +73,10 @@
       "urgente": false
     },
     {
-      "title": "Cães de suporte emocional e seus benefícios para a saúde mental",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/caes-de-suporte-emocional-e-seus-beneficios-para-a-saude-mental-17102026",
-      "tipo": "dica",
-      "urgente": false
+      "title": "Desmoronamento em Valparaíso de Goiás interdita BR-040",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/desmoronamento-em-valparaiso-de-goias-interdita-br-040-17102026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
@@ -85,9 +85,15 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Trabalhadores têm queimaduras de 3º grau ao levar choque em obra na Fercal",
+      "url": "https://www.metropoles.com/distrito-federal/trabalhadores-tem-queimaduras-de-3o-grau-ao-levar-choque-em-obra-na-fercal",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -99,25 +105,19 @@
     {
       "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Trabalhadores têm queimaduras de 3º grau ao levar choque em obra na Fercal",
-      "url": "https://www.metropoles.com/distrito-federal/trabalhadores-tem-queimaduras-de-3o-grau-ao-levar-choque-em-obra-na-fercal",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "1ª Semana de Arte e Fé reúne exposição, música e solidariedade em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/1-semana-de-arte-e-fe-reune-exposicao-musica-e-solidariedade-em-brasilia",
+      "title": "William Shakespeare será revivido em oficinas gratuitas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/william-shakespeare-sera-revivido-em-oficinas-gratuitas-no-df",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Jovem bandolinista de Brasília lança álbum autoral que transforma 21 anos de trajetória em um mergulho na música brasileira",
-      "url": "https://www.visitebrasilia.com.br/noticias/jovem-bandolinista-de-brasilia-lanca-album-autoral-que-transforma-21-anos-de-trajetoria-em-um-mergulho-na-musica-brasileira",
-      "tipo": "noticia",
+      "title": "Laboratório Criativo chega ao Gama com cursos gratuitos de tecnologia",
+      "url": "https://www.visitebrasilia.com.br/noticias/laboratorio-criativo-chega-ao-gama-com-cursos-gratuitos-de-tecnologia",
+      "tipo": "evento",
       "urgente": false
     }
   ]
