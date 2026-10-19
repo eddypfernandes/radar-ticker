@@ -19,8 +19,8 @@
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "title": "Sons de tiroteio intrigam moradores do Noroeste neste domingo (18/10)",
+      "url": "https://www.metropoles.com/distrito-federal/sons-de-tiroteio-intrigam-moradores-do-noroeste-neste-domingo-18-10",
       "tipo": "noticia",
       "urgente": false
     },
@@ -31,14 +31,14 @@
       "urgente": false
     },
     {
-      "title": "Carro bate em árvore e deixa pessoa gravemente ferida no DF",
-      "url": "https://www.metropoles.com/distrito-federal/carro-bate-em-arvore-e-deixa-pessoa-gravemente-ferida-no-df",
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Chuva forte derruba árvore sobre muro de casa no Lago Norte",
-      "url": "https://www.metropoles.com/distrito-federal/chuva-forte-derruba-arvore-sobre-muro-de-casa-no-lago-norte",
+      "title": "Mega-Sena: aposta do DF acerta a quina e fatura R$ 58,8 mil",
+      "url": "https://www.metropoles.com/distrito-federal/mega-sena-aposta-do-df-acerta-a-quina-e-fatura-r-588-mil",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,21 +49,39 @@
       "urgente": false
     },
     {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "title": "“Marrom, o Musical” celebra a trajetória de Alcione com três apresentações em Brasília, de 6 a 8 de novembro, no Ulysses Centro de Convenções.",
+      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-celebra-a-trajetoria-de-alcione-com-tres-apresentacoes-em-brasilia-de-6-a-8-de-novembro-no-ulysses-centro-de-convencoes",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
+      "tipo": "novidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Cães de suporte emocional trazem benefícios para a saúde mental",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/caes-de-suporte-emocional-e-seus-beneficios-para-a-saude-mental-17102026",
-      "tipo": "dica",
+      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "“Marrom, o Musical” celebra a trajetória de Alcione com três apresentações em Brasília, de 6 a 8 de novembro, no Ulysses Centro de Convenções.",
-      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-celebra-a-trajetoria-de-alcione-com-tres-apresentacoes-em-brasilia-de-6-a-8-de-novembro-no-ulysses-centro-de-convencoes",
-      "tipo": "evento",
+      "title": "Homem morre após cair de moto e sofrer parada cardíaca na Ponte JK",
+      "url": "https://www.metropoles.com/distrito-federal/homem-morre-apos-cair-de-moto-e-sofrer-parada-cardiaca-na-ponte-jk",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Pesquisadora da Embrapa Cerrados está entre as 100 mulheres poderosas do agro brasileiro, segundo a Forbes Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/pesquisadora-da-embrapa-cerrados-esta-entre-as-100-mulheres-poderosas-do-agro-brasileiro-segundo-a-forbes-brasil",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -79,20 +97,26 @@
       "urgente": false
     },
     {
-      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
-      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "oferta",
+      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
+      "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "TRE-DF prepara urnas que serão utilizadas no 2° turno da eleição",
-      "url": "https://www.metropoles.com/distrito-federal/tre-df-prepara-urnas-que-serao-utilizadas-no-2-turno-da-eleicao",
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
       "tipo": "noticia",
       "urgente": false
     }
