@@ -1,62 +1,74 @@
 {
   "items": [
     {
-      "title": "Dois cachorros comunitários são esfaqueados no Núcleo Bandeirante",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dois-cachorros-comunitarios-sao-esfaqueados-no-nucleo-bandeirante-15077911.ghtml",
+      "title": "Idosa sofre múltiplas fraturas ao ser atropelada por ônibus no Núcleo Bandeirante (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/idosa-sofre-multiplas-fraturas-ao-ser-atropelada-por-onibus-no-nucleo-bandeirante-df-19102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Vigilante armado impede roubo de carro no estacionamento do metrô em Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/vigilante-armado-impede-roubo-de-carro-no-estacionamento-do-metro-em-samambaia-df-19102026",
+      "title": "Lobo-guará é visto circulando por quadra residencial de Samambaia Sul (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/lobo-guara-e-visto-circulando-por-quadra-residencial-de-samambaia-sul-df-19102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "title": "Ponte JK terá duas faixas reversas a partir desta quarta-feira (21/10)",
+      "url": "https://www.metropoles.com/distrito-federal/ponte-jk-tera-duas-faixas-reversas-a-partir-desta-quarta-feira-21-10",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Vik Muniz chega ao CCBB Brasília com cerca de 188 obras na maior retrospectiva de sua carreira",
-      "url": "https://www.visitebrasilia.com.br/noticias/vik-muniz-chega-ao-ccbb-brasilia-com-cerca-de-188-obras-na-maior-retrospectiva-de-sua-carreira",
+      "title": "Jorge Bischoff abre quinta loja em Brasília e reforça aposta no mercado do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/jorge-bischoff-abre-quinta-loja-em-brasilia-e-reforca-aposta-no-mercado-do-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Yakinikuya lança ofertas especiais com drinks pela metade do preço e cortesia da nobre carne Wagyu",
+      "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-lanca-ofertas-especiais-com-drinks-pela-metade-do-preco-e-cortesia-da-nobre-carne-wagyu",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Boulevard promove oficina gratuita de pintura com luz negra",
+      "url": "https://www.visitebrasilia.com.br/noticias/boulevard-promove-oficina-gratuita-de-pintura-com-luz-negra",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Café Filosófico CPFL retorna a Brasília em edição especial com Monja Coen e Gustavo Arns",
-      "url": "https://www.visitebrasilia.com.br/noticias/cafe-filosofico-cpfl-retorna-a-brasilia-em-edicao-especial-com-monja-coen-e-gustavo-arns",
+      "title": "Feijoada com Samba: tradição, música boa e gastronomia no Clube do Choro de Brasília!",
+      "url": "https://www.visitebrasilia.com.br/noticias/feijoada-com-samba-tradicao-musica-boa-e-gastronomia-no-clube-do-choro-de-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Partage Lago Sul recebe showcar de Fórmula 1 Audi e simulador de pilotagem com disputa que vale ingressos para o GP do Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-recebe-showcar-de-formula-1-audi-e-simulador-de-pilotagem-com-disputa-que-vale-ingressos-para-o-gp-do-brasil",
+      "title": "Casapark recebe mostra que celebra criatividade e beleza da ikebana",
+      "url": "https://www.visitebrasilia.com.br/noticias/casapark-recebe-mostra-que-celebra-criatividade-e-beleza-da-ikebana",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Terracap e Ibram negociam acordo para estruturação e manutenção do Parque Ecológico das Garças",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/terracap-e-ibram-negociam-acordo-para-estruturacao-e-manutencao-do-parque-ecologico-das-garcas-15100719.ghtml",
+      "title": "Halloween no Brasília Shopping: uma tarde de doces travessuras",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-brasilia-shopping-uma-tarde-de-doces-travessuras",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "PCDF lança campanha de adoção para cães resgatados de maus-tratos; fotos",
+      "url": "https://www.metropoles.com/distrito-federal/pcdf-lanca-campanha-de-adocao-para-caes-resgatados-de-maus-tratos-fotos",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Curso gratuito de panificação capacita profissionais para o mercado de trabalho",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/curso-gratuito-de-panificacao-capacita-profissionais-para-o-mercado-de-trabalho-19102026",
-      "tipo": "vaga",
+      "title": "Vigilante do Metrô-DF ajuda dono a recuperar carro roubado em estação .",
+      "url": "https://www.metropoles.com/distrito-federal/vigilante-do-metro-df-ajuda-dono-a-recuperar-carro-roubado-em-estacao",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Saiba onde descartar equipamentos usado",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/saiba-onde-descartar-equipamentos-usado-15100706.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Bombeiros explicam o que fazer em caso de ataque de abelhas e outros insetos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bombeiros-explicam-o-que-fazer-em-caso-de-ataque-de-abelhas-e-outros-insetos-15079492.ghtml",
       "tipo": "dica",
       "urgente": false
     },
@@ -67,33 +79,39 @@
       "urgente": false
     },
     {
-      "title": "Relíquia católica está em Brasília",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/reliquia-catolica-esta-em-brasilia-15100632.ghtml",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "title": "Passagem aérea sobe 42,5% em um ano; a de ônibus avança apenas 8,7%, aponta IRCB/Fipe",
+      "url": "https://www.visitebrasilia.com.br/noticias/passagem-aerea-sobe-42-5-em-um-ano-a-de-onibus-avanca-apenas-8-7-aponta-ircb-fipe",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "noticia",
+      "title": "UnB e Embaixada da Itália promovem dia de atividades gratuitas na Semana da Língua Italiana",
+      "url": "https://www.visitebrasilia.com.br/noticias/unb-e-embaixada-da-italia-promovem-dia-de-atividades-gratuitas-na-semana-da-lingua-italiana",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "ATA remonta \"Futuro do Passado\" com ocupação cênica no Museu Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/ata-remonta-futuro-do-passado-com-ocupacao-cenica-no-museu-nacional",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Retrofit ganha espaço na transformação de áreas centrais de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/retrofit-ganha-espaco-na-transformacao-de-areas-centrais-de-brasilia",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Plantio de árvores mobiliza voluntários no Parque da Cidade",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/plantio-de-arvores-mobiliza-voluntarios-no-parque-da-cidade-em-brasilia-17102026",
+      "tipo": "evento",
       "urgente": false
     }
   ]
