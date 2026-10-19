@@ -13,14 +13,26 @@
       "urgente": false
     },
     {
+      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Homem que atirou e matou vizinho em Samambaia vai a júri popular",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-que-atirou-e-matou-vizinho-em-samambaia-vai-a-juri-popular-15060056.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Sons de tiroteio intrigam moradores do Noroeste neste domingo (18/10)",
-      "url": "https://www.metropoles.com/distrito-federal/sons-de-tiroteio-intrigam-moradores-do-noroeste-neste-domingo-18-10",
+      "title": "Com salários de até R$ 3,3 mil, DF inicia semana com 747 vagas de emprego",
+      "url": "https://www.metropoles.com/distrito-federal/com-salarios-de-ate-r-33-mil-df-inicia-semana-com-747-vagas-de-emprego",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Áreas do Gama ficam sem energia nesta segunda-feira (19/10); veja endereços",
+      "url": "https://www.metropoles.com/distrito-federal/areas-do-gama-ficam-sem-energia-nesta-segunda-feira-19-10-veja-enderecos",
       "tipo": "noticia",
       "urgente": false
     },
@@ -31,8 +43,62 @@
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "title": "“Marrom, o Musical” celebra a trajetória de Alcione com três apresentações em Brasília, de 6 a 8 de novembro, no Ulysses Centro de Convenções.",
+      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-celebra-a-trajetoria-de-alcione-com-tres-apresentacoes-em-brasilia-de-6-a-8-de-novembro-no-ulysses-centro-de-convencoes",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Para ver, tocar e sentir: exposição gratuita em Brasília terá obras táteis e olfativas",
+      "url": "https://www.visitebrasilia.com.br/noticias/para-ver-tocar-e-sentir-exposicao-gratuita-em-brasilia-tera-obras-tateis-e-olfativas",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
+      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
+      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Epia Sul: carreta tomba e causa engarrafamento",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Plantio de árvores mobiliza voluntários no Parque da Cidade",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/plantio-de-arvores-mobiliza-voluntarios-no-parque-da-cidade-em-brasilia-17102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Homem é morto a facadas após discussão com dono de churrasquinho no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-e-morto-a-facadas-apos-discussao-com-dono-de-churrasquinho-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,75 +115,9 @@
       "urgente": false
     },
     {
-      "title": "“Marrom, o Musical” celebra a trajetória de Alcione com três apresentações em Brasília, de 6 a 8 de novembro, no Ulysses Centro de Convenções.",
-      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-celebra-a-trajetoria-de-alcione-com-tres-apresentacoes-em-brasilia-de-6-a-8-de-novembro-no-ulysses-centro-de-convencoes",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cumbuco Saladeria inaugura loja física no Lago Sul com refeições leves para uma rotina mais prática",
-      "url": "https://www.visitebrasilia.com.br/noticias/cumbuco-saladeria-inaugura-loja-fisica-no-lago-sul-com-refeicoes-leves-para-uma-rotina-mais-pratica",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Brasília recebe um dos maiores encontros gratuitos de colecionadores do Centro-Oeste",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-dos-maiores-encontros-gratuitos-de-colecionadores-do-centro-oeste",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Homem morre após cair de moto e sofrer parada cardíaca na Ponte JK",
-      "url": "https://www.metropoles.com/distrito-federal/homem-morre-apos-cair-de-moto-e-sofrer-parada-cardiaca-na-ponte-jk",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Pesquisadora da Embrapa Cerrados está entre as 100 mulheres poderosas do agro brasileiro, segundo a Forbes Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/pesquisadora-da-embrapa-cerrados-esta-entre-as-100-mulheres-poderosas-do-agro-brasileiro-segundo-a-forbes-brasil",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Para ver, tocar e sentir: exposição gratuita em Brasília terá obras táteis e olfativas",
-      "url": "https://www.visitebrasilia.com.br/noticias/para-ver-tocar-e-sentir-exposicao-gratuita-em-brasilia-tera-obras-tateis-e-olfativas",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Norū Sushi aposta na evolução da gastronomia japonesa com técnica, ingredientes nobres e criatividade",
-      "url": "https://www.visitebrasilia.com.br/noticias/noru-sushi-aposta-na-evolucao-da-gastronomia-japonesa-com-tecnica-ingredientes-nobres-e-criatividade",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "DF ainda não tem fiscalização de bicicletas e patinetes elétricos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-ainda-nao-tem-fiscalizacao-de-bicicletas-e-patinetes-eletricos-15078374.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "“Pelle – A Maripoza”, solo circense de Aisha Britto, estreia em Brasília e propõe reflexão sobre corpo feminino, memória e resistência",
       "url": "https://www.agendaculturalbrasilia.art.br/pelle-a-maripoza-solo-circense-de-aisha-britto-estreia-em-brasilia-e-propoe-reflexao-sobre-corpo-feminino-memoria-e-resistencia",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
-      "tipo": "noticia",
       "urgente": false
     }
   ]
