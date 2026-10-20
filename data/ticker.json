@@ -7,14 +7,56 @@
       "urgente": false
     },
     {
-      "title": "Don Romano celebra Dia do Macarrão com receitas fartas e sabor de afeto",
-      "url": "https://www.visitebrasilia.com.br/noticias/don-romano-celebra-dia-do-macarrao-com-receitas-fartas-e-sabor-de-afeto",
-      "tipo": "dica",
+      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
+      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Doces, fantasias e travessuras: Alameda Shopping prepara Halloween para a criançada",
+      "url": "https://www.visitebrasilia.com.br/noticias/doces-fantasias-e-travessuras-alameda-shopping-prepara-halloween-para-a-criancada",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vale Jurássico reúne dinossauros e brinquedos em programa para toda a família no Parque do Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-reune-dinossauros-e-brinquedos-em-programa-para-toda-a-familia-no-parque-do-cidade",
+      "tipo": "evento",
       "urgente": false
     },
     {
       "title": "Aneel aprova provisoriamente alta média de 1,92% para clientes da Neoenergia Brasília",
       "url": "https://noticias.r7.com/brasilia/aneel-aprova-provisoriamente-alta-media-de-192-para-clientes-da-neoenergia-brasilia-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 185 milhões e movimenta apostadores no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mega-sena-pode-pagar-r-185-milhoes-e-movimenta-apostadores-no-distrito-federal-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Falta de iluminação pública deixa moradores do Riacho Fundo (DF) no escuro há mais de 20 dias",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/falta-de-iluminacao-publica-deixa-moradores-do-riacho-fundo-df-no-escuro-ha-mais-de-20-dias-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Bebê de dois meses é salvo após se engasgar com bala no Recanto das Emas (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bebe-de-dois-meses-e-salvo-apos-se-engasgar-com-bala-no-recanto-das-emas-df-20102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -25,44 +67,38 @@
       "urgente": false
     },
     {
-      "title": "Suspeito de aliciar criança de 12 anos por aplicativo é preso pela PCDF",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeito-de-aliciar-crianca-de-12-anos-por-aplicativo-e-preso-pela-pcdf",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Mais de 33 mil pessoas precisam trocar cartão do Prato Cheio no DF",
+      "url": "https://www.metropoles.com/distrito-federal/mais-de-33-mil-pessoas-precisam-trocar-cartao-do-prato-cheio-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Suspeita de furtar coletes balísticos do Detran se apresenta e é presa",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeita-de-furtar-coletes-balisticos-do-detran-se-apresenta-e-e-presa",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Justiça concede liminar para coibir fraudes em empréstimos de aposentados",
+      "url": "https://www.metropoles.com/distrito-federal/justica-concede-liminar-para-coibir-fraudes-em-emprestimos-de-aposentados",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Aumentaram as denúncias de assédio eleitoral no ambiente de trabalho",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aumentaram-as-denuncias-de-assedio-eleitoral-no-ambiente-de-trabalho-15104532.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Banda SOS Toca Raul apresenta tributo a Raul Seixas no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/banda-sos-toca-raul-apresenta-tributo-a-raul-seixas-no-clube-do-choro-de-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Comerciantes do Jardim Botânico relatam prejuízos com quedas de energia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comerciantes-do-jardim-botanico-relatam-prejuizos-com-quedas-de-energia-15104462.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Startups têm até sexta-feira (23) para se inscrever no Congresso Conecta IA Brasília 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/startups-tem-ate-sexta-feira-23-para-se-inscrever-no-congresso-conecta-ia-brasilia-2026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -70,23 +106,11 @@
       "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
       "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Sallva e Paganini lançam Menu Bambini com brinde exclusivo para os pequenos",
-      "url": "https://www.visitebrasilia.com.br/noticias/sallva-e-paganini-lancam-menu-bambini-com-brinde-exclusivo-para-os-pequenos",
-      "tipo": "oferta",
       "urgente": false
     },
     {
-      "title": "DER-DF planeja faixa reversível na EPJK no sentido Plano Piloto",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/der-df-planeja-faixa-reversivel-na-epjk-para-aliviar-transito-no-sentido-plano-piloto-19102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bebê de dois meses é salvo após se engasgar com bala no Recanto das Emas (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bebe-de-dois-meses-e-salvo-apos-se-engasgar-com-bala-no-recanto-das-emas-df-20102026",
+      "title": "Comerciantes do Jardim Botânico relatam prejuízos com quedas de energia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comerciantes-do-jardim-botanico-relatam-prejuizos-com-quedas-de-energia-15104462.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
