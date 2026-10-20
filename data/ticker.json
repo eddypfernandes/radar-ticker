@@ -19,8 +19,26 @@
       "urgente": false
     },
     {
+      "title": "Feijoada com Samba: tradição, música boa e gastronomia no Clube do Choro de Brasília!",
+      "url": "https://www.visitebrasilia.com.br/noticias/feijoada-com-samba-tradicao-musica-boa-e-gastronomia-no-clube-do-choro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "ATA remonta \"Futuro do Passado\" com ocupação cênica no Museu Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/ata-remonta-futuro-do-passado-com-ocupacao-cenica-no-museu-nacional",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Casapark recebe mostra que celebra criatividade e beleza da ikebana",
       "url": "https://www.visitebrasilia.com.br/noticias/casapark-recebe-mostra-que-celebra-criatividade-e-beleza-da-ikebana",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "UnB e Embaixada da Itália promovem dia de atividades gratuitas na Semana da Língua Italiana",
+      "url": "https://www.visitebrasilia.com.br/noticias/unb-e-embaixada-da-italia-promovem-dia-de-atividades-gratuitas-na-semana-da-lingua-italiana",
       "tipo": "evento",
       "urgente": false
     },
@@ -46,19 +64,13 @@
       "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Epia Sul: carreta tomba e causa engarrafamento",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Moradores de Santa Maria cobram calçadas e mais segurança para pedestres",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-santa-maria-df-cobram-calcadas-e-mais-seguranca-para-pedestres-19102026",
-      "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Cães de suporte emocional trazem benefícios para a saúde mental",
@@ -73,15 +85,27 @@
       "urgente": false
     },
     {
-      "title": "Caesb normaliza abastecimento após vazamento de água na Asa Norte, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/caesb-normaliza-abastecimento-apos-vazamento-de-agua-na-asa-norte-em-brasilia-19102026",
+      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Sem prisões, caso de vigilante morto pela PCDF por engano completa 2 meses",
+      "url": "https://www.metropoles.com/distrito-federal/sem-prisoes-caso-de-vigilante-morto-pela-pcdf-por-engano-completa-2-meses",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -91,32 +115,8 @@
       "urgente": false
     },
     {
-      "title": "Predador virtual que fez 28 vítimas no DF subjugava mulheres: \"Preta feia\"",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/predador-virtual-que-fez-28-vitimas-no-df-subjugava-mulheres-preta-feia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ponte JK terá duas faixas reversas a partir desta quarta-feira (21/10)",
-      "url": "https://www.metropoles.com/distrito-federal/ponte-jk-tera-duas-faixas-reversas-a-partir-desta-quarta-feira-21-10",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Terracap desiste de comércio ao lado do Parque das Garças, no Lago Norte",
-      "url": "https://www.metropoles.com/distrito-federal/terracap-desiste-de-comercio-ao-lado-do-parque-das-garcas-no-lago-norte",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Saiba onde descartar equipamentos usado",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/saiba-onde-descartar-equipamentos-usado-15100706.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Projeto ajuda pacientes de câncer com perucas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/projeto-ajuda-pacientes-de-cancer-com-perucas-15100622.ghtml",
+      "title": "Terracap e Ibram negociam acordo para estruturação e manutenção do Parque Ecológico das Garças",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/terracap-e-ibram-negociam-acordo-para-estruturacao-e-manutencao-do-parque-ecologico-das-garcas-15100719.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
