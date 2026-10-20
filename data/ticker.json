@@ -1,63 +1,63 @@
 {
   "items": [
     {
-      "title": "Aparecida: atriz estreia espetáculo nesta quarta na Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/aparecida-atriz-estreia-espetaculo-nesta-quarta-na-ceilandia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Jorge Bischoff abre quinta loja em Brasília e reforça aposta no mercado do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/jorge-bischoff-abre-quinta-loja-em-brasilia-e-reforca-aposta-no-mercado-do-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Yakinikuya lança ofertas especiais com drinks pela metade do preço e cortesia da nobre carne Wagyu",
-      "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-lanca-ofertas-especiais-com-drinks-pela-metade-do-preco-e-cortesia-da-nobre-carne-wagyu",
+      "title": "Projeto verão: Patinho Feio reúne opções fitness com pratos leves e drinks sem álcool",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-verao-patinho-feio-reune-opcoes-fitness-com-pratos-leves-e-drinks-sem-alcool",
       "tipo": "oferta",
       "urgente": false
     },
     {
-      "title": "Boulevard promove oficina gratuita de pintura com luz negra",
-      "url": "https://www.visitebrasilia.com.br/noticias/boulevard-promove-oficina-gratuita-de-pintura-com-luz-negra",
+      "title": "Banda SOS Toca Raul apresenta tributo a Raul Seixas no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-sos-toca-raul-apresenta-tributo-a-raul-seixas-no-clube-do-choro-de-brasilia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Casapark recebe mostra que celebra criatividade e beleza da ikebana",
-      "url": "https://www.visitebrasilia.com.br/noticias/casapark-recebe-mostra-que-celebra-criatividade-e-beleza-da-ikebana",
+      "title": "Estupenda Trupe homenageia construção de Brasília em espetáculo gratuito",
+      "url": "https://www.visitebrasilia.com.br/noticias/estupenda-trupe-homenageia-construcao-de-brasilia-em-espetaculo-gratuito",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Anvisa determina apreensão de lote falso de medicamento para botox",
-      "url": "https://noticias.r7.com/brasilia/anvisa-determina-apreensao-de-lote-falsificado-de-medicamento-para-botox-19102026",
+      "title": "Startups têm até sexta-feira (23) para se inscrever no Congresso Conecta IA Brasília 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/startups-tem-ate-sexta-feira-23-para-se-inscrever-no-congresso-conecta-ia-brasilia-2026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Aneel aprova provisoriamente alta média de 1,92% para clientes da Neoenergia Brasília",
+      "url": "https://noticias.r7.com/brasilia/aneel-aprova-provisoriamente-alta-media-de-192-para-clientes-da-neoenergia-brasilia-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
+      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Epia Sul: carreta tomba e causa engarrafamento",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/carreta-tomba-e-causa-engarrafamento-na-epia-sul-no-df-16102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Moradores de Santa Maria cobram calçadas e mais segurança para pedestres",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-santa-maria-df-cobram-calcadas-e-mais-seguranca-para-pedestres-19102026",
+      "title": "Ônibus sem freio bate em comércio na Fercal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/onibus-sem-freio-bate-em-comercio-na-fercal-df-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Caesb normaliza abastecimento após vazamento de água na Asa Norte, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/caesb-normaliza-abastecimento-apos-vazamento-de-agua-na-asa-norte-em-brasilia-19102026",
+      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DER-DF planeja faixa reversível na EPJK no sentido Plano Piloto",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/der-df-planeja-faixa-reversivel-na-epjk-para-aliviar-transito-no-sentido-plano-piloto-19102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Chuvas já começaram em Brasília, mas calor persiste",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuvas-ja-comecaram-em-brasilia-mas-calor-persiste-20102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -67,56 +67,56 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DER-DF suspende CNHs de 25 motoristas por infrações graves; veja lista",
-      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-25-motoristas-por-infracoes-graves-veja-lista",
+      "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Paralisação dos professores: aulas serão suspensas nesta quarta-feira",
-      "url": "https://www.metropoles.com/distrito-federal/paralisacao-dos-professores-aulas-serao-suspensas-nesta-quarta-feira",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Justiça dá 4 meses para GDF incluir 2 regiões na oferta de ônibus elétricos",
-      "url": "https://www.metropoles.com/distrito-federal/justica-da-4-meses-para-gdf-incluir-2-regioes-na-oferta-de-onibus-eletricos",
+      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Agências do trabalhador oferecem 930 vagas com salários de até R$ 4,8 mil",
-      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-oferecem-930-vagas-com-salarios-de-ate-r-48-mil",
+      "title": "Comerciantes do Jardim Botânico relatam prejuízos com quedas de energia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comerciantes-do-jardim-botanico-relatam-prejuizos-com-quedas-de-energia-15104462.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Feira Virtual de Estágios e Emprego oferece quase 1 milhão de vagas",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/feira-virtual-de-estagios-e-emprego-oferece-quase-1-milhao-de-vagas-15104574.ghtml",
       "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Áreas de Planaltina ficam sem energia nesta terça-feira (20/10)",
-      "url": "https://www.metropoles.com/distrito-federal/areas-de-planaltina-ficam-sem-energia-nesta-terca-feira-20-10",
-      "tipo": "noticia",
-      "urgente": true
+      "title": "Condomínios estão se adaptando para atender moradores com carro elétrico",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/condominios-estao-se-adaptando-para-atender-moradores-com-carro-eletrico-15104497.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
     },
     {
-      "title": "Terracap e Ibram negociam acordo para estruturação e manutenção do Parque Ecológico das Garças",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/terracap-e-ibram-negociam-acordo-para-estruturacao-e-manutencao-do-parque-ecologico-das-garcas-15100719.ghtml",
+      "title": "Começa amanhã reversão na Ponte JK",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comeca-amanha-reversao-na-ponte-jk-15104562.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Saiba onde descartar equipamentos usado",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/saiba-onde-descartar-equipamentos-usado-15100706.ghtml",
-      "tipo": "dica",
+      "title": "Musical infantil Roça Cri-criativa chega à Planaltina com duas sessões gratuitas para a garotada",
+      "url": "https://www.agendaculturalbrasilia.art.br/musical-infantil-roca-cri-criativa-chega-a-planaltina-com-duas-sessoes-gratuitas-para-a-garotada",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Relíquia católica está em Brasília",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/reliquia-catolica-esta-em-brasilia-15100632.ghtml",
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
+      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
       "tipo": "evento",
       "urgente": false
     }
