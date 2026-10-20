@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Aparecida: atriz estreia espetáculo nesta quarta na Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/aparecida-atriz-estreia-espetaculo-nesta-quarta-na-ceilandia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Jorge Bischoff abre quinta loja em Brasília e reforça aposta no mercado do Distrito Federal",
       "url": "https://www.visitebrasilia.com.br/noticias/jorge-bischoff-abre-quinta-loja-em-brasilia-e-reforca-aposta-no-mercado-do-distrito-federal",
       "tipo": "noticia",
@@ -19,38 +25,8 @@
       "urgente": false
     },
     {
-      "title": "Feijoada com Samba: tradição, música boa e gastronomia no Clube do Choro de Brasília!",
-      "url": "https://www.visitebrasilia.com.br/noticias/feijoada-com-samba-tradicao-musica-boa-e-gastronomia-no-clube-do-choro-de-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "ATA remonta \"Futuro do Passado\" com ocupação cênica no Museu Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/ata-remonta-futuro-do-passado-com-ocupacao-cenica-no-museu-nacional",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Casapark recebe mostra que celebra criatividade e beleza da ikebana",
       "url": "https://www.visitebrasilia.com.br/noticias/casapark-recebe-mostra-que-celebra-criatividade-e-beleza-da-ikebana",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "UnB e Embaixada da Itália promovem dia de atividades gratuitas na Semana da Língua Italiana",
-      "url": "https://www.visitebrasilia.com.br/noticias/unb-e-embaixada-da-italia-promovem-dia-de-atividades-gratuitas-na-semana-da-lingua-italiana",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Retrofit ganha espaço na transformação de áreas centrais de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/retrofit-ganha-espaco-na-transformacao-de-areas-centrais-de-brasilia",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Halloween no Brasília Shopping: uma tarde de doces travessuras",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-brasilia-shopping-uma-tarde-de-doces-travessuras",
       "tipo": "evento",
       "urgente": false
     },
@@ -64,7 +40,7 @@
       "title": "Mulher é morta a tiros pelo ex-companheiro na Candangolândia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-morta-a-tiros-pelo-ex-companheiro-na-candangolandia-df-16102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Epia Sul: carreta tomba e causa engarrafamento",
@@ -73,20 +49,14 @@
       "urgente": true
     },
     {
-      "title": "Cães de suporte emocional trazem benefícios para a saúde mental",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/caes-de-suporte-emocional-e-seus-beneficios-para-a-saude-mental-17102026",
-      "tipo": "dica",
+      "title": "Moradores de Santa Maria cobram calçadas e mais segurança para pedestres",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-santa-maria-df-cobram-calcadas-e-mais-seguranca-para-pedestres-19102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Plantio de árvores mobiliza voluntários no Parque da Cidade",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/plantio-de-arvores-mobiliza-voluntarios-no-parque-da-cidade-em-brasilia-17102026",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Projeto social oferece exames e óculos para crianças em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/projeto-social-oferece-exames-e-oculos-para-criancas-em-brasilia-17102026",
+      "title": "Caesb normaliza abastecimento após vazamento de água na Asa Norte, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/caesb-normaliza-abastecimento-apos-vazamento-de-agua-na-asa-norte-em-brasilia-19102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -103,21 +73,51 @@
       "urgente": false
     },
     {
-      "title": "Sem prisões, caso de vigilante morto pela PCDF por engano completa 2 meses",
-      "url": "https://www.metropoles.com/distrito-federal/sem-prisoes-caso-de-vigilante-morto-pela-pcdf-por-engano-completa-2-meses",
+      "title": "DER-DF suspende CNHs de 25 motoristas por infrações graves; veja lista",
+      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-25-motoristas-por-infracoes-graves-veja-lista",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Relíquia de São Carlo Acutis tem visitação suspensa temporariamente no DF",
-      "url": "https://www.metropoles.com/distrito-federal/reliquia-de-sao-carlo-acutis-tem-visitacao-suspensa-temporariamente-no-df",
+      "title": "Paralisação dos professores: aulas serão suspensas nesta quarta-feira",
+      "url": "https://www.metropoles.com/distrito-federal/paralisacao-dos-professores-aulas-serao-suspensas-nesta-quarta-feira",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Justiça dá 4 meses para GDF incluir 2 regiões na oferta de ônibus elétricos",
+      "url": "https://www.metropoles.com/distrito-federal/justica-da-4-meses-para-gdf-incluir-2-regioes-na-oferta-de-onibus-eletricos",
       "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Agências do trabalhador oferecem 930 vagas com salários de até R$ 4,8 mil",
+      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-oferecem-930-vagas-com-salarios-de-ate-r-48-mil",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Áreas de Planaltina ficam sem energia nesta terça-feira (20/10)",
+      "url": "https://www.metropoles.com/distrito-federal/areas-de-planaltina-ficam-sem-energia-nesta-terca-feira-20-10",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Terracap e Ibram negociam acordo para estruturação e manutenção do Parque Ecológico das Garças",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/terracap-e-ibram-negociam-acordo-para-estruturacao-e-manutencao-do-parque-ecologico-das-garcas-15100719.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Saiba onde descartar equipamentos usado",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/saiba-onde-descartar-equipamentos-usado-15100706.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Relíquia católica está em Brasília",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/reliquia-catolica-esta-em-brasilia-15100632.ghtml",
+      "tipo": "evento",
       "urgente": false
     }
   ]
