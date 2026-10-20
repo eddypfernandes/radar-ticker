@@ -1,27 +1,15 @@
 {
   "items": [
     {
-      "title": "Projeto verão: Patinho Feio reúne opções fitness com pratos leves e drinks sem álcool",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-verao-patinho-feio-reune-opcoes-fitness-com-pratos-leves-e-drinks-sem-alcool",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Banda SOS Toca Raul apresenta tributo a Raul Seixas no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/banda-sos-toca-raul-apresenta-tributo-a-raul-seixas-no-clube-do-choro-de-brasilia",
+      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
+      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Estupenda Trupe homenageia construção de Brasília em espetáculo gratuito",
-      "url": "https://www.visitebrasilia.com.br/noticias/estupenda-trupe-homenageia-construcao-de-brasilia-em-espetaculo-gratuito",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Startups têm até sexta-feira (23) para se inscrever no Congresso Conecta IA Brasília 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/startups-tem-ate-sexta-feira-23-para-se-inscrever-no-congresso-conecta-ia-brasilia-2026",
-      "tipo": "atualidade",
+      "title": "Don Romano celebra Dia do Macarrão com receitas fartas e sabor de afeto",
+      "url": "https://www.visitebrasilia.com.br/noticias/don-romano-celebra-dia-do-macarrao-com-receitas-fartas-e-sabor-de-afeto",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -31,50 +19,32 @@
       "urgente": false
     },
     {
-      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ônibus sem freio bate em comércio na Fercal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/onibus-sem-freio-bate-em-comercio-na-fercal-df-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DER-DF planeja faixa reversível na EPJK no sentido Plano Piloto",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/der-df-planeja-faixa-reversivel-na-epjk-para-aliviar-transito-no-sentido-plano-piloto-19102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Chuvas já começaram em Brasília, mas calor persiste",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuvas-ja-comecaram-em-brasilia-mas-calor-persiste-20102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
+      "title": "Suspeito de aliciar criança de 12 anos por aplicativo é preso pela PCDF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeito-de-aliciar-crianca-de-12-anos-por-aplicativo-e-preso-pela-pcdf",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
+      "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Banda SOS Toca Raul apresenta tributo a Raul Seixas no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-sos-toca-raul-apresenta-tributo-a-raul-seixas-no-clube-do-choro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -85,39 +55,39 @@
       "urgente": false
     },
     {
-      "title": "Feira Virtual de Estágios e Emprego oferece quase 1 milhão de vagas",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/feira-virtual-de-estagios-e-emprego-oferece-quase-1-milhao-de-vagas-15104574.ghtml",
-      "tipo": "vaga",
+      "title": "Startups têm até sexta-feira (23) para se inscrever no Congresso Conecta IA Brasília 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/startups-tem-ate-sexta-feira-23-para-se-inscrever-no-congresso-conecta-ia-brasilia-2026",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Condomínios estão se adaptando para atender moradores com carro elétrico",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/condominios-estao-se-adaptando-para-atender-moradores-com-carro-eletrico-15104497.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Começa amanhã reversão na Ponte JK",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comeca-amanha-reversao-na-ponte-jk-15104562.ghtml",
+      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Musical infantil Roça Cri-criativa chega à Planaltina com duas sessões gratuitas para a garotada",
-      "url": "https://www.agendaculturalbrasilia.art.br/musical-infantil-roca-cri-criativa-chega-a-planaltina-com-duas-sessoes-gratuitas-para-a-garotada",
-      "tipo": "evento",
+      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Sallva e Paganini lançam Menu Bambini com brinde exclusivo para os pequenos",
+      "url": "https://www.visitebrasilia.com.br/noticias/sallva-e-paganini-lancam-menu-bambini-com-brinde-exclusivo-para-os-pequenos",
+      "tipo": "oferta",
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
+      "title": "DER-DF planeja faixa reversível na EPJK no sentido Plano Piloto",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/der-df-planeja-faixa-reversivel-na-epjk-para-aliviar-transito-no-sentido-plano-piloto-19102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "FILMES CHILENOS DE GRAÇA NO CINE BRASÍLIA",
-      "url": "https://www.agendaculturalbrasilia.art.br/filmes-chilenos-de-graca-no-cine-brasilia",
-      "tipo": "evento",
+      "title": "Bebê de dois meses é salvo após se engasgar com bala no Recanto das Emas (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bebe-de-dois-meses-e-salvo-apos-se-engasgar-com-bala-no-recanto-das-emas-df-20102026",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
