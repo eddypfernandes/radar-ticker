@@ -1,9 +1,27 @@
 {
   "items": [
     {
-      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
-      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
+      "title": "Muito além da distância: o que torna os 42 km da Maratona Monumental de Brasília um desafio especial?",
+      "url": "https://www.visitebrasilia.com.br/noticias/muito-alem-da-distancia-o-que-torna-os-42-km-da-maratona-monumental-de-brasilia-um-desafio-especial",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Projeto Mulher Cidadã leva atendimento gratuito de saúde e orientação jurídica a quatro Regiões Administrativas do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-mulher-cidada-leva-atendimento-gratuito-de-saude-e-orientacao-juridica-a-quatro-regioes-administrativas-do-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Manhattan Shopping recebe feira de artesanato, decoração e gastronomia",
+      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-recebe-feira-de-artesanato-decoracao-e-gastronomia",
       "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cantucci aposta em gelato italiano para refrescar os dias quentes de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/cantucci-aposta-em-gelato-italiano-para-refrescar-os-dias-quentes-de-brasilia",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -25,33 +43,27 @@
       "urgente": false
     },
     {
-      "title": "Mané Mercado Águas Claras estreia projeto Rock do Mané nesta sexta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-estreia-projeto-rock-do-mane-nesta-sexta-feira",
-      "tipo": "evento",
+      "title": "American Cookies distribui cookies recheados em ação de Halloween nas lojas de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/american-cookies-distribui-cookies-recheados-em-acao-de-halloween-nas-lojas-de-brasilia",
+      "tipo": "oferta",
       "urgente": false
     },
     {
-      "title": "Vale Jurássico reúne dinossauros e brinquedos em programa para toda a família no Parque do Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-reune-dinossauros-e-brinquedos-em-programa-para-toda-a-familia-no-parque-do-cidade",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Aneel aprova provisoriamente alta média de 1,92% para clientes da Neoenergia Brasília",
-      "url": "https://noticias.r7.com/brasilia/aneel-aprova-provisoriamente-alta-media-de-192-para-clientes-da-neoenergia-brasilia-20102026",
+      "title": "Moradores do Caub 1 enfrentam estrada sem pavimentação",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-do-caub-1-no-df-enfrentam-problemas-com-estrada-sem-pavimentacao-21102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
+      "title": "Preço do diesel cai no Distrito Federal, mas continua acima da média do país",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/preco-do-diesel-cai-no-df-mas-continua-acima-da-media-nacional-21102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Falta de iluminação pública deixa moradores do Riacho Fundo (DF) no escuro há mais de 20 dias",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/falta-de-iluminacao-publica-deixa-moradores-do-riacho-fundo-df-no-escuro-ha-mais-de-20-dias-20102026",
-      "tipo": "noticia",
+      "title": "Jiboia é encontrada no motor de veículo no DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jiboia-e-encontrada-no-motor-de-veiculo-no-df-21102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -61,26 +73,14 @@
       "urgente": false
     },
     {
-      "title": "Metrô-DF lança edital para conclusão da Estação Onoyama, em Taguatinga",
-      "url": "https://www.metropoles.com/distrito-federal/metro-df-lanca-edital-para-conclusao-da-estacao-onoyama-em-taguatinga",
+      "title": "Acidente entre caminhão e carro deixa homem ferido e interdita via no DF",
+      "url": "https://www.metropoles.com/distrito-federal/acidente-entre-caminhao-e-carro-deixa-homem-ferido-e-interdita-via-no-df",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
-      "title": "DER-DF abre licitação de R$ 8,6 milhões para obras em subtrechos do BRT Sul",
-      "url": "https://www.metropoles.com/distrito-federal/der-df-abre-licitacao-de-r-86-milhoes-para-obras-em-subtrechos-do-brt-sul",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dia do Servidor: GDF oficializa mudança do ponto facultativo para 30/10",
-      "url": "https://www.metropoles.com/distrito-federal/dia-do-servidor-gdf-oficializa-mudanca-do-ponto-facultativo-para-30-10",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Jiboia se esconde no motor de carro na BR-070 e é resgatada pelos bombeiros .",
-      "url": "https://www.metropoles.com/distrito-federal/jiboia-se-esconde-no-motor-de-carro-na-br-070-e-e-resgatada-pelos-bombeiros",
+      "title": "Casal com 5 filhos tem casa destruída por incêndio no DF: \"Perdemos tudo\" .",
+      "url": "https://www.metropoles.com/distrito-federal/casal-com-5-filhos-tem-casa-destruida-por-incendio-no-df-perdemos-tudo",
       "tipo": "noticia",
       "urgente": false
     },
@@ -93,7 +93,31 @@
     {
       "title": "37 mil contribuintes do DF caíram na malha fina; veja como regularizar a situação",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/37-mil-contribuintes-do-df-cairam-na-malha-fina-veja-como-regularizar-a-situacao-15108034.ghtml",
-      "tipo": "servico",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Comerciantes do Jardim Botânico relatam prejuízos com quedas de energia",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comerciantes-do-jardim-botanico-relatam-prejuizos-com-quedas-de-energia-15104462.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Atriz pernambucana Gheuza faz apresentações gratuitas do espetáculo nesta quarta (21) na Ceilândia. Quinta e sexta, no Espaço Renato Russo",
+      "url": "https://www.agendaculturalbrasilia.art.br/atriz-pernambucana-gheuza-faz-apresentacoes-gratuitas-do-espetaculo-nesta-quarta-21-na-ceilandia-quinta-e-sexta-no-espaco-renato-russo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Musical infantil Roça Cri-criativa chega à Planaltina com duas sessões gratuitas para a garotada",
+      "url": "https://www.agendaculturalbrasilia.art.br/musical-infantil-roca-cri-criativa-chega-a-planaltina-com-duas-sessoes-gratuitas-para-a-garotada",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Semeando Cultura leva programação especial gratuita para celebrar o Dia das Crianças em São Sebastião",
+      "url": "https://www.agendaculturalbrasilia.art.br/semeando-cultura-leva-programacao-especial-gratuita-para-celebrar-o-dia-das-criancas-em-sao-sebastiao",
+      "tipo": "evento",
       "urgente": false
     }
   ]
