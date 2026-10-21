@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
+      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Trilogia inspirada em “Grande Sertão: Veredas” chega ao Teatro Brasília Shopping",
       "url": "https://www.visitebrasilia.com.br/noticias/trilogia-inspirada-em-grande-sertao-veredas-chega-ao-teatro-brasilia-shopping",
       "tipo": "evento",
@@ -13,8 +19,20 @@
       "urgente": false
     },
     {
-      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
-      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
+      "title": "Vinícola Brasília promove fim de tarde com vinho e música ao vivo no dia 23 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-ao-vivo-no-dia-23-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Mané Mercado Águas Claras estreia projeto Rock do Mané nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-estreia-projeto-rock-do-mane-nesta-sexta-feira",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vale Jurássico reúne dinossauros e brinquedos em programa para toda a família no Parque do Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-reune-dinossauros-e-brinquedos-em-programa-para-toda-a-familia-no-parque-do-cidade",
       "tipo": "evento",
       "urgente": false
     },
@@ -39,61 +57,43 @@
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Ponte JK: faixas reversas começam a funcionar nesta quarta-feira (21/10)",
-      "url": "https://www.metropoles.com/distrito-federal/ponte-jk-faixas-reversas-comecam-a-funcionar-nesta-quarta-feira-21-10",
+      "title": "Metrô-DF lança edital para conclusão da Estação Onoyama, em Taguatinga",
+      "url": "https://www.metropoles.com/distrito-federal/metro-df-lanca-edital-para-conclusao-da-estacao-onoyama-em-taguatinga",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Mais de 33 mil pessoas precisam trocar cartão do Prato Cheio no DF",
-      "url": "https://www.metropoles.com/distrito-federal/mais-de-33-mil-pessoas-precisam-trocar-cartao-do-prato-cheio-no-df",
+      "title": "DER-DF abre licitação de R$ 8,6 milhões para obras em subtrechos do BRT Sul",
+      "url": "https://www.metropoles.com/distrito-federal/der-df-abre-licitacao-de-r-86-milhoes-para-obras-em-subtrechos-do-brt-sul",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
+      "title": "Dia do Servidor: GDF oficializa mudança do ponto facultativo para 30/10",
+      "url": "https://www.metropoles.com/distrito-federal/dia-do-servidor-gdf-oficializa-mudanca-do-ponto-facultativo-para-30-10",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Vinícola Brasília promove fim de tarde com vinho e música ao vivo no dia 23 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-ao-vivo-no-dia-23-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Megamatte e Brownie do Luiz lançam collab de bebidas em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/megamatte-e-brownie-do-luiz-lancam-collab-de-bebidas-em-brasilia",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Feira de Planaltina (DF) atrai visitantes com variedade de produtos frescos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/feira-de-planaltina-df-atrai-visitantes-com-variedade-de-produtos-frescos-20102026",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Comerciantes do Jardim Botânico relatam prejuízos com quedas de energia",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/comerciantes-do-jardim-botanico-relatam-prejuizos-com-quedas-de-energia-15104462.ghtml",
+      "title": "Jiboia se esconde no motor de carro na BR-070 e é resgatada pelos bombeiros .",
+      "url": "https://www.metropoles.com/distrito-federal/jiboia-se-esconde-no-motor-de-carro-na-br-070-e-e-resgatada-pelos-bombeiros",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Reversão de trânsito na Ponte JK começou nesta quarta",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/reversao-de-transito-na-ponte-jk-comecou-nesta-quarta-15108001.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "37 mil contribuintes do DF caíram na malha fina; veja como regularizar a situação",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/37-mil-contribuintes-do-df-cairam-na-malha-fina-veja-como-regularizar-a-situacao-15108034.ghtml",
+      "tipo": "servico",
       "urgente": false
     }
   ]
