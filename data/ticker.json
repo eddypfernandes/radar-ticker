@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
-      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Trilogia inspirada em “Grande Sertão: Veredas” chega ao Teatro Brasília Shopping",
       "url": "https://www.visitebrasilia.com.br/noticias/trilogia-inspirada-em-grande-sertao-veredas-chega-ao-teatro-brasilia-shopping",
       "tipo": "evento",
@@ -19,9 +13,9 @@
       "urgente": false
     },
     {
-      "title": "O que fazer em Brasília? Assistente virtual LARA ajuda a encontrar programação pelo WhatsApp",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-que-fazer-em-brasilia-assistente-virtual-lara-ajuda-a-encontrar-programacao-pelo-whatsapp",
-      "tipo": "dica",
+      "title": "Barraca de Memórias leva histórias de mulheres pioneiras do DF para escolas e espaços comunitários do Guará",
+      "url": "https://www.visitebrasilia.com.br/noticias/barraca-de-memorias-leva-historias-de-mulheres-pioneiras-do-df-para-escolas-e-espacos-comunitarios-do-guara",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -31,20 +25,14 @@
       "urgente": false
     },
     {
-      "title": "Moradores da BR-070 denunciam falta de segurança para atravessar rodovia",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-br-070-denunciam-falta-de-seguranca-para-atravessar-rodovia-20102026",
+      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Falta de iluminação pública deixa moradores do Riacho Fundo (DF) no escuro há mais de 20 dias",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/falta-de-iluminacao-publica-deixa-moradores-do-riacho-fundo-df-no-escuro-ha-mais-de-20-dias-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,20 +49,14 @@
       "urgente": false
     },
     {
+      "title": "Ponte JK: faixas reversas começam a funcionar nesta quarta-feira (21/10)",
+      "url": "https://www.metropoles.com/distrito-federal/ponte-jk-faixas-reversas-comecam-a-funcionar-nesta-quarta-feira-21-10",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Mais de 33 mil pessoas precisam trocar cartão do Prato Cheio no DF",
       "url": "https://www.metropoles.com/distrito-federal/mais-de-33-mil-pessoas-precisam-trocar-cartao-do-prato-cheio-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bebê se engasga com bala e é socorrido por militares dos bombeiros no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/bebe-se-engasga-com-bala-e-e-socorrido-por-militares-dos-bombeiros-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Justiça concede liminar para coibir fraudes em empréstimos de aposentados",
-      "url": "https://www.metropoles.com/distrito-federal/justica-concede-liminar-para-coibir-fraudes-em-emprestimos-de-aposentados",
       "tipo": "noticia",
       "urgente": false
     },
@@ -82,6 +64,30 @@
       "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
       "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Vinícola Brasília promove fim de tarde com vinho e música ao vivo no dia 23 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-ao-vivo-no-dia-23-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Megamatte e Brownie do Luiz lançam collab de bebidas em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/megamatte-e-brownie-do-luiz-lancam-collab-de-bebidas-em-brasilia",
+      "tipo": "oferta",
+      "urgente": false
+    },
+    {
+      "title": "Feira de Planaltina (DF) atrai visitantes com variedade de produtos frescos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/feira-de-planaltina-df-atrai-visitantes-com-variedade-de-produtos-frescos-20102026",
+      "tipo": "dica",
       "urgente": false
     },
     {
