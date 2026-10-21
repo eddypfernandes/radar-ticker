@@ -7,21 +7,21 @@
       "urgente": false
     },
     {
+      "title": "Trilogia inspirada em “Grande Sertão: Veredas” chega ao Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/trilogia-inspirada-em-grande-sertao-veredas-chega-ao-teatro-brasilia-shopping",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
       "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Doces, fantasias e travessuras: Alameda Shopping prepara Halloween para a criançada",
-      "url": "https://www.visitebrasilia.com.br/noticias/doces-fantasias-e-travessuras-alameda-shopping-prepara-halloween-para-a-criancada",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Vale Jurássico reúne dinossauros e brinquedos em programa para toda a família no Parque do Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/vale-jurassico-reune-dinossauros-e-brinquedos-em-programa-para-toda-a-familia-no-parque-do-cidade",
-      "tipo": "evento",
+      "title": "O que fazer em Brasília? Assistente virtual LARA ajuda a encontrar programação pelo WhatsApp",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-que-fazer-em-brasilia-assistente-virtual-lara-ajuda-a-encontrar-programacao-pelo-whatsapp",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -37,26 +37,14 @@
       "urgente": false
     },
     {
-      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 185 milhões e movimenta apostadores no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mega-sena-pode-pagar-r-185-milhoes-e-movimenta-apostadores-no-distrito-federal-20102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Falta de iluminação pública deixa moradores do Riacho Fundo (DF) no escuro há mais de 20 dias",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/falta-de-iluminacao-publica-deixa-moradores-do-riacho-fundo-df-no-escuro-ha-mais-de-20-dias-20102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Bebê de dois meses é salvo após se engasgar com bala no Recanto das Emas (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bebe-de-dois-meses-e-salvo-apos-se-engasgar-com-bala-no-recanto-das-emas-df-20102026",
+      "title": "Operação Mulher Segura prende mais de 2 mil agressores no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/operacao-mulher-segura-prende-mais-de-57-mil-agressores-no-brasil-20102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,8 +67,8 @@
       "urgente": false
     },
     {
-      "title": "Suspeita de furtar coletes balísticos do Detran se apresenta e é presa",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/suspeita-de-furtar-coletes-balisticos-do-detran-se-apresenta-e-e-presa",
+      "title": "Bebê se engasga com bala e é socorrido por militares dos bombeiros no DF .",
+      "url": "https://www.metropoles.com/distrito-federal/bebe-se-engasga-com-bala-e-e-socorrido-por-militares-dos-bombeiros-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -91,21 +79,9 @@
       "urgente": false
     },
     {
-      "title": "Aumentaram as denúncias de assédio eleitoral no ambiente de trabalho",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/aumentaram-as-denuncias-de-assedio-eleitoral-no-ambiente-de-trabalho-15104532.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Outubro Rosa: mês é dedicado à prevenção contra o câncer de mama",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/outubro-rosa-mes-e-dedicado-a-prevencao-contra-o-cancer-de-mama-15104631.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Chuva abre crateras, arrasta asfaltou e ilha carros no Pôr do Sol",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chuva-abre-crateras-arrasta-asfaltou-e-ilha-carros-no-por-do-sol-15104402.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
