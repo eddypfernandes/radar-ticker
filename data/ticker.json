@@ -1,32 +1,14 @@
 {
   "items": [
     {
+      "title": "Gastronomia italiana, cinema a céu aberto e vinho sem taxa de rolha: conheça a proposta da pizzaria Notte d'Incanto no Sudoeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/gastronomia-italiana-cinema-a-ceu-aberto-e-vinho-sem-taxa-de-rolha-conheca-a-proposta-da-pizzaria-notte-d-incanto-no-sudoeste",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
       "title": "Halloween no JK Shopping: Bailinho gratuito terá teatro, personagens e gostosuras para a criançada",
       "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-jk-shopping-bailinho-gratuito-tera-teatro-personagens-e-gostosuras-para-a-criancada",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Deguste! Evento da Vinhos S.A chega à terceira edição com cerca de 120 rótulos de 14 países em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/deguste-evento-da-vinhos-s-a-chega-a-terceira-edicao-com-cerca-de-120-rotulos-de-14-paises-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Saulo Pinheiro apresenta novo solo de comédia em Brasília no dia 23 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/saulo-pinheiro-apresenta-novo-solo-de-comedia-em-brasilia-no-dia-23-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Mano Dáblio lança livro de poesias com acessibilidade e distribuição gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/mano-dablio-lanca-livro-de-poesias-com-acessibilidade-e-distribuicao-gratuita",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "UK Music Festival ocupa a orla do Lago Paranoá nesta sexta-feira (23/10)",
-      "url": "https://www.visitebrasilia.com.br/noticias/uk-music-festival-ocupa-a-orla-do-lago-paranoa-nesta-sexta-feira-23-10",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,34 +19,16 @@
       "urgente": false
     },
     {
-      "title": "Cantucci aposta em gelato italiano para refrescar os dias quentes de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/cantucci-aposta-em-gelato-italiano-para-refrescar-os-dias-quentes-de-brasilia",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "População cobra reinstalação de parada de ônibus retirada da BR-020",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/passageiros-cobram-reinstalacao-de-parada-de-onibus-retirada-ha-nove-meses-na-br-020-22102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Falta de asfalto prejudica rotina de moradores do Caub 1",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-do-caub-1-no-df-enfrentam-problemas-com-estrada-sem-pavimentacao-21102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Manobra de Heimlich: Corpo de Bombeiros ensina como efetuar técnica que salva vítimas de engasgo",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-bombeiros-ensina-manobras-para-salvar-vitimas-de-engasgo-22102026",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "Aneel anuncia aumento na conta de luz no DF a partir desta quinta-feira",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/aneel-anuncia-aumento-na-tarifa-de-energia-eletrica-no-df-a-partir-desta-quinta-22102026",
-      "tipo": "atualidade",
-      "urgente": false
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Fiscalização do Ministério Público aponta falhas em cemitérios do Distrito Federal",
@@ -73,38 +37,32 @@
       "urgente": false
     },
     {
-      "title": "Adolescente é esfaqueado durante assalto de bicicleta no Guará (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/adolescente-e-esfaqueado-durante-assalto-de-bicicleta-no-guara-df-22102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Metrô do DF abre licitação para concluir estação parada há mais de dez anos",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-do-df-abre-licitacao-para-concluir-estacao-parada-ha-mais-de-dez-anos-22102026",
+      "title": "Fios soltos e postes danificados colocam moradores do Distrito Federal em risco",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/fios-soltos-e-postes-danificados-colocam-moradores-do-distrito-federal-em-risco-22102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Zoológico de Brasília estará fechado ao público no 2º turno das eleições",
-      "url": "https://www.metropoles.com/distrito-federal/zoologico-de-brasilia-estara-fechado-ao-publico-no-2o-turno-das-eleicoes",
-      "tipo": "atualidade",
+      "title": "Ocas indígenas são incendiadas no Guará; PCDF apura se há indício de crime .",
+      "url": "https://www.metropoles.com/distrito-federal/ocas-indigenas-sao-incendiadas-no-guara-pcdf-apura-se-ha-indicio-de-crime",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Parque Olhos D&#x27;Água reduz horário de funcionamento por falha na iluminação",
-      "url": "https://www.metropoles.com/distrito-federal/parque-olhos-dagua-reduz-horario-de-funcionamento-por-falha-na-iluminacao",
-      "tipo": "atualidade",
+      "title": "Carro bate e derruba poste, próximo a shopping no Pistão Sul",
+      "url": "https://www.metropoles.com/distrito-federal/carro-bate-e-derruba-poste-proximo-a-shopping-no-pistao-sul",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Programa Prospera MEI deve beneficiar 212 mil microempreendedores no DF",
-      "url": "https://www.metropoles.com/distrito-federal/programa-prospera-mei-deve-beneficiar-212-mil-microempreendedores-no-df",
+      "title": "SSP reúne esquerda e direita para debater manifestações de sábado no DF",
+      "url": "https://www.metropoles.com/distrito-federal/ssp-reune-esquerda-e-direita-para-debater-manifestacoes-de-sabado-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -117,6 +75,12 @@
     {
       "title": "Campos sintéticos em várias regiões do DF estão abandonados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia Militar vai usar drones durante o 2º turno das eleições",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-militar-vai-usar-drones-durante-o-2o-turno-das-eleicoes-15111498.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
