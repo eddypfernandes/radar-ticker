@@ -13,6 +13,12 @@
       "urgente": false
     },
     {
+      "title": "Muito além da distância: o que torna os 42 km da Maratona Monumental de Brasília um desafio especial?",
+      "url": "https://www.visitebrasilia.com.br/noticias/muito-alem-da-distancia-o-que-torna-os-42-km-da-maratona-monumental-de-brasilia-um-desafio-especial",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Projeto Mulher Cidadã leva atendimento gratuito de saúde e orientação jurídica a quatro Regiões Administrativas do DF",
       "url": "https://www.visitebrasilia.com.br/noticias/projeto-mulher-cidada-leva-atendimento-gratuito-de-saude-e-orientacao-juridica-a-quatro-regioes-administrativas-do-df",
       "tipo": "noticia",
@@ -31,10 +37,28 @@
       "urgente": false
     },
     {
-      "title": "O que fazer em Brasília? Assistente virtual LARA ajuda a encontrar programação pelo WhatsApp",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-que-fazer-em-brasilia-assistente-virtual-lara-ajuda-a-encontrar-programacao-pelo-whatsapp",
-      "tipo": "dica",
+      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
+      "url": "https://www.visitebrasilia.com.br/noticias/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
+      "tipo": "evento",
       "urgente": false
+    },
+    {
+      "title": "Mané Mercado Águas Claras estreia projeto Rock do Mané nesta sexta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-estreia-projeto-rock-do-mane-nesta-sexta-feira",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "São Sebastião registra seis homicídios em um mês; polícia suspeita de tráfico",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/sao-sebastiao-df-registra-seis-homicidios-em-um-mes-e-policia-investiga-ligacao-com-o-trafico-20102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Eixão Sul: jovem de 18 anos morre após atropelamento",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jovem-de-18-anos-morre-apos-atropelamento-no-eixao-sul-em-brasilia-21102026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Moradores do Caub 1 enfrentam estrada sem pavimentação",
@@ -57,13 +81,13 @@
     {
       "title": "Jiboia é encontrada no motor de veículo no DF",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jiboia-e-encontrada-no-motor-de-veiculo-no-df-21102026",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -79,12 +103,6 @@
       "urgente": false
     },
     {
-      "title": "Faccionados são investigados por impor \"sentenças\" de morte e tortura no DF",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/faccionados-sao-investigados-por-impor-sentencas-de-morte-e-tortura-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Jovens atletas do Sesc-DF recebem treinador do vôlei de praia francês",
       "url": "https://www.metropoles.com/distrito-federal/jovens-atletas-do-sesc-df-recebem-treinador-do-volei-de-praia-frances",
       "tipo": "noticia",
@@ -93,6 +111,12 @@
     {
       "title": "37 mil contribuintes do DF caíram na malha fina; veja como regularizar a situação",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/37-mil-contribuintes-do-df-cairam-na-malha-fina-veja-como-regularizar-a-situacao-15108034.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Mulher é denunciada por racismo e ameaça de morte contra vizinhas em Águas Claras (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mulher-e-denunciada-por-racismo-e-ameaca-de-morte-contra-vizinhas-em-aguas-claras-df-21102026",
       "tipo": "noticia",
       "urgente": false
     }
