@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "title": "Celina quer começar ampliação da educação integral pelo Núcleo Bandeirante",
-      "url": "https://www.metropoles.com/distrito-federal/celina-quer-comecar-ampliacao-da-educacao-integral-pelo-nucleo-bandeirante",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Festival Fado volta a Brasília com Sara Correia e Camané",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-fado-volta-a-brasilia-com-sara-correia-e-camane",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "UK Music Festival ocupa a orla do Lago Paranoá nesta sexta-feira (23/10)",
       "url": "https://www.visitebrasilia.com.br/noticias/uk-music-festival-ocupa-a-orla-do-lago-paranoa-nesta-sexta-feira-23-10",
       "tipo": "evento",
@@ -22,12 +10,6 @@
       "title": "Safras do Cerrado 2026 reúne mais de 50 expositores, 12 vinícolas e experiências gastronômicas em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/safras-do-cerrado-2026-reune-mais-de-50-expositores-12-vinicolas-e-experiencias-gastronomicas-em-brasilia",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Muito além da distância: o que torna os 42 km da Maratona Monumental de Brasília um desafio especial?",
-      "url": "https://www.visitebrasilia.com.br/noticias/muito-alem-da-distancia-o-que-torna-os-42-km-da-maratona-monumental-de-brasilia-um-desafio-especial",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -49,9 +31,9 @@
       "urgente": false
     },
     {
-      "title": "Trilogia inspirada em “Grande Sertão: Veredas” chega ao Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/trilogia-inspirada-em-grande-sertao-veredas-chega-ao-teatro-brasilia-shopping",
-      "tipo": "evento",
+      "title": "O que fazer em Brasília? Assistente virtual LARA ajuda a encontrar programação pelo WhatsApp",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-que-fazer-em-brasilia-assistente-virtual-lara-ajuda-a-encontrar-programacao-pelo-whatsapp",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -61,21 +43,27 @@
       "urgente": false
     },
     {
+      "title": "Reversão no trânsito na Ponte JK inicia nesta quarta-feira",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/reversao-no-transito-na-ponte-jk-inicia-nesta-quarta-feira-21102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Preço do diesel cai no Distrito Federal, mas continua acima da média do país",
       "url": "https://noticias.r7.com/brasilia/df-record/video/preco-do-diesel-cai-no-df-mas-continua-acima-da-media-nacional-21102026",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Jiboia é encontrada no motor de veículo no DF",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jiboia-e-encontrada-no-motor-de-veiculo-no-df-21102026",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -85,14 +73,20 @@
       "urgente": false
     },
     {
-      "title": "Caminhão com guindaste tomba em via perto de parque do Lago Norte .",
-      "url": "https://www.metropoles.com/distrito-federal/caminhao-com-guindaste-tomba-em-via-perto-de-parque-do-lago-norte",
-      "tipo": "atualidade",
+      "title": "Celina anuncia concurso com 250 vagas para arquitetos da Seduh .",
+      "url": "https://www.metropoles.com/colunas/grande-angular/celina-anuncia-concurso-com-250-vagas-para-arquitetos-da-seduh",
+      "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Reversão de trânsito na Ponte JK começou nesta quarta",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/reversao-de-transito-na-ponte-jk-comecou-nesta-quarta-15108001.ghtml",
+      "title": "Faccionados são investigados por impor \"sentenças\" de morte e tortura no DF",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/faccionados-sao-investigados-por-impor-sentencas-de-morte-e-tortura-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Jovens atletas do Sesc-DF recebem treinador do vôlei de praia francês",
+      "url": "https://www.metropoles.com/distrito-federal/jovens-atletas-do-sesc-df-recebem-treinador-do-volei-de-praia-frances",
       "tipo": "noticia",
       "urgente": false
     },
