@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Halloween no JK Shopping: Bailinho gratuito terá teatro, personagens e gostosuras para a criançada",
+      "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-jk-shopping-bailinho-gratuito-tera-teatro-personagens-e-gostosuras-para-a-criancada",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Deguste! Evento da Vinhos S.A chega à terceira edição com cerca de 120 rótulos de 14 países em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/deguste-evento-da-vinhos-s-a-chega-a-terceira-edicao-com-cerca-de-120-rotulos-de-14-paises-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Saulo Pinheiro apresenta novo solo de comédia em Brasília no dia 23 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/saulo-pinheiro-apresenta-novo-solo-de-comedia-em-brasilia-no-dia-23-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Mano Dáblio lança livro de poesias com acessibilidade e distribuição gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/mano-dablio-lanca-livro-de-poesias-com-acessibilidade-e-distribuicao-gratuita",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "UK Music Festival ocupa a orla do Lago Paranoá nesta sexta-feira (23/10)",
       "url": "https://www.visitebrasilia.com.br/noticias/uk-music-festival-ocupa-a-orla-do-lago-paranoa-nesta-sexta-feira-23-10",
       "tipo": "evento",
@@ -13,62 +37,50 @@
       "urgente": false
     },
     {
-      "title": "Manhattan Shopping recebe feira de artesanato, decoração e gastronomia",
-      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-recebe-feira-de-artesanato-decoracao-e-gastronomia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Cantucci aposta em gelato italiano para refrescar os dias quentes de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/cantucci-aposta-em-gelato-italiano-para-refrescar-os-dias-quentes-de-brasilia",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Trilogia inspirada em “Grande Sertão: Veredas” chega ao Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/trilogia-inspirada-em-grande-sertao-veredas-chega-ao-teatro-brasilia-shopping",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Mané Mercado Águas Claras estreia projeto Rock do Mané nesta sexta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-estreia-projeto-rock-do-mane-nesta-sexta-feira",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "São Sebastião registra seis homicídios em um mês; polícia suspeita de tráfico",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/sao-sebastiao-df-registra-seis-homicidios-em-um-mes-e-policia-investiga-ligacao-com-o-trafico-20102026",
+      "title": "População cobra reinstalação de parada de ônibus retirada da BR-020",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/passageiros-cobram-reinstalacao-de-parada-de-onibus-retirada-ha-nove-meses-na-br-020-22102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Moradores do Caub 1 enfrentam estrada sem pavimentação",
+      "title": "Falta de asfalto prejudica rotina de moradores do Caub 1",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-do-caub-1-no-df-enfrentam-problemas-com-estrada-sem-pavimentacao-21102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Reversão no trânsito na Ponte JK inicia nesta quarta-feira",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/reversao-no-transito-na-ponte-jk-inicia-nesta-quarta-feira-21102026",
+      "title": "Manobra de Heimlich: Corpo de Bombeiros ensina como efetuar técnica que salva vítimas de engasgo",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-bombeiros-ensina-manobras-para-salvar-vitimas-de-engasgo-22102026",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Aneel anuncia aumento na conta de luz no DF a partir desta quinta-feira",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/aneel-anuncia-aumento-na-tarifa-de-energia-eletrica-no-df-a-partir-desta-quinta-22102026",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Preço do diesel cai no Distrito Federal, mas continua acima da média do país",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/preco-do-diesel-cai-no-df-mas-continua-acima-da-media-nacional-21102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Jiboia é encontrada no motor de veículo no DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jiboia-e-encontrada-no-motor-de-veiculo-no-df-21102026",
+      "title": "Fiscalização do Ministério Público aponta falhas em cemitérios do Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/fiscalizacao-do-ministerio-publico-aponta-falhas-em-cemiterios-do-df-22102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "Adolescente é esfaqueado durante assalto de bicicleta no Guará (DF)",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/adolescente-e-esfaqueado-durante-assalto-de-bicicleta-no-guara-df-22102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Metrô do DF abre licitação para concluir estação parada há mais de dez anos",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/metro-do-df-abre-licitacao-para-concluir-estacao-parada-ha-mais-de-dez-anos-22102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,44 +91,32 @@
       "urgente": false
     },
     {
-      "title": "Passageiro é preso com cocaína antes de embarcar para a Europa em Brasília",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/passageiro-e-preso-com-cocaina-antes-de-embarcar-para-a-europa-em-brasilia",
+      "title": "Zoológico de Brasília estará fechado ao público no 2º turno das eleições",
+      "url": "https://www.metropoles.com/distrito-federal/zoologico-de-brasilia-estara-fechado-ao-publico-no-2o-turno-das-eleicoes",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Parque Olhos D&#x27;Água reduz horário de funcionamento por falha na iluminação",
+      "url": "https://www.metropoles.com/distrito-federal/parque-olhos-dagua-reduz-horario-de-funcionamento-por-falha-na-iluminacao",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Programa Prospera MEI deve beneficiar 212 mil microempreendedores no DF",
+      "url": "https://www.metropoles.com/distrito-federal/programa-prospera-mei-deve-beneficiar-212-mil-microempreendedores-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Agências do trabalhador têm 605 vagas de emprego nesta quinta-feira (22/10)",
-      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-tem-605-vagas-de-emprego-nesta-quinta-feira-22-10",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "Área do SIG fica 4 horas sem energia nesta quinta-feira (22/10)",
-      "url": "https://www.metropoles.com/distrito-federal/area-do-sig-fica-4-horas-sem-energia-nesta-quinta-feira-22-10",
+      "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Águas Claras: advogada \"da toalha\" ateou fogo em sofá do próprio imóvel",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/aguas-claras-advogada-da-toalha-ateou-fogo-em-sofa-do-proprio-imovel",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Homem que matou companheira após empurrá-la de escada vai a júri no DF",
-      "url": "https://www.metropoles.com/distrito-federal/homem-que-matou-companheira-apos-empurra-la-de-escada-vai-a-juri-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "No DF, 426 mil eleitores não votaram no 1º turno. Veja o que fazer no 2°",
-      "url": "https://www.metropoles.com/distrito-federal/no-df-426-mil-eleitores-nao-votaram-no-1o-turno-veja-o-que-fazer-no-2",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "37 mil contribuintes do DF caíram na malha fina; veja como regularizar a situação",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/37-mil-contribuintes-do-df-cairam-na-malha-fina-veja-como-regularizar-a-situacao-15108034.ghtml",
+      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
