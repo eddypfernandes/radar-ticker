@@ -1,32 +1,32 @@
 {
   "items": [
     {
-      "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
-      "tipo": "oferta",
+      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
+      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Fim de semana no Partage Lago Sul tem atrações para a família com exposição, gastronomia italiana e simulador de Fórmula 1",
+      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
+      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul reúne gastronomia, exposição e simulador de Fórmula 1 no fim de semana",
       "url": "https://www.visitebrasilia.com.br/noticias/fim-de-semana-no-partage-lago-sul-tem-atracoes-para-a-familia-com-exposicao-gastronomia-italiana-e-simulador-de-formula-1",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Mega Finisher reúne atletas de 42 países em Brasília, incluindo China e Japão",
-      "url": "https://www.visitebrasilia.com.br/noticias/mega-finisher-reunira-atletas-de-42-nacionalidades-em-brasilia-com-participacao-inedita-de-corredores-da-china-e-do-japao",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cine Drive-In divulga programação de filmes para os dias 23, 24 e 25 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-programacao-de-filmes-para-os-dias-23-24-e-25-de-outubro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Festival Esportivo BSB chega à 2ª edição com futebol de base, futsal e eFootball no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-esportivo-bsb-chega-a-2-edicao-com-futebol-de-base-futsal-e-efootball-no-df",
+      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -43,20 +43,14 @@
       "urgente": false
     },
     {
-      "title": "Safras do Cerrado 2026 reúne mais de 50 expositores, 12 vinícolas e experiências gastronômicas em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/safras-do-cerrado-2026-reune-mais-de-50-expositores-12-vinicolas-e-experiencias-gastronomicas-em-brasilia",
-      "tipo": "evento",
+      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -67,32 +61,44 @@
       "urgente": false
     },
     {
-      "title": "Adolescente segue internado após ser esfaqueado cinco vezes durante assalto no Guará (DF)",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/adolescente-segue-internado-apos-ser-esfaqueado-cinco-vezes-durante-assalto-no-guara-df-23102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "title": "Segurança será reforçada na Esplanada e em locais de votação no 2º turno",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/seguranca-sera-reforcada-na-esplanada-e-locais-de-votacao-no-segundo-turno-das-eleicoes-no-df-23102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "IDP de Brasília recebe certificação do MEC e se torna universidade",
-      "url": "https://www.metropoles.com/distrito-federal/idp-de-brasilia-recebe-certificacao-do-mec-e-se-torna-universidade",
+      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Trabalhadores do setor do turismo terão reajuste salarial de 5,8% no DF",
-      "url": "https://www.metropoles.com/distrito-federal/trabalhadores-do-setor-do-turismo-terao-reajuste-salarial-de-58-no-df",
+      "title": "Moradores denunciam casal por descarte irregular de entulho de obra em Taguatinga (DF)",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/moradores-denunciam-casal-por-descarte-irregular-de-entulho-de-obra-em-taguatinga-df-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a produção de mudas no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Motorista foge após atropelar e matar capivara que atravessava rua no Lago .",
+      "url": "https://www.metropoles.com/distrito-federal/motorista-foge-apos-atropelar-e-matar-capivara-que-atravessava-rua-no-lago-sul",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Autópsia de enfermeira morta durante lua de mel em Portugal será na segunda",
+      "url": "https://www.metropoles.com/distrito-federal/autopsia-de-enfermeira-morta-durante-lua-de-mel-em-portugal-sera-na-segunda",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -105,12 +111,6 @@
     {
       "title": "Campos sintéticos em várias regiões do DF estão abandonados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
