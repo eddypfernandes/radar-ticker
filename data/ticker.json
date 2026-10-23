@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "title": "Gastronomia italiana, cinema a céu aberto e vinho sem taxa de rolha: conheça a proposta da pizzaria Notte d'Incanto no Sudoeste",
-      "url": "https://www.visitebrasilia.com.br/noticias/gastronomia-italiana-cinema-a-ceu-aberto-e-vinho-sem-taxa-de-rolha-conheca-a-proposta-da-pizzaria-notte-d-incanto-no-sudoeste",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
       "title": "Halloween no JK Shopping: Bailinho gratuito terá teatro, personagens e gostosuras para a criançada",
       "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-jk-shopping-bailinho-gratuito-tera-teatro-personagens-e-gostosuras-para-a-criancada",
       "tipo": "evento",
@@ -19,15 +13,15 @@
       "urgente": false
     },
     {
-      "title": "Saulo Pinheiro apresenta novo solo de comédia em Brasília no dia 23 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/saulo-pinheiro-apresenta-novo-solo-de-comedia-em-brasilia-no-dia-23-de-outubro",
+      "title": "Manhattan Shopping recebe feira de artesanato, decoração e gastronomia",
+      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-recebe-feira-de-artesanato-decoracao-e-gastronomia",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Manhattan Shopping recebe feira de artesanato, decoração e gastronomia",
-      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-recebe-feira-de-artesanato-decoracao-e-gastronomia",
-      "tipo": "evento",
+      "title": "Cantucci aposta em gelato italiano para refrescar os dias quentes de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/cantucci-aposta-em-gelato-italiano-para-refrescar-os-dias-quentes-de-brasilia",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -37,10 +31,10 @@
       "urgente": false
     },
     {
-      "title": "Aneel anuncia aumento na conta de luz no DF a partir desta quinta-feira",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/aneel-anuncia-aumento-na-tarifa-de-energia-eletrica-no-df-a-partir-desta-quinta-22102026",
-      "tipo": "atualidade",
-      "urgente": true
+      "title": "Pedestre de 18 anos morre atropelado no Eixão, na Asa Sul",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/jovem-de-18-anos-morre-apos-atropelamento-no-eixao-sul-em-brasilia-21102026",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Falta de asfalto prejudica rotina de moradores do Caub 1",
@@ -55,6 +49,12 @@
       "urgente": false
     },
     {
+      "title": "Aneel anuncia aumento na conta de luz no DF a partir desta quinta-feira",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/aneel-anuncia-aumento-na-tarifa-de-energia-eletrica-no-df-a-partir-desta-quinta-22102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Fiscalização do Ministério Público aponta falhas em cemitérios do Distrito Federal",
       "url": "https://noticias.r7.com/brasilia/df-record/video/fiscalizacao-do-ministerio-publico-aponta-falhas-em-cemiterios-do-df-22102026",
       "tipo": "noticia",
@@ -64,7 +64,13 @@
       "title": "Adolescente de 13 anos leva quatro facadas durante roubo de bicicleta no Guará (DF)",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/adolescente-de-13-anos-leva-quatro-facadas-durante-roubo-de-bicicleta-no-guara-df-22102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "Fios soltos e postes danificados colocam moradores do Distrito Federal em risco",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/fios-soltos-e-postes-danificados-colocam-moradores-do-distrito-federal-em-risco-22102026",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
@@ -79,16 +85,22 @@
       "urgente": false
     },
     {
-      "title": "Carro bate e derruba poste, próximo a shopping no Pistão Sul",
-      "url": "https://www.metropoles.com/distrito-federal/carro-bate-e-derruba-poste-proximo-a-shopping-no-pistao-sul",
+      "title": "Major dos bombeiros usava trabalhadores de associação em obra particular",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/major-dos-bombeiros-usava-trabalhadores-de-associacao-em-obra-particular",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
-      "title": "Ocas indígenas são incendiadas no Guará; PCDF apura se há indício de crime .",
-      "url": "https://www.metropoles.com/distrito-federal/ocas-indigenas-sao-incendiadas-no-guara-pcdf-apura-se-ha-indicio-de-crime",
+      "title": "Marido que perdeu esposa em Portugal faz triste relato: \"Em 2h, tudo mudou\"",
+      "url": "https://www.metropoles.com/distrito-federal/marido-que-perdeu-esposa-em-portugal-faz-triste-relato-em-2h-tudo-mudou",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
+    },
+    {
+      "title": "Trabalhador morre e outro fica ferido após andaime atingir rede elétrica",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/trabalhador-morre-e-outro-fica-ferido-apos-andaime-atingir-rede-eletrica",
+      "tipo": "noticia",
+      "urgente": false
     },
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
@@ -103,10 +115,10 @@
       "urgente": false
     },
     {
-      "title": "Trabalhador morre e outro fica ferido após andaime atingir rede elétrica",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/trabalhador-morre-e-outro-fica-ferido-apos-andaime-atingir-rede-eletrica",
+      "title": "Polícia Militar vai usar drones durante o 2º turno das eleições",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-militar-vai-usar-drones-durante-o-2o-turno-das-eleicoes-15111498.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     }
   ]
 }
