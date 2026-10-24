@@ -55,20 +55,14 @@
       "urgente": false
     },
     {
-      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
+      "title": "IDP passa a ser reconhecido como universidade em Brasília",
+      "url": "https://noticias.r7.com/brasilia/idp-passa-a-ser-reconhecido-como-universidade-em-brasilia-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
+      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,21 +73,9 @@
       "urgente": false
     },
     {
-      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -103,8 +85,8 @@
       "urgente": false
     },
     {
-      "title": "Motorista foge após atropelar e matar capivara que atravessava rua no Lago .",
-      "url": "https://www.metropoles.com/distrito-federal/motorista-foge-apos-atropelar-e-matar-capivara-que-atravessava-rua-no-lago-sul",
+      "title": "Inmet prevê calorão e máxima de 34ºC no dia do 2º turno das eleições no DF",
+      "url": "https://www.metropoles.com/distrito-federal/inmet-preve-calorao-e-maxima-de-34oc-no-dia-do-2o-turno-das-eleicoes-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -115,9 +97,27 @@
       "urgente": false
     },
     {
+      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Chefão de \"consórcio do tráfico\" tirava onda no DF desfilando de Rolex .",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/chefao-de-consorcio-do-trafico-tirava-onda-no-df-desfilando-de-rolex",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Bota pra Virar x Bloco do 22: Brasília vai \"parar\" na véspera da eleição",
+      "url": "https://www.metropoles.com/distrito-federal/bota-pra-virar-x-bloco-do-22-brasilia-vai-parar-na-vespera-da-eleicao",
+      "tipo": "evento",
       "urgente": false
     }
   ]
