@@ -31,15 +31,21 @@
       "urgente": false
     },
     {
-      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
+      "title": "Sarau Cultural – Abre-te, Sábado! reúne música, poesia e arte neste sábado em Sobradinho",
+      "url": "https://www.visitebrasilia.com.br/noticias/sarau-cultural-abre-te-sabado-reune-musica-poesia-e-arte-neste-sabado-em-sobradinho",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cine Drive-In divulga programação de filmes para os dias 23, 24 e 25 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-programacao-de-filmes-para-os-dias-23-24-e-25-de-outubro",
       "tipo": "evento",
       "urgente": false
     },
     {
       "title": "APAE-DF realiza bazar solidário com itens de Achados e Perdidos do Aeroporto de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/apae-df-realiza-bazar-solidario-com-itens-de-achados-e-perdidos-do-aeroporto-de-brasilia",
-      "tipo": "noticia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -49,15 +55,9 @@
       "urgente": false
     },
     {
-      "title": "Deguste! Evento da Vinhos S.A chega à terceira edição com cerca de 120 rótulos de 14 países em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/deguste-evento-da-vinhos-s-a-chega-a-terceira-edicao-com-cerca-de-120-rotulos-de-14-paises-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "IDP passa a ser reconhecido como universidade em Brasília",
-      "url": "https://noticias.r7.com/brasilia/idp-passa-a-ser-reconhecido-como-universidade-em-brasilia-23102026",
-      "tipo": "noticia",
+      "title": "Enem: professores apontam possíveis temas da redação",
+      "url": "https://noticias.r7.com/educacao/enem-professores-apontam-possiveis-temas-da-redacao-e-dao-dicas-para-candidatos-23102026",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -67,8 +67,20 @@
       "urgente": false
     },
     {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "IDP passa a ser reconhecido como universidade em Brasília",
+      "url": "https://noticias.r7.com/brasilia/idp-passa-a-ser-reconhecido-como-universidade-em-brasilia-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -79,45 +91,27 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
+      "title": "Homem é levado à delegacia suspeito de apalpar adolescente dentro de ônibus",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-levado-a-delegacia-apos-apalpar-adolescente-dentro-de-onibus-no-df",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Dia Mundial de Combate à Poliomielite terá vacinação em 34 locais do DF",
+      "url": "https://www.metropoles.com/distrito-federal/dia-mundial-de-combate-a-poliomielite-tera-vacinacao-em-34-locais-do-df",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Inmet prevê calorão e máxima de 34ºC no dia do 2º turno das eleições no DF",
       "url": "https://www.metropoles.com/distrito-federal/inmet-preve-calorao-e-maxima-de-34oc-no-dia-do-2o-turno-das-eleicoes-no-df",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Chefão de \"consórcio do tráfico\" tirava onda no DF desfilando de Rolex .",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/chefao-de-consorcio-do-trafico-tirava-onda-no-df-desfilando-de-rolex",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bota pra Virar x Bloco do 22: Brasília vai \"parar\" na véspera da eleição",
-      "url": "https://www.metropoles.com/distrito-federal/bota-pra-virar-x-bloco-do-22-brasilia-vai-parar-na-vespera-da-eleicao",
-      "tipo": "evento",
       "urgente": false
     }
   ]
