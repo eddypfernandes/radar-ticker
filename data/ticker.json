@@ -25,21 +25,33 @@
       "urgente": false
     },
     {
-      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
-      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
       "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
       "tipo": "evento",
       "urgente": false
     },
     {
+      "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "APAE-DF realiza bazar solidário com itens de Achados e Perdidos do Aeroporto de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/apae-df-realiza-bazar-solidario-com-itens-de-achados-e-perdidos-do-aeroporto-de-brasilia",
-      "tipo": "evento",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Notte d’Incanto une gastronomia italiana, cinema ao ar livre e vinho sem taxa de rolha no Sudoeste",
+      "url": "https://www.visitebrasilia.com.br/noticias/gastronomia-italiana-cinema-a-ceu-aberto-e-vinho-sem-taxa-de-rolha-conheca-a-proposta-da-pizzaria-notte-d-incanto-no-sudoeste",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -57,20 +69,8 @@
     {
       "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Segurança será reforçada na Esplanada e em locais de votação no 2º turno",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/seguranca-sera-reforcada-na-esplanada-e-locais-de-votacao-no-segundo-turno-das-eleicoes-no-df-23102026",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
-      "tipo": "utilidade pública",
-      "urgente": false
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
@@ -79,45 +79,39 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "title": "Um dos suspeitos de matar casal em Ceilândia é solto no DF",
+      "url": "https://www.metropoles.com/distrito-federal/um-dos-suspeitos-de-matar-casal-em-ceilandia-e-solto-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
+      "title": "Incêndio em casa de festas no DF deixa homem intoxicado por fumaça",
+      "url": "https://www.metropoles.com/distrito-federal/incendio-em-casa-de-festas-no-df-deixa-homem-intoxicado-por-fumaca",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
-      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
