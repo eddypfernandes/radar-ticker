@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Em Brasília! Corrida das Blogueiras 8 anuncia turnê inédita por dez capitais brasileiras",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-brasilia-corrida-das-blogueiras-8-anuncia-turne-inedita-por-dez-capitais-brasileiras",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
       "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
       "tipo": "noticia",
@@ -33,7 +39,7 @@
     {
       "title": "APAE-DF realiza bazar solidário com itens de Achados e Perdidos do Aeroporto de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/apae-df-realiza-bazar-solidario-com-itens-de-achados-e-perdidos-do-aeroporto-de-brasilia",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -43,14 +49,26 @@
       "urgente": false
     },
     {
+      "title": "Deguste! Evento da Vinhos S.A chega à terceira edição com cerca de 120 rótulos de 14 países em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/deguste-evento-da-vinhos-s-a-chega-a-terceira-edicao-com-cerca-de-120-rotulos-de-14-paises-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": true
     },
     {
       "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,8 +79,8 @@
       "urgente": false
     },
     {
-      "title": "Segurança será reforçada na Esplanada e em locais de votação no 2º turno",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/seguranca-sera-reforcada-na-esplanada-e-locais-de-votacao-no-segundo-turno-das-eleicoes-no-df-23102026",
+      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
       "tipo": "atualidade",
       "urgente": false
     },
@@ -73,26 +91,20 @@
       "urgente": false
     },
     {
-      "title": "Moradores denunciam casal por descarte irregular de entulho de obra em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/moradores-denunciam-casal-por-descarte-irregular-de-entulho-de-obra-em-taguatinga-df-23102026",
-      "tipo": "noticia",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
       "title": "Motorista foge após atropelar e matar capivara que atravessava rua no Lago .",
       "url": "https://www.metropoles.com/distrito-federal/motorista-foge-apos-atropelar-e-matar-capivara-que-atravessava-rua-no-lago-sul",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Autópsia de enfermeira morta durante lua de mel em Portugal será na segunda",
-      "url": "https://www.metropoles.com/distrito-federal/autopsia-de-enfermeira-morta-durante-lua-de-mel-em-portugal-sera-na-segunda",
       "tipo": "noticia",
       "urgente": false
     },
@@ -105,12 +117,6 @@
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
