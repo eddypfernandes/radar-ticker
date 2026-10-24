@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Festival Estilo Brasil apresenta Criolo, Amaro Freitas e Dino d'Santiago com participação especial de Iza",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-estilo-brasil-apresenta-criolo-amaro-freitas-e-dino-d-santiago-com-participacao-especial-de-iza",
       "tipo": "evento",
@@ -13,44 +19,26 @@
       "urgente": false
     },
     {
-      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Endurance Brasil: Pedro Queirolo e David Muffato chegam embalados para a penúltima etapa em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/endurance-brasil-pedro-queirolo-e-david-muffato-chegam-embalados-para-a-penultima-etapa-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Partage Lago Sul reúne gastronomia, exposição e simulador de Fórmula 1 no fim de semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/fim-de-semana-no-partage-lago-sul-tem-atracoes-para-a-familia-com-exposicao-gastronomia-italiana-e-simulador-de-formula-1",
+      "title": "Em Brasília! Corrida das Blogueiras 8 anuncia turnê inédita por dez capitais brasileiras",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-brasilia-corrida-das-blogueiras-8-anuncia-turne-inedita-por-dez-capitais-brasileiras",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cine Drive-In divulga programação de filmes para os dias 23, 24 e 25 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-programacao-de-filmes-para-os-dias-23-24-e-25-de-outubro",
+      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
+      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
+      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
       "tipo": "evento",
       "urgente": false
     },
     {
       "title": "APAE-DF realiza bazar solidário com itens de Achados e Perdidos do Aeroporto de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/apae-df-realiza-bazar-solidario-com-itens-de-achados-e-perdidos-do-aeroporto-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Halloween no JK Shopping: Bailinho gratuito terá teatro, personagens e gostosuras para a criançada",
-      "url": "https://www.visitebrasilia.com.br/noticias/halloween-no-jk-shopping-bailinho-gratuito-tera-teatro-personagens-e-gostosuras-para-a-criancada",
       "tipo": "evento",
       "urgente": false
     },
@@ -73,33 +61,27 @@
       "urgente": false
     },
     {
-      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "title": "Segurança será reforçada na Esplanada e em locais de votação no 2º turno",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/seguranca-sera-reforcada-na-esplanada-e-locais-de-votacao-no-segundo-turno-das-eleicoes-no-df-23102026",
       "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Capivara é resgatada após ser flagrada tomando banho de piscina no Lago Sul",
-      "url": "https://www.metropoles.com/distrito-federal/capivara-e-resgatada-apos-ser-flagrada-tomando-banho-de-piscina-no-lago-sul",
+      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
+      "tipo": "utilidade pública",
+      "urgente": false
+    },
+    {
+      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Dia Mundial de Combate à Poliomielite terá vacinação em 34 locais do DF",
-      "url": "https://www.metropoles.com/distrito-federal/dia-mundial-de-combate-a-poliomielite-tera-vacinacao-em-34-locais-do-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bombeiros utilizam 4 mil litros de água para conter fogo em barraco no DF",
-      "url": "https://www.metropoles.com/distrito-federal/bombeiros-utilizam-4-mil-litros-de-agua-para-conter-fogo-em-barraco-no-df",
-      "tipo": "noticia",
+      "title": "DF no Campo: conheça a produção de cana-de-açúcar",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-cana-de-acucar-14929975.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -109,9 +91,33 @@
       "urgente": false
     },
     {
+      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
+      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
       "urgente": false
     }
   ]
