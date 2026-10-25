@@ -9,7 +9,7 @@
     {
       "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "noticia",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -25,9 +25,9 @@
       "urgente": false
     },
     {
-      "title": "Em Brasília! Corrida das Blogueiras 8 anuncia turnê inédita por dez capitais brasileiras",
-      "url": "https://www.visitebrasilia.com.br/noticias/em-brasilia-corrida-das-blogueiras-8-anuncia-turne-inedita-por-dez-capitais-brasileiras",
-      "tipo": "evento",
+      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
+      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -40,6 +40,12 @@
       "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
       "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
       "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,26 +91,8 @@
       "urgente": false
     },
     {
-      "title": "Pedestre morre atropelado por moto na Fercal",
-      "url": "https://www.metropoles.com/distrito-federal/pedestre-morre-atropelado-por-uma-moto-na-fercal",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Restaurante é notificado após impedir funcionários de votar no 1º turno",
-      "url": "https://www.metropoles.com/distrito-federal/restaurante-e-notificado-apos-impedir-funcionarios-de-votar-no-1o-turno",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -112,6 +100,18 @@
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "tipo": "evento",
       "urgente": false
     }
   ]
