@@ -25,21 +25,15 @@
       "urgente": false
     },
     {
-      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
-      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
       "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
       "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -55,27 +49,21 @@
       "urgente": false
     },
     {
-      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
-      "tipo": "noticia",
+      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "noticia",
+      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
+      "tipo": "servico",
       "urgente": false
     },
     {
       "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
       "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Prêmio da Mega-Sena acumula e expectativa cresce com R$ 230 milhões",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/premio-da-mega-sena-acumula-e-expectativa-cresce-com-r-230-milhoes-23102026",
-      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -91,26 +79,38 @@
       "urgente": false
     },
     {
+      "title": "Mesária é presa no DF acusada de fazer campanha para Lula dentro de escola",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/mesaria-e-presa-no-df-suspeita-de-fazer-campanha-para-lula-dentro-de-escola",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "noticia",
+      "tipo": "servico",
       "urgente": false
     },
     {
       "title": "Campos sintéticos em várias regiões do DF estão abandonados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara",
+      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
+      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
       "tipo": "evento",
       "urgente": false
     }
