@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "title": "Nacional Dorper & White Dorper está de volta a Brasília com 19ª edição",
-      "url": "https://www.visitebrasilia.com.br/noticias/nacional-dorper-white-dorper-esta-de-volta-a-brasilia-com-19-edicao",
+      "title": "Brasília recebe mês dedicado às artes cênicas com programação de 30 de outubro a 21 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-mes-dedicado-as-artes-cenicas-com-programacao-de-30-de-outubro-a-21-de-novembro",
       "tipo": "evento",
       "urgente": false
     },
@@ -13,15 +13,21 @@
       "urgente": false
     },
     {
-      "title": "Venâncio abre a temporada de Natal na capital",
-      "url": "https://www.visitebrasilia.com.br/noticias/venancio-abre-a-temporada-de-natal-na-capital",
-      "tipo": "atualidade",
+      "title": "Elvis in Concert chega a Brasília com imagens originais do Rei do Rock e orquestra ao vivo",
+      "url": "https://www.visitebrasilia.com.br/noticias/elvis-in-concert-chega-a-brasilia-com-imagens-originais-do-rei-do-rock-e-orquestra-ao-vivo",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "atualidade",
+      "title": "Di Paullo & Paulino levam grandes clássicos do sertanejo raiz a Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/di-paullo-paulino-levam-grandes-classicos-do-sertanejo-raiz-a-brasilia-3",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Patinho Feio entra no clima de Halloween com drink especial, decoração temática e shot de boas-vindas",
+      "url": "https://www.visitebrasilia.com.br/noticias/patinho-feio-entra-no-clima-de-halloween-com-drink-especial-decoracao-tematica-e-shot-de-boas-vindas",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -43,10 +49,16 @@
       "urgente": false
     },
     {
-      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
-      "tipo": "evento",
+      "title": "Celina Leão é a primeira mulher eleita governadora do DF",
+      "url": "https://www.metropoles.com/distrito-federal/celina-leao-e-a-primeira-mulher-eleita-governadora-do-df",
+      "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Chuva deixa mais de 10 pessoas ilhadas em córrego de Taguatinga",
+      "url": "https://www.metropoles.com/distrito-federal/chuva-deixa-mais-de-10-pessoas-ilhadas-em-corrego-de-taguatinga",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
@@ -55,8 +67,14 @@
       "urgente": false
     },
     {
-      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
+      "title": "Polícia Civil investiga consórcio do tráfico de drogas no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-civil-investiga-consorcio-do-trafico-de-drogas-no-distrito-federal-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -67,38 +85,8 @@
       "urgente": false
     },
     {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Esplanada ficará fechada até a manhã desta segunda-feira, diz SSP-DF",
-      "url": "https://www.metropoles.com/distrito-federal/esplanada-ficara-fechada-ate-a-manha-desta-segunda-feira-diz-ssp-df",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Aposentado de 90 anos exerce direito ao voto em escola no DF .",
-      "url": "https://www.metropoles.com/colunas/grande-angular/aposentado-de-90-anos-exerce-direito-ao-voto-em-escola-no-df",
       "tipo": "noticia",
       "urgente": false
     },
@@ -111,6 +99,24 @@
     {
       "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia Militar vai usar drones durante o 2º turno das eleições",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-militar-vai-usar-drones-durante-o-2o-turno-das-eleicoes-15111498.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
