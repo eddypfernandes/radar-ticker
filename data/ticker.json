@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Venâncio abre a temporada de Natal na capital",
+      "url": "https://www.visitebrasilia.com.br/noticias/venancio-abre-a-temporada-de-natal-na-capital",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Elvis in Concert chega a Brasília com imagens originais do Rei do Rock e orquestra ao vivo",
+      "url": "https://www.visitebrasilia.com.br/noticias/elvis-in-concert-chega-a-brasilia-com-imagens-originais-do-rei-do-rock-e-orquestra-ao-vivo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Di Paullo & Paulino levam grandes clássicos do sertanejo raiz a Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/di-paullo-paulino-levam-grandes-classicos-do-sertanejo-raiz-a-brasilia-3",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Patinho Feio entra no clima de Halloween com drink especial, decoração temática e shot de boas-vindas",
+      "url": "https://www.visitebrasilia.com.br/noticias/patinho-feio-entra-no-clima-de-halloween-com-drink-especial-decoracao-tematica-e-shot-de-boas-vindas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Brasília recebe um mês de programação dedicada às artes da cena a partir de 30 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-um-mes-de-programacao-dedicada-as-artes-da-cena-a-partir-de-30-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Endurance Brasil: Pedro Queirolo e David Muffato terminam em quinto nas 3 Horas de Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/endurance-brasil-pedro-queirolo-e-david-muffato-terminam-em-quinto-nas-3-horas-de-brasilia",
       "tipo": "noticia",
@@ -25,20 +55,14 @@
       "urgente": false
     },
     {
-      "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
+      "title": "Em Brasília! Corrida das Blogueiras 8 anuncia turnê inédita por dez capitais brasileiras",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-brasilia-corrida-das-blogueiras-8-anuncia-turne-inedita-por-dez-capitais-brasileiras",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
+      "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
+      "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
       "tipo": "noticia",
       "urgente": false
     },
@@ -49,15 +73,15 @@
       "urgente": false
     },
     {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "atualidade",
+      "title": "Moradora de Ceilândia morre durante lua de mel em Portugal; suspeita é de reação alérgica a camarão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasiliense-morre-durante-lua-de-mel-em-portugal-apos-suspeita-de-reacao-alergica-22102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF mantém locais de votação e oferece transporte gratuito no domingo",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eleicoes-2026-df-mantem-locais-de-votacao-e-oferece-transporte-gratuito-no-domingo-23102026",
-      "tipo": "servico",
+      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,9 +91,15 @@
       "urgente": false
     },
     {
+      "title": "Prêmio da Mega-Sena acumula e expectativa cresce com R$ 230 milhões",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/premio-da-mega-sena-acumula-e-expectativa-cresce-com-r-230-milhoes-23102026",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -79,39 +109,15 @@
       "urgente": false
     },
     {
-      "title": "Mesária é presa no DF acusada de fazer campanha para Lula dentro de escola",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/mesaria-e-presa-no-df-suspeita-de-fazer-campanha-para-lula-dentro-de-escola",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "servico",
-      "urgente": false
-    },
-    {
-      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
-      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
