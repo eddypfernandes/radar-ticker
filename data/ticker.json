@@ -9,7 +9,7 @@
     {
       "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "novidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -31,33 +31,15 @@
       "urgente": false
     },
     {
-      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
-      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
       "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
-      "tipo": "evento",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Dom Francisco da 402 Sul lança \"Menu Primavera\"",
       "url": "https://www.visitebrasilia.com.br/noticias/dom-francisco-da-402-sul-lanca-menu-primavera",
       "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Exposição “Mirar el bosque desde el bosque” apresenta a dimensão espiritual da Amazônia peruana em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-mirar-el-bosque-desde-el-bosque-apresenta-a-dimensao-espiritual-da-amazonia-peruana-em-brasilia",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
-      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -75,13 +57,25 @@
     {
       "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Prêmio da Mega-Sena acumula e expectativa cresce com R$ 230 milhões",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/premio-da-mega-sena-acumula-e-expectativa-cresce-com-r-230-milhoes-23102026",
       "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -89,6 +83,12 @@
       "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
+    },
+    {
+      "title": "Pedestre morre atropelado por moto na Fercal",
+      "url": "https://www.metropoles.com/distrito-federal/pedestre-morre-atropelado-por-uma-moto-na-fercal",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Restaurante é notificado após impedir funcionários de votar no 1º turno",
@@ -99,7 +99,7 @@
     {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "atualidade",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -111,12 +111,6 @@
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Prêmio da Mega-Sena acumula e expectativa cresce com R$ 230 milhões",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/premio-da-mega-sena-acumula-e-expectativa-cresce-com-r-230-milhoes-23102026",
       "tipo": "noticia",
       "urgente": false
     }
