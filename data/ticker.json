@@ -1,9 +1,15 @@
 {
   "items": [
     {
+      "title": "Endurance Brasil: Pedro Queirolo e David Muffato terminam em quinto nas 3 Horas de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/endurance-brasil-pedro-queirolo-e-david-muffato-terminam-em-quinto-nas-3-horas-de-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "noticia",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -25,6 +31,12 @@
       "urgente": false
     },
     {
+      "title": "AJE-DF anuncia nova diretoria com foco em conexões e oportunidades para empresários",
+      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-anuncia-nova-diretoria-com-foco-em-conexoes-e-oportunidades-para-empresarios",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Após vitória por 104 a 92, equipe brasiliense enfrenta o Paulistano neste sábado (24), às 11h, na Arena Nilson Nelson",
       "url": "https://www.visitebrasilia.com.br/noticias/apos-vitoria-por-104-a-92-equipe-brasiliense-enfrenta-o-paulistano-neste-sabado-24-as-11h-na-arena-nilson-nelson",
       "tipo": "evento",
@@ -43,15 +55,9 @@
       "urgente": false
     },
     {
-      "title": "APAE-DF realiza bazar solidário com itens de Achados e Perdidos do Aeroporto de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/apae-df-realiza-bazar-solidario-com-itens-de-achados-e-perdidos-do-aeroporto-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Notte d’Incanto une gastronomia italiana, cinema ao ar livre e vinho sem taxa de rolha no Sudoeste",
-      "url": "https://www.visitebrasilia.com.br/noticias/gastronomia-italiana-cinema-a-ceu-aberto-e-vinho-sem-taxa-de-rolha-conheca-a-proposta-da-pizzaria-notte-d-incanto-no-sudoeste",
-      "tipo": "dica",
+      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -69,19 +75,13 @@
     {
       "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Polícia resgata 31 cães e gatos em situação de maus-tratos no DF; veja como ajudar os animais",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-resgata-31-caes-e-gatos-em-situacao-de-maus-tratos-no-df-veja-como-ajudar-os-animais-23102026",
-      "tipo": "noticia",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -91,26 +91,32 @@
       "urgente": false
     },
     {
-      "title": "Um dos suspeitos de matar casal em Ceilândia é solto no DF",
-      "url": "https://www.metropoles.com/distrito-federal/um-dos-suspeitos-de-matar-casal-em-ceilandia-e-solto-no-df",
+      "title": "Restaurante é notificado após impedir funcionários de votar no 1º turno",
+      "url": "https://www.metropoles.com/distrito-federal/restaurante-e-notificado-apos-impedir-funcionarios-de-votar-no-1o-turno",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Incêndio em casa de festas no DF deixa homem intoxicado por fumaça",
-      "url": "https://www.metropoles.com/distrito-federal/incendio-em-casa-de-festas-no-df-deixa-homem-intoxicado-por-fumaca",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Prêmio da Mega-Sena acumula e expectativa cresce com R$ 230 milhões",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/premio-da-mega-sena-acumula-e-expectativa-cresce-com-r-230-milhoes-23102026",
       "tipo": "noticia",
       "urgente": false
     }
