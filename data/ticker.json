@@ -1,20 +1,8 @@
 {
   "items": [
     {
-      "title": "Brasília recebe mês dedicado às artes cênicas com programação de 30 de outubro a 21 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-mes-dedicado-as-artes-cenicas-com-programacao-de-30-de-outubro-a-21-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Nacional Dorper & White Dorper está de volta a Brasília com 19ª edição",
-      "url": "https://www.visitebrasilia.com.br/noticias/nacional-dorper-white-dorper-esta-de-volta-a-brasilia-com-19-edicao",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Wêlson Nunes apresenta stand-up em Brasília nos dias 30 e 31 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/welson-nunes-apresenta-stand-up-em-brasilia-nos-dias-30-e-31-de-outubro",
+      "title": "Rogê Nascimento celebra 15 anos de carreira com o show “Água Doce” em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/roge-nascimento-celebra-15-anos-de-carreira-com-o-show-agua-doce-em-brasilia",
       "tipo": "evento",
       "urgente": false
     },
@@ -25,33 +13,9 @@
       "urgente": false
     },
     {
-      "title": "Elvis in Concert chega a Brasília com imagens originais do Rei do Rock e orquestra ao vivo",
-      "url": "https://www.visitebrasilia.com.br/noticias/elvis-in-concert-chega-a-brasilia-com-imagens-originais-do-rei-do-rock-e-orquestra-ao-vivo",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Patinho Feio entra no clima de Halloween com drink especial, decoração temática e shot de boas-vindas",
-      "url": "https://www.visitebrasilia.com.br/noticias/patinho-feio-entra-no-clima-de-halloween-com-drink-especial-decoracao-tematica-e-shot-de-boas-vindas",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Endurance Brasil: Pedro Queirolo e David Muffato terminam em quinto nas 3 Horas de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/endurance-brasil-pedro-queirolo-e-david-muffato-terminam-em-quinto-nas-3-horas-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "novidade",
-      "urgente": false
-    },
-    {
-      "title": "Festival Estilo Brasil apresenta Criolo, Amaro Freitas e Dino d'Santiago com participação especial de Iza",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-estilo-brasil-apresenta-criolo-amaro-freitas-e-dino-d-santiago-com-participacao-especial-de-iza",
-      "tipo": "evento",
+      "tipo": "oferta",
       "urgente": false
     },
     {
@@ -61,16 +25,10 @@
       "urgente": false
     },
     {
-      "title": "Em Brasília! Corrida das Blogueiras 8 anuncia turnê inédita por dez capitais brasileiras",
-      "url": "https://www.visitebrasilia.com.br/noticias/em-brasilia-corrida-das-blogueiras-8-anuncia-turne-inedita-por-dez-capitais-brasileiras",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
@@ -79,15 +37,21 @@
       "urgente": false
     },
     {
+      "title": "Polícia Civil investiga consórcio do tráfico de drogas no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-civil-investiga-consorcio-do-trafico-de-drogas-no-distrito-federal-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "alerta",
+      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -97,14 +61,38 @@
       "urgente": false
     },
     {
-      "title": "Recuperar o BRB, reduzir fila na saúde e obras: veja as promessas de Celina",
-      "url": "https://www.metropoles.com/distrito-federal/recuperar-o-brb-reduzir-fila-na-saude-e-obras-veja-as-promessas-de-celina",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Homem é preso ao bater boca com PM que faz a segurança na casa de Bolsonaro",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-e-preso-ao-bater-boca-com-pm-que-faz-a-seguranca-na-casa-de-bolsonaro",
+      "title": "De Ceilândia, zagueiro do Vasco escapa ileso ao capotar BMW de R$ 1 milhão",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/de-ceilandia-zagueiro-do-vasco-escapa-ileso-ao-capotar-bmw-de-r-1-milhao",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Iges-DF abre três processos seletivos com salários de até R$ 13 mil; veja",
+      "url": "https://www.metropoles.com/distrito-federal/iges-df-abre-tres-processos-seletivos-com-salarios-de-ate-r-13-mil-veja",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "DER-DF suspende CNHs de 100 motoristas por infrações graves; veja lista",
+      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-100-motoristas-por-infracoes-graves-veja-lista",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF começa semana sob alerta de tempestade com ventania forte; veja previsão",
+      "url": "https://www.metropoles.com/distrito-federal/df-comeca-semana-sob-alerta-de-tempestade-com-ventania-forte-veja-previsao",
+      "tipo": "atualidade",
+      "urgente": true
+    },
+    {
+      "title": "Brasília vence o Paulistano pelo NBB",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -117,6 +105,12 @@
     {
       "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem é internado após ser nocauteado em briga generalizada em Sobradinho .",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-internado-apos-ser-nocauteado-em-briga-generalizada-em-sobradinho",
       "tipo": "noticia",
       "urgente": false
     }
