@@ -1,33 +1,39 @@
 {
   "items": [
     {
-      "title": "Rogê Nascimento celebra 15 anos de carreira com o show “Água Doce” em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/roge-nascimento-celebra-15-anos-de-carreira-com-o-show-agua-doce-em-brasilia",
+      "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
+      "url": "https://www.visitebrasilia.com.br/noticias/como-sera-o-futuro-tedxbrasilia-propoe-reflexoes-que-vao-da-inteligencia-artificial-as-relacoes-humanas",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Venâncio abre a temporada de Natal na capital",
-      "url": "https://www.visitebrasilia.com.br/noticias/venancio-abre-a-temporada-de-natal-na-capital",
+      "title": "Tem Samba na Feira chega à 19ª edição com programação musical gratuita no Gama neste domingo (1°)",
+      "url": "https://www.visitebrasilia.com.br/noticias/tem-samba-na-feira-chega-a-19-edicao-com-programacao-musical-gratuita-no-gama-neste-domingo-1",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
-      "tipo": "oferta",
-      "urgente": false
-    },
-    {
-      "title": "Dia do Vinho Ticiana Werner reúne 100 rótulos de nove países em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/dia-do-vinho-ticiana-werner-reune-100-rotulos-de-nove-paises-em-brasilia",
+      "title": "Caixa Cultural Brasília apresenta \"O Veneno do Teatro\", com Osmar Prado e Maurício Machado",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-o-veneno-do-teatro-com-osmar-prado-e-mauricio-machado",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
-      "tipo": "noticia",
+      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "4ª edição do Festival Despertacular ocupa Espaço cultural Renato Russo com arte e cultura surda",
+      "url": "https://www.visitebrasilia.com.br/noticias/4-edicao-do-festival-despertacular-ocupa-espaco-cultural-renato-russo-com-arte-e-cultura-surda",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
+      "tipo": "evento",
       "urgente": false
     },
     {
@@ -37,14 +43,26 @@
       "urgente": false
     },
     {
-      "title": "Polícia Civil investiga consórcio do tráfico de drogas no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-civil-investiga-consorcio-do-trafico-de-drogas-no-distrito-federal-23102026",
+      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/furto-de-equipamentos-do-der-deixa-30-cameras-de-monitoramento-de-transito-fora-do-ar-no-df-26102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Administração de Ceilândia inicia limpeza de lote abandonado após denúncias de moradores no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/administracao-de-ceilandia-inicia-limpeza-de-lote-abandonado-apos-denuncias-de-moradores-no-df-26102026",
       "tipo": "noticia",
       "urgente": false
     },
@@ -61,34 +79,22 @@
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "title": "Vizinho quebra portão de dona de casa com carro após denúncia de pertubação",
+      "url": "https://www.metropoles.com/distrito-federal/vizinho-quebra-portao-de-dona-de-casa-com-carro-apos-denuncia-de-pertubacao",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "De Ceilândia, zagueiro do Vasco escapa ileso ao capotar BMW de R$ 1 milhão",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/de-ceilandia-zagueiro-do-vasco-escapa-ileso-ao-capotar-bmw-de-r-1-milhao",
+      "title": "Ossada humana, com crânio, é encontrada perto de caixão em aterro sanitário",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/cranio-e-ossada-humana-sao-encontrados-perto-de-caixao-em-aterro-sanitario",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Iges-DF abre três processos seletivos com salários de até R$ 13 mil; veja",
-      "url": "https://www.metropoles.com/distrito-federal/iges-df-abre-tres-processos-seletivos-com-salarios-de-ate-r-13-mil-veja",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "DER-DF suspende CNHs de 100 motoristas por infrações graves; veja lista",
-      "url": "https://www.metropoles.com/distrito-federal/der-df-suspende-cnhs-de-100-motoristas-por-infracoes-graves-veja-lista",
+      "title": "Servidores do GDF terão feriadão após as eleições",
+      "url": "https://www.metropoles.com/colunas/grande-angular/servidores-do-gdf-terao-feriadao-apos-as-eleicoes",
       "tipo": "noticia",
       "urgente": false
-    },
-    {
-      "title": "DF começa semana sob alerta de tempestade com ventania forte; veja previsão",
-      "url": "https://www.metropoles.com/distrito-federal/df-comeca-semana-sob-alerta-de-tempestade-com-ventania-forte-veja-previsao",
-      "tipo": "atualidade",
-      "urgente": true
     },
     {
       "title": "Brasília vence o Paulistano pelo NBB",
@@ -103,14 +109,14 @@
       "urgente": false
     },
     {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
+      "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Homem é internado após ser nocauteado em briga generalizada em Sobradinho .",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-internado-apos-ser-nocauteado-em-briga-generalizada-em-sobradinho",
+      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
