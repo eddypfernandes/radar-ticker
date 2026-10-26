@@ -7,6 +7,12 @@
       "urgente": false
     },
     {
+      "title": "Nacional Dorper & White Dorper está de volta a Brasília com 19ª edição",
+      "url": "https://www.visitebrasilia.com.br/noticias/nacional-dorper-white-dorper-esta-de-volta-a-brasilia-com-19-edicao",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Wêlson Nunes apresenta stand-up em Brasília nos dias 30 e 31 de outubro",
       "url": "https://www.visitebrasilia.com.br/noticias/welson-nunes-apresenta-stand-up-em-brasilia-nos-dias-30-e-31-de-outubro",
       "tipo": "evento",
@@ -25,9 +31,21 @@
       "urgente": false
     },
     {
-      "title": "Di Paullo & Paulino levam grandes clássicos do sertanejo raiz a Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/di-paullo-paulino-levam-grandes-classicos-do-sertanejo-raiz-a-brasilia-3",
-      "tipo": "evento",
+      "title": "Patinho Feio entra no clima de Halloween com drink especial, decoração temática e shot de boas-vindas",
+      "url": "https://www.visitebrasilia.com.br/noticias/patinho-feio-entra-no-clima-de-halloween-com-drink-especial-decoracao-tematica-e-shot-de-boas-vindas",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Endurance Brasil: Pedro Queirolo e David Muffato terminam em quinto nas 3 Horas de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/endurance-brasil-pedro-queirolo-e-david-muffato-terminam-em-quinto-nas-3-horas-de-brasilia",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Partage Lago Sul Shopping recebe mais de 20 novas lojas em outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-shopping-recebe-mais-de-20-novas-lojas-em-outubro",
+      "tipo": "novidade",
       "urgente": false
     },
     {
@@ -61,21 +79,9 @@
       "urgente": false
     },
     {
-      "title": "Polícia Civil investiga consórcio do tráfico de drogas no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-civil-investiga-consorcio-do-trafico-de-drogas-no-distrito-federal-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Doze por Oito, Hugo Drop e The Reds: confira a programação cultural do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/doze-por-oito-hugo-drop-e-the-reds-confira-a-programacao-do-fim-de-semana-no-df-23102026",
-      "tipo": "evento",
+      "tipo": "alerta",
       "urgente": false
     },
     {
@@ -91,8 +97,14 @@
       "urgente": false
     },
     {
-      "title": "PMDF registra menos ocorrências eleitorais, mas acionamentos crescem",
-      "url": "https://www.metropoles.com/distrito-federal/pmdf-registra-menos-ocorrencias-eleitorais-mas-acionamentos-crescem",
+      "title": "Recuperar o BRB, reduzir fila na saúde e obras: veja as promessas de Celina",
+      "url": "https://www.metropoles.com/distrito-federal/recuperar-o-brb-reduzir-fila-na-saude-e-obras-veja-as-promessas-de-celina",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Homem é preso ao bater boca com PM que faz a segurança na casa de Bolsonaro",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-e-preso-ao-bater-boca-com-pm-que-faz-a-seguranca-na-casa-de-bolsonaro",
       "tipo": "noticia",
       "urgente": false
     },
@@ -100,17 +112,11 @@
       "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
       "tipo": "noticia",
-      "urgente": true
+      "urgente": false
     },
     {
       "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Palmeiras está na final da Libertadores",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/palmeiras-esta-na-final-da-libertadores-15112044.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
