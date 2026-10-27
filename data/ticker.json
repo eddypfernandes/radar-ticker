@@ -1,21 +1,51 @@
 {
   "items": [
     {
+      "title": "Biblioteca Demonstrativa recebe espetáculo \"Jazz na Miúda\", da banda Dona Sarah du Jazz",
+      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-recebe-espetaculo-jazz-na-miuda-da-banda-dona-sarah-du-jazz",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Circuito de Corridas Parques do Brasil encerra primeira edição em Brasília com esporte e consciência ambiental",
+      "url": "https://www.visitebrasilia.com.br/noticias/circuito-de-corridas-parques-do-brasil-encerra-primeira-edicao-em-brasilia-com-esporte-e-consciencia-ambiental",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Cozinha-show Itamaraty conduzirá o público do Alimenta 2026 a uma viagem gastronômica pelo mundo",
+      "url": "https://www.visitebrasilia.com.br/noticias/cozinha-show-itamaraty-conduzira-o-publico-do-alimenta-2026-a-uma-viagem-gastronomica-pelo-mundo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "68ª Colônia de Férias Mapati abre inscrições para temporada de férias em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/68-colonia-de-ferias-mapati-abre-inscricoes-para-temporada-de-ferias-em-brasilia",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Brasília é o destino mais econômico para o Natal e o Ano Novo, revela KAYAK",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-e-o-destino-mais-economico-para-o-natal-e-o-ano-novo-revela-kayak",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
+      "title": "“Entre Terras e Memórias”: Simone Oliveira apresenta sua primeira exposição individual em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/entre-terras-e-memorias-simone-oliveira-apresenta-sua-primeira-exposicao-individual-em-brasilia",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Mané Mercado celebra Halloween com programação especial nas unidades de Brasília e Águas Claras",
       "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-celebra-halloween-com-programacao-especial-nas-unidades-de-brasilia-e-aguas-claras",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Espetáculo Os Mamutes estreia nova temporada em Brasília com sessões gratuitas",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-os-mamutes-estreia-nova-temporada-em-brasilia-com-sessoes-gratuitas",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Circuito Asiático reúne gastronomia, K-pop e cultura geek no Manhattan Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/circuito-asiatico-reune-gastronomia-k-pop-e-cultura-geek-no-manhattan-shopping",
-      "tipo": "evento",
+      "title": "Mostra reúne projetos de estudantes no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/mostra-reune-projetos-de-estudantes-no-df",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -25,92 +55,68 @@
       "urgente": false
     },
     {
-      "title": "Brasília recebe a BSB Half Marathon Experience neste domingo com percursos de ate 21 km e cenario de cartoes-postais da capital",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-a-bsb-half-marathon-experience-neste-domingo-com-percursos-de-ate-21-km-e-cenario-de-cartoes-postais-da-capital",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "20ª edição do Festival Bar em Bar em Brasília a partir desta quinta-feira (29)",
-      "url": "https://www.visitebrasilia.com.br/noticias/20-edicao-do-festival-bar-em-bar-em-brasilia-a-partir-desta-quinta-feira-29",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Tradiçional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina-27102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
+      "title": "Bebê de 1 ano morre duas semanas após ser socorrida com hematomas no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-3-meses-morre-duas-semanas-apos-ser-socorrida-com-hematomas-no-df-27102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Idoso fica paraplégico após atropelamento e enfrenta dificuldades para receber benefício do INSS",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/idoso-fica-paraplegico-apos-atropelamento-e-enfrenta-dificuldades-para-receber-beneficio-do-inss-27102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Poste cai sobre carro após motorista subir em ciclofaixa e bater contra estrutura no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/poste-cai-sobre-carro-apos-motorista-subir-em-ciclofaixa-e-bater-contra-estrutura-no-df-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a produção de mudas no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-producao-de-mudas-no-df-14866317.ghtml",
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Dia de Finados: bancos de sangue do DF ficarão fechados no feriado",
-      "url": "https://www.metropoles.com/distrito-federal/dia-de-finados-bancos-de-sangue-do-df-ficarao-fechados-no-feriado",
+      "title": "DF no Campo: colheita do morango está a todo vapor",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Homem é preso no DF após dar soco no rosto da ex e levar celular dela",
+      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-no-df-apos-dar-soco-no-rosto-da-ex-e-levar-celular-dela",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Trânsito é desviado na BR-070 devido a confronto armado com a PMGO",
+      "url": "https://www.metropoles.com/distrito-federal/transito-e-desviado-na-br-070-devido-a-confronto-armado-com-a-pmgo",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Sob alerta de tempestade, chuva atinge área central de Brasília nesta terça .",
+      "url": "https://www.metropoles.com/distrito-federal/sob-alerta-de-tempestade-chuva-atinge-area-central-de-brasilia-nesta-terca",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Projeto dá bolsas de estudos integrais para alunos da rede pública do DF",
+      "url": "https://www.metropoles.com/distrito-federal/projeto-da-bolsas-de-estudos-integrais-para-alunos-da-rede-publica-do-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Homem é preso por incendiar casa com a companheira dentro no Entorno do DF",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-por-incendiar-casa-com-a-companheira-dentro-no-entorno-do-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Balcão Virtual do Detran-DF: veja como funciona o atendimento on-line",
-      "url": "https://www.metropoles.com/distrito-federal/balcao-virtual-do-detran-df-veja-como-funciona-o-atendimento-on-line",
+      "title": "Caseiro teria sido explorado por 28 anos no Lago Norte",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caseiro-teria-sido-explorado-por-28-anos-no-lago-norte-15133263.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "Brasília vence o Paulistano pelo NBB",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Diplomata aposentada e filho viram réus na justiça por trabalho escravo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/diplomata-aposentada-e-filho-viram-reus-na-justica-por-trabalho-escravo-15114945.ghtml",
       "tipo": "noticia",
       "urgente": false
     }
