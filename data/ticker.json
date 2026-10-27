@@ -1,22 +1,16 @@
 {
   "items": [
     {
+      "title": "20ª edição do Festival Bar em Bar em Brasília a partir desta quinta-feira (29)",
+      "url": "https://www.visitebrasilia.com.br/noticias/20-edicao-do-festival-bar-em-bar-em-brasilia-a-partir-desta-quinta-feira-29",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Família procura jovem com esquizofrenia que desapareceu no Guará",
       "url": "https://www.metropoles.com/distrito-federal/familia-procura-jovem-com-esquizofrenia-que-desapareceu-no-guara",
       "tipo": "noticia",
       "urgente": true
-    },
-    {
-      "title": "CIEE abre 820 vagas de estágio para estudantes no DF nesta segunda (26/10)",
-      "url": "https://www.metropoles.com/distrito-federal/ciee-abre-820-vagas-de-estagio-para-estudantes-no-df-nesta-segunda-26-10",
-      "tipo": "vaga",
-      "urgente": false
-    },
-    {
-      "title": "19º Encontro de Colecionadores terá exposição especial pelos 50 anos da morte de JK",
-      "url": "https://www.visitebrasilia.com.br/noticias/19-encontro-de-colecionadores-tera-exposicao-especial-pelos-50-anos-da-morte-de-jk",
-      "tipo": "evento",
-      "urgente": false
     },
     {
       "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
@@ -25,8 +19,62 @@
       "urgente": false
     },
     {
+      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Caixa Cultural Brasília apresenta \"O Veneno do Teatro\", com Osmar Prado e Maurício Machado",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-o-veneno-do-teatro-com-osmar-prado-e-mauricio-machado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "DF registra mais de 3.400 acidentes com escorpiões em nove meses",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-registra-mais-de-34-mil-acidentes-com-escorpioes-em-nove-meses-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Festival vai premiar trabalhadores do comércio com talento musical",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-vai-premiar-trabalhadores-do-comercio-com-talento-musical",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Jovem de Sobradinho conquista medalhas internacionais no muay thai",
+      "url": "https://www.metropoles.com/distrito-federal/jovem-de-sobradinho-conquista-medalhas-internacionais-no-muay-thai",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "19º Encontro de Colecionadores terá exposição especial pelos 50 anos da morte de JK",
+      "url": "https://www.visitebrasilia.com.br/noticias/19-encontro-de-colecionadores-tera-exposicao-especial-pelos-50-anos-da-morte-de-jk",
       "tipo": "evento",
       "urgente": false
     },
@@ -37,45 +85,15 @@
       "urgente": false
     },
     {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF registra mais de 3.400 acidentes com escorpiões em nove meses",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-registra-mais-de-34-mil-acidentes-com-escorpioes-em-nove-meses-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
+      "title": "Hayek promove feira de carreiras internacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/hayek-promove-feira-de-carreiras-internacionais",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
-      "tipo": "evento",
+      "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/furto-de-equipamentos-do-der-deixa-30-cameras-de-monitoramento-de-transito-fora-do-ar-no-df-26102026",
+      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -85,33 +103,21 @@
       "urgente": false
     },
     {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "atualidade",
+      "urgente": false
+    },
+    {
       "title": "Rolê Cultural convida professores para uma noite de arte e troca no CCBB",
       "url": "https://www.visitebrasilia.com.br/noticias/role-cultural-convida-professores-para-uma-noite-de-arte-e-troca-no-ccbb",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Wêlson Nunes apresenta stand-up em Brasília nos dias 30 e 31 de outubro",
-      "url": "https://www.visitebrasilia.com.br/noticias/welson-nunes-apresenta-stand-up-em-brasilia-nos-dias-30-e-31-de-outubro",
+      "title": "Correida do Idoso acontece neste domingo em Ceilândia, com largada às 7h",
+      "url": "https://www.visitebrasilia.com.br/noticias/corrida-do-idoso-acontece-neste-domingo-em-ceilandia-com-largada-as-7h",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/furto-de-equipamentos-do-der-deixa-30-cameras-de-monitoramento-de-transito-fora-do-ar-no-df-26102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Marido é preso após enforcar e dar facada no pescoço de mulher no DF",
-      "url": "https://www.metropoles.com/distrito-federal/marido-e-preso-apos-enforcar-e-dar-facada-no-pescoco-de-mulher-no-df",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
       "urgente": false
     }
   ]
