@@ -1,14 +1,26 @@
 {
   "items": [
     {
-      "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
-      "url": "https://www.visitebrasilia.com.br/noticias/como-sera-o-futuro-tedxbrasilia-propoe-reflexoes-que-vao-da-inteligencia-artificial-as-relacoes-humanas",
+      "title": "Família procura jovem com esquizofrenia que desapareceu no Guará",
+      "url": "https://www.metropoles.com/distrito-federal/familia-procura-jovem-com-esquizofrenia-que-desapareceu-no-guara",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "CIEE abre 820 vagas de estágio para estudantes no DF nesta segunda (26/10)",
+      "url": "https://www.metropoles.com/distrito-federal/ciee-abre-820-vagas-de-estagio-para-estudantes-no-df-nesta-segunda-26-10",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "19º Encontro de Colecionadores terá exposição especial pelos 50 anos da morte de JK",
+      "url": "https://www.visitebrasilia.com.br/noticias/19-encontro-de-colecionadores-tera-exposicao-especial-pelos-50-anos-da-morte-de-jk",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Tem Samba na Feira chega à 19ª edição com programação musical gratuita no Gama neste domingo (1°)",
-      "url": "https://www.visitebrasilia.com.br/noticias/tem-samba-na-feira-chega-a-19-edicao-com-programacao-musical-gratuita-no-gama-neste-domingo-1",
+      "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
+      "url": "https://www.visitebrasilia.com.br/noticias/como-sera-o-futuro-tedxbrasilia-propoe-reflexoes-que-vao-da-inteligencia-artificial-as-relacoes-humanas",
       "tipo": "evento",
       "urgente": false
     },
@@ -16,84 +28,6 @@
       "title": "Caixa Cultural Brasília apresenta \"O Veneno do Teatro\", com Osmar Prado e Maurício Machado",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-o-veneno-do-teatro-com-osmar-prado-e-mauricio-machado",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "4ª edição do Festival Despertacular ocupa Espaço cultural Renato Russo com arte e cultura surda",
-      "url": "https://www.visitebrasilia.com.br/noticias/4-edicao-do-festival-despertacular-ocupa-espaco-cultural-renato-russo-com-arte-e-cultura-surda",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/furto-de-equipamentos-do-der-deixa-30-cameras-de-monitoramento-de-transito-fora-do-ar-no-df-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Administração de Ceilândia inicia limpeza de lote abandonado após denúncias de moradores no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/administracao-de-ceilandia-inicia-limpeza-de-lote-abandonado-apos-denuncias-de-moradores-no-df-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Vizinho quebra portão de dona de casa com carro após denúncia de pertubação",
-      "url": "https://www.metropoles.com/distrito-federal/vizinho-quebra-portao-de-dona-de-casa-com-carro-apos-denuncia-de-pertubacao",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ossada humana, com crânio, é encontrada perto de caixão em aterro sanitário",
-      "url": "https://www.metropoles.com/distrito-federal/entorno/cranio-e-ossada-humana-sao-encontrados-perto-de-caixao-em-aterro-sanitario",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Servidores do GDF terão feriadão após as eleições",
-      "url": "https://www.metropoles.com/colunas/grande-angular/servidores-do-gdf-terao-feriadao-apos-as-eleicoes",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -109,15 +43,75 @@
       "urgente": false
     },
     {
-      "title": "Moradores do DF enfrentam dificuldades para marcar atendimento no CRAS",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/moradores-do-df-enfrentam-dificuldades-para-marcar-atendimento-no-cras-15111589.ghtml",
+      "title": "DF registra mais de 3.400 acidentes com escorpiões em nove meses",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-registra-mais-de-34-mil-acidentes-com-escorpioes-em-nove-meses-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Campos sintéticos em várias regiões do DF estão abandonados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/campos-sinteticos-em-varias-regioes-do-df-estao-abandonados-15111543.ghtml",
+      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: conheça a criação de cavalos no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "dica",
+      "urgente": false
+    },
+    {
+      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Doces ou travessuras? DF Plaza Shopping prepara programação especial para o Halloween",
+      "url": "https://www.visitebrasilia.com.br/noticias/doces-ou-travessuras-df-plaza-shopping-prepara-programacao-especial-para-o-halloween",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Rolê Cultural convida professores para uma noite de arte e troca no CCBB",
+      "url": "https://www.visitebrasilia.com.br/noticias/role-cultural-convida-professores-para-uma-noite-de-arte-e-troca-no-ccbb",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Wêlson Nunes apresenta stand-up em Brasília nos dias 30 e 31 de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/welson-nunes-apresenta-stand-up-em-brasilia-nos-dias-30-e-31-de-outubro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/furto-de-equipamentos-do-der-deixa-30-cameras-de-monitoramento-de-transito-fora-do-ar-no-df-26102026",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Marido é preso após enforcar e dar facada no pescoço de mulher no DF",
+      "url": "https://www.metropoles.com/distrito-federal/marido-e-preso-apos-enforcar-e-dar-facada-no-pescoco-de-mulher-no-df",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
+      "tipo": "dica",
       "urgente": false
     }
   ]
