@@ -7,57 +7,9 @@
       "urgente": false
     },
     {
-      "title": "Família procura jovem com esquizofrenia que desapareceu no Guará",
-      "url": "https://www.metropoles.com/distrito-federal/familia-procura-jovem-com-esquizofrenia-que-desapareceu-no-guara",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
-      "url": "https://www.visitebrasilia.com.br/noticias/como-sera-o-futuro-tedxbrasilia-propoe-reflexoes-que-vao-da-inteligencia-artificial-as-relacoes-humanas",
+      "title": "Hayek promove feira de carreiras internacionais",
+      "url": "https://www.visitebrasilia.com.br/noticias/hayek-promove-feira-de-carreiras-internacionais",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Caixa Cultural Brasília apresenta \"O Veneno do Teatro\", com Osmar Prado e Maurício Machado",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-o-veneno-do-teatro-com-osmar-prado-e-mauricio-machado",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ale Terribili e Passo Largo homenageiam os 80 anos de Belchior em show no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/ale-terribili-e-passo-largo-homenageiam-os-80-anos-de-belchior-em-show-no-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "DF registra mais de 3.400 acidentes com escorpiões em nove meses",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-registra-mais-de-34-mil-acidentes-com-escorpioes-em-nove-meses-23102026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -67,28 +19,64 @@
       "urgente": false
     },
     {
-      "title": "Jovem de Sobradinho conquista medalhas internacionais no muay thai",
-      "url": "https://www.metropoles.com/distrito-federal/jovem-de-sobradinho-conquista-medalhas-internacionais-no-muay-thai",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
       "title": "19º Encontro de Colecionadores terá exposição especial pelos 50 anos da morte de JK",
       "url": "https://www.visitebrasilia.com.br/noticias/19-encontro-de-colecionadores-tera-exposicao-especial-pelos-50-anos-da-morte-de-jk",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Brasília vence o Paulistano pelo NBB",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
+      "title": "Como será o futuro? TEDxBrasília propõe reflexões que vão da inteligência artificial às relações humanas",
+      "url": "https://www.visitebrasilia.com.br/noticias/como-sera-o-futuro-tedxbrasilia-propoe-reflexoes-que-vao-da-inteligencia-artificial-as-relacoes-humanas",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Caixa Cultural Brasília apresenta \"O Veneno do Teatro\", com Osmar Prado e Maurício Machado",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-o-veneno-do-teatro-com-osmar-prado-e-mauricio-machado",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Tradicional Chegada do Papai Noel do Pátio Brasil Shopping ganha Castelo de Doces e espetáculo temático em 1º de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-chegada-do-papai-noel-do-patio-brasil-shopping-ganha-castelo-de-doces-e-espetaculo-tematico-em-1-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Cratera na Asa Norte chega a cinco metros e obra segue sem conclusão",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cratera-na-asa-norte-em-brasilia-chega-a-cinco-metros-e-obra-segue-sem-conclusao-23102026",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Hayek promove feira de carreiras internacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/hayek-promove-feira-de-carreiras-internacionais",
-      "tipo": "evento",
+      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
+      "tipo": "noticia",
       "urgente": false
+    },
+    {
+      "title": "Moradores do DF relatam infestação de escorpiões e cobram providências",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-do-distrito-federal-relatam-infestacao-de-escorpioes-e-cobram-providencias-23102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF inaugura a primeira Casa da Mãe Atípica no Brasil",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-inaugura-a-primeira-casa-da-mae-atipica-no-brasil-26102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Fux convoca audiência pública para debater impactos econômicos e regulação das Bets",
+      "url": "https://noticias.r7.com/brasilia/fux-convoca-audiencia-publica-para-debater-impactos-economicos-e-regulacao-das-bets-27102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Poste cai sobre carro após motorista subir em ciclofaixa e bater contra estrutura no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/poste-cai-sobre-carro-apos-motorista-subir-em-ciclofaixa-e-bater-contra-estrutura-no-df-26102026",
+      "tipo": "noticia",
+      "urgente": true
     },
     {
       "title": "Furto de equipamentos do DER deixa 30 câmeras de monitoramento de trânsito fora do ar no DF",
@@ -97,27 +85,39 @@
       "urgente": false
     },
     {
-      "title": "Doces ou travessuras? DF Plaza Shopping prepara programação especial para o Halloween",
-      "url": "https://www.visitebrasilia.com.br/noticias/doces-ou-travessuras-df-plaza-shopping-prepara-programacao-especial-para-o-halloween",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "atualidade",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Rolê Cultural convida professores para uma noite de arte e troca no CCBB",
-      "url": "https://www.visitebrasilia.com.br/noticias/role-cultural-convida-professores-para-uma-noite-de-arte-e-troca-no-ccbb",
-      "tipo": "evento",
+      "title": "DF abre 420 vagas em cursos gratuitos de qualificação para mulheres",
+      "url": "https://www.metropoles.com/distrito-federal/df-abre-420-vagas-em-cursos-gratuitos-de-qualificacao-para-mulheres",
+      "tipo": "vaga",
       "urgente": false
     },
     {
-      "title": "Correida do Idoso acontece neste domingo em Ceilândia, com largada às 7h",
-      "url": "https://www.visitebrasilia.com.br/noticias/corrida-do-idoso-acontece-neste-domingo-em-ceilandia-com-largada-as-7h",
-      "tipo": "evento",
+      "title": "Mega-Sena: bolão do DF ganha R$ 25,2 mil e 4 apostas levam R$ 19 mil",
+      "url": "https://www.metropoles.com/distrito-federal/mega-sena-bolao-do-df-ganha-r-252-mil-e-4-apostas-levam-r-19-mil",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Agências do trabalhador do DF oferecem mais de mil vagas nesta terça-feira",
+      "url": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-do-df-oferecem-mais-de-mil-vagas-nesta-terca-feira",
+      "tipo": "vaga",
+      "urgente": false
+    },
+    {
+      "title": "Área de Vicente Pires fica sem energia nesta terça-feira (27/10)",
+      "url": "https://www.metropoles.com/distrito-federal/area-de-vicente-pires-fica-sem-energia-nesta-terca-feira-27-10",
+      "tipo": "noticia",
+      "urgente": true
+    },
+    {
+      "title": "Brasília vence o Paulistano pelo NBB",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
+      "tipo": "noticia",
       "urgente": false
     }
   ]
