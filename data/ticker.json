@@ -13,12 +13,6 @@
       "urgente": false
     },
     {
-      "title": "Alimenta 2026 será palco de nova edição da Feira Panela Candanga",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-sera-palco-de-nova-edicao-da-feira-panela-candanga",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Terraço Shopping inaugura Natal do Parque Encantado com chegada do Papai Noel em 7 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/terraco-shopping-inaugura-natal-do-parque-encantado-com-chegada-do-papai-noel-em-7-de-novembro",
       "tipo": "evento",
@@ -31,21 +25,15 @@
       "urgente": false
     },
     {
-      "title": "Vencedor do Prêmio Multishow de Humor, Wêlson Nunes faz shows em Brasília neste fim de semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/vencedor-do-premio-multishow-de-humor-welson-nunes-faz-shows-em-brasilia-neste-fim-de-semana",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
       "title": "Circuito de Corridas Parques do Brasil encerra primeira edição em Brasília com esporte e consciência ambiental",
       "url": "https://www.visitebrasilia.com.br/noticias/circuito-de-corridas-parques-do-brasil-encerra-primeira-edicao-em-brasilia-com-esporte-e-consciencia-ambiental",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "68ª Colônia de Férias Mapati abre inscrições para temporada de férias em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/68-colonia-de-ferias-mapati-abre-inscricoes-para-temporada-de-ferias-em-brasilia",
-      "tipo": "servico",
+      "title": "Brasília é o destino mais econômico para o Natal e o Ano Novo, revela KAYAK",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-e-o-destino-mais-economico-para-o-natal-e-o-ano-novo-revela-kayak",
+      "tipo": "dica",
       "urgente": false
     },
     {
@@ -55,9 +43,21 @@
       "urgente": false
     },
     {
-      "title": "Espetáculo Os Mamutes estreia nova temporada em Brasília com sessões gratuitas",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-os-mamutes-estreia-nova-temporada-em-brasilia-com-sessoes-gratuitas",
-      "tipo": "evento",
+      "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
+      "url": "https://noticias.r7.com/saude/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina-27102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Novo Gama: homem é preso após atear fogo em sua casa com a mulher dentro",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/homem-e-preso-apos-atear-fogo-a-propria-casa-com-companheira-dentro-no-novo-gama-go-27102026",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "ANP lança app que permite consultar qualidade dos combustíveis no país",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/anp-lanca-app-que-permite-consultar-qualidade-dos-combustiveis-e-historico-de-postos-em-todo-o-pais-27102026",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
@@ -73,20 +73,26 @@
       "urgente": false
     },
     {
+      "title": "Copa do Mundo Feminina altera calendário escolar do DF, mas mantém férias",
+      "url": "https://www.metropoles.com/distrito-federal/copa-do-mundo-feminina-altera-calendario-escolar-do-df-mas-mantem-ferias",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Arcebispo de Brasília é condecorado com grau mais alto de honraria da PMDF",
+      "url": "https://www.metropoles.com/distrito-federal/arcebispo-de-brasilia-e-condecorado-com-grau-mais-alto-de-honraria-da-pmdf",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
       "title": "Passageiros são retirados às pressas após ônibus pegar fogo na L2 Sul .",
       "url": "https://www.metropoles.com/distrito-federal/onibus-pega-fogo-na-asa-sul-e-passageiros-escapam-sem-ferimentos",
       "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "Idoso é detido acusado de importunação sexual contra meninas em restaurante",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/idoso-e-detido-acusado-de-importunacao-sexual-contra-meninas-em-restaurante",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Ex-PM é preso por atrocidades contra mulher com deficiência em Águas Claras",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/ex-pm-e-preso-por-atrocidades-contra-mulher-com-deficiencia-em-aguas-claras",
+      "title": "Caseiro teria sido explorado por 28 anos no Lago Norte",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caseiro-teria-sido-explorado-por-28-anos-no-lago-norte-15133263.ghtml",
       "tipo": "noticia",
       "urgente": false
     },
@@ -105,12 +111,6 @@
     {
       "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
       "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Atriz pernambucana Gheuza faz apresentações gratuitas do espetáculo nesta quarta (21) na Ceilândia. Quinta e sexta, no Espaço Renato Russo",
-      "url": "https://www.agendaculturalbrasilia.art.br/atriz-pernambucana-gheuza-faz-apresentacoes-gratuitas-do-espetaculo-nesta-quarta-21-na-ceilandia-quinta-e-sexta-no-espaco-renato-russo",
       "tipo": "evento",
       "urgente": false
     },
