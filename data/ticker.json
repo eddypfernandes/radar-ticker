@@ -1,39 +1,51 @@
 {
   "items": [
     {
+      "title": "Tecnologia, Cultura e Impacto Social: TEDxBrasília 2026 traz especialistas para discutir o amanhã",
+      "url": "https://www.visitebrasilia.com.br/noticias/tecnologia-cultura-e-impacto-social-tedxbrasilia-2026-traz-especialistas-para-discutir-o-amanha",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "O Bê a Bá do Berimbau leva tradição afro-indígena e capoeira a escolas públicas do DF; confira o cronograma da turnê",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-be-a-ba-do-berimbau-leva-tradicao-afro-indigena-e-capoeira-a-escolas-publicas-do-df-confira-o-cronograma-da-turne",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Alimenta 2026 será palco de nova edição da Feira Panela Candanga",
+      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-sera-palco-de-nova-edicao-da-feira-panela-candanga",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Terraço Shopping inaugura Natal do Parque Encantado com chegada do Papai Noel em 7 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/terraco-shopping-inaugura-natal-do-parque-encantado-com-chegada-do-papai-noel-em-7-de-novembro",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
       "title": "Biblioteca Demonstrativa recebe espetáculo \"Jazz na Miúda\", da banda Dona Sarah du Jazz",
       "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-recebe-espetaculo-jazz-na-miuda-da-banda-dona-sarah-du-jazz",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Circuito de Corridas Parques do Brasil encerra primeira edição em Brasília com esporte e consciência ambiental",
-      "url": "https://www.visitebrasilia.com.br/noticias/circuito-de-corridas-parques-do-brasil-encerra-primeira-edicao-em-brasilia-com-esporte-e-consciencia-ambiental",
-      "tipo": "noticia",
+      "title": "Vencedor do Prêmio Multishow de Humor, Wêlson Nunes faz shows em Brasília neste fim de semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/vencedor-do-premio-multishow-de-humor-welson-nunes-faz-shows-em-brasilia-neste-fim-de-semana",
+      "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Cozinha-show Itamaraty conduzirá o público do Alimenta 2026 a uma viagem gastronômica pelo mundo",
-      "url": "https://www.visitebrasilia.com.br/noticias/cozinha-show-itamaraty-conduzira-o-publico-do-alimenta-2026-a-uma-viagem-gastronomica-pelo-mundo",
+      "title": "Circuito de Corridas Parques do Brasil encerra primeira edição em Brasília com esporte e consciência ambiental",
+      "url": "https://www.visitebrasilia.com.br/noticias/circuito-de-corridas-parques-do-brasil-encerra-primeira-edicao-em-brasilia-com-esporte-e-consciencia-ambiental",
       "tipo": "evento",
       "urgente": false
     },
     {
       "title": "68ª Colônia de Férias Mapati abre inscrições para temporada de férias em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/68-colonia-de-ferias-mapati-abre-inscricoes-para-temporada-de-ferias-em-brasilia",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Brasília é o destino mais econômico para o Natal e o Ano Novo, revela KAYAK",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-e-o-destino-mais-economico-para-o-natal-e-o-ano-novo-revela-kayak",
-      "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "“Entre Terras e Memórias”: Simone Oliveira apresenta sua primeira exposição individual em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/entre-terras-e-memorias-simone-oliveira-apresenta-sua-primeira-exposicao-individual-em-brasilia",
-      "tipo": "evento",
+      "tipo": "servico",
       "urgente": false
     },
     {
@@ -43,74 +55,38 @@
       "urgente": false
     },
     {
-      "title": "Mostra reúne projetos de estudantes no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/mostra-reune-projetos-de-estudantes-no-df",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Parque da Cidade recebe 1º Festival da Passarinha com Majur, Ellen Oléria e entrada gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/parque-da-cidade-recebe-1-festival-da-passarinha-com-majur-ellen-oleria-e-entrada-gratuita",
+      "title": "Espetáculo Os Mamutes estreia nova temporada em Brasília com sessões gratuitas",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-os-mamutes-estreia-nova-temporada-em-brasilia-com-sessoes-gratuitas",
       "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Entregador é suspeito de furtar R$ 7 mil em roupas",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/entregador-e-suspeito-de-furtar-r-7-mil-em-roupas-durante-entrega-em-samambaia-df-23102026",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Bebê de 1 ano morre duas semanas após ser socorrida com hematomas no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/bebe-de-1-ano-e-3-meses-morre-duas-semanas-apos-ser-socorrida-com-hematomas-no-df-27102026",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Idoso fica paraplégico após atropelamento e enfrenta dificuldades para receber benefício do INSS",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/idoso-fica-paraplegico-apos-atropelamento-e-enfrenta-dificuldades-para-receber-beneficio-do-inss-27102026",
-      "tipo": "noticia",
       "urgente": false
     },
     {
       "title": "DF no Campo: conheça a criação de cavalos no DF",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
       "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "DF no Campo: colheita do morango está a todo vapor",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-colheita-do-morango-esta-a-todo-vapor-14807318.ghtml",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Homem é preso no DF após dar soco no rosto da ex e levar celular dela",
-      "url": "https://www.metropoles.com/distrito-federal/homem-e-preso-no-df-apos-dar-soco-no-rosto-da-ex-e-levar-celular-dela",
+      "title": "Passageiros são retirados às pressas após ônibus pegar fogo na L2 Sul .",
+      "url": "https://www.metropoles.com/distrito-federal/onibus-pega-fogo-na-asa-sul-e-passageiros-escapam-sem-ferimentos",
       "tipo": "noticia",
       "urgente": true
     },
     {
-      "title": "Trânsito é desviado na BR-070 devido a confronto armado com a PMGO",
-      "url": "https://www.metropoles.com/distrito-federal/transito-e-desviado-na-br-070-devido-a-confronto-armado-com-a-pmgo",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Sob alerta de tempestade, chuva atinge área central de Brasília nesta terça .",
-      "url": "https://www.metropoles.com/distrito-federal/sob-alerta-de-tempestade-chuva-atinge-area-central-de-brasilia-nesta-terca",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Projeto dá bolsas de estudos integrais para alunos da rede pública do DF",
-      "url": "https://www.metropoles.com/distrito-federal/projeto-da-bolsas-de-estudos-integrais-para-alunos-da-rede-publica-do-df",
+      "title": "Idoso é detido acusado de importunação sexual contra meninas em restaurante",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/idoso-e-detido-acusado-de-importunacao-sexual-contra-meninas-em-restaurante",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Caseiro teria sido explorado por 28 anos no Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caseiro-teria-sido-explorado-por-28-anos-no-lago-norte-15133263.ghtml",
+      "title": "Ex-PM é preso por atrocidades contra mulher com deficiência em Águas Claras",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/ex-pm-e-preso-por-atrocidades-contra-mulher-com-deficiencia-em-aguas-claras",
       "tipo": "noticia",
       "urgente": false
     },
@@ -118,6 +94,30 @@
       "title": "Brasília vence o Paulistano pelo NBB",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
       "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
+      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Atriz pernambucana Gheuza faz apresentações gratuitas do espetáculo nesta quarta (21) na Ceilândia. Quinta e sexta, no Espaço Renato Russo",
+      "url": "https://www.agendaculturalbrasilia.art.br/atriz-pernambucana-gheuza-faz-apresentacoes-gratuitas-do-espetaculo-nesta-quarta-21-na-ceilandia-quinta-e-sexta-no-espaco-renato-russo",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Musical infantil Roça Cri-criativa chega à Planaltina com duas sessões gratuitas para a garotada",
+      "url": "https://www.agendaculturalbrasilia.art.br/musical-infantil-roca-cri-criativa-chega-a-planaltina-com-duas-sessoes-gratuitas-para-a-garotada",
+      "tipo": "evento",
       "urgente": false
     }
   ]
