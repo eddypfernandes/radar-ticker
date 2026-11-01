@@ -7,6 +7,11 @@ const regras = JSON.parse(fs.readFileSync("regras.json", "utf8"));
 
 const fontes = config.fontes.filter(fonte => fonte.ativo === true);
 const candidatos = [];
+const janelaHoras = 24;
+const limiteCandidatosData = 120;
+const concorrenciaDatas = 6;
+let fontesConsultadas = 0;
+let fontesComSucesso = 0;
 
 const termosLocais = [
     "núcleo bandeirante", "nucleo bandeirante", "guará", "guara",
@@ -28,20 +33,40 @@ const termosIgnorados = [
     "twitter.com", "linkedin.com", "whatsapp.com"
 ];
 
-function baixar(url) {
+function baixar(url, redirecionamentos = 0) {
     return new Promise((resolve, reject) => {
-        const cliente = url.startsWith("https://") ? https : http;
-        const requisicao = cliente.get(url, {
+        if (redirecionamentos > 5) {
+            reject(new Error("Limite de redirecionamentos excedido"));
+            return;
+        }
+
+        let destino;
+        try {
+            destino = new URL(url);
+        } catch {
+            reject(new Error("URL inválida"));
+            return;
+        }
+
+        const cliente = destino.protocol === "https:" ? https : http;
+        const requisicao = cliente.get(destino, {
             headers: {
-                "User-Agent": "Mozilla/5.0 RADAR-AGORA/2.0",
+                "User-Agent": "Mozilla/5.0 RADAR-AGORA/3.0",
                 "Accept": "text/html,application/xhtml+xml"
             }
         }, resposta => {
+            if ([301, 302, 303, 307, 308].includes(resposta.statusCode) && resposta.headers.location) {
+                resposta.resume();
+                baixar(new URL(resposta.headers.location, destino).href, redirecionamentos + 1)
+                    .then(resolve).catch(reject);
+                return;
+            }
+
             let dados = "";
             resposta.setEncoding("utf8");
             resposta.on("data", parte => { dados += parte; });
             resposta.on("end", () => {
-                if (resposta.statusCode >= 200 && resposta.statusCode < 400) {
+                if (resposta.statusCode >= 200 && resposta.statusCode < 300) {
                     resolve(dados);
                 } else {
                     reject(new Error("HTTP " + resposta.statusCode));
@@ -57,7 +82,7 @@ function baixar(url) {
 }
 
 function limparTexto(texto) {
-    return texto
+    return String(texto || "")
         .replace(/<script[\s\S]*?<\/script>/gi, " ")
         .replace(/<style[\s\S]*?<\/style>/gi, " ")
         .replace(/<[^>]*>/g, " ")
@@ -71,6 +96,15 @@ function limparTexto(texto) {
         .replace(/&#x([0-9a-f]+);/gi, (_, codigo) => String.fromCharCode(parseInt(codigo, 16)))
         .replace(/\s+/g, " ")
         .trim();
+}
+
+function decodificarHTML(texto) {
+    return String(texto || "")
+        .replace(/&quot;/gi, '"')
+        .replace(/&#39;|&apos;/gi, "'")
+        .replace(/&amp;/gi, "&")
+        .replace(/&lt;/gi, "<")
+        .replace(/&gt;/gi, ">");
 }
 
 function urlAbsoluta(url, origem) {
@@ -109,7 +143,7 @@ function extrairHTML(html, fonte) {
     const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)];
 
     for (const item of links) {
-        const url = urlAbsoluta(item[1], fonte.url);
+        const url = urlAbsoluta(decodificarHTML(item[1]), fonte.url);
         const titulo = limparTexto(item[2]);
 
         if (!parecePublicacao(url, titulo, fonte)) continue;
@@ -128,14 +162,20 @@ async function coletarFontes() {
 
     for (const fonte of fontes) {
         console.log("Fonte: " + fonte.nome);
+        fontesConsultadas++;
         try {
             const html = await baixar(fonte.url);
             const antes = candidatos.length;
             extrairHTML(html, fonte);
+            fontesComSucesso++;
             console.log("OK — " + (candidatos.length - antes) + " candidatos");
         } catch (erro) {
             console.log("ERRO: " + erro.message);
         }
+    }
+
+    if (fontesComSucesso === 0) {
+        throw new Error("Todas as fontes falharam. O ticker anterior foi preservado.");
     }
 }
 
@@ -146,6 +186,109 @@ function removerDuplicados(itens) {
         if (!mapa.has(chave)) mapa.set(chave, item);
     }
     return [...mapa.values()];
+}
+
+function extrairDatasJSON(valor, datas) {
+    if (!valor || typeof valor !== "object") return;
+
+    if (Array.isArray(valor)) {
+        valor.forEach(item => extrairDatasJSON(item, datas));
+        return;
+    }
+
+    if (valor.datePublished) datas.push(valor.datePublished);
+    if (valor["@graph"]) extrairDatasJSON(valor["@graph"], datas);
+    if (valor.mainEntity) extrairDatasJSON(valor.mainEntity, datas);
+    if (valor.itemListElement) extrairDatasJSON(valor.itemListElement, datas);
+}
+
+function dataPublicacao(html) {
+    const datas = [];
+    let resultado;
+
+    const scripts = html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi);
+    for (const script of scripts) {
+        try {
+            const json = JSON.parse(script[1].trim());
+            extrairDatasJSON(json, datas);
+        } catch {
+            // JSON-LD malformado é ignorado; outras fontes de data ainda serão verificadas.
+        }
+    }
+
+    const padroesMeta = [
+        /<meta\b[^>]*(?:property|name)=["']article:published_time["'][^>]*content=["']([^"']+)["'][^>]*>/gi,
+        /<meta\b[^>]*content=["']([^"']+)["'][^>]*(?:property|name)=["']article:published_time["'][^>]*>/gi,
+        /<meta\b[^>]*(?:name|property)=["'](?:datePublished|datepublished|pubdate|publishdate|publication_date)["'][^>]*content=["']([^"']+)["'][^>]*>/gi,
+        /<meta\b[^>]*content=["']([^"']+)["'][^>]*(?:name|property)=["'](?:datePublished|datepublished|pubdate|publishdate|publication_date)["'][^>]*>/gi
+    ];
+
+    for (const padrao of padroesMeta) {
+        for (const item of html.matchAll(padrao)) datas.push(decodificarHTML(item[1]));
+    }
+
+    const timeTags = html.matchAll(/<time\b[^>]*datetime=["']([^"']+)["'][^>]*>/gi);
+    for (const item of timeTags) datas.push(decodificarHTML(item[1]));
+
+    for (const valor of datas) {
+        const timestamp = Date.parse(valor);
+        if (Number.isFinite(timestamp)) {
+            resultado = timestamp;
+            break;
+        }
+    }
+
+    return resultado || null;
+}
+
+async function verificarData(item) {
+    try {
+        const html = await baixar(item.url);
+        const timestamp = dataPublicacao(html);
+
+        if (!timestamp) {
+            console.log("SEM DATA VERIFICÁVEL — " + item.url);
+            return null;
+        }
+
+        const agora = Date.now();
+        const idade = agora - timestamp;
+        const toleranciaFutura = 5 * 60 * 1000;
+
+        if (timestamp > agora + toleranciaFutura) {
+            console.log("DATA FUTURA INVÁLIDA — " + item.url);
+            return null;
+        }
+
+        if (idade > janelaHoras * 60 * 60 * 1000) {
+            console.log("EXPIRADA (>24h) — " + item.url);
+            return null;
+        }
+
+        return {
+            ...item,
+            publishedAt: new Date(timestamp).toISOString()
+        };
+    } catch (erro) {
+        console.log("ERRO AO VERIFICAR DATA — " + item.url + " — " + erro.message);
+        return null;
+    }
+}
+
+async function verificarDatas(itens) {
+    const fila = itens.slice(0, limiteCandidatosData);
+    const validos = [];
+
+    console.log("Verificando data real de até " + fila.length + " publicações...");
+
+    for (let inicio = 0; inicio < fila.length; inicio += concorrenciaDatas) {
+        const lote = fila.slice(inicio, inicio + concorrenciaDatas);
+        const resultados = await Promise.all(lote.map(verificarData));
+        validos.push(...resultados.filter(Boolean));
+    }
+
+    console.log("Publicações dentro das últimas 24h: " + validos.length);
+    return validos;
 }
 
 function normalizar(texto) {
@@ -210,32 +353,26 @@ function selecionar(itens) {
 
     for (const item of avaliados) {
         if (selecionados.length >= config.quantidade) break;
-
-        if (selecionados.some(selecionado =>
-            similaridade(selecionado.title, item.title) >= 0.78
-        )) continue;
+        if (selecionados.some(selecionado => similaridade(selecionado.title, item.title) >= 0.78)) continue;
 
         const fonte = item.source;
         const tipo = item.tipo;
         const repeticaoFonte = fontesUsadas.get(fonte) || 0;
         const repeticaoTipo = tiposUsados.get(tipo) || 0;
-
-        // Evita concentração excessiva sem descartar conteúdo relevante.
         if (repeticaoFonte >= 5 || repeticaoTipo >= 7) continue;
 
         selecionados.push({
             title: item.title,
             url: item.url,
             tipo: item.tipo,
-            urgente: false
+            urgente: false,
+            publishedAt: item.publishedAt
         });
 
         fontesUsadas.set(fonte, repeticaoFonte + 1);
         tiposUsados.set(tipo, repeticaoTipo + 1);
     }
 
-    // Se os limites de diversidade restringirem demais a seleção,
-    // completa com os próximos itens válidos ainda não repetidos.
     if (selecionados.length < config.quantidade) {
         for (const item of avaliados) {
             if (selecionados.length >= config.quantidade) break;
@@ -246,7 +383,8 @@ function selecionar(itens) {
                 title: item.title,
                 url: item.url,
                 tipo: item.tipo,
-                urgente: false
+                urgente: false,
+                publishedAt: item.publishedAt
             });
         }
     }
@@ -258,30 +396,32 @@ async function executar() {
     console.log("");
     console.log("=================================");
     console.log("       RADAR AGORA");
-    console.log("       MODO AUTÔNOMO");
+    console.log("       MODO AUTÔNOMO — 24H");
     console.log("=================================");
 
     await coletarFontes();
 
-    const itens = removerDuplicados(candidatos).slice(0, 300);
-    console.log("Candidatos únicos: " + itens.length);
+    const unicos = removerDuplicados(candidatos).slice(0, 300);
+    console.log("Candidatos únicos: " + unicos.length);
 
-    if (!itens.length) {
-        throw new Error("Nenhum candidato foi encontrado nas fontes.");
-    }
+    const recentes = await verificarDatas(unicos);
+    const finais = selecionar(recentes);
 
-    const finais = selecionar(itens);
+    // A coleta foi concluída: publicar somente o retrato atual, mesmo que vazio.
+    // Se todas as fontes falharem, a execução é interrompida antes e o arquivo anterior é preservado.
+    fs.writeFileSync("data/ticker.json", JSON.stringify({
+        updatedAt: new Date().toISOString(),
+        validityHours: janelaHoras,
+        items: finais
+    }, null, 2) + "\n", "utf8");
 
-    if (!finais.length) {
-        throw new Error("Nenhum conteúdo passou pelos critérios automáticos. O ticker anterior foi preservado.");
-    }
-
-    fs.writeFileSync("data/ticker.json", JSON.stringify({ items: finais }, null, 2) + "\n", "utf8");
-
+    console.log("Ticker reconstruído integralmente.");
     console.log("Itens publicados: " + finais.length);
+
     finais.forEach((item, indice) => {
         console.log((indice + 1) + ". " + item.title);
         console.log("   " + item.url);
+        console.log("   Publicada em: " + item.publishedAt);
         console.log("   Tipo: " + item.tipo);
     });
 }
