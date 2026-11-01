@@ -101,7 +101,7 @@ function parecePublicacao(url, titulo, fonte) {
         return false;
     }
 
-    if (regras.links.permitir_homepage === false && /\/?$/.test(new URL(url).pathname)) return false;
+    if (regras.links.permitir_homepage === false && new URL(url).pathname.replace(/\/$/, "") === "") return false;
     return true;
 }
 
@@ -282,7 +282,7 @@ async function executar() {
     finais.forEach((item, indice) => {
         console.log((indice + 1) + ". " + item.title);
         console.log("   " + item.url);
-        console.log("   Fonte: " + item.tipo);
+        console.log("   Tipo: " + item.tipo);
     });
 }
 
