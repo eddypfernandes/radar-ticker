@@ -14,15 +14,11 @@ jobs:
   radar:
     runs-on: ubuntu-latest
 
-    env:
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
     steps:
-
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Executar RADAR
+      - name: Executar RADAR autônomo
         run: node scripts/radar.js
 
       - name: Publicar ticker
