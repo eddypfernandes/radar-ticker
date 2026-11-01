@@ -1,69 +1,93 @@
 {
   "items": [
     {
-      "title": "Tecnologia, Cultura e Impacto Social: TEDxBrasília 2026 traz especialistas para discutir o amanhã",
-      "url": "https://www.visitebrasilia.com.br/noticias/tecnologia-cultura-e-impacto-social-tedxbrasilia-2026-traz-especialistas-para-discutir-o-amanha",
+      "title": "Começou o Festival Bar em Bar 2026 no DF: 20ª edição traz circuito gastronômico e prêmio para garçons",
+      "url": "https://www.visitebrasilia.com.br/noticias/comecou-o-festival-bar-em-bar-2026-no-df-20-edicao-traz-circuito-gastronomico-e-premio-para-garcons",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "O Bê a Bá do Berimbau leva tradição afro-indígena e capoeira a escolas públicas do DF; confira o cronograma da turnê",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-be-a-ba-do-berimbau-leva-tradicao-afro-indigena-e-capoeira-a-escolas-publicas-do-df-confira-o-cronograma-da-turne",
+      "title": "Maior evento de gastronomia do DF, Alimenta 2026 acontece no Parque da Cidade na próxima semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/maior-evento-de-gastronomia-do-df-alimenta-2026-acontece-no-parque-da-cidade-na-proxima-semana",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Iza, Criolo e Di Paullo & Paulino: veja a programação para o fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/iza-criolo-e-di-paullo-paulino-veja-a-programacao-para-o-fim-de-semana-no-df-30102026/",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
+      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara/",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Festival do Guará abre inscrições para selecionar 100 escritores e 15 artistas plásticos",
+      "url": "https://www.agendaculturalbrasilia.art.br/festival-do-guara-abre-inscricoes-para-selecionar-100-escritores-e-15-artistas-plasticos/",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Vanessa da Mata e Xande de Pilares comemoram aniversário do Sinpro-DF com show gratuito",
+      "url": "https://www.agendaculturalbrasilia.art.br/47-anos-do-sinpro-df-vanessa-da-mata-e-xande-de-pilares-comemoram-aniversario-da-entidade-com-show-gratuito-no-parque-da-cidade/",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Do CAPS aos Palcos: projeto “Arte em Engenho” celebra Nise da Silveira com espetáculo e exposição no DF",
+      "url": "https://www.agendaculturalbrasilia.art.br/do-caps-aos-palcos-projeto-arte-em-engenho-celebra-nise-da-silveira-com-espetaculo-e-exposicao-no-df/",
+      "tipo": "evento",
+      "urgente": false
+    },
+    {
+      "title": "Conecta Recanto oferece imersão tecnológica gratuita com oficinas, palestras e arena gamer no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/conecta-recanto-oferece-imersao-tecnologica-gratuita-com-oficinas-palestras-e-arena-gamer-no-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Terraço Shopping inaugura Natal do Parque Encantado com chegada do Papai Noel em 7 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/terraco-shopping-inaugura-natal-do-parque-encantado-com-chegada-do-papai-noel-em-7-de-novembro",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Biblioteca Demonstrativa recebe espetáculo \"Jazz na Miúda\", da banda Dona Sarah du Jazz",
-      "url": "https://www.visitebrasilia.com.br/noticias/biblioteca-demonstrativa-recebe-espetaculo-jazz-na-miuda-da-banda-dona-sarah-du-jazz",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Circuito de Corridas Parques do Brasil encerra primeira edição em Brasília com esporte e consciência ambiental",
-      "url": "https://www.visitebrasilia.com.br/noticias/circuito-de-corridas-parques-do-brasil-encerra-primeira-edicao-em-brasilia-com-esporte-e-consciencia-ambiental",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Brasília é o destino mais econômico para o Natal e o Ano Novo, revela KAYAK",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-e-o-destino-mais-economico-para-o-natal-e-o-ano-novo-revela-kayak",
-      "tipo": "dica",
-      "urgente": false
-    },
-    {
-      "title": "Mané Mercado celebra Halloween com programação especial nas unidades de Brasília e Águas Claras",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-celebra-halloween-com-programacao-especial-nas-unidades-de-brasilia-e-aguas-claras",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
-      "url": "https://noticias.r7.com/saude/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina-27102026",
+      "title": "Seicho-No-Ie realiza Cerimônias Especiais de Finados em quatro localidades do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/seicho-no-ie-realiza-cerimonias-especiais-de-finados-em-quatro-localidades-do-distrito-federal",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "Novo Gama: homem é preso após atear fogo em sua casa com a mulher dentro",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/homem-e-preso-apos-atear-fogo-a-propria-casa-com-companheira-dentro-no-novo-gama-go-27102026",
+      "title": "Sindhobar e Senac-DF unem forças para impulsionar empregos e qualificação na gastronomia e hotelaria do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/sindhobar-e-senac-df-promovem-encontro-focado-em-empregabilidade-e-qualificacao-profissional-para-o-setor-de-gastronomia-e-hotelaria-do-df",
       "tipo": "noticia",
       "urgente": false
     },
     {
-      "title": "ANP lança app que permite consultar qualidade dos combustíveis no país",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/anp-lanca-app-que-permite-consultar-qualidade-dos-combustiveis-e-historico-de-postos-em-todo-o-pais-27102026",
+      "title": "Polícia Federal indicia 15 ex-dirigentes e investiga outros 10 no caso BRB",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/policia-federal-indicia-15-ex-dirigentes-e-investiga-outros-10-no-caso-brb-30102026/",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Veículos apreendidos pelo DER: veja prazo para recuperá-los",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/donos-de-veiculos-apreendidos-pelo-der-tem-10-dias-apos-edital-para-recupera-los-30102026/",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Tentativa de roubo: adolescente que levou facada tem alta",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/adolescente-esfaqueado-em-tentativa-de-roubo-tem-alta-hospitalar-30102026/",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "Jovem é morto a facadas no Itapoã após discussão",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/jovem-de-19-anos-e-morto-a-facadas-no-itapoa-df-apos-discussao-30102026/",
+      "tipo": "noticia",
+      "urgente": false
+    },
+    {
+      "title": "2º Fest Rock Brasília traz o melhor da música autoral do DF e Entorno no fim de semana",
+      "url": "https://www.agendaculturalbrasilia.art.br/2o-fest-rock-brasilia-traz-o-melhor-da-musica-autoral-do-df-e-entorno-no-fim-de-semana/",
       "tipo": "atualidade",
-      "urgente": false
-    },
-    {
-      "title": "DF no Campo: conheça a criação de cavalos no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-cavalos-no-df-14992673.ghtml",
-      "tipo": "noticia",
       "urgente": false
     },
     {
@@ -73,50 +97,26 @@
       "urgente": false
     },
     {
-      "title": "Copa do Mundo Feminina altera calendário escolar do DF, mas mantém férias",
-      "url": "https://www.metropoles.com/distrito-federal/copa-do-mundo-feminina-altera-calendario-escolar-do-df-mas-mantem-ferias",
-      "tipo": "noticia",
+      "title": "DF no Campo: aprenda a receita de vinagrete com pimenta",
+      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-receita-de-vinagrete-com-pimenta-14765815.ghtml",
+      "tipo": "dica",
       "urgente": false
     },
     {
-      "title": "Arcebispo de Brasília é condecorado com grau mais alto de honraria da PMDF",
-      "url": "https://www.metropoles.com/distrito-federal/arcebispo-de-brasilia-e-condecorado-com-grau-mais-alto-de-honraria-da-pmdf",
-      "tipo": "noticia",
+      "title": "PT convoca ato no DF para comemorar vitória de Lula neste domingo (1º/11)",
+      "url": "https://www.metropoles.com/distrito-federal/pt-convoca-ato-no-df-para-comemorar-vitoria-de-lula-neste-domingo-1o-11",
+      "tipo": "atualidade",
       "urgente": false
     },
     {
-      "title": "Passageiros são retirados às pressas após ônibus pegar fogo na L2 Sul .",
-      "url": "https://www.metropoles.com/distrito-federal/onibus-pega-fogo-na-asa-sul-e-passageiros-escapam-sem-ferimentos",
-      "tipo": "noticia",
-      "urgente": true
-    },
-    {
-      "title": "Caseiro teria sido explorado por 28 anos no Lago Norte",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/caseiro-teria-sido-explorado-por-28-anos-no-lago-norte-15133263.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Brasília vence o Paulistano pelo NBB",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-vence-o-paulistano-pelo-nbb-15129756.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Passageiros relatam longa espera, falhas e ônibus lotados",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/passageiros-relatam-longa-espera-falhas-e-onibus-lotados-15114984.ghtml",
-      "tipo": "noticia",
-      "urgente": false
-    },
-    {
-      "title": "Buraco do Jazz encerra temporada de 10 anos com três dias de shows",
-      "url": "https://www.agendaculturalbrasilia.art.br/buraco-do-jazz-encerra-temporada-de-10-anos-com-tres-dias-de-shows",
+      "title": "Projeto “Dona Gi e sua Negritude” leva fusão de rap e rock a escolas públicas de Samambaia, em palestra-show sobre resistência negra",
+      "url": "https://www.agendaculturalbrasilia.art.br/projeto-dona-gi-e-sua-negritude-leva-fusao-de-rap-e-rock-a-escolas-publicas-de-samambaia-em-palestra-show-sobre-resistencia-negra/",
       "tipo": "evento",
       "urgente": false
     },
     {
-      "title": "Musical infantil Roça Cri-criativa chega à Planaltina com duas sessões gratuitas para a garotada",
-      "url": "https://www.agendaculturalbrasilia.art.br/musical-infantil-roca-cri-criativa-chega-a-planaltina-com-duas-sessoes-gratuitas-para-a-garotada",
+      "title": "Roça Cri-criativa realiza espetáculo gratuito para a primeira infância no DF, neste Dia das Crianças",
+      "url": "https://www.agendaculturalbrasilia.art.br/roca-cri-criativa-realiza-espetaculo-gratuito-para-a-primeira-infancia-no-df-neste-dia-das-criancas/",
       "tipo": "evento",
       "urgente": false
     }
