@@ -1,27 +1,34 @@
 {
-  "updatedAt": "2026-11-01T13:10:06.664Z",
+  "updatedAt": "2026-11-01T17:53:16.932Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Conecta Recanto oferece imersão tecnológica gratuita com oficinas, palestras e arena gamer no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/conecta-recanto-oferece-imersao-tecnologica-gratuita-com-oficinas-palestras-e-arena-gamer-no-df",
-      "tipo": "noticia",
+      "title": "Senhora P chega ao Plano Piloto na programação da Ocupação Cena",
+      "url": "https://www.visitebrasilia.com.br/noticias/senhora-p-chega-ao-plano-piloto-na-programacao-da-ocupacao-cena",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-10-31T16:39:44.000Z"
+      "publishedAt": "2026-11-01T15:51:15.000Z"
     },
     {
-      "title": "Seicho-No-Ie realiza Cerimônias Especiais de Finados em quatro localidades do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/seicho-no-ie-realiza-cerimonias-especiais-de-finados-em-quatro-localidades-do-distrito-federal",
+      "title": "Differentia retorna aos palcos do DF com as aventuras da 'Turma D'",
+      "url": "https://www.visitebrasilia.com.br/noticias/differentia-retorna-aos-palcos-do-df-com-as-aventuras-da-turma-d",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-10-31T13:21:36.000Z"
+      "publishedAt": "2026-11-01T15:30:22.000Z"
     },
     {
-      "title": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
-      "url": "https://noticias.r7.com/brasilia/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional-31102026/",
+      "title": "Projeto CriAtiva oferece cursos gratuitos de comunicação e marketing digital em Samambaia",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-oferece-cursos-gratuitos-de-comunicacao-e-marketing-digital-em-samambaia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-10-31T21:24:10.687Z"
+      "publishedAt": "2026-11-01T15:22:44.000Z"
+    },
+    {
+      "title": "Atletismo do DF ganha destaque: CASO conquista pódios na marcha atlética e nas pistas Você gosta dessa personalidade?",
+      "url": "https://www.visitebrasilia.com.br/noticias/atletismo-do-df-ganha-destaque-caso-conquista-podios-na-marcha-atletica-e-nas-pistas-voce-gosta-dessa-personalidade",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T11:04:27.000Z"
     },
     {
       "title": "Da alta perfumaria aos itens de beleza para o sport care, O Boticário reúne novidades para o mês de outubro",
@@ -31,25 +38,32 @@
       "publishedAt": "2026-10-31T19:05:32.000Z"
     },
     {
-      "title": "Corde Vita apresenta releituras de clássicos do pop e do rock em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/corde-vita-apresenta-releituras-de-classicos-do-pop-e-do-rock-em-brasilia",
+      "title": "Ministério da Educação vai encaminhar à PF denúncias de violência política",
+      "url": "https://noticias.r7.com/brasilia/ministerio-da-educacao-vai-encaminhar-a-pf-denuncias-de-violencia-politica-01112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-10-31T16:12:42.000Z"
+      "publishedAt": "2026-11-01T16:44:36.934Z"
     },
     {
-      "title": "Cia de Cantores Líricos de Brasília entra em circulação nacional com ópera \"Carmen\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/cia-de-cantores-liricos-de-brasilia-entra-em-circulacao-nacional-com-opera-carmen",
+      "title": "Governo recebe uma denúncia de assédio eleitoral por minuto após segundo turno",
+      "url": "https://noticias.r7.com/brasilia/governo-recebe-uma-denuncia-de-assedio-eleitoral-por-minuto-apos-segundo-turno-01112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-10-31T15:23:59.000Z"
+      "publishedAt": "2026-11-01T16:32:37.067Z"
+    },
+    {
+      "title": "Brasília, Minas, Bahia e mais sete estados têm alerta para temporais e ventania neste domingo",
+      "url": "https://noticias.r7.com/cidades/brasilia-minas-bahia-e-mais-sete-estados-tem-alerta-para-temporais-e-ventania-neste-domingo-01112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-01T14:35:25.527Z"
     },
     {
       "title": "Justiça derruba sigilo médico e libera documentos sobre morte de Tancredo Neves; entenda",
       "url": "https://noticias.r7.com/brasilia/justica-derruba-sigilo-medico-e-libera-documentos-sobre-morte-de-tancredo-neves-entenda-01112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-01T13:08:22.706Z"
+      "publishedAt": "2026-11-01T14:14:42.396Z"
     },
     {
       "title": "Da derrota para Lula à carta de ‘presidente eleito’: relembre a semana de Flávio Bolsonaro",
@@ -66,20 +80,6 @@
       "publishedAt": "2026-11-01T05:00:00.000Z"
     },
     {
-      "title": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
-      "url": "https://noticias.r7.com/brasilia/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias-31102026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-10-31T21:57:25.592Z"
-    },
-    {
-      "title": "Fachin vê crise na Polônia como alerta global e defende vigilância internacional",
-      "url": "https://noticias.r7.com/brasilia/fachin-ve-crise-na-polonia-como-alerta-global-e-defende-vigilancia-internacional-31102026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-10-31T20:56:02.156Z"
-    },
-    {
       "title": "Balanço Geral DF / 31/10/2026",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/casal-realiza-sonho-do-casamento-apos-cerimonia-ser-transferida-para-hospital-no-df-31102026/",
       "tipo": "noticia",
@@ -87,11 +87,32 @@
       "publishedAt": "2026-10-31T18:32:37.000Z"
     },
     {
-      "title": "Auto Record Brasília / HÁ 7 MINUTOS",
+      "title": "Auto Record Brasília / HÁ 4 HORAS",
       "url": "https://noticias.r7.com/brasilia/auto-record/video/marcas-chinesas-anunciam-novidades-e-novos-modelos-para-o-mercado-automotivo-brasileiro-31102026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-01T13:00:58.000Z"
+    },
+    {
+      "title": "Com fim da 6x1 e proximidade do Natal, comércio acelera mudança em escalas",
+      "url": "https://www.metropoles.com/distrito-federal/fim-da-6x1-e-proximidade-com-natal-faz-comercio-acelerar-mudanca-em-escalas",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T05:38:00.000Z"
+    },
+    {
+      "title": "Regras para recebimento de vales-alimentação e refeição mudam a partir de sábado",
+      "url": "https://noticias.r7.com/economia/regras-para-recebimento-de-vales-alimentacao-e-refeicao-mudam-a-partir-de-sabado-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T17:32:09.338Z"
+    },
+    {
+      "title": "Lula ganhou em cinco dos principais municípios de Parques Nacionais; Flávio em dois",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/lula-ganhou-em-cinco-dos-principais-municipios-de-parques-nacionais-flavio-em-dois-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T12:01:02.330Z"
     },
     {
       "title": "INSS paga nova rodada do 13º salário em novembro a aposentados e pensionistas",
@@ -99,13 +120,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-01T11:34:05.949Z"
-    },
-    {
-      "title": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-      "url": "https://noticias.r7.com/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas-31102026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-10-31T20:51:57.281Z"
     },
     {
       "title": "Lula avalia reformular toda a Esplanada após eleições e terá de negociar espaço com Centrão",
