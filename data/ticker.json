@@ -1,124 +1,118 @@
 {
+  "updatedAt": "2026-11-01T13:10:06.664Z",
+  "validityHours": 24,
   "items": [
-    {
-      "title": "Começou o Festival Bar em Bar 2026 no DF: 20ª edição traz circuito gastronômico e prêmio para garçons",
-      "url": "https://www.visitebrasilia.com.br/noticias/comecou-o-festival-bar-em-bar-2026-no-df-20-edicao-traz-circuito-gastronomico-e-premio-para-garcons",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Maior evento de gastronomia do DF, Alimenta 2026 acontece no Parque da Cidade na próxima semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/maior-evento-de-gastronomia-do-df-alimenta-2026-acontece-no-parque-da-cidade-na-proxima-semana",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Iza, Criolo e Di Paullo & Paulino: veja a programação para o fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/iza-criolo-e-di-paullo-paulino-veja-a-programacao-para-o-fim-de-semana-no-df-30102026/",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "1º Festival Transforme-se reúne 50 mulheres empreendedoras e atrações culturais em dois dias de programação gratuita no Guará",
-      "url": "https://www.agendaculturalbrasilia.art.br/1o-festival-transforme-se-reune-50-mulheres-empreendedoras-e-atracoes-culturais-em-dois-dias-de-programacao-gratuita-no-guara/",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Festival do Guará abre inscrições para selecionar 100 escritores e 15 artistas plásticos",
-      "url": "https://www.agendaculturalbrasilia.art.br/festival-do-guara-abre-inscricoes-para-selecionar-100-escritores-e-15-artistas-plasticos/",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Vanessa da Mata e Xande de Pilares comemoram aniversário do Sinpro-DF com show gratuito",
-      "url": "https://www.agendaculturalbrasilia.art.br/47-anos-do-sinpro-df-vanessa-da-mata-e-xande-de-pilares-comemoram-aniversario-da-entidade-com-show-gratuito-no-parque-da-cidade/",
-      "tipo": "evento",
-      "urgente": false
-    },
-    {
-      "title": "Do CAPS aos Palcos: projeto “Arte em Engenho” celebra Nise da Silveira com espetáculo e exposição no DF",
-      "url": "https://www.agendaculturalbrasilia.art.br/do-caps-aos-palcos-projeto-arte-em-engenho-celebra-nise-da-silveira-com-espetaculo-e-exposicao-no-df/",
-      "tipo": "evento",
-      "urgente": false
-    },
     {
       "title": "Conecta Recanto oferece imersão tecnológica gratuita com oficinas, palestras e arena gamer no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/conecta-recanto-oferece-imersao-tecnologica-gratuita-com-oficinas-palestras-e-arena-gamer-no-df",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T16:39:44.000Z"
     },
     {
       "title": "Seicho-No-Ie realiza Cerimônias Especiais de Finados em quatro localidades do Distrito Federal",
       "url": "https://www.visitebrasilia.com.br/noticias/seicho-no-ie-realiza-cerimonias-especiais-de-finados-em-quatro-localidades-do-distrito-federal",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T13:21:36.000Z"
     },
     {
-      "title": "Sindhobar e Senac-DF unem forças para impulsionar empregos e qualificação na gastronomia e hotelaria do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/sindhobar-e-senac-df-promovem-encontro-focado-em-empregabilidade-e-qualificacao-profissional-para-o-setor-de-gastronomia-e-hotelaria-do-df",
+      "title": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
+      "url": "https://noticias.r7.com/brasilia/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional-31102026/",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T21:24:10.687Z"
     },
     {
-      "title": "Polícia Federal indicia 15 ex-dirigentes e investiga outros 10 no caso BRB",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/policia-federal-indicia-15-ex-dirigentes-e-investiga-outros-10-no-caso-brb-30102026/",
+      "title": "Da alta perfumaria aos itens de beleza para o sport care, O Boticário reúne novidades para o mês de outubro",
+      "url": "https://www.visitebrasilia.com.br/noticias/da-alta-perfumaria-aos-itens-de-beleza-para-o-sport-care-o-boticario-reune-novidades-para-o-mes-de-outubro",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T19:05:32.000Z"
     },
     {
-      "title": "Veículos apreendidos pelo DER: veja prazo para recuperá-los",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/donos-de-veiculos-apreendidos-pelo-der-tem-10-dias-apos-edital-para-recupera-los-30102026/",
+      "title": "Corde Vita apresenta releituras de clássicos do pop e do rock em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/corde-vita-apresenta-releituras-de-classicos-do-pop-e-do-rock-em-brasilia",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T16:12:42.000Z"
     },
     {
-      "title": "Tentativa de roubo: adolescente que levou facada tem alta",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/adolescente-esfaqueado-em-tentativa-de-roubo-tem-alta-hospitalar-30102026/",
+      "title": "Cia de Cantores Líricos de Brasília entra em circulação nacional com ópera \"Carmen\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/cia-de-cantores-liricos-de-brasilia-entra-em-circulacao-nacional-com-opera-carmen",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-10-31T15:23:59.000Z"
     },
     {
-      "title": "Jovem é morto a facadas no Itapoã após discussão",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/jovem-de-19-anos-e-morto-a-facadas-no-itapoa-df-apos-discussao-30102026/",
+      "title": "Justiça derruba sigilo médico e libera documentos sobre morte de Tancredo Neves; entenda",
+      "url": "https://noticias.r7.com/brasilia/justica-derruba-sigilo-medico-e-libera-documentos-sobre-morte-de-tancredo-neves-entenda-01112026/",
       "tipo": "noticia",
-      "urgente": false
+      "urgente": false,
+      "publishedAt": "2026-11-01T13:08:22.706Z"
     },
     {
-      "title": "2º Fest Rock Brasília traz o melhor da música autoral do DF e Entorno no fim de semana",
-      "url": "https://www.agendaculturalbrasilia.art.br/2o-fest-rock-brasilia-traz-o-melhor-da-musica-autoral-do-df-e-entorno-no-fim-de-semana/",
-      "tipo": "atualidade",
-      "urgente": false
+      "title": "Da derrota para Lula à carta de ‘presidente eleito’: relembre a semana de Flávio Bolsonaro",
+      "url": "https://noticias.r7.com/brasilia/da-derrota-para-lula-a-carta-de-presidente-eleito-relembre-a-semana-de-flavio-bolsonaro-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T05:00:00.000Z"
     },
     {
-      "title": "DF no Campo: Aprenda a fazer um antepasto de berinjela",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-fazer-um-antepasto-de-berinjela-14866319.ghtml",
-      "tipo": "dica",
-      "urgente": false
+      "title": "Sem herdeiro natural, Lula enfrenta desafio de construir sucessor em seu último mandato",
+      "url": "https://noticias.r7.com/brasilia/sem-herdeiro-natural-lula-enfrenta-desafio-de-construir-sucessor-em-seu-ultimo-mandato-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T05:00:00.000Z"
     },
     {
-      "title": "DF no Campo: aprenda a receita de vinagrete com pimenta",
-      "url": "https://g1.globo.com/df/distrito-federal/df1/video/df-no-campo-aprenda-a-receita-de-vinagrete-com-pimenta-14765815.ghtml",
-      "tipo": "dica",
-      "urgente": false
+      "title": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+      "url": "https://noticias.r7.com/brasilia/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias-31102026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-10-31T21:57:25.592Z"
     },
     {
-      "title": "PT convoca ato no DF para comemorar vitória de Lula neste domingo (1º/11)",
-      "url": "https://www.metropoles.com/distrito-federal/pt-convoca-ato-no-df-para-comemorar-vitoria-de-lula-neste-domingo-1o-11",
-      "tipo": "atualidade",
-      "urgente": false
+      "title": "Fachin vê crise na Polônia como alerta global e defende vigilância internacional",
+      "url": "https://noticias.r7.com/brasilia/fachin-ve-crise-na-polonia-como-alerta-global-e-defende-vigilancia-internacional-31102026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-10-31T20:56:02.156Z"
     },
     {
-      "title": "Projeto “Dona Gi e sua Negritude” leva fusão de rap e rock a escolas públicas de Samambaia, em palestra-show sobre resistência negra",
-      "url": "https://www.agendaculturalbrasilia.art.br/projeto-dona-gi-e-sua-negritude-leva-fusao-de-rap-e-rock-a-escolas-publicas-de-samambaia-em-palestra-show-sobre-resistencia-negra/",
-      "tipo": "evento",
-      "urgente": false
+      "title": "Balanço Geral DF / 31/10/2026",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/casal-realiza-sonho-do-casamento-apos-cerimonia-ser-transferida-para-hospital-no-df-31102026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-10-31T18:32:37.000Z"
     },
     {
-      "title": "Roça Cri-criativa realiza espetáculo gratuito para a primeira infância no DF, neste Dia das Crianças",
-      "url": "https://www.agendaculturalbrasilia.art.br/roca-cri-criativa-realiza-espetaculo-gratuito-para-a-primeira-infancia-no-df-neste-dia-das-criancas/",
-      "tipo": "evento",
-      "urgente": false
+      "title": "Auto Record Brasília / HÁ 7 MINUTOS",
+      "url": "https://noticias.r7.com/brasilia/auto-record/video/marcas-chinesas-anunciam-novidades-e-novos-modelos-para-o-mercado-automotivo-brasileiro-31102026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T13:00:58.000Z"
+    },
+    {
+      "title": "INSS paga nova rodada do 13º salário em novembro a aposentados e pensionistas",
+      "url": "https://noticias.r7.com/economia/inss-paga-em-novembro-nova-rodada-do-13-salario-a-aposentados-e-pensionistas-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T11:34:05.949Z"
+    },
+    {
+      "title": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+      "url": "https://noticias.r7.com/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas-31102026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-10-31T20:51:57.281Z"
+    },
+    {
+      "title": "Lula avalia reformular toda a Esplanada após eleições e terá de negociar espaço com Centrão",
+      "url": "https://noticias.r7.com/brasilia/lula-avalia-reformular-toda-a-esplanada-apos-eleicao-e-tera-de-negociar-espaco-com-centrao-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T05:00:00.000Z"
     }
   ]
 }
