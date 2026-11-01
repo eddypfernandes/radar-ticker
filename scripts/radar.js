@@ -1,1005 +1,296 @@
 const fs = require("fs");
 const https = require("https");
+const http = require("http");
 
 const config = JSON.parse(fs.readFileSync("config.json", "utf8"));
 const regras = JSON.parse(fs.readFileSync("regras.json", "utf8"));
 
-const apiKey = process.env.GEMINI_API_KEY;
-
-if (!apiKey) {
-	console.error("GEMINI_API_KEY não encontrada.");
-	process.exit(1);
-}
-
 const fontes = config.fontes.filter(fonte => fonte.ativo === true);
 const candidatos = [];
 
+const termosLocais = [
+    "núcleo bandeirante", "nucleo bandeirante", "guará", "guara",
+    "candangolândia", "candangolandia", "riacho fundo", "samambaia",
+    "park way", "brasília", "brasilia", "distrito federal", "df"
+];
 
-// ============================================================
-// BAIXAR FONTE
-// ============================================================
+const termosPoliticos = [
+    "eleição", "eleicoes", "eleições", "candidato", "candidata",
+    "campanha eleitoral", "propaganda eleitoral", "partido político",
+    "partido politico", "sabatina", "disputa partidária", "disputa partidaria"
+];
+
+const termosIgnorados = [
+    "/login", "/entrar", "/cadastro", "/search", "/busca", "/buscar",
+    "/tag/", "/tags/", "/categoria/", "/categorias/", "/author/",
+    "/autor/", "/perfil/", "/contato", "/sobre", "/publicidade",
+    "/newsletter", "facebook.com", "instagram.com", "youtube.com",
+    "twitter.com", "linkedin.com", "whatsapp.com"
+];
 
 function baixar(url) {
+    return new Promise((resolve, reject) => {
+        const cliente = url.startsWith("https://") ? https : http;
+        const requisicao = cliente.get(url, {
+            headers: {
+                "User-Agent": "Mozilla/5.0 RADAR-AGORA/2.0",
+                "Accept": "text/html,application/xhtml+xml"
+            }
+        }, resposta => {
+            let dados = "";
+            resposta.setEncoding("utf8");
+            resposta.on("data", parte => { dados += parte; });
+            resposta.on("end", () => {
+                if (resposta.statusCode >= 200 && resposta.statusCode < 400) {
+                    resolve(dados);
+                } else {
+                    reject(new Error("HTTP " + resposta.statusCode));
+                }
+            });
+        });
 
-	return new Promise((resolve, reject) => {
-
-		const cliente = url.startsWith("https://")
-			? https
-			: require("http");
-
-		const requisicao = cliente.get(url, {
-
-			headers: {
-				"User-Agent": "Mozilla/5.0 RADAR-AGORA/1.0",
-				"Accept": "text/html,application/xhtml+xml"
-			}
-
-		}, resposta => {
-
-			let dados = "";
-
-			resposta.setEncoding("utf8");
-
-			resposta.on("data", parte => {
-				dados += parte;
-			});
-
-			resposta.on("end", () => {
-
-				if (
-					resposta.statusCode >= 200 &&
-					resposta.statusCode < 400
-				) {
-
-					resolve(dados);
-
-				} else {
-
-					reject(
-						new Error(`HTTP ${resposta.statusCode}`)
-					);
-				}
-			});
-		});
-
-		requisicao.setTimeout(20000, () => {
-
-			requisicao.destroy(
-				new Error("Tempo limite excedido")
-			);
-		});
-
-		requisicao.on("error", reject);
-	});
+        requisicao.setTimeout(20000, () => {
+            requisicao.destroy(new Error("Tempo limite excedido"));
+        });
+        requisicao.on("error", reject);
+    });
 }
-
-
-// ============================================================
-// LIMPAR TEXTO
-// ============================================================
 
 function limparTexto(texto) {
-
-	return texto
-		.replace(/<script[\s\S]*?<\/script>/gi, " ")
-		.replace(/<style[\s\S]*?<\/style>/gi, " ")
-		.replace(/<[^>]*>/g, " ")
-		.replace(/&amp;/g, "&")
-		.replace(/&quot;/g, '"')
-		.replace(/&#39;/g, "'")
-		.replace(/&lt;/g, "<")
-		.replace(/&gt;/g, ">")
-		.replace(/&#(\d+);/g, (_, codigo) =>
-			String.fromCharCode(Number(codigo))
-		)
-		.replace(/\s+/g, " ")
-		.trim();
+    return texto
+        .replace(/<script[\s\S]*?<\/script>/gi, " ")
+        .replace(/<style[\s\S]*?<\/style>/gi, " ")
+        .replace(/<[^>]*>/g, " ")
+        .replace(/&nbsp;/gi, " ")
+        .replace(/&amp;/gi, "&")
+        .replace(/&quot;/gi, '"')
+        .replace(/&#39;|&apos;/gi, "'")
+        .replace(/&lt;/gi, "<")
+        .replace(/&gt;/gi, ">")
+        .replace(/&#(\d+);/g, (_, codigo) => String.fromCharCode(Number(codigo)))
+        .replace(/&#x([0-9a-f]+);/gi, (_, codigo) => String.fromCharCode(parseInt(codigo, 16)))
+        .replace(/\s+/g, " ")
+        .trim();
 }
-
-
-// ============================================================
-// TRANSFORMAR URL EM ABSOLUTA
-// ============================================================
 
 function urlAbsoluta(url, origem) {
-
-	try {
-
-		return new URL(url, origem).href;
-
-	} catch {
-
-		return "";
-	}
+    try {
+        const destino = new URL(url, origem);
+        if (destino.protocol !== "http:" && destino.protocol !== "https:") return "";
+        destino.hash = "";
+        return destino.href;
+    } catch {
+        return "";
+    }
 }
-
-
-// ============================================================
-// VALIDAR POSSÍVEL PUBLICAÇÃO
-// ============================================================
 
 function parecePublicacao(url, titulo, fonte) {
+    if (!url || !titulo || titulo.length < 28 || titulo.length > 220) return false;
+    if (!/^https?:\/\//i.test(url)) return false;
 
-	if (!url || !titulo) {
-		return false;
-	}
+    const texto = (url + " " + titulo).toLowerCase();
+    if (termosIgnorados.some(item => texto.includes(item))) return false;
 
-	if (
-		titulo.length < 30 ||
-		titulo.length > 220
-	) {
-		return false;
-	}
+    try {
+        const origem = new URL(fonte.url);
+        const destino = new URL(url);
+        if (destino.hostname === origem.hostname && destino.pathname.replace(/\/$/, "") === origem.pathname.replace(/\/$/, "")) {
+            return false;
+        }
+    } catch {
+        return false;
+    }
 
-	if (!/^https?:\/\//i.test(url)) {
-		return false;
-	}
-
-	const texto =
-		`${url} ${titulo}`.toLowerCase();
-
-	const ignorados = [
-
-		"/login",
-		"/entrar",
-		"/cadastro",
-
-		"/search",
-		"/busca",
-		"/buscar",
-
-		"/tag/",
-		"/tags/",
-
-		"/categoria/",
-		"/categorias/",
-
-		"/author/",
-		"/autor/",
-		"/perfil/",
-
-		"/contato",
-		"/sobre",
-		"/publicidade",
-		"/newsletter",
-
-		"facebook.com",
-		"instagram.com",
-		"youtube.com",
-		"twitter.com",
-		"linkedin.com",
-		"whatsapp.com"
-	];
-
-	for (const item of ignorados) {
-
-		if (texto.includes(item)) {
-			return false;
-		}
-	}
-
-	const origem = new URL(fonte.url);
-
-	if (
-		url.replace(/\/$/, "") ===
-		origem.href.replace(/\/$/, "")
-	) {
-
-		return false;
-	}
-
-	return true;
+    if (regras.links.permitir_homepage === false && /\/?$/.test(new URL(url).pathname)) return false;
+    return true;
 }
-
-
-// ============================================================
-// EXTRAIR LINKS DO HTML
-// ============================================================
 
 function extrairHTML(html, fonte) {
+    const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)];
 
-	const links = [
-		...html.matchAll(
-			/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi
-		)
-	];
+    for (const item of links) {
+        const url = urlAbsoluta(item[1], fonte.url);
+        const titulo = limparTexto(item[2]);
 
-	for (const item of links) {
+        if (!parecePublicacao(url, titulo, fonte)) continue;
 
-		const url =
-			urlAbsoluta(item[1], fonte.url);
-
-		const titulo =
-			limparTexto(item[2]);
-
-		if (
-			!parecePublicacao(
-				url,
-				titulo,
-				fonte
-			)
-		) {
-
-			continue;
-		}
-
-		candidatos.push({
-
-			title: titulo,
-
-			url: url,
-
-			source: fonte.nome
-		});
-	}
+        candidatos.push({
+            title: titulo,
+            url: url,
+            source: fonte.nome
+        });
+    }
 }
-
-
-// ============================================================
-// COLETAR FONTES
-// ============================================================
 
 async function coletarFontes() {
+    console.log("=== COLETA AUTÔNOMA ===");
+    console.log("Fontes ativas: " + fontes.length);
 
-	console.log("=== COLETA ===");
-
-	console.log(
-		`Fontes ativas: ${fontes.length}`
-	);
-
-	console.log("");
-
-	for (const fonte of fontes) {
-
-		console.log(
-			`Fonte: ${fonte.nome}`
-		);
-
-		try {
-
-			const html =
-				await baixar(fonte.url);
-
-			extrairHTML(
-				html,
-				fonte
-			);
-
-			console.log("OK");
-
-		} catch (erro) {
-
-			console.log(
-				`ERRO: ${erro.message}`
-			);
-		}
-
-		console.log("");
-	}
+    for (const fonte of fontes) {
+        console.log("Fonte: " + fonte.nome);
+        try {
+            const html = await baixar(fonte.url);
+            const antes = candidatos.length;
+            extrairHTML(html, fonte);
+            console.log("OK — " + (candidatos.length - antes) + " candidatos");
+        } catch (erro) {
+            console.log("ERRO: " + erro.message);
+        }
+    }
 }
 
-
-// ============================================================
-// REMOVER DUPLICADOS
-// ============================================================
-
-function removerDuplicados() {
-
-	const mapa = new Map();
-
-	for (const item of candidatos) {
-
-		const chave =
-			item.url.replace(/\/$/, "");
-
-		if (!mapa.has(chave)) {
-
-			mapa.set(
-				chave,
-				item
-			);
-		}
-	}
-
-	return [...mapa.values()];
+function removerDuplicados(itens) {
+    const mapa = new Map();
+    for (const item of itens) {
+        const chave = item.url.replace(/\/$/, "").toLowerCase();
+        if (!mapa.has(chave)) mapa.set(chave, item);
+    }
+    return [...mapa.values()];
 }
 
-
-// ============================================================
-// AGUARDAR
-// ============================================================
-
-function esperar(ms) {
-
-	return new Promise(
-		resolve => setTimeout(resolve, ms)
-	);
+function normalizar(texto) {
+    return texto.toLowerCase()
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9 ]/g, " ")
+        .replace(/\s+/g, " ").trim();
 }
 
+function classificar(item) {
+    const texto = normalizar(item.title + " " + item.url);
 
-// ============================================================
-// CHAMAR GEMINI
-// ============================================================
-
-async function chamarGemini(itens) {
-
-	const prompt = `
-
-Você é o curador do RADAR AGORA, um ticker local de Brasília.
-
-OBJETIVO:
-
-Selecionar conteúdos reais, atuais e relevantes para moradores
-do Núcleo Bandeirante, regiões próximas e Brasília/DF.
-
-REGIÕES DE INTERESSE:
-
-- Núcleo Bandeirante;
-- Guará;
-- Candangolândia;
-- Riacho Fundo;
-- Samambaia;
-- Park Way;
-- Brasília;
-- Distrito Federal.
-
-TIPOS DE CONTEÚDO:
-
-Podem ser:
-
-- notícias;
-- eventos;
-- esportes;
-- lazer;
-- cultura;
-- gastronomia;
-- comércio;
-- serviços;
-- vagas;
-- trânsito;
-- utilidade pública;
-- educação;
-- saúde;
-- tecnologia;
-- turismo;
-- atualidades;
-- assuntos de interesse comunitário.
-
-IMPORTANTE:
-
-Não é necessário que todo conteúdo cite literalmente o Núcleo
-Bandeirante.
-
-Conteúdos de Brasília ou do Distrito Federal também podem ser
-selecionados quando forem relevantes para moradores da região.
-
-PRIORIDADE:
-
-1. Núcleo Bandeirante;
-2. regiões próximas;
-3. Brasília;
-4. Distrito Federal.
-
-POLÍTICA E ELEIÇÕES:
-
-- Não priorize propaganda eleitoral.
-- Não priorize agendas de candidatos.
-- Não priorize sabatinas.
-- Não priorize atos políticos.
-- Não priorize panfletagem.
-- Não priorize disputas partidárias.
-- Não utilize o ticker como espaço de campanha eleitoral.
-
-Conteúdo político somente deve entrar quando houver informação
-objetiva, relevante e de interesse direto para moradores do
-Distrito Federal ou das regiões atendidas pelo RADAR.
-
-VARIEDADE DE CONTEÚDO:
-
-Quando houver opções suficientes:
-
-- distribua os conteúdos entre diferentes assuntos;
-- evite que o ticker fique dominado por um único assunto;
-- evite publicar várias matérias sobre o mesmo acontecimento;
-- prefira acontecimentos diferentes quando houver opções;
-- misture notícias, eventos, esporte, lazer, cultura, serviços,
-  comércio, vagas e outros assuntos quando houver conteúdo
-  disponível.
-
-VARIEDADE DE FONTES:
-
-As fontes fornecidas são igualmente importantes para a coleta.
-
-Quando houver conteúdos relevantes de diferentes fontes:
-
-- varie as fontes utilizadas na seleção final;
-- não concentre a seleção no R7;
-- não concentre a seleção em qualquer outra fonte;
-- se houver conteúdos relevantes da Agência Brasília, R7 Brasília
-  e Terra Notícias, procure distribuir a seleção entre elas;
-- não escolha vários conteúdos de uma mesma fonte apenas porque
-  essa fonte apresentou mais candidatos;
-- uma fonte pode ter mais itens selecionados quando possuir mais
-  conteúdos claramente relevantes, mas evite concentração
-  desnecessária;
-- não crie cotas obrigatórias por fonte;
-- nunca selecione um conteúdo menos relevante apenas para
-  cumprir uma regra artificial de distribuição.
-
-A diversidade de fontes é uma preferência de curadoria, mas a
-relevância, atualidade e verificabilidade continuam sendo
-prioridades.
-
-DUPLICAÇÃO DE ASSUNTOS:
-
-Diferentes fontes podem publicar matérias sobre o mesmo
-acontecimento.
-
-Quando isso ocorrer:
-
-- identifique quando diferentes títulos tratam essencialmente
-  do mesmo fato;
-- evite selecionar várias matérias sobre o mesmo acontecimento;
-- prefira uma única matéria sobre aquele fato;
-- escolha a matéria mais adequada entre as opções disponíveis;
-- utilize o espaço restante do ticker para outros acontecimentos
-  e assuntos relevantes.
-
-Não confunda assuntos diferentes apenas porque possuem palavras
-semelhantes.
-
-REGRAS:
-
-- Use somente os títulos e URLs fornecidos.
-- Não invente títulos.
-- Não invente URLs.
-- Não altere URLs.
-- Não escolha páginas de busca.
-- Não escolha categorias.
-- Não escolha tags.
-- Não escolha perfis.
-- Evite duplicados.
-- Não invente conteúdo para completar a quantidade.
-- Não crie informações que não estejam representadas nos
-  conteúdos fornecidos.
-- Preserve o título original.
-- Preserve a URL original.
-
-CONFIGURAÇÃO:
-
-${JSON.stringify(
-	config,
-	null,
-	2
-)}
-
-REGRAS DO RADAR:
-
-${JSON.stringify(
-	regras,
-	null,
-	2
-)}
-
-CONTEÚDOS DISPONÍVEIS:
-
-${JSON.stringify(
-	itens,
-	null,
-	2
-)}
-
-Antes de responder, analise os candidatos disponíveis e faça a
-seleção considerando simultaneamente:
-
-1. relevância para o público do RADAR;
-2. atualidade;
-3. variedade de assuntos;
-4. variedade de fontes;
-5. ausência de duplicação de acontecimentos;
-6. verificabilidade.
-
-Não explique suas decisões.
-
-Retorne SOMENTE JSON válido:
-
-{
-	"items": [
-		{
-			"title": "Título original",
-			"url": "URL original",
-			"tipo": "noticia",
-			"urgente": false
-		}
-	]
+    if (/\b(vaga|emprego|contratacao|processo seletivo|concurso)\b/.test(texto)) return "vaga";
+    if (/\b(evento|festival|show|espetaculo|exposicao|programacao|ingresso|inscricoes)\b/.test(texto)) return "evento";
+    if (/\b(oferta|promocao|desconto|liquidacao)\b/.test(texto)) return "oferta";
+    if (/\b(como fazer|aprenda|dica|receita|guia)\b/.test(texto)) return "dica";
+    if (/\b(hoje|amanha|fim de semana|neste domingo|neste sabado)\b/.test(texto)) return "atualidade";
+    return "noticia";
 }
 
-TIPOS PERMITIDOS:
+function pontuar(item) {
+    const titulo = normalizar(item.title);
+    const url = normalizar(item.url);
+    const texto = titulo + " " + url;
+    let pontos = 0;
 
-- noticia
-- evento
-- oferta
-- vaga
-- dica
-- atualidade
+    const locaisEncontrados = termosLocais.filter(termo => texto.includes(normalizar(termo)));
+    if (locaisEncontrados.length) pontos += 8 + Math.min(locaisEncontrados.length, 3) * 2;
 
-Quantidade máxima:
+    const fonte = normalizar(item.source);
+    if (fonte.includes("nucleo bandeirante")) pontos += 12;
+    else if (fonte.includes("brasilia") || fonte.includes("distrito federal") || fonte.includes("cultural")) pontos += 6;
 
-${config.quantidade}
+    if (termosPoliticos.some(termo => texto.includes(normalizar(termo)))) pontos -= 18;
 
-`;
+    const tipo = classificar(item);
+    if (tipo === "vaga" || tipo === "evento" || tipo === "oferta") pontos += 3;
 
-	const dados =
-		JSON.stringify({
+    if (titulo.length >= 40 && titulo.length <= 150) pontos += 2;
+    if (/[!?]/.test(item.title)) pontos -= 1;
 
-			contents: [
-
-				{
-					parts: [
-
-						{
-							text: prompt
-						}
-					]
-				}
-			],
-
-			generationConfig: {
-
-				responseMimeType:
-					"application/json"
-			}
-		});
-
-
-	// ========================================================
-	// TENTATIVAS
-	// ========================================================
-
-	for (
-		let tentativa = 1;
-		tentativa <= 3;
-		tentativa++
-	) {
-
-		console.log(
-			`Tentativa Gemini: ${tentativa}/3`
-		);
-
-		try {
-
-			const resultado =
-				await chamarGeminiAPI(
-					dados
-				);
-
-			return resultado;
-
-		} catch (erro) {
-
-			console.log(
-				`Gemini falhou: ${erro.message}`
-			);
-
-			if (
-				tentativa < 3
-			) {
-
-				console.log(
-					"Aguardando 5 segundos..."
-				);
-
-				await esperar(5000);
-			}
-		}
-	}
-
-	throw new Error(
-		"Gemini permaneceu indisponível após 3 tentativas."
-	);
+    return { ...item, tipo: tipo, urgente: false, score: pontos };
 }
 
-
-// ============================================================
-// API GEMINI
-// ============================================================
-
-function chamarGeminiAPI(dados) {
-
-	return new Promise(
-		(resolve, reject) => {
-
-			const requisicao =
-				https.request({
-
-					hostname:
-						"generativelanguage.googleapis.com",
-
-					path:
-						"/v1beta/models/gemini-3.5-flash-lite:generateContent",
-
-					method: "POST",
-
-					headers: {
-
-						"x-goog-api-key":
-							apiKey,
-
-						"Content-Type":
-							"application/json",
-
-						"Content-Length":
-							Buffer.byteLength(dados)
-					}
-
-				}, resposta => {
-
-					let corpo = "";
-
-					resposta.setEncoding(
-						"utf8"
-					);
-
-					resposta.on(
-						"data",
-						parte => {
-							corpo += parte;
-						}
-					);
-
-					resposta.on(
-						"end",
-						() => {
-
-							if (
-								resposta.statusCode < 200 ||
-								resposta.statusCode >= 300
-							) {
-
-								reject(
-
-									new Error(
-										`HTTP ${resposta.statusCode}: ${corpo}`
-									)
-								);
-
-								return;
-							}
-
-							resolve(corpo);
-						}
-					);
-				});
-
-
-			requisicao.setTimeout(
-				60000,
-				() => {
-
-					requisicao.destroy(
-
-						new Error(
-							"Tempo limite Gemini"
-						)
-					);
-				}
-			);
-
-
-			requisicao.on(
-				"error",
-				reject
-			);
-
-
-			requisicao.write(
-				dados
-			);
-
-			requisicao.end();
-		}
-	);
+function similaridade(a, b) {
+    const palavrasA = new Set(normalizar(a).split(" ").filter(p => p.length > 3));
+    const palavrasB = new Set(normalizar(b).split(" ").filter(p => p.length > 3));
+    if (!palavrasA.size || !palavrasB.size) return 0;
+    const intersecao = [...palavrasA].filter(p => palavrasB.has(p)).length;
+    return intersecao / Math.min(palavrasA.size, palavrasB.size);
 }
 
+function selecionar(itens) {
+    const avaliados = itens
+        .map(pontuar)
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score);
 
-// ============================================================
-// PROCESSAR RESPOSTA GEMINI
-// ============================================================
+    const selecionados = [];
+    const fontesUsadas = new Map();
+    const tiposUsados = new Map();
 
-function processarResposta(
-	resposta,
-	itensOriginais
-) {
+    for (const item of avaliados) {
+        if (selecionados.length >= config.quantidade) break;
 
-	const dados =
-		JSON.parse(resposta);
+        if (selecionados.some(selecionado =>
+            similaridade(selecionado.title, item.title) >= 0.78
+        )) continue;
 
-	const texto =
-		dados
-			.candidates?.[0]
-			?.content
-			?.parts?.[0]
-			?.text;
+        const fonte = item.source;
+        const tipo = item.tipo;
+        const repeticaoFonte = fontesUsadas.get(fonte) || 0;
+        const repeticaoTipo = tiposUsados.get(tipo) || 0;
 
-	if (!texto) {
+        // Evita concentração excessiva sem descartar conteúdo relevante.
+        if (repeticaoFonte >= 5 || repeticaoTipo >= 7) continue;
 
-		throw new Error(
-			"Gemini não retornou conteúdo."
-		);
-	}
+        selecionados.push({
+            title: item.title,
+            url: item.url,
+            tipo: item.tipo,
+            urgente: false
+        });
 
-	const resultado =
-		JSON.parse(texto);
+        fontesUsadas.set(fonte, repeticaoFonte + 1);
+        tiposUsados.set(tipo, repeticaoTipo + 1);
+    }
 
+    // Se os limites de diversidade restringirem demais a seleção,
+    // completa com os próximos itens válidos ainda não repetidos.
+    if (selecionados.length < config.quantidade) {
+        for (const item of avaliados) {
+            if (selecionados.length >= config.quantidade) break;
+            if (selecionados.some(selecionado => selecionado.url === item.url)) continue;
+            if (selecionados.some(selecionado => similaridade(selecionado.title, item.title) >= 0.78)) continue;
 
-	const urlsOriginais =
-		new Set(
+            selecionados.push({
+                title: item.title,
+                url: item.url,
+                tipo: item.tipo,
+                urgente: false
+            });
+        }
+    }
 
-			itensOriginais.map(
-				item =>
-					item.url.replace(
-						/\/$/,
-						""
-					)
-			)
-		);
-
-
-	const finais = [];
-
-	const urlsUsadas =
-		new Set();
-
-
-	for (
-		const item of resultado.items || []
-	) {
-
-		if (
-			!item.title ||
-			!item.url
-		) {
-
-			continue;
-		}
-
-
-		const url =
-			item.url.replace(
-				/\/$/,
-				""
-			);
-
-
-		if (
-			!urlsOriginais.has(url)
-		) {
-
-			continue;
-		}
-
-
-		if (
-			urlsUsadas.has(url)
-		) {
-
-			continue;
-		}
-
-
-		urlsUsadas.add(url);
-
-
-		finais.push({
-
-			title:
-				item.title.trim(),
-
-			url:
-				url,
-
-			tipo:
-				item.tipo ||
-				"atualidade",
-
-			urgente:
-				item.urgente === true
-		});
-
-
-		if (
-			finais.length >=
-			config.quantidade
-		) {
-
-			break;
-		}
-	}
-
-
-	return finais;
+    return selecionados;
 }
-
-
-// ============================================================
-// EXECUÇÃO PRINCIPAL
-// ============================================================
 
 async function executar() {
+    console.log("");
+    console.log("=================================");
+    console.log("       RADAR AGORA");
+    console.log("       MODO AUTÔNOMO");
+    console.log("=================================");
 
-	console.log("");
+    await coletarFontes();
 
-	console.log(
-		"================================="
-	);
+    const itens = removerDuplicados(candidatos).slice(0, 300);
+    console.log("Candidatos únicos: " + itens.length);
 
-	console.log(
-		"       RADAR AGORA"
-	);
+    if (!itens.length) {
+        throw new Error("Nenhum candidato foi encontrado nas fontes.");
+    }
 
-	console.log(
-		"================================="
-	);
+    const finais = selecionar(itens);
 
-	console.log("");
+    if (!finais.length) {
+        throw new Error("Nenhum conteúdo passou pelos critérios automáticos. O ticker anterior foi preservado.");
+    }
 
+    fs.writeFileSync("data/ticker.json", JSON.stringify({ items: finais }, null, 2) + "\n", "utf8");
 
-	// ========================================================
-	// COLETA
-	// ========================================================
-
-	await coletarFontes();
-
-
-	// ========================================================
-	// DUPLICADOS
-	// ========================================================
-
-	let itens =
-		removerDuplicados();
-
-
-	console.log(
-		"=== COLETA FINAL ==="
-	);
-
-	console.log(
-		`Candidatos encontrados: ${itens.length}`
-	);
-
-
-	if (
-		itens.length === 0
-	) {
-
-		throw new Error(
-			"Nenhum candidato foi encontrado nas fontes."
-		);
-	}
-
-
-	// ========================================================
-	// LIMITE DE CANDIDATOS
-	// ========================================================
-
-	itens =
-		itens.slice(0, 120);
-
-
-	console.log(
-		`Candidatos enviados ao Gemini: ${itens.length}`
-	);
-
-
-	console.log("");
-
-	console.log(
-		"=== CURADORIA GEMINI ==="
-	);
-
-
-	// ========================================================
-	// CURADORIA
-	// ========================================================
-
-	const resposta =
-		await chamarGemini(
-			itens
-		);
-
-
-	// ========================================================
-	// RESULTADO FINAL
-	// ========================================================
-
-	const finais =
-		processarResposta(
-			resposta,
-			itens
-		);
-
-
-	// ========================================================
-	// GRAVAR JSON
-	// ========================================================
-
-	fs.writeFileSync(
-
-		"data/ticker.json",
-
-		JSON.stringify(
-
-			{
-				items: finais
-			},
-
-			null,
-			2
-		)
-	);
-
-
-	// ========================================================
-	// LOG FINAL
-	// ========================================================
-
-	console.log("");
-
-	console.log(
-		"=== RESULTADO ==="
-	);
-
-	console.log(
-		`Itens publicados: ${finais.length}`
-	);
-
-	console.log(
-		"Arquivo: data/ticker.json"
-	);
-
-	console.log("");
-
-
-	finais.forEach(
-		(item, indice) => {
-
-			console.log(
-				`${indice + 1}. ${item.title}`
-			);
-
-			console.log(
-				`   ${item.url}`
-			);
-		}
-	);
+    console.log("Itens publicados: " + finais.length);
+    finais.forEach((item, indice) => {
+        console.log((indice + 1) + ". " + item.title);
+        console.log("   " + item.url);
+        console.log("   Fonte: " + item.tipo);
+    });
 }
 
-
-// ============================================================
-// INICIAR
-// ============================================================
-
-executar().catch(
-	erro => {
-
-		console.error("");
-
-		console.error(
-			"================================="
-		);
-
-		console.error(
-			"ERRO RADAR AGORA"
-		);
-
-		console.error(
-			"================================="
-		);
-
-		console.error(
-			erro.message
-		);
-
-		process.exit(1);
-	}
-);
+executar().catch(erro => {
+    console.error("");
+    console.error("=================================");
+    console.error("ERRO RADAR AGORA");
+    console.error("=================================");
+    console.error(erro.message);
+    process.exit(1);
+});
