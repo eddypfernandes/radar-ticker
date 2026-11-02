@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:50:45.466Z",
+  "updatedAt": "2026-11-02T01:21:26.057Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,6 +38,27 @@
       "publishedAt": "2026-11-01T15:30:22.000Z"
     },
     {
+      "title": "Flávio Bolsonaro após fugir do Brasil: ‘Não me arrependo de absolutamente nada do que fiz’",
+      "url": "https://noticias.r7.com/brasilia/flavio-bolsonaro-apos-fugir-do-brasil-nao-me-arrependo-de-absolutamente-nada-do-que-fiz-02112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T00:43:36.306Z"
+    },
+    {
+      "title": "‘Especulações na área econômica não colaboram com o país’, diz Edinho Silva",
+      "url": "https://noticias.r7.com/brasilia/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T22:41:08.736Z"
+    },
+    {
+      "title": "Lula diz que cumprirá promessas de campanha e que ‘nenhum programa social será extinto’",
+      "url": "https://noticias.r7.com/brasilia/lula-diz-que-cumprira-promessas-de-campanha-e-que-nenhum-programa-social-sera-extinto-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T22:42:22.863Z"
+    },
+    {
       "title": "Petrobras aumenta preço do querosene de aviação em 7,2%",
       "url": "https://noticias.r7.com/brasilia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-01112026/",
       "tipo": "noticia",
@@ -50,6 +71,27 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-01T16:44:36.934Z"
+    },
+    {
+      "title": "Projeto CriAtiva oferece cursos gratuitos de comunicação e marketing digital em Samambaia",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-oferece-cursos-gratuitos-de-comunicacao-e-marketing-digital-em-samambaia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T15:22:44.000Z"
+    },
+    {
+      "title": "Fittipaldi e Piquet reeditam parceria na Bradesco Stock Car Pro Series",
+      "url": "https://www.visitebrasilia.com.br/noticias/fittipaldi-e-piquet-reeditam-parceria-na-bradesco-stock-car-pro-series",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T22:00:40.000Z"
+    },
+    {
+      "title": "Sabores e Saberes destaca gastronomia e ancestralidade com Makota Solange Borges",
+      "url": "https://www.visitebrasilia.com.br/noticias/sabores-e-saberes-destaca-palestra-performance-da-chefe-de-cozinha-e-makota-solange-borges-na-fundacao-cultural-palmares",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-01T18:40:16.000Z"
     },
     {
       "title": "Governo recebe uma denúncia de assédio eleitoral por minuto após segundo turno",
@@ -66,42 +108,7 @@
       "publishedAt": "2026-11-01T14:35:25.527Z"
     },
     {
-      "title": "Justiça derruba sigilo médico e libera documentos sobre morte de Tancredo Neves; entenda",
-      "url": "https://noticias.r7.com/brasilia/justica-derruba-sigilo-medico-e-libera-documentos-sobre-morte-de-tancredo-neves-entenda-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T14:14:42.396Z"
-    },
-    {
-      "title": "Projeto CriAtiva oferece cursos gratuitos de comunicação e marketing digital em Samambaia",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-oferece-cursos-gratuitos-de-comunicacao-e-marketing-digital-em-samambaia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T15:22:44.000Z"
-    },
-    {
-      "title": "Atletismo do DF ganha destaque: CASO conquista pódios na marcha atlética e nas pistas Você gosta dessa personalidade?",
-      "url": "https://www.visitebrasilia.com.br/noticias/atletismo-do-df-ganha-destaque-caso-conquista-podios-na-marcha-atletica-e-nas-pistas-voce-gosta-dessa-personalidade",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T11:04:27.000Z"
-    },
-    {
-      "title": "Sabores e Saberes destaca palestra-performance da Chefe de Cozinha e Makota Solange Borges na Fundação Cultural Palmares",
-      "url": "https://www.visitebrasilia.com.br/noticias/sabores-e-saberes-destaca-palestra-performance-da-chefe-de-cozinha-e-makota-solange-borges-na-fundacao-cultural-palmares",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T18:40:16.000Z"
-    },
-    {
-      "title": "Da derrota para Lula à carta de ‘presidente eleito’: relembre a semana de Flávio Bolsonaro",
-      "url": "https://noticias.r7.com/brasilia/da-derrota-para-lula-a-carta-de-presidente-eleito-relembre-a-semana-de-flavio-bolsonaro-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T05:00:00.000Z"
-    },
-    {
-      "title": "Auto Record Brasília / HÁ 8 HORAS",
+      "title": "Auto Record Brasília / 01/11/2026",
       "url": "https://noticias.r7.com/brasilia/auto-record/video/marcas-chinesas-anunciam-novidades-e-novos-modelos-para-o-mercado-automotivo-brasileiro-31102026/",
       "tipo": "noticia",
       "urgente": false,
@@ -122,18 +129,11 @@
       "publishedAt": "2026-11-01T17:32:09.338Z"
     },
     {
-      "title": "Lula ganhou em cinco dos principais municípios de Parques Nacionais; Flávio em dois",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/lula-ganhou-em-cinco-dos-principais-municipios-de-parques-nacionais-flavio-em-dois-01112026/",
+      "title": "Kassab: Questionamento sobre resultado das eleições prejudica o campo político bolsonarista",
+      "url": "https://noticias.r7.com/brasilia/kassab-questionamento-sobre-resultado-das-eleicoes-prejudica-o-campo-politico-bolsonarista-01112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-01T12:01:02.330Z"
-    },
-    {
-      "title": "INSS paga nova rodada do 13º salário em novembro a aposentados e pensionistas",
-      "url": "https://noticias.r7.com/economia/inss-paga-em-novembro-nova-rodada-do-13-salario-a-aposentados-e-pensionistas-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T11:34:05.949Z"
+      "publishedAt": "2026-11-01T23:12:57.548Z"
     }
   ]
 }
