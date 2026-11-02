@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:21:26.057Z",
+  "updatedAt": "2026-11-02T08:02:28.120Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,6 +38,20 @@
       "publishedAt": "2026-11-01T15:30:22.000Z"
     },
     {
+      "title": "Governo espera Fazenda para avançar com ajuste fiscal no Congresso",
+      "url": "https://noticias.r7.com/brasilia/governo-espera-fazenda-para-avancar-com-ajuste-fiscal-no-congresso-02112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Parlamentares brasileiros se reúnem com diplomata isralense para tratar das relações bilaterais",
+      "url": "https://noticias.r7.com/brasilia/parlamentares-brasileiros-se-reunem-com-diplomata-isralense-para-tratar-das-relacoes-bilaterais-02112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T01:11:27.356Z"
+    },
+    {
       "title": "Flávio Bolsonaro após fugir do Brasil: ‘Não me arrependo de absolutamente nada do que fiz’",
       "url": "https://noticias.r7.com/brasilia/flavio-bolsonaro-apos-fugir-do-brasil-nao-me-arrependo-de-absolutamente-nada-do-que-fiz-02112026/",
       "tipo": "noticia",
@@ -59,25 +73,18 @@
       "publishedAt": "2026-11-01T22:42:22.863Z"
     },
     {
-      "title": "Petrobras aumenta preço do querosene de aviação em 7,2%",
-      "url": "https://noticias.r7.com/brasilia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T17:35:02.255Z"
-    },
-    {
-      "title": "Ministério da Educação vai encaminhar à PF denúncias de violência política",
-      "url": "https://noticias.r7.com/brasilia/ministerio-da-educacao-vai-encaminhar-a-pf-denuncias-de-violencia-politica-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T16:44:36.934Z"
-    },
-    {
       "title": "Projeto CriAtiva oferece cursos gratuitos de comunicação e marketing digital em Samambaia",
       "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-oferece-cursos-gratuitos-de-comunicacao-e-marketing-digital-em-samambaia",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-01T15:22:44.000Z"
+    },
+    {
+      "title": "José Roberto Peres encerra trajetória de mais de 50 anos na Embrapa",
+      "url": "https://www.visitebrasilia.com.br/noticias/jose-roberto-peres-encerra-trajetoria-de-mais-de-50-anos-na-embrapa",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T02:34:31.000Z"
     },
     {
       "title": "Fittipaldi e Piquet reeditam parceria na Bradesco Stock Car Pro Series",
@@ -94,18 +101,11 @@
       "publishedAt": "2026-11-01T18:40:16.000Z"
     },
     {
-      "title": "Governo recebe uma denúncia de assédio eleitoral por minuto após segundo turno",
-      "url": "https://noticias.r7.com/brasilia/governo-recebe-uma-denuncia-de-assedio-eleitoral-por-minuto-apos-segundo-turno-01112026/",
+      "title": "Petrobras aumenta preço do querosene de aviação em 7,2%",
+      "url": "https://noticias.r7.com/brasilia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-01112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-01T16:32:37.067Z"
-    },
-    {
-      "title": "Brasília, Minas, Bahia e mais sete estados têm alerta para temporais e ventania neste domingo",
-      "url": "https://noticias.r7.com/cidades/brasilia-minas-bahia-e-mais-sete-estados-tem-alerta-para-temporais-e-ventania-neste-domingo-01112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-01T14:35:25.527Z"
+      "publishedAt": "2026-11-01T17:35:02.255Z"
     },
     {
       "title": "Auto Record Brasília / 01/11/2026",
@@ -115,18 +115,25 @@
       "publishedAt": "2026-11-01T13:00:58.000Z"
     },
     {
+      "title": "Do Pix MEI à Tarifa Zero: Congresso de oposição será desafio para promessas de Lula",
+      "url": "https://noticias.r7.com/economia/do-pix-mei-a-tarifa-zero-congresso-de-oposicao-sera-desafio-para-promessas-de-lula-02112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "title": "Com ou sem acordo sobre maioridade penal, governo quer votar PEC da Segurança esta semana",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/com-ou-sem-acordo-sobre-maioridade-penal-governo-quer-votar-pec-da-seguranca-esta-semana-01112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T05:00:00.000Z"
+    },
+    {
       "title": "Relator vai pedir a Motta votação de redução da maioridade penal ainda em 2026",
       "url": "https://noticias.r7.com/prisma/r7-planalto/relator-vai-pedir-a-motta-votacao-de-reducao-da-maioridade-penal-ainda-em-2026-02112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-01T18:00:00.000Z"
-    },
-    {
-      "title": "Regras para recebimento de vales-alimentação e refeição mudam a partir de sábado",
-      "url": "https://noticias.r7.com/economia/regras-para-recebimento-de-vales-alimentacao-e-refeicao-mudam-a-partir-de-sabado-01112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T17:32:09.338Z"
     },
     {
       "title": "Kassab: Questionamento sobre resultado das eleições prejudica o campo político bolsonarista",
