@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-11-02T18:43:10.278Z",
+  "updatedAt": "2026-11-03T01:28:43.861Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Clube do Choro de Brasília celebra os 15 anos do Passo Largo com show especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-celebra-os-15-anos-do-passo-largo-com-show-especial",
+      "title": "Coletivo Arar apresenta o espetáculo CALANGO na Cidade Estrutural",
+      "url": "https://www.visitebrasilia.com.br/noticias/coletivo-arar-apresenta-o-espetaculo-calango-na-cidade-estrutural",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-01T20:42:46.000Z"
-    },
-    {
-      "title": "Festival Fado volta a Brasília com Sara Correia e Camané",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-fado-volta-a-brasilia-com-sara-correia-e-camane",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-01T20:27:33.000Z"
+      "publishedAt": "2026-11-02T18:45:46.000Z"
     },
     {
       "title": "Mês da Consciência: O Bê a Bá do Berimbau leva tradição afro-indígena para escolas do DF",
@@ -29,13 +22,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-02T11:04:27.000Z"
-    },
-    {
-      "title": "AJE-DF promove 2ª edição do Wine Experience",
-      "url": "https://www.visitebrasilia.com.br/noticias/aje-df-promove-2-edicao-do-wine-experience",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-01T19:53:43.000Z"
     },
     {
       "title": "Major da PMDF é suspeito de agredir companheira em GO",
@@ -64,13 +50,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-02T12:48:55.000Z"
-    },
-    {
-      "title": "Atendimento humano obrigatório em SACs de empresas começa hoje",
-      "url": "https://noticias.r7.com/brasilia/atendimento-humano-obrigatorio-em-sacs-de-empresas-comeca-hoje-02112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-02T16:17:48.914Z"
     },
     {
       "title": "Corpo de Bombeiros retoma buscas por desaparecida na Cachoeira do Monjolo, no Recanto das Emas",
@@ -108,6 +87,13 @@
       "publishedAt": "2026-11-02T12:38:24.000Z"
     },
     {
+      "title": "Heineken® conquista três troféus no Effie Awards Latin America",
+      "url": "https://www.visitebrasilia.com.br/noticias/heineken-conquista-tres-trofeus-no-effie-awards-latin-america",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T21:00:24.000Z"
+    },
+    {
       "title": "Novembro no Haná: rodízio japonês ganha um brinde especial às segundas e terças-feiras",
       "url": "https://www.visitebrasilia.com.br/noticias/novembro-no-hana-rodizio-japones-ganha-um-brinde-especial-as-segundas-e-tercas-feiras",
       "tipo": "noticia",
@@ -141,6 +127,20 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-02T13:55:32.000Z"
+    },
+    {
+      "title": "Documentário resgata histórias de mulheres pioneiras que ajudaram a construir Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/documentario-resgata-historias-de-mulheres-pioneiras-que-ajudaram-a-construir-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T13:00:09.000Z"
+    },
+    {
+      "title": "Nova edição do Drama Club apresenta três espetáculos estudantis abertos ao público em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/nova-edicao-do-drama-club-apresenta-tres-espetaculos-estudantis-abertos-ao-publico-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-02T12:17:43.000Z"
     }
   ]
 }
