@@ -1,13 +1,118 @@
 {
-  "updatedAt": "2026-11-03T08:29:55.721Z",
+  "updatedAt": "2026-11-03T16:28:59.370Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "É nesta sexta: encontro gratuito em Brasília reúne colecionadores e exposição especial sobre JK",
+      "url": "https://www.visitebrasilia.com.br/noticias/e-nesta-sexta-encontro-gratuito-em-brasilia-reune-colecionadores-e-exposicao-especial-sobre-jk",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T16:01:27.000Z"
+    },
+    {
+      "title": "CAIXA Cultural Brasília apresenta a exposição de Frans Krajcberg que transforma a devastação ambiental em arte",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-a-exposicao-de-frans-krajcberg-que-transforma-a-devastacao-ambiental-em-arte",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T15:31:22.000Z"
+    },
+    {
+      "title": "Prêmio MD'Azevedo abre exposição ao público no Centro de Artes a partir de 03/11",
+      "url": "https://www.visitebrasilia.com.br/noticias/premio-md-azevedo-abre-exposicao-ao-publico-no-centro-de-artes-a-partir-de-03-11",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T15:28:21.000Z"
+    },
+    {
+      "title": "Clube do Choro de Brasília reúne feijoada e samba em programação especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-reune-feijoada-e-samba-em-programacao-especial",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T14:22:03.000Z"
+    },
+    {
+      "title": "Flávio Venturini e Samuel Rosa levam encontro da música mineira ao Festival Estilo Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/flavio-venturini-e-samuel-rosa-levam-encontro-da-musica-mineira-ao-festival-estilo-brasil",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T14:09:45.000Z"
+    },
+    {
+      "title": "Defensoria Pública do DF oferece atendimento jurídico, médico e serviços de beleza para mulheres",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/defensoria-publica-do-df-oferece-atendimento-juridico-medico-e-servicos-de-beleza-para-mulheres-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T14:47:25.000Z"
+    },
+    {
+      "title": "Corpo de brasileira que morreu durante lua de mel em Portugal é trazido para Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-brasileira-que-morreu-durante-lua-de-mel-em-portugal-e-trazido-para-brasilia-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T14:33:17.000Z"
+    },
+    {
+      "title": "Sesc DF oferece exames e consultas gratuitas para homens no Novembro Azul",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/sesc-df-oferece-exames-e-consultas-gratuitas-para-homens-no-novembro-azul-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T13:43:45.000Z"
+    },
+    {
+      "title": "Mutirão oferece negociação de dívidas bancárias com descontos e prazos maiores",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/mutirao-oferece-negociacao-de-dividas-bancarias-com-descontos-e-prazos-maiores-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T13:38:27.000Z"
+    },
+    {
+      "title": "Poste cai em cima de carro após acidente e deixa prejuízo de R$ 47 mil em Taguatinga (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/poste-cai-em-cima-de-carro-apos-acidente-e-deixa-prejuizo-de-r-47-mil-em-taguatinga-df-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T13:32:05.000Z"
+    },
+    {
+      "title": "Brasília recebe a 14ª Edição da Bienal Ibero-America de Arquitetura e Urbanismo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-recebe-a-14a-edicao-da-bienal-ibero-america-de-arquitetura-e-urbanismo-15153840.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T11:30:10.000Z"
+    },
+    {
+      "title": "QualificaDF abre 10 mil vagas para cursos gratuitos no DF; veja como se inscrever",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/qualificadf-abre-10-mil-vagas-para-cursos-gratuitos-no-df-veja-como-se-inscrever-15153820.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T11:24:06.000Z"
+    },
     {
       "title": "Coletivo Arar apresenta o espetáculo CALANGO na Cidade Estrutural",
       "url": "https://www.visitebrasilia.com.br/noticias/coletivo-arar-apresenta-o-espetaculo-calango-na-cidade-estrutural",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-02T18:45:46.000Z"
+    },
+    {
+      "title": "Café Som Viola celebra aniversário da Candangolândia com música e cultura popular no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/cafe-som-viola-celebra-aniversario-da-candangolandia-com-musica-e-cultura-popular-no-df",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T15:34:54.000Z"
+    },
+    {
+      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T15:32:41.000Z"
+    },
+    {
+      "title": "Brasília Delas promove turismo, lazer e inclusão social para mulheres no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-delas-promove-turismo-lazer-e-inclusao-social-para-mulheres-no-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T13:12:41.000Z"
     },
     {
       "title": "Mês da Consciência: O Bê a Bá do Berimbau leva tradição afro-indígena para escolas do DF",
@@ -17,130 +122,25 @@
       "publishedAt": "2026-11-02T17:26:22.000Z"
     },
     {
-      "title": "Atletismo do DF brilha: CASO conquista pódios na marcha atlética e nas pistas",
-      "url": "https://www.visitebrasilia.com.br/noticias/atletismo-do-df-ganha-destaque-caso-conquista-podios-na-marcha-atletica-e-nas-pistas-voce-gosta-dessa-personalidade",
+      "title": "Corrientes 348 Brasília oferece espaços exclusivos para confraternizações de fim de ano",
+      "url": "https://www.visitebrasilia.com.br/noticias/corrientes-348-brasilia-oferece-espacos-exclusivos-para-confraternizacoes-de-fim-de-ano",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-02T11:04:27.000Z"
+      "publishedAt": "2026-11-03T15:36:32.000Z"
     },
     {
-      "title": "Major da PMDF é suspeito de agredir companheira em GO",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/major-da-policia-militar-do-df-e-suspeito-de-agredir-companheira-em-hotel-de-caldas-novas-go-02112026/",
+      "title": "Vinum Brasilis chega à 21ª edição com novas vinícolas, atrações e primeiro lançamento da linha Ícones",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novas-vinicolas-atracoes-e-primeiro-lancamento-da-linha-icones",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-02T13:11:53.000Z"
+      "publishedAt": "2026-11-03T15:29:45.000Z"
     },
     {
-      "title": "PCDF investiga morte de jovem de 18 anos e apreende 4 armas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-investiga-morte-de-jovem-em-sobradinho-ii-df-e-apreende-quatro-armas-02112026/",
+      "title": "Best-seller francês \"Água Fresca para as Flores\" chega ao Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/best-seller-frances-agua-fresca-para-as-flores-chega-ao-teatro-brasilia-shopping",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-02T12:15:56.000Z"
-    },
-    {
-      "title": "Curso de cuidador de idosos prepara para atuação profissional",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/curso-de-cuidador-de-idosos-prepara-profissionais-para-mercado-de-trabalho-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:25:33.000Z"
-    },
-    {
-      "title": "Aneel mantém bandeira verde para contas de luz em novembro, e consumidores não terão cobrança extra",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/bandeira-verde-e-mantida-na-conta-de-luz-em-novembro-e-evita-cobranca-extra-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:48:55.000Z"
-    },
-    {
-      "title": "Corpo de Bombeiros retoma buscas por desaparecida na Cachoeira do Monjolo, no Recanto das Emas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/bombeiros-retomam-buscas-por-desaparecida-em-cachoeira-no-recanto-das-emas-df-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:31:37.000Z"
-    },
-    {
-      "title": "Restaurante Comunitário de Ceilândia fecha por três meses para reforma",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/restaurante-comunitario-de-ceilandia-no-df-fecha-por-tres-meses-para-reforma-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T13:00:40.000Z"
-    },
-    {
-      "title": "Farmácia procura por idoso que esqueceu R$ 500 em caixa eletrônico",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/farmacia-procura-idoso-que-esqueceu-r-500-em-caixa-eletronico-em-taguatinga-df-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:56:41.000Z"
-    },
-    {
-      "title": "Homem é roubado e golpeado com facão durante assalto no Recanto das Emas (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-roubado-e-golpeado-com-facao-durante-assalto-no-recanto-das-emas-df-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:41:58.000Z"
-    },
-    {
-      "title": "Adolescente invade lanchonete e mata funcionário a tiros na Vila Planalto, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/adolescente-invade-lanchonete-e-mata-funcionario-a-tiros-na-vila-planalto-em-brasilia-02112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:38:24.000Z"
-    },
-    {
-      "title": "Heineken® conquista três troféus no Effie Awards Latin America",
-      "url": "https://www.visitebrasilia.com.br/noticias/heineken-conquista-tres-trofeus-no-effie-awards-latin-america",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T21:00:24.000Z"
-    },
-    {
-      "title": "Novembro no Haná: rodízio japonês ganha um brinde especial às segundas e terças-feiras",
-      "url": "https://www.visitebrasilia.com.br/noticias/novembro-no-hana-rodizio-japones-ganha-um-brinde-especial-as-segundas-e-tercas-feiras",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T17:20:40.000Z"
-    },
-    {
-      "title": "Beth Goulart dá corpo e voz ao universo de Clarice Lispector no Gama",
-      "url": "https://www.visitebrasilia.com.br/noticias/beth-goulart-da-corpo-e-voz-ao-universo-de-clarice-lispector-no-gama",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T17:12:42.000Z"
-    },
-    {
-      "title": "Só Não Posso Dizer o Nome, novo filme de Helvécio Ratton, estreia nos cinemas em 12 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/so-nao-posso-dizer-o-nome-novo-filme-de-helvecio-ratton-estreia-nos-cinemas-em-12-de-novembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T15:53:48.000Z"
-    },
-    {
-      "title": "Perdas e recomeços, “Água Fresca para as Flores” chega ao Teatro Brasília Shopping de 6 a 8/11",
-      "url": "https://www.visitebrasilia.com.br/noticias/perdas-e-recomecos-agua-fresca-para-as-flores-chega-ao-teatro-brasilia-shopping-de-6-a-8-11",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T14:49:58.000Z"
-    },
-    {
-      "title": "Passo Largo celebra 15 anos de estrada com grande encontro musical no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/passo-largo-celebra-15-anos-de-estrada-com-grande-encontro-musical-no-clube-do-choro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T13:55:32.000Z"
-    },
-    {
-      "title": "Documentário resgata histórias de mulheres pioneiras que ajudaram a construir Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/documentario-resgata-historias-de-mulheres-pioneiras-que-ajudaram-a-construir-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T13:00:09.000Z"
-    },
-    {
-      "title": "Nova edição do Drama Club apresenta três espetáculos estudantis abertos ao público em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/nova-edicao-do-drama-club-apresenta-tres-espetaculos-estudantis-abertos-ao-publico-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T12:17:43.000Z"
+      "publishedAt": "2026-11-03T14:18:28.000Z"
     }
   ]
 }
