@@ -1,7 +1,91 @@
 {
-  "updatedAt": "2026-11-03T16:28:59.370Z",
+  "updatedAt": "2026-11-03T21:55:49.851Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "JK Shopping celebra o \"Precioso Natal\" com acendimento de árvore de 15 metros e programação para toda a família",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-o-precioso-natal-com-acendimento-de-arvore-de-15-metros-e-programacao-para-toda-a-familia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T19:53:36.000Z"
+    },
+    {
+      "title": "Grupo Paepalanthus encerra circulação pelo Distrito Federal com lançamento do livro e espetáculo gratuito \"Histórias da Boca da Noite\" na Biblioteca Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/grupo-paepalanthus-encerra-circulacao-pelo-distrito-federal-com-lancamento-do-livro-e-espetaculo-gratuito-historias-da-boca-da-noite-na-biblioteca-nacional",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T19:05:29.000Z"
+    },
+    {
+      "title": "É AMANHÃ: exposição gratuita de Lemuel Gandara em Brasília terá obras táteis e olfativas",
+      "url": "https://www.visitebrasilia.com.br/noticias/e-amanha-exposicao-gratuita-de-lemuel-gandara-em-brasilia-tera-obras-tateis-e-olfativas",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T18:28:52.000Z"
+    },
+    {
+      "title": "“Marrom, o Musical”: espetáculo sobre a trajetória de Alcione chega a Brasília neste final de semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-espetaculo-sobre-a-trajetoria-de-alcione-chega-a-brasilia-neste-final-de-semana",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T18:23:49.000Z"
+    },
+    {
+      "title": "Daniele Rodrigues transforma casas em mapas de afeto na exposição \"O Mundo na Palma da Mão\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/daniele-rodrigues-transforma-casas-em-mapas-de-afeto-na-exposicao-o-mundo-na-palma-da-mao",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T16:58:19.000Z"
+    },
+    {
+      "title": "Vila Planalto: polícia busca adolescente suspeito de matar trabalhador",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-procura-adolescente-suspeito-de-matar-funcionario-de-lanchonete-na-vila-planalto-df-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T17:11:45.000Z"
+    },
+    {
+      "title": "Ex-morador de Sobradinho é morto a tiros em briga em MG",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/ex-morador-de-sobradinho-df-e-morto-a-tiros-durante-discussao-em-minas-gerais-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T17:03:46.000Z"
+    },
+    {
+      "title": "Jardim ABC: acidente na DF-140 deixa um morto e um ferido",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/acidente-na-df-140-deixa-um-morto-e-uma-ferida-perto-do-jardim-abc-no-entorno-no-df-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T16:42:06.000Z"
+    },
+    {
+      "title": "Luziânia (GO): moradores sofrem com alagamentos",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-de-luziania-go-sofrem-com-alagamentos-e-lama-apos-obra-de-condominio-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T16:37:53.000Z"
+    },
+    {
+      "title": "Chega a Brasília corpo de mulher que morreu em Portugal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-brasileira-que-morreu-durante-lua-de-mel-em-portugal-e-trazido-para-brasilia-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T14:33:17.000Z"
+    },
+    {
+      "title": "Brasília recebe a 14ª Edição da Bienal Ibero-America de Arquitetura e Urbanismo",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-recebe-a-14a-edicao-da-bienal-ibero-america-de-arquitetura-e-urbanismo-15153840.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T11:30:10.000Z"
+    },
+    {
+      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
+      "url": "https://www.agendaculturalbrasilia.art.br/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T12:48:30.000Z"
+    },
     {
       "title": "É nesta sexta: encontro gratuito em Brasília reúne colecionadores e exposição especial sobre JK",
       "url": "https://www.visitebrasilia.com.br/noticias/e-nesta-sexta-encontro-gratuito-em-brasilia-reune-colecionadores-e-exposicao-especial-sobre-jk",
@@ -31,67 +115,18 @@
       "publishedAt": "2026-11-03T14:22:03.000Z"
     },
     {
-      "title": "Flávio Venturini e Samuel Rosa levam encontro da música mineira ao Festival Estilo Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/flavio-venturini-e-samuel-rosa-levam-encontro-da-musica-mineira-ao-festival-estilo-brasil",
+      "title": "Brincanto! apresenta espetáculo gratuito nesta sexta-feira, em Sobradinho",
+      "url": "https://www.visitebrasilia.com.br/noticias/brincanto-apresenta-espetaculo-gratuito-nesta-sexta-feira-em-sobradinho",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-03T14:09:45.000Z"
+      "publishedAt": "2026-11-03T21:03:30.000Z"
     },
     {
-      "title": "Defensoria Pública do DF oferece atendimento jurídico, médico e serviços de beleza para mulheres",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/defensoria-publica-do-df-oferece-atendimento-juridico-medico-e-servicos-de-beleza-para-mulheres-03112026/",
+      "title": "SETUR e IPEDF realizam pesquisa para conhecer o perfil dos turistas e fortalecer o turismo no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/setur-e-ipedf-realizam-pesquisa-para-conhecer-o-perfil-dos-turistas-e-fortalecer-o-turismo-no-distrito-federal",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T14:47:25.000Z"
-    },
-    {
-      "title": "Corpo de brasileira que morreu durante lua de mel em Portugal é trazido para Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-brasileira-que-morreu-durante-lua-de-mel-em-portugal-e-trazido-para-brasilia-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T14:33:17.000Z"
-    },
-    {
-      "title": "Sesc DF oferece exames e consultas gratuitas para homens no Novembro Azul",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/sesc-df-oferece-exames-e-consultas-gratuitas-para-homens-no-novembro-azul-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T13:43:45.000Z"
-    },
-    {
-      "title": "Mutirão oferece negociação de dívidas bancárias com descontos e prazos maiores",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/mutirao-oferece-negociacao-de-dividas-bancarias-com-descontos-e-prazos-maiores-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T13:38:27.000Z"
-    },
-    {
-      "title": "Poste cai em cima de carro após acidente e deixa prejuízo de R$ 47 mil em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/poste-cai-em-cima-de-carro-apos-acidente-e-deixa-prejuizo-de-r-47-mil-em-taguatinga-df-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T13:32:05.000Z"
-    },
-    {
-      "title": "Brasília recebe a 14ª Edição da Bienal Ibero-America de Arquitetura e Urbanismo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-recebe-a-14a-edicao-da-bienal-ibero-america-de-arquitetura-e-urbanismo-15153840.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T11:30:10.000Z"
-    },
-    {
-      "title": "QualificaDF abre 10 mil vagas para cursos gratuitos no DF; veja como se inscrever",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/qualificadf-abre-10-mil-vagas-para-cursos-gratuitos-no-df-veja-como-se-inscrever-15153820.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T11:24:06.000Z"
-    },
-    {
-      "title": "Coletivo Arar apresenta o espetáculo CALANGO na Cidade Estrutural",
-      "url": "https://www.visitebrasilia.com.br/noticias/coletivo-arar-apresenta-o-espetaculo-calango-na-cidade-estrutural",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-02T18:45:46.000Z"
+      "publishedAt": "2026-11-03T17:47:44.000Z"
     },
     {
       "title": "Café Som Viola celebra aniversário da Candangolândia com música e cultura popular no DF",
@@ -101,46 +136,11 @@
       "publishedAt": "2026-11-03T15:34:54.000Z"
     },
     {
-      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal",
+      "title": "Matrículas para 2027 nas escolas públicas do DF começam nesta terça-feira",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/matriculas-para-2027-nas-escolas-publicas-do-df-comecam-nesta-terca-feira-03112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T15:32:41.000Z"
-    },
-    {
-      "title": "Brasília Delas promove turismo, lazer e inclusão social para mulheres no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-delas-promove-turismo-lazer-e-inclusao-social-para-mulheres-no-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T13:12:41.000Z"
-    },
-    {
-      "title": "Mês da Consciência: O Bê a Bá do Berimbau leva tradição afro-indígena para escolas do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/mes-da-consciencia-o-be-a-ba-do-berimbau-leva-tradicao-afro-indigena-para-escolas-do-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-02T17:26:22.000Z"
-    },
-    {
-      "title": "Corrientes 348 Brasília oferece espaços exclusivos para confraternizações de fim de ano",
-      "url": "https://www.visitebrasilia.com.br/noticias/corrientes-348-brasilia-oferece-espacos-exclusivos-para-confraternizacoes-de-fim-de-ano",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T15:36:32.000Z"
-    },
-    {
-      "title": "Vinum Brasilis chega à 21ª edição com novas vinícolas, atrações e primeiro lançamento da linha Ícones",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinum-brasilis-chega-a-21-edicao-com-novas-vinicolas-atracoes-e-primeiro-lancamento-da-linha-icones",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T15:29:45.000Z"
-    },
-    {
-      "title": "Best-seller francês \"Água Fresca para as Flores\" chega ao Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/best-seller-frances-agua-fresca-para-as-flores-chega-ao-teatro-brasilia-shopping",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T14:18:28.000Z"
+      "publishedAt": "2026-11-03T16:38:48.000Z"
     }
   ]
 }
