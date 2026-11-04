@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T09:00:32.203Z",
+  "updatedAt": "2026-11-04T17:07:02.837Z",
   "validityHours": 24,
   "items": [
     {
@@ -10,11 +10,81 @@
       "publishedAt": "2026-11-03T19:05:29.000Z"
     },
     {
+      "title": "Desfile que celebra a beleza negra com inscrições abertas até 10 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/desfile-que-celebra-a-beleza-negra-com-inscricoes-abertas-ate-10-de-novembro",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-04T16:41:17.000Z"
+    },
+    {
+      "title": "Qualidade Etária encerra temporada com show gratuito nos Jardins Mangueiral",
+      "url": "https://www.visitebrasilia.com.br/noticias/qualidade-etaria-encerra-temporada-com-show-gratuito-nos-jardins-mangueiral",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-04T16:40:01.000Z"
+    },
+    {
+      "title": "Selvagens À Procura De Lei apresentam o show do álbum \"Pivete\" em Brasília na Infinu",
+      "url": "https://www.visitebrasilia.com.br/noticias/selvagens-a-procura-de-lei-apresentam-o-show-do-album-pivete-em-brasilia-na-infinu",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-04T14:25:45.000Z"
+    },
+    {
       "title": "JK Shopping celebra o \"Precioso Natal\" com acendimento de árvore de 15 metros e programação para toda a família",
       "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-o-precioso-natal-com-acendimento-de-arvore-de-15-metros-e-programacao-para-toda-a-familia",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-03T19:53:36.000Z"
+    },
+    {
+      "title": "Golpes: polícia investiga grupo suspeito de movimentar mais de R$ 115 milhões",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-investiga-grupo-suspeito-de-movimentar-mais-de-r-115-milhoes-em-golpes-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T16:33:33.000Z"
+    },
+    {
+      "title": "Primeira parcela do 13º salário injeta recursos no comércio; pagamento deve ser feito até 30 de novembro",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/primeira-parcela-do-13-salario-injeta-recursos-no-comercio-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T15:12:15.000Z"
+    },
+    {
+      "title": "Idoso recupera R$ 500 esquecidos em farmácia de Taguatinga Norte",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/idoso-recupera-r-500-esquecidos-em-farmacia-de-taguatinga-norte-df-03112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-03T17:58:15.000Z"
+    },
+    {
+      "title": "Polícia fecha oitava casa de prostituição na Asa Norte (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-fecha-oitava-casa-de-prostituicao-na-asa-norte-df-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T15:25:29.000Z"
+    },
+    {
+      "title": "Novo casal: romance de onças pintadas anima equipe do Zoológico de Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/novo-casal-romance-de-oncas-pintadas-anima-equipe-do-zoologico-de-brasilia-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T15:21:27.000Z"
+    },
+    {
+      "title": "São Paulo e Corinthians se enfrentam no Brasileirão",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sao-paulo-e-corinthians-se-enfrentam-no-brasileirao-15158170.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T14:19:48.000Z"
+    },
+    {
+      "title": "Homem é preso suspeito de manter mulher presa, medicá-la e cometer violência sexual no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-e-preso-suspeito-de-manter-mulher-presa-medica-la-e-cometer-violencia-sexual-no-df-15157484.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T11:40:15.000Z"
     },
     {
       "title": "É AMANHÃ: exposição gratuita de Lemuel Gandara em Brasília terá obras táteis e olfativas",
@@ -31,88 +101,25 @@
       "publishedAt": "2026-11-03T18:23:49.000Z"
     },
     {
-      "title": "Daniele Rodrigues transforma casas em mapas de afeto na exposição \"O Mundo na Palma da Mão\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/daniele-rodrigues-transforma-casas-em-mapas-de-afeto-na-exposicao-o-mundo-na-palma-da-mao",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T16:58:19.000Z"
-    },
-    {
-      "title": "Vila Planalto: polícia busca adolescente suspeito de matar trabalhador",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-procura-adolescente-suspeito-de-matar-funcionario-de-lanchonete-na-vila-planalto-df-03112026/",
+      "title": "Abrasel-DF marca presença no Alimenta Sebrae 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/abrasel-df-marca-presenca-no-alimenta-sebrae-2026",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T17:11:45.000Z"
+      "publishedAt": "2026-11-04T16:37:15.000Z"
     },
     {
-      "title": "Ex-morador de Sobradinho é morto a tiros em briga em MG",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/ex-morador-de-sobradinho-df-e-morto-a-tiros-durante-discussao-em-minas-gerais-03112026/",
+      "title": "TSHOP inaugura nova loja no Taguatinga Shopping e amplia presença do Grupo Thiago Imports no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/tshop-inaugura-nova-loja-no-taguatinga-shopping-e-amplia-presenca-do-grupo-thiago-imports-no-distrito-federal",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T17:03:46.000Z"
+      "publishedAt": "2026-11-04T15:14:28.000Z"
     },
     {
-      "title": "Jardim ABC: acidente na DF-140 deixa um morto e um ferido",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/acidente-na-df-140-deixa-um-morto-e-uma-ferida-perto-do-jardim-abc-no-entorno-no-df-03112026/",
+      "title": "Distrito Federal lidera interesse por Muay Thai no Brasil, aponta estudo",
+      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-lidera-interesse-por-muay-thai-no-brasil-aponta-estudo",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T16:42:06.000Z"
-    },
-    {
-      "title": "Luziânia (GO): moradores sofrem com alagamentos",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-de-luziania-go-sofrem-com-alagamentos-e-lama-apos-obra-de-condominio-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T16:37:53.000Z"
-    },
-    {
-      "title": "Chega a Brasília corpo de mulher que morreu em Portugal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-brasileira-que-morreu-durante-lua-de-mel-em-portugal-e-trazido-para-brasilia-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T14:33:17.000Z"
-    },
-    {
-      "title": "Brasília recebe a 14ª Edição da Bienal Ibero-America de Arquitetura e Urbanismo",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-recebe-a-14a-edicao-da-bienal-ibero-america-de-arquitetura-e-urbanismo-15153840.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T11:30:10.000Z"
-    },
-    {
-      "title": "Bragantino vence o Santos no Brasileirão",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bragantino-vence-o-santos-no-brasileirao-15155342.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T17:24:53.000Z"
-    },
-    {
-      "title": "É nesta sexta: encontro gratuito em Brasília reúne colecionadores e exposição especial sobre JK",
-      "url": "https://www.visitebrasilia.com.br/noticias/e-nesta-sexta-encontro-gratuito-em-brasilia-reune-colecionadores-e-exposicao-especial-sobre-jk",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T16:01:27.000Z"
-    },
-    {
-      "title": "CAIXA Cultural Brasília apresenta a exposição de Frans Krajcberg que transforma a devastação ambiental em arte",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-a-exposicao-de-frans-krajcberg-que-transforma-a-devastacao-ambiental-em-arte",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T15:31:22.000Z"
-    },
-    {
-      "title": "Prêmio MD'Azevedo abre exposição ao público no Centro de Artes a partir de 03/11",
-      "url": "https://www.visitebrasilia.com.br/noticias/premio-md-azevedo-abre-exposicao-ao-publico-no-centro-de-artes-a-partir-de-03-11",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T15:28:21.000Z"
-    },
-    {
-      "title": "Clube do Choro de Brasília reúne feijoada e samba em programação especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/clube-do-choro-de-brasilia-reune-feijoada-e-samba-em-programacao-especial",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T14:22:03.000Z"
+      "publishedAt": "2026-11-04T12:52:17.000Z"
     },
     {
       "title": "Brincanto! apresenta espetáculo gratuito nesta sexta-feira, em Sobradinho",
@@ -129,18 +136,11 @@
       "publishedAt": "2026-11-03T17:47:44.000Z"
     },
     {
-      "title": "Café Som Viola celebra aniversário da Candangolândia com música e cultura popular no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/cafe-som-viola-celebra-aniversario-da-candangolandia-com-musica-e-cultura-popular-no-df",
+      "title": "Enxame de marimbondos em poste de energia preocupa moradores de Sobradinho 2 (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/enxame-de-marimbondos-em-poste-de-energia-preocupa-moradores-de-sobradinho-2-df-04112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T15:34:54.000Z"
-    },
-    {
-      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T15:32:41.000Z"
+      "publishedAt": "2026-11-04T15:01:43.000Z"
     }
   ]
 }
