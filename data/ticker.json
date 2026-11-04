@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-03T21:55:49.851Z",
+  "updatedAt": "2026-11-04T02:00:22.533Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Grupo Paepalanthus encerra temporada no DF com espetáculo gratuito e lançamento de livro na Biblioteca Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/grupo-paepalanthus-encerra-circulacao-pelo-distrito-federal-com-lancamento-do-livro-e-espetaculo-gratuito-historias-da-boca-da-noite-na-biblioteca-nacional",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-03T19:05:29.000Z"
+    },
     {
       "title": "JK Shopping celebra o \"Precioso Natal\" com acendimento de árvore de 15 metros e programação para toda a família",
       "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-o-precioso-natal-com-acendimento-de-arvore-de-15-metros-e-programacao-para-toda-a-familia",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-03T19:53:36.000Z"
-    },
-    {
-      "title": "Grupo Paepalanthus encerra circulação pelo Distrito Federal com lançamento do livro e espetáculo gratuito \"Histórias da Boca da Noite\" na Biblioteca Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/grupo-paepalanthus-encerra-circulacao-pelo-distrito-federal-com-lancamento-do-livro-e-espetaculo-gratuito-historias-da-boca-da-noite-na-biblioteca-nacional",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T19:05:29.000Z"
     },
     {
       "title": "É AMANHÃ: exposição gratuita de Lemuel Gandara em Brasília terá obras táteis e olfativas",
@@ -80,11 +80,11 @@
       "publishedAt": "2026-11-03T11:30:10.000Z"
     },
     {
-      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
-      "url": "https://www.agendaculturalbrasilia.art.br/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal/",
+      "title": "Bragantino vence o Santos no Brasileirão",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bragantino-vence-o-santos-no-brasileirao-15155342.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T12:48:30.000Z"
+      "publishedAt": "2026-11-03T17:24:53.000Z"
     },
     {
       "title": "É nesta sexta: encontro gratuito em Brasília reúne colecionadores e exposição especial sobre JK",
@@ -136,11 +136,11 @@
       "publishedAt": "2026-11-03T15:34:54.000Z"
     },
     {
-      "title": "Matrículas para 2027 nas escolas públicas do DF começam nesta terça-feira",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/matriculas-para-2027-nas-escolas-publicas-do-df-comecam-nesta-terca-feira-03112026/",
+      "title": "Circo movido a energia solar leva arte, diversão e consciência ambiental a espaços públicos do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/circo-movido-a-energia-solar-leva-arte-diversao-e-consciencia-ambiental-a-espacos-publicos-do-distrito-federal",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T16:38:48.000Z"
+      "publishedAt": "2026-11-03T15:32:41.000Z"
     }
   ]
 }
