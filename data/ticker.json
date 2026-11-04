@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-11-04T17:07:02.837Z",
+  "updatedAt": "2026-11-04T22:47:59.595Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Grupo Paepalanthus encerra temporada no DF com espetáculo gratuito e lançamento de livro na Biblioteca Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/grupo-paepalanthus-encerra-circulacao-pelo-distrito-federal-com-lancamento-do-livro-e-espetaculo-gratuito-historias-da-boca-da-noite-na-biblioteca-nacional",
+      "title": "Espetáculo A Tecelã das Noites leva às escolas do DF reflexão sobre violência contra as mulheres",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-a-tecela-das-noites-leva-as-escolas-do-df-reflexao-sobre-violencia-contra-as-mulheres",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-03T19:05:29.000Z"
+      "publishedAt": "2026-11-04T18:22:27.000Z"
+    },
+    {
+      "title": "Rayza de Mina celebra a negritude e a ancestralidade na exposição “OJÚ — Visagem de Outros Tempos”",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-oju-visagem-de-outros-tempos-rayza-de-mina-transforma-o-olhar-em-encontro-com-a-negritude-e-a-ancestralidade",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-04T18:30:42.000Z"
+    },
+    {
+      "title": "Catetinho celebra 70 anos de existência com programação cultural gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/catetinho-celebra-70-anos-de-existencia-com-programacao-cultural-gratuita",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-04T17:34:13.000Z"
     },
     {
       "title": "Desfile que celebra a beleza negra com inscrições abertas até 10 de novembro",
@@ -24,20 +38,6 @@
       "publishedAt": "2026-11-04T16:40:01.000Z"
     },
     {
-      "title": "Selvagens À Procura De Lei apresentam o show do álbum \"Pivete\" em Brasília na Infinu",
-      "url": "https://www.visitebrasilia.com.br/noticias/selvagens-a-procura-de-lei-apresentam-o-show-do-album-pivete-em-brasilia-na-infinu",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-04T14:25:45.000Z"
-    },
-    {
-      "title": "JK Shopping celebra o \"Precioso Natal\" com acendimento de árvore de 15 metros e programação para toda a família",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-o-precioso-natal-com-acendimento-de-arvore-de-15-metros-e-programacao-para-toda-a-familia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T19:53:36.000Z"
-    },
-    {
       "title": "Golpes: polícia investiga grupo suspeito de movimentar mais de R$ 115 milhões",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-investiga-grupo-suspeito-de-movimentar-mais-de-r-115-milhoes-em-golpes-04112026/",
       "tipo": "noticia",
@@ -45,28 +45,28 @@
       "publishedAt": "2026-11-04T16:33:33.000Z"
     },
     {
-      "title": "Primeira parcela do 13º salário injeta recursos no comércio; pagamento deve ser feito até 30 de novembro",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/primeira-parcela-do-13-salario-injeta-recursos-no-comercio-04112026/",
+      "title": "Seguestro: motorista de app é resgatado após três dias",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-de-app-e-resgatado-de-cativeiro-apos-tres-dias-de-sequestro-no-novo-gama-go-04112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T15:12:15.000Z"
+      "publishedAt": "2026-11-04T17:21:32.000Z"
     },
     {
-      "title": "Idoso recupera R$ 500 esquecidos em farmácia de Taguatinga Norte",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/idoso-recupera-r-500-esquecidos-em-farmacia-de-taguatinga-norte-df-03112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-03T17:58:15.000Z"
-    },
-    {
-      "title": "Polícia fecha oitava casa de prostituição na Asa Norte (DF)",
+      "title": "Polícia fecha oitava casa de prostituição na Asa Norte",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-fecha-oitava-casa-de-prostituicao-na-asa-norte-df-04112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-04T15:25:29.000Z"
     },
     {
-      "title": "Novo casal: romance de onças pintadas anima equipe do Zoológico de Brasília",
+      "title": "Bombeiros passam 10h retirando árvore que caiu no Cruzeiro",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiros-trabalham-por-mais-de-10-horas-na-retirada-de-arvore-que-caiu-no-cruzeiro-df-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T16:14:00.000Z"
+    },
+    {
+      "title": "Romance de onças pintadas anima equipe do Zoológico",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/novo-casal-romance-de-oncas-pintadas-anima-equipe-do-zoologico-de-brasilia-04112026/",
       "tipo": "noticia",
       "urgente": false,
@@ -87,18 +87,18 @@
       "publishedAt": "2026-11-04T11:40:15.000Z"
     },
     {
-      "title": "É AMANHÃ: exposição gratuita de Lemuel Gandara em Brasília terá obras táteis e olfativas",
-      "url": "https://www.visitebrasilia.com.br/noticias/e-amanha-exposicao-gratuita-de-lemuel-gandara-em-brasilia-tera-obras-tateis-e-olfativas",
-      "tipo": "evento",
+      "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas da zona rural do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/contos-nas-escolas-de-campo-leva-teatro-de-bonecos-a-escolas-da-zona-rural-do-distrito-federal",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T18:28:52.000Z"
+      "publishedAt": "2026-11-04T19:51:05.000Z"
     },
     {
-      "title": "“Marrom, o Musical”: espetáculo sobre a trajetória de Alcione chega a Brasília neste final de semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/marrom-o-musical-espetaculo-sobre-a-trajetoria-de-alcione-chega-a-brasilia-neste-final-de-semana",
-      "tipo": "evento",
+      "title": "Agenda cultural infantil: \"Águas e Sereias\" leva história sobre Cerrado e cultura popular para bibliotecas do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/agenda-cultural-infantil-aguas-e-sereias-leva-historia-sobre-cerrado-e-cultura-popular-para-bibliotecas-do-df",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T18:23:49.000Z"
+      "publishedAt": "2026-11-04T17:57:58.000Z"
     },
     {
       "title": "Abrasel-DF marca presença no Alimenta Sebrae 2026",
@@ -108,39 +108,39 @@
       "publishedAt": "2026-11-04T16:37:15.000Z"
     },
     {
-      "title": "TSHOP inaugura nova loja no Taguatinga Shopping e amplia presença do Grupo Thiago Imports no Distrito Federal",
+      "title": "TSHOP inaugura loja no Taguatinga Shopping e amplia atuação do Grupo Thiago Imports no DF",
       "url": "https://www.visitebrasilia.com.br/noticias/tshop-inaugura-nova-loja-no-taguatinga-shopping-e-amplia-presenca-do-grupo-thiago-imports-no-distrito-federal",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-04T15:14:28.000Z"
     },
     {
-      "title": "Distrito Federal lidera interesse por Muay Thai no Brasil, aponta estudo",
-      "url": "https://www.visitebrasilia.com.br/noticias/distrito-federal-lidera-interesse-por-muay-thai-no-brasil-aponta-estudo",
+      "title": "Primeira parcela do 13º salário injeta recursos no comércio; pagamento deve ser feito até 30 de novembro",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/primeira-parcela-do-13-salario-injeta-recursos-no-comercio-04112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T12:52:17.000Z"
+      "publishedAt": "2026-11-04T15:12:15.000Z"
     },
     {
-      "title": "Brincanto! apresenta espetáculo gratuito nesta sexta-feira, em Sobradinho",
-      "url": "https://www.visitebrasilia.com.br/noticias/brincanto-apresenta-espetaculo-gratuito-nesta-sexta-feira-em-sobradinho",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-03T21:03:30.000Z"
-    },
-    {
-      "title": "SETUR e IPEDF realizam pesquisa para conhecer o perfil dos turistas e fortalecer o turismo no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/setur-e-ipedf-realizam-pesquisa-para-conhecer-o-perfil-dos-turistas-e-fortalecer-o-turismo-no-distrito-federal",
+      "title": "Orçamento do DF para 2027 é estimado em R$ 80 bilhões; proposta é enviada à CLDF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/orcamento-do-df-para-2027-e-estimado-em-r-80-bilhoes-proposta-e-enviada-a-cldf-04112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-03T17:47:44.000Z"
+      "publishedAt": "2026-11-04T13:55:21.000Z"
     },
     {
-      "title": "Enxame de marimbondos em poste de energia preocupa moradores de Sobradinho 2 (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/enxame-de-marimbondos-em-poste-de-energia-preocupa-moradores-de-sobradinho-2-df-04112026/",
+      "title": "Chuva reforça alerta para prevenção da dengue no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuva-reforca-alerta-para-prevencao-da-dengue-no-distrito-federal-04112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T15:01:43.000Z"
+      "publishedAt": "2026-11-04T13:37:47.000Z"
+    },
+    {
+      "title": "Iluminação pública: DF cria canais para denúncias de crimes e estragos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-disponibiliza-canais-para-denuncias-de-vandalismo-furtos-e-estragos-na-iluminacao-publica-04112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-04T14:45:29.000Z"
     }
   ]
 }
