@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-05T18:55:08.524Z",
+  "updatedAt": "2026-11-05T23:58:20.529Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "DF Plaza Shopping traz programação de teatros infantis e dá início à temporada de Natal",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-traz-programacao-de-teatros-infantis-e-da-inicio-a-temporada-de-natal",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:36:55.000Z"
+    },
+    {
+      "title": "Exposição \"Aí A Porta Abriu\" segue em cartaz na Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-ai-a-porta-abriu-segue-em-cartaz-na-ceilandia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:35:26.000Z"
+    },
     {
       "title": "Claire Michael Group faz show especial no Clube do Choro, 10 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/claire-michael-group-faz-show-especial-no-clube-do-choro-10-de-novembro",
@@ -24,25 +38,18 @@
       "publishedAt": "2026-11-05T14:31:27.000Z"
     },
     {
-      "title": "Documentário \"Nação Ubuntu – A Voz dos Silenciados\" terá pré-estreia gratuita no Distrito Federal no dia 10 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/documentario-nacao-ubuntu-a-voz-dos-silenciados-tera-pre-estreia-gratuita-no-distrito-federal-no-dia-10-de-novembro",
+      "title": "GDF quer BRB reconhecido como vítima do Master e pede R$ 2,2 bilhões bloqueados",
+      "url": "https://noticias.r7.com/brasilia/gdf-quer-brb-reconhecido-como-vitima-do-master-e-pede-r-22-bilhoes-bloqueados-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T13:31:23.000Z"
+      "publishedAt": "2026-11-05T21:27:11.269Z"
     },
     {
-      "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas da zona rural do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/contos-nas-escolas-de-campo-leva-teatro-de-bonecos-a-escolas-da-zona-rural-do-distrito-federal",
+      "title": "R$ 1 bilhão movimentado: operação investiga esquema de apostas ilegais",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/operacao-investiga-esquema-de-apostas-ilegais-com-movimentacao-de-r-1-bilhao-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T19:51:05.000Z"
-    },
-    {
-      "title": "TJDFT promove mutirão para negociação de dívidas com a CAESB",
-      "url": "https://noticias.r7.com/brasilia/tjdft-promove-mutirao-para-negociacao-de-dividas-com-a-caesb-05112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:53:15.747Z"
+      "publishedAt": "2026-11-05T16:36:02.000Z"
     },
     {
       "title": "Desvio irregular em calçada continua aberto e preocupa moradores de Samambaia (DF)",
@@ -52,18 +59,46 @@
       "publishedAt": "2026-11-05T14:47:03.000Z"
     },
     {
-      "title": "DF confirma 23 casos de Mpox em 2026 e especialistas alertam para aumento de registros",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-confirma-23-casos-de-mpox-em-2026-e-especialistas-alertam-para-aumento-de-registros-05112026/",
+      "title": "Durigan diz que juros estão ‘muito ruins’ e defende ações ‘sustentáveis’",
+      "url": "https://noticias.r7.com/brasilia/durigan-diz-que-juros-atuais-sao-muito-ruins-para-economia-e-defende-medidas-sustentaveis-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T14:38:24.000Z"
+      "publishedAt": "2026-11-05T15:35:42.351Z"
     },
     {
-      "title": "Segundo sorteio do Nota Legal nesta quinta-feira distribui até R$ 1 milhão em prêmios",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/segundo-sorteio-do-nota-legal-nesta-quinta-feira-distribui-ate-r-1-milhao-em-premios-05112026/",
+      "title": "Comissão vai apurar impactos da crise no Paraguai para o Brasil",
+      "url": "https://noticias.r7.com/brasilia/comissao-do-senado-vai-apurar-impactos-da-crise-no-paraguai-para-o-brasil-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T13:34:24.000Z"
+      "publishedAt": "2026-11-05T19:21:26.053Z"
+    },
+    {
+      "title": "Documentário \"Nação Ubuntu – A Voz dos Silenciados\" terá pré-estreia gratuita no Distrito Federal no dia 10 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/documentario-nacao-ubuntu-a-voz-dos-silenciados-tera-pre-estreia-gratuita-no-distrito-federal-no-dia-10-de-novembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T13:31:23.000Z"
+    },
+    {
+      "title": "Os clientes da United agora podem ouvir suas músicas, podcasts e vídeos favoritos do Spotify nas telas dos assentos, compatíveis com a Starlink",
+      "url": "https://www.visitebrasilia.com.br/noticias/os-clientes-da-united-agora-podem-ouvir-suas-musicas-podcasts-e-videos-favoritos-do-spotify-nas-telas-dos-assentos-compativeis-com-a-starlink",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:56:21.000Z"
+    },
+    {
+      "title": "Sucesso de público, \"O Veneno do Teatro\" chega às últimas apresentações em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sucesso-de-publico-o-veneno-do-teatro-chega-as-ultimas-apresentacoes-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:34:11.000Z"
+    },
+    {
+      "title": "Natal com tema Quebra-Nozes, apresentações de balé e cenários interativos chega ao Taguatinga Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/natal-com-tema-quebra-nozes-apresentacoes-de-bale-e-cenarios-interativos-chega-ao-taguatinga-shopping",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:31:39.000Z"
     },
     {
       "title": "Tradicional licor português Ginja Mariquinhas chega ao Brasil",
@@ -106,41 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-05T15:44:41.000Z"
-    },
-    {
-      "title": "Ricco Burger amplia cardápio e passa a oferecer café da manhã no Aeroporto de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/ricco-burger-amplia-cardapio-e-passa-a-oferecer-cafe-da-manha-no-aeroporto-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:40:11.000Z"
-    },
-    {
-      "title": "Sexteto Pro Arte faz estreia mundial de composição brasileira em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sexteto-pro-arte-faz-estreia-mundial-de-composicao-brasileira-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:38:45.000Z"
-    },
-    {
-      "title": "Capoeira, brincadeiras de rua e oficinas gratuitas marcam o novembro da Consciência Negra no CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/capoeira-brincadeiras-de-rua-e-oficinas-gratuitas-marcam-o-novembro-da-consciencia-negra-no-ccbb-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:37:44.000Z"
-    },
-    {
-      "title": "Tá chegando: Pokémon completa 30 anos e leva público jovem ao Encontro de Colecionadores",
-      "url": "https://www.visitebrasilia.com.br/noticias/ta-chegando-pokemon-completa-30-anos-e-leva-publico-jovem-ao-encontro-de-colecionadores",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:35:13.000Z"
-    },
-    {
-      "title": "Cia. Dos à Deux chega às últimas apresentações de CONFUZO no CCBB Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/cia-dos-a-deux-chega-as-ultimas-apresentacoes-de-confuzo-no-ccbb-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:33:59.000Z"
     }
   ]
 }
