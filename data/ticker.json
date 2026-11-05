@@ -1,90 +1,34 @@
 {
-  "updatedAt": "2026-11-05T11:23:49.904Z",
+  "updatedAt": "2026-11-05T18:55:08.524Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Espetáculo A Tecelã das Noites leva às escolas do DF reflexão sobre violência contra as mulheres",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-a-tecela-das-noites-leva-as-escolas-do-df-reflexao-sobre-violencia-contra-as-mulheres",
+      "title": "Claire Michael Group faz show especial no Clube do Choro, 10 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/claire-michael-group-faz-show-especial-no-clube-do-choro-10-de-novembro",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-04T18:22:27.000Z"
+      "publishedAt": "2026-11-05T15:38:40.000Z"
     },
     {
-      "title": "Rayza de Mina celebra a negritude e a ancestralidade na exposição “OJÚ — Visagem de Outros Tempos”",
-      "url": "https://www.visitebrasilia.com.br/noticias/em-oju-visagem-de-outros-tempos-rayza-de-mina-transforma-o-olhar-em-encontro-com-a-negritude-e-a-ancestralidade",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-04T18:30:42.000Z"
-    },
-    {
-      "title": "Catetinho celebra 70 anos de existência com programação cultural gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/catetinho-celebra-70-anos-de-existencia-com-programacao-cultural-gratuita",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-04T17:34:13.000Z"
-    },
-    {
-      "title": "Desfile que celebra a beleza negra com inscrições abertas até 10 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/desfile-que-celebra-a-beleza-negra-com-inscricoes-abertas-ate-10-de-novembro",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-04T16:41:17.000Z"
-    },
-    {
-      "title": "Qualidade Etária encerra temporada com show gratuito nos Jardins Mangueiral",
-      "url": "https://www.visitebrasilia.com.br/noticias/qualidade-etaria-encerra-temporada-com-show-gratuito-nos-jardins-mangueiral",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-04T16:40:01.000Z"
-    },
-    {
-      "title": "Golpes: polícia investiga grupo suspeito de movimentar mais de R$ 115 milhões",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-investiga-grupo-suspeito-de-movimentar-mais-de-r-115-milhoes-em-golpes-04112026/",
+      "title": "Programa Meu Pedaço do Brasil percorre Distrito Federal em nova temporada",
+      "url": "https://www.visitebrasilia.com.br/noticias/programa-meu-pedaco-do-brasil-percorre-distrito-federal-em-nova-temporada",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T16:33:33.000Z"
+      "publishedAt": "2026-11-05T15:42:01.000Z"
     },
     {
-      "title": "Seguestro: motorista de app é resgatado após três dias",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/motorista-de-app-e-resgatado-de-cativeiro-apos-tres-dias-de-sequestro-no-novo-gama-go-04112026/",
+      "title": "Projeto Re Soar recebe DJ Kalm para encontro sobre protagonismo feminino e cultura musical periférica no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-re-soar-recebe-dj-kalm-para-encontro-sobre-protagonismo-feminino-e-cultura-musical-periferica-no-df",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T17:21:32.000Z"
+      "publishedAt": "2026-11-05T14:31:27.000Z"
     },
     {
-      "title": "Polícia fecha oitava casa de prostituição na Asa Norte",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-fecha-oitava-casa-de-prostituicao-na-asa-norte-df-04112026/",
+      "title": "Documentário \"Nação Ubuntu – A Voz dos Silenciados\" terá pré-estreia gratuita no Distrito Federal no dia 10 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/documentario-nacao-ubuntu-a-voz-dos-silenciados-tera-pre-estreia-gratuita-no-distrito-federal-no-dia-10-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T15:25:29.000Z"
-    },
-    {
-      "title": "Bombeiros passam 10h retirando árvore que caiu no Cruzeiro",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiros-trabalham-por-mais-de-10-horas-na-retirada-de-arvore-que-caiu-no-cruzeiro-df-04112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-04T16:14:00.000Z"
-    },
-    {
-      "title": "Romance de onças pintadas anima equipe do Zoológico",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/novo-casal-romance-de-oncas-pintadas-anima-equipe-do-zoologico-de-brasilia-04112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-04T15:21:27.000Z"
-    },
-    {
-      "title": "São Paulo e Corinthians se enfrentam no Brasileirão",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/sao-paulo-e-corinthians-se-enfrentam-no-brasileirao-15158170.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-04T14:19:48.000Z"
-    },
-    {
-      "title": "Homem é preso suspeito de manter mulher presa, medicá-la e cometer violência sexual no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/homem-e-preso-suspeito-de-manter-mulher-presa-medica-la-e-cometer-violencia-sexual-no-df-15157484.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-04T11:40:15.000Z"
+      "publishedAt": "2026-11-05T13:31:23.000Z"
     },
     {
       "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas da zona rural do Distrito Federal",
@@ -94,53 +38,109 @@
       "publishedAt": "2026-11-04T19:51:05.000Z"
     },
     {
-      "title": "Agenda cultural infantil: \"Águas e Sereias\" leva história sobre Cerrado e cultura popular para bibliotecas do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/agenda-cultural-infantil-aguas-e-sereias-leva-historia-sobre-cerrado-e-cultura-popular-para-bibliotecas-do-df",
+      "title": "TJDFT promove mutirão para negociação de dívidas com a CAESB",
+      "url": "https://noticias.r7.com/brasilia/tjdft-promove-mutirao-para-negociacao-de-dividas-com-a-caesb-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T17:57:58.000Z"
+      "publishedAt": "2026-11-05T14:53:15.747Z"
     },
     {
-      "title": "Abrasel-DF marca presença no Alimenta Sebrae 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/abrasel-df-marca-presenca-no-alimenta-sebrae-2026",
+      "title": "Desvio irregular em calçada continua aberto e preocupa moradores de Samambaia (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/desvio-irregular-em-calcada-continua-aberto-e-preocupa-moradores-de-samambaia-df-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T16:37:15.000Z"
+      "publishedAt": "2026-11-05T14:47:03.000Z"
     },
     {
-      "title": "TSHOP inaugura loja no Taguatinga Shopping e amplia atuação do Grupo Thiago Imports no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/tshop-inaugura-nova-loja-no-taguatinga-shopping-e-amplia-presenca-do-grupo-thiago-imports-no-distrito-federal",
+      "title": "DF confirma 23 casos de Mpox em 2026 e especialistas alertam para aumento de registros",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-confirma-23-casos-de-mpox-em-2026-e-especialistas-alertam-para-aumento-de-registros-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T15:14:28.000Z"
+      "publishedAt": "2026-11-05T14:38:24.000Z"
     },
     {
-      "title": "Primeira parcela do 13º salário injeta recursos no comércio; pagamento deve ser feito até 30 de novembro",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/primeira-parcela-do-13-salario-injeta-recursos-no-comercio-04112026/",
+      "title": "Segundo sorteio do Nota Legal nesta quinta-feira distribui até R$ 1 milhão em prêmios",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/segundo-sorteio-do-nota-legal-nesta-quinta-feira-distribui-ate-r-1-milhao-em-premios-05112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T15:12:15.000Z"
+      "publishedAt": "2026-11-05T13:34:24.000Z"
     },
     {
-      "title": "Orçamento do DF para 2027 é estimado em R$ 80 bilhões; proposta é enviada à CLDF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/orcamento-do-df-para-2027-e-estimado-em-r-80-bilhoes-proposta-e-enviada-a-cldf-04112026/",
+      "title": "Tradicional licor português Ginja Mariquinhas chega ao Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-licor-portugues-ginja-mariquinhas-chega-ao-brasil",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T13:55:21.000Z"
+      "publishedAt": "2026-11-05T16:56:01.000Z"
     },
     {
-      "title": "Chuva reforça alerta para prevenção da dengue no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuva-reforca-alerta-para-prevencao-da-dengue-no-distrito-federal-04112026/",
+      "title": "Sarau Literomusical celebra Jubileu de Ouro da ALMUB na Biblioteca Demonstrativa",
+      "url": "https://www.visitebrasilia.com.br/noticias/sarau-literomusical-celebra-jubileu-de-ouro-da-almub-na-biblioteca-demonstrativa",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T13:37:47.000Z"
+      "publishedAt": "2026-11-05T16:44:24.000Z"
     },
     {
-      "title": "Iluminação pública: DF cria canais para denúncias de crimes e estragos",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/df-disponibiliza-canais-para-denuncias-de-vandalismo-furtos-e-estragos-na-iluminacao-publica-04112026/",
+      "title": "Brasília recebe corrida com zumbis, obstáculos e festa neste sábado (7)",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-corrida-com-zumbis-obstaculos-e-festa-neste-sabado-7",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-05T16:23:43.000Z"
+    },
+    {
+      "title": "Cine Drive-In divulga filmes em cartaz para a semana de 05 a 11 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-filmes-em-cartaz-para-a-semana-de-05-a-11-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-04T14:45:29.000Z"
+      "publishedAt": "2026-11-05T16:01:52.000Z"
+    },
+    {
+      "title": "Natal das Conexões: Alameda Shopping aposta na emoção de estar junto para celebrar o fim de ano",
+      "url": "https://www.visitebrasilia.com.br/noticias/natal-das-conexoes-alameda-shopping-aposta-na-emocao-de-estar-junto-para-celebrar-o-fim-de-ano",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T15:48:08.000Z"
+    },
+    {
+      "title": "Papai Noel rege a abertura do Natal no Boulevard Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/papai-noel-rege-a-abertura-do-natal-no-boulevard-shopping",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T15:44:41.000Z"
+    },
+    {
+      "title": "Ricco Burger amplia cardápio e passa a oferecer café da manhã no Aeroporto de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/ricco-burger-amplia-cardapio-e-passa-a-oferecer-cafe-da-manha-no-aeroporto-de-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T14:40:11.000Z"
+    },
+    {
+      "title": "Sexteto Pro Arte faz estreia mundial de composição brasileira em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/sexteto-pro-arte-faz-estreia-mundial-de-composicao-brasileira-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T14:38:45.000Z"
+    },
+    {
+      "title": "Capoeira, brincadeiras de rua e oficinas gratuitas marcam o novembro da Consciência Negra no CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/capoeira-brincadeiras-de-rua-e-oficinas-gratuitas-marcam-o-novembro-da-consciencia-negra-no-ccbb-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T14:37:44.000Z"
+    },
+    {
+      "title": "Tá chegando: Pokémon completa 30 anos e leva público jovem ao Encontro de Colecionadores",
+      "url": "https://www.visitebrasilia.com.br/noticias/ta-chegando-pokemon-completa-30-anos-e-leva-publico-jovem-ao-encontro-de-colecionadores",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T14:35:13.000Z"
+    },
+    {
+      "title": "Cia. Dos à Deux chega às últimas apresentações de CONFUZO no CCBB Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/cia-dos-a-deux-chega-as-ultimas-apresentacoes-de-confuzo-no-ccbb-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T14:33:59.000Z"
     }
   ]
 }
