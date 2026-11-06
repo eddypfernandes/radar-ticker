@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:31:25.448Z",
+  "updatedAt": "2026-11-06T20:44:42.995Z",
   "validityHours": 24,
   "items": [
     {
@@ -10,60 +10,60 @@
       "publishedAt": "2026-11-05T21:36:55.000Z"
     },
     {
-      "title": "Exposição \"Aí A Porta Abriu\" segue em cartaz na Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-ai-a-porta-abriu-segue-em-cartaz-na-ceilandia",
+      "title": "Alimenta 2026 tem programação cultural gratuita nesta sexta e sábado no Parque da Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-tem-programacao-cultural-gratuita-nesta-sexta-e-sabado-no-parque-da-cidade",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-05T21:35:26.000Z"
+      "publishedAt": "2026-11-06T20:40:17.000Z"
     },
     {
-      "title": "Claire Michael Group faz show especial no Clube do Choro, 10 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/claire-michael-group-faz-show-especial-no-clube-do-choro-10-de-novembro",
+      "title": "MetaLab celebra um ano e mais de 2.600 proﬁssionais formados com evento gratuito em Brasília:",
+      "url": "https://www.visitebrasilia.com.br/noticias/metalab-celebra-um-ano-e-mais-de-2-600-pro-ssionais-formados-com-evento-gratuito-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-05T15:38:40.000Z"
+      "publishedAt": "2026-11-06T20:02:38.000Z"
     },
     {
-      "title": "Sesc-DF oferece serviços gratuitos de bem-estar no Alimenta 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/sesc-df-oferece-servicos-gratuitos-de-bem-estar-no-alimenta-2026",
-      "tipo": "noticia",
+      "title": "CAIXA Cultural Brasília apresenta a exposição Frans Krajcberg - Uma Semântica da Devastação",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-a-exposicao-frans-krajcberg-uma-semantica-da-devastacao",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-06T11:29:10.000Z"
+      "publishedAt": "2026-11-06T16:45:16.000Z"
     },
     {
-      "title": "Programa Meu Pedaço do Brasil percorre Distrito Federal em nova temporada",
-      "url": "https://www.visitebrasilia.com.br/noticias/programa-meu-pedaco-do-brasil-percorre-distrito-federal-em-nova-temporada",
-      "tipo": "noticia",
+      "title": "Festival Cores e Sabores do Brasil chega ao Plano Piloto neste domingo (8)",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-cores-e-sabores-do-brasil-chega-ao-plano-piloto-neste-domingo-8",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-05T15:42:01.000Z"
+      "publishedAt": "2026-11-06T16:34:45.000Z"
     },
     {
-      "title": "R$ 1 bilhão movimentado: operação investiga esquema de apostas ilegais",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/operacao-investiga-esquema-de-apostas-ilegais-com-movimentacao-de-r-1-bilhao-05112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T16:36:02.000Z"
-    },
-    {
-      "title": "Doze por Oito, Rick e Rangel e Benzadeus: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/doze-por-oito-rick-e-rangel-e-benzadeus-confira-os-eventos-do-fim-de-semana-no-df-06112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-06T14:07:26.552Z"
-    },
-    {
-      "title": "Campanha Novembro Azul alerta para diagnóstico precoce do câncer de próstata",
+      "title": "Entenda importância da detecção precoce do câncer de próstata",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/campanha-novembro-azul-alerta-para-diagnostico-precoce-do-cancer-de-prostata-06112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-06T13:04:39.000Z"
     },
     {
-      "title": "Autorização para transporte escolar no DF passa a ter validade de 30 anos",
+      "title": "Autorização para escolar no DF passa a valer por 30 anos",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/autorizacao-para-transporte-escolar-no-df-passa-a-ter-validade-de-30-anos-06112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-06T12:59:47.000Z"
+    },
+    {
+      "title": "Menina de 9 anos é picada por escorpião dentro de sala de aula em escola pública de Ceilândia",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/menina-de-nove-anos-e-picada-por-escorpiao-dentro-de-sala-de-aula-em-ceilandia-df-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:36:38.000Z"
+    },
+    {
+      "title": "Doze por Oito, Rick e Rangel e Benzadeus: confira a agenda para este fim de semana no Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/doze-por-oito-rick-e-rangel-e-benzadeus-confira-os-eventos-do-fim-de-semana-no-df-06112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-06T15:59:17.114Z"
     },
     {
       "title": "Alimenta 2026 reúne mais de 260 expositores e 100 palestrantes em Brasília",
@@ -80,67 +80,67 @@
       "publishedAt": "2026-11-06T11:36:51.000Z"
     },
     {
-      "title": "Brasília recebe Arena Robótica 2026 com batalhas de robôs e atrações gratuitas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/brasilia-recebe-arena-robotica-2026-com-batalhas-de-robos-e-atracoes-gratuitas-06112026/",
+      "title": "Palmeiras goleia o Remo por 6 a 1",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/palmeiras-goleia-o-remo-por-6-a-1-15165505.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T12:46:21.000Z"
+      "publishedAt": "2026-11-06T15:32:23.000Z"
     },
     {
-      "title": "Celina Leão cancela viagem ao exterior e marca reunião com secretários em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/celina-leao-cancela-viagem-ao-exterior-e-marca-reuniao-com-secretarios-em-brasilia-06112026/",
+      "title": "Bom Dia DF - Edição de 05/11/2026",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bom-dia-df-edicao-de-05112026-15166744.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T12:42:41.000Z"
+      "publishedAt": "2026-11-06T19:35:05.000Z"
     },
     {
-      "title": "Menina de nove anos é picada por escorpião dentro de sala de aula em Ceilândia (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/menina-de-nove-anos-e-picada-por-escorpiao-dentro-de-sala-de-aula-em-ceilandia-df-06112026/",
+      "title": "Enap realiza Semana de Inovação com ações gratuitas: “O futuro é coletivo”",
+      "url": "https://www.metropoles.com/distrito-federal/enap-abre-inscricoes-para-cursos-gratuitos-sobre-tecnologia-e-inovacao",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T18:58:00.000Z"
+    },
+    {
+      "title": "Pudim Original estreia no Alimenta 2026 com sobremesas artesanais premium em parceria com o Regali Della Cucina",
+      "url": "https://www.visitebrasilia.com.br/noticias/pudim-original-estreia-no-alimenta-2026-em-parceria-com-o-regali-della-cucina-e-leva-sobremesas-artesanais-premium-ao-evento",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T15:27:22.000Z"
+    },
+    {
+      "title": "Exposição \"Aí A Porta Abriu\" segue em cartaz na Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-ai-a-porta-abriu-segue-em-cartaz-na-ceilandia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-05T21:35:26.000Z"
+    },
+    {
+      "title": "Sesc-DF oferece serviços gratuitos de bem-estar no Alimenta 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/sesc-df-oferece-servicos-gratuitos-de-bem-estar-no-alimenta-2026",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T12:36:38.000Z"
+      "publishedAt": "2026-11-06T11:29:10.000Z"
     },
     {
-      "title": "Temporal provoca alagamentos e prejuízos a comércios em Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/temporal-provoca-alagamentos-e-prejuizos-a-comercios-em-taguatinga-df-06112026/",
+      "title": "Brasileiro supera barreiras internacionais e completa volta ao mundo",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasileiro-supera-barreiras-internacionais-e-completa-volta-ao-mundo",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T12:28:40.000Z"
+      "publishedAt": "2026-11-06T20:17:22.000Z"
     },
     {
-      "title": "Distribuidoras reajustam gasolina e anulam efeito de subsídio de R$ 0,26 por litro",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/distribuidoras-reajustam-gasolina-e-anulam-efeito-de-subsidio-de-r-026-por-litro-06112026/",
+      "title": "99Food lança bag inspirada em origami para melhorar a qualidade das entregas",
+      "url": "https://www.visitebrasilia.com.br/noticias/99food-lanca-bag-inspirada-em-origami-para-melhorar-a-qualidade-das-entregas",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T11:35:37.000Z"
+      "publishedAt": "2026-11-06T20:15:20.000Z"
     },
     {
-      "title": "Receita do DF vai doar R$ 1,5 milhão em mercadorias apreendidas a órgãos públicos",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/receita-do-df-vai-doar-r-15-milhao-em-mercadorias-apreendidas-a-orgaos-publicos-06112026/",
-      "tipo": "dica",
-      "urgente": false,
-      "publishedAt": "2026-11-06T11:31:01.000Z"
-    },
-    {
-      "title": "ABAV Nacional consolida protagonismo global com participação na WTM Londres 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-consolida-protagonismo-global-com-participacao-na-wtm-londres-2026",
+      "title": "Alimenta 2026 recebe mais de 4,3 mil visitantes no primeiro dia e projeta milhões em crédito",
+      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-recebe-mais-de-4-3-mil-visitantes-no-primeiro-dia-e-projeta-milhoes-em-credito",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T11:26:52.000Z"
-    },
-    {
-      "title": "Yakinikuya Japanese BBQ aposta em sorvete à vontade para tornar a experiência do churrasco japonês ainda mais especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-japanese-bbq-aposta-em-sorvete-a-vontade-para-tornar-a-experiencia-do-churrasco-japones-ainda-mais-especial",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T02:40:51.000Z"
-    },
-    {
-      "title": "Black Friday das Milhas: Como turbinar o acúmulo de pontos e evitar pegadinhas",
-      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-das-milhas-como-turbinar-o-acumulo-de-pontos-e-evitar-pegadinhas",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T02:40:07.000Z"
+      "publishedAt": "2026-11-06T19:32:31.000Z"
     }
   ]
 }
