@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:21:50.915Z",
+  "updatedAt": "2026-11-06T14:31:25.448Z",
   "validityHours": 24,
   "items": [
     {
@@ -24,18 +24,18 @@
       "publishedAt": "2026-11-05T15:38:40.000Z"
     },
     {
+      "title": "Sesc-DF oferece serviços gratuitos de bem-estar no Alimenta 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/sesc-df-oferece-servicos-gratuitos-de-bem-estar-no-alimenta-2026",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T11:29:10.000Z"
+    },
+    {
       "title": "Programa Meu Pedaço do Brasil percorre Distrito Federal em nova temporada",
       "url": "https://www.visitebrasilia.com.br/noticias/programa-meu-pedaco-do-brasil-percorre-distrito-federal-em-nova-temporada",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-05T15:42:01.000Z"
-    },
-    {
-      "title": "GDF quer BRB reconhecido como vítima do Master e pede R$ 2,2 bilhões bloqueados",
-      "url": "https://noticias.r7.com/brasilia/gdf-quer-brb-reconhecido-como-vitima-do-master-e-pede-r-22-bilhoes-bloqueados-05112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T21:27:11.269Z"
     },
     {
       "title": "R$ 1 bilhão movimentado: operação investiga esquema de apostas ilegais",
@@ -49,21 +49,84 @@
       "url": "https://noticias.r7.com/brasilia/doze-por-oito-rick-e-rangel-e-benzadeus-confira-os-eventos-do-fim-de-semana-no-df-06112026/",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-06T05:00:01.000Z"
+      "publishedAt": "2026-11-06T14:07:26.552Z"
     },
     {
-      "title": "Projeto leva estudantes para conhecer os bastidores da Arena Mané Garrincha, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/projeto-leva-estudantes-para-conhecer-os-bastidores-da-arena-mane-garrincha-em-brasilia-06112026/",
+      "title": "Campanha Novembro Azul alerta para diagnóstico precoce do câncer de próstata",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/campanha-novembro-azul-alerta-para-diagnostico-precoce-do-cancer-de-prostata-06112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T00:07:57.000Z"
+      "publishedAt": "2026-11-06T13:04:39.000Z"
     },
     {
-      "title": "DER-DF realiza 11º leilão de veículos apreendidos em operações de trânsito em 2026",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/der-df-realiza-11-leilao-de-veiculos-apreendidos-em-operacoes-de-transito-em-2026-06112026/",
+      "title": "Autorização para transporte escolar no DF passa a ter validade de 30 anos",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/autorizacao-para-transporte-escolar-no-df-passa-a-ter-validade-de-30-anos-06112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T00:02:51.000Z"
+      "publishedAt": "2026-11-06T12:59:47.000Z"
+    },
+    {
+      "title": "Alimenta 2026 reúne mais de 260 expositores e 100 palestrantes em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/alimenta-2026-reune-mais-de-260-expositores-e-100-palestrantes-em-brasilia-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:51:50.000Z"
+    },
+    {
+      "title": "Piscinas do Centro Olímpico do Setor O estão interditadas",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/piscinas-do-centro-olimpico-do-setor-o-estao-interditadas-15164564.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T11:36:51.000Z"
+    },
+    {
+      "title": "Brasília recebe Arena Robótica 2026 com batalhas de robôs e atrações gratuitas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/brasilia-recebe-arena-robotica-2026-com-batalhas-de-robos-e-atracoes-gratuitas-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:46:21.000Z"
+    },
+    {
+      "title": "Celina Leão cancela viagem ao exterior e marca reunião com secretários em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/celina-leao-cancela-viagem-ao-exterior-e-marca-reuniao-com-secretarios-em-brasilia-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:42:41.000Z"
+    },
+    {
+      "title": "Menina de nove anos é picada por escorpião dentro de sala de aula em Ceilândia (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/menina-de-nove-anos-e-picada-por-escorpiao-dentro-de-sala-de-aula-em-ceilandia-df-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:36:38.000Z"
+    },
+    {
+      "title": "Temporal provoca alagamentos e prejuízos a comércios em Taguatinga (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/temporal-provoca-alagamentos-e-prejuizos-a-comercios-em-taguatinga-df-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T12:28:40.000Z"
+    },
+    {
+      "title": "Distribuidoras reajustam gasolina e anulam efeito de subsídio de R$ 0,26 por litro",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/distribuidoras-reajustam-gasolina-e-anulam-efeito-de-subsidio-de-r-026-por-litro-06112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T11:35:37.000Z"
+    },
+    {
+      "title": "Receita do DF vai doar R$ 1,5 milhão em mercadorias apreendidas a órgãos públicos",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/receita-do-df-vai-doar-r-15-milhao-em-mercadorias-apreendidas-a-orgaos-publicos-06112026/",
+      "tipo": "dica",
+      "urgente": false,
+      "publishedAt": "2026-11-06T11:31:01.000Z"
+    },
+    {
+      "title": "ABAV Nacional consolida protagonismo global com participação na WTM Londres 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-consolida-protagonismo-global-com-participacao-na-wtm-londres-2026",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T11:26:52.000Z"
     },
     {
       "title": "Yakinikuya Japanese BBQ aposta em sorvete à vontade para tornar a experiência do churrasco japonês ainda mais especial",
@@ -73,74 +136,11 @@
       "publishedAt": "2026-11-06T02:40:51.000Z"
     },
     {
-      "title": "Flamengo vence o Grêmio pelo Brasileirão",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-gremio-pelo-brasileirao-15161334.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T12:30:58.000Z"
-    },
-    {
-      "title": "CLDF discute tornozeleira rosa para agressores de mulheres e possível troca temporária no GDF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/cldf-discute-tornozeleira-rosa-para-agressores-de-mulheres-e-possivel-troca-temporaria-no-gdf-05112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T23:57:45.000Z"
-    },
-    {
-      "title": "Fundo Constitucional do DF vira primeira batalha política da nova bancada no Congresso",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/fundo-constitucional-do-df-vira-primeira-batalha-politica-da-nova-bancada-no-congresso-05112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T23:52:40.000Z"
-    },
-    {
       "title": "Black Friday das Milhas: Como turbinar o acúmulo de pontos e evitar pegadinhas",
       "url": "https://www.visitebrasilia.com.br/noticias/black-friday-das-milhas-como-turbinar-o-acumulo-de-pontos-e-evitar-pegadinhas",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-06T02:40:07.000Z"
-    },
-    {
-      "title": "Os clientes da United agora podem ouvir suas músicas, podcasts e vídeos favoritos do Spotify nas telas dos assentos, compatíveis com a Starlink",
-      "url": "https://www.visitebrasilia.com.br/noticias/os-clientes-da-united-agora-podem-ouvir-suas-musicas-podcasts-e-videos-favoritos-do-spotify-nas-telas-dos-assentos-compativeis-com-a-starlink",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T21:56:21.000Z"
-    },
-    {
-      "title": "Sucesso de público, \"O Veneno do Teatro\" chega às últimas apresentações em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/sucesso-de-publico-o-veneno-do-teatro-chega-as-ultimas-apresentacoes-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T21:34:11.000Z"
-    },
-    {
-      "title": "Natal com tema Quebra-Nozes, apresentações de balé e cenários interativos chega ao Taguatinga Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/natal-com-tema-quebra-nozes-apresentacoes-de-bale-e-cenarios-interativos-chega-ao-taguatinga-shopping",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T21:31:39.000Z"
-    },
-    {
-      "title": "Tradicional licor português Ginja Mariquinhas chega ao Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-licor-portugues-ginja-mariquinhas-chega-ao-brasil",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T16:56:01.000Z"
-    },
-    {
-      "title": "Sarau Literomusical celebra Jubileu de Ouro da ALMUB na Biblioteca Demonstrativa",
-      "url": "https://www.visitebrasilia.com.br/noticias/sarau-literomusical-celebra-jubileu-de-ouro-da-almub-na-biblioteca-demonstrativa",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T16:44:24.000Z"
-    },
-    {
-      "title": "Brasília recebe corrida com zumbis, obstáculos e festa neste sábado (7)",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-corrida-com-zumbis-obstaculos-e-festa-neste-sabado-7",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-05T16:23:43.000Z"
     }
   ]
 }
