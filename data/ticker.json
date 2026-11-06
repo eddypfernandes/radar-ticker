@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:58:20.529Z",
+  "updatedAt": "2026-11-06T06:21:50.915Z",
   "validityHours": 24,
   "items": [
     {
@@ -31,13 +31,6 @@
       "publishedAt": "2026-11-05T15:42:01.000Z"
     },
     {
-      "title": "Projeto Re Soar recebe DJ Kalm para encontro sobre protagonismo feminino e cultura musical periférica no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-re-soar-recebe-dj-kalm-para-encontro-sobre-protagonismo-feminino-e-cultura-musical-periferica-no-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T14:31:27.000Z"
-    },
-    {
       "title": "GDF quer BRB reconhecido como vítima do Master e pede R$ 2,2 bilhões bloqueados",
       "url": "https://noticias.r7.com/brasilia/gdf-quer-brb-reconhecido-como-vitima-do-master-e-pede-r-22-bilhoes-bloqueados-05112026/",
       "tipo": "noticia",
@@ -52,32 +45,60 @@
       "publishedAt": "2026-11-05T16:36:02.000Z"
     },
     {
-      "title": "Desvio irregular em calçada continua aberto e preocupa moradores de Samambaia (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/desvio-irregular-em-calcada-continua-aberto-e-preocupa-moradores-de-samambaia-df-05112026/",
-      "tipo": "noticia",
+      "title": "Doze por Oito, Rick e Rangel e Benzadeus: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/doze-por-oito-rick-e-rangel-e-benzadeus-confira-os-eventos-do-fim-de-semana-no-df-06112026/",
+      "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-05T14:47:03.000Z"
+      "publishedAt": "2026-11-06T05:00:01.000Z"
     },
     {
-      "title": "Durigan diz que juros estão ‘muito ruins’ e defende ações ‘sustentáveis’",
-      "url": "https://noticias.r7.com/brasilia/durigan-diz-que-juros-atuais-sao-muito-ruins-para-economia-e-defende-medidas-sustentaveis-05112026/",
+      "title": "Projeto leva estudantes para conhecer os bastidores da Arena Mané Garrincha, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/projeto-leva-estudantes-para-conhecer-os-bastidores-da-arena-mane-garrincha-em-brasilia-06112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T15:35:42.351Z"
+      "publishedAt": "2026-11-06T00:07:57.000Z"
     },
     {
-      "title": "Comissão vai apurar impactos da crise no Paraguai para o Brasil",
-      "url": "https://noticias.r7.com/brasilia/comissao-do-senado-vai-apurar-impactos-da-crise-no-paraguai-para-o-brasil-05112026/",
+      "title": "DER-DF realiza 11º leilão de veículos apreendidos em operações de trânsito em 2026",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/der-df-realiza-11-leilao-de-veiculos-apreendidos-em-operacoes-de-transito-em-2026-06112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T19:21:26.053Z"
+      "publishedAt": "2026-11-06T00:02:51.000Z"
     },
     {
-      "title": "Documentário \"Nação Ubuntu – A Voz dos Silenciados\" terá pré-estreia gratuita no Distrito Federal no dia 10 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/documentario-nacao-ubuntu-a-voz-dos-silenciados-tera-pre-estreia-gratuita-no-distrito-federal-no-dia-10-de-novembro",
+      "title": "Yakinikuya Japanese BBQ aposta em sorvete à vontade para tornar a experiência do churrasco japonês ainda mais especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-japanese-bbq-aposta-em-sorvete-a-vontade-para-tornar-a-experiencia-do-churrasco-japones-ainda-mais-especial",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-05T13:31:23.000Z"
+      "publishedAt": "2026-11-06T02:40:51.000Z"
+    },
+    {
+      "title": "Flamengo vence o Grêmio pelo Brasileirão",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-gremio-pelo-brasileirao-15161334.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T12:30:58.000Z"
+    },
+    {
+      "title": "CLDF discute tornozeleira rosa para agressores de mulheres e possível troca temporária no GDF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/cldf-discute-tornozeleira-rosa-para-agressores-de-mulheres-e-possivel-troca-temporaria-no-gdf-05112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T23:57:45.000Z"
+    },
+    {
+      "title": "Fundo Constitucional do DF vira primeira batalha política da nova bancada no Congresso",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/fundo-constitucional-do-df-vira-primeira-batalha-politica-da-nova-bancada-no-congresso-05112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-05T23:52:40.000Z"
+    },
+    {
+      "title": "Black Friday das Milhas: Como turbinar o acúmulo de pontos e evitar pegadinhas",
+      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-das-milhas-como-turbinar-o-acumulo-de-pontos-e-evitar-pegadinhas",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-06T02:40:07.000Z"
     },
     {
       "title": "Os clientes da United agora podem ouvir suas músicas, podcasts e vídeos favoritos do Spotify nas telas dos assentos, compatíveis com a Starlink",
@@ -120,27 +141,6 @@
       "tipo": "atualidade",
       "urgente": false,
       "publishedAt": "2026-11-05T16:23:43.000Z"
-    },
-    {
-      "title": "Cine Drive-In divulga filmes em cartaz para a semana de 05 a 11 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-filmes-em-cartaz-para-a-semana-de-05-a-11-de-novembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T16:01:52.000Z"
-    },
-    {
-      "title": "Natal das Conexões: Alameda Shopping aposta na emoção de estar junto para celebrar o fim de ano",
-      "url": "https://www.visitebrasilia.com.br/noticias/natal-das-conexoes-alameda-shopping-aposta-na-emocao-de-estar-junto-para-celebrar-o-fim-de-ano",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T15:48:08.000Z"
-    },
-    {
-      "title": "Papai Noel rege a abertura do Natal no Boulevard Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/papai-noel-rege-a-abertura-do-natal-no-boulevard-shopping",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-05T15:44:41.000Z"
     }
   ]
 }
