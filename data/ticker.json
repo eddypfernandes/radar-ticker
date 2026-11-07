@@ -1,41 +1,69 @@
 {
-  "updatedAt": "2026-11-07T18:31:18.373Z",
+  "updatedAt": "2026-11-07T22:32:53.538Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Cenário musical do DF, intervenções artísticas e tecnologia pautam programação cultural da SI 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/cenario-musical-do-df-intervencoes-artisticas-e-tecnologia-pautam-programacao-cultural-da-si-2026",
-      "tipo": "evento",
+      "title": "Projeto CriAtiva chega a Samambaia na próxima semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-chega-a-samambaia-na-proxima-semana",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T21:38:36.000Z"
+      "publishedAt": "2026-11-07T14:45:25.000Z"
     },
     {
-      "title": "Leroy Merlin Brasília promove apresentações especiais de Natal com a Broadway Show",
-      "url": "https://www.visitebrasilia.com.br/noticias/leroy-merlin-brasilia-promove-apresentacoes-especiais-de-natal-com-a-broadway-show",
-      "tipo": "evento",
+      "title": "Governo cria comissão para planejar expansão dos carros elétricos no Brasil",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-cria-comissao-para-planejar-expansao-dos-carros-eletricos-no-brasil-07112026/",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T21:08:04.000Z"
+      "publishedAt": "2026-11-07T19:54:33.000Z"
     },
     {
-      "title": "Água de Beber, filme imersivo que revive encontro de Tom Jobim e Vinicius de Moraes, integra programação dos 70 anos do Catetinho",
-      "url": "https://www.visitebrasilia.com.br/noticias/agua-de-beber-filme-imersivo-que-revive-encontro-de-tom-jobim-e-vinicius-de-moraes-integra-programacao-dos-70-anos-do-catetinho",
-      "tipo": "evento",
+      "title": "Comércio aciona STF para adiar fim da escala 6x1 e evitar mudanças às vésperas do Natal",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/comercio-aciona-stf-para-adiar-fim-da-escala-6x1-e-evitar-mudancas-as-vesperas-do-natal-07112026/",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T21:06:43.000Z"
+      "publishedAt": "2026-11-07T19:47:57.000Z"
     },
     {
-      "title": "Festival de Cinema Acessível Kids chega à Brasília para 5ª edição e reforça inclusão",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-de-cinema-acessivel-kids-chega-a-brasilia-para-5-edicao-e-reforca-inclusao",
-      "tipo": "evento",
+      "title": "Novas regras do vale-refeição e alimentação reduzem taxas e ampliam aceitação",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/novas-regras-do-vale-refeicao-e-alimentacao-reduzem-taxas-e-ampliam-aceitacao-07112026/",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T20:59:35.000Z"
+      "publishedAt": "2026-11-07T19:29:41.000Z"
     },
     {
-      "title": "Alimenta 2026 tem programação cultural gratuita nesta sexta e sábado no Parque da Cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-tem-programacao-cultural-gratuita-nesta-sexta-e-sabado-no-parque-da-cidade",
-      "tipo": "evento",
+      "title": "DF amplia vacinação contra pneumonia e meningite para idosos a partir de 85 anos",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/df-amplia-vacinacao-contra-pneumonia-e-meningite-para-idosos-a-partir-de-85-anos-07112026/",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T20:40:17.000Z"
+      "publishedAt": "2026-11-07T19:21:07.000Z"
+    },
+    {
+      "title": "Alimenta 2026 reúne mais de 260 expositores e 100 palestrantes no Parque da Cidade, em Brasília",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/alimenta-2026-reune-mais-de-260-expositores-e-100-palestrantes-no-parque-da-cidade-em-brasilia-07112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-07T19:16:23.000Z"
+    },
+    {
+      "title": "\"A Vida Ordinária de Cristina\" leva o conflito entre mãe e filha ao palco, de graça, em Águas Claras",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-vida-ordinaria-de-cristina-leva-o-conflito-entre-mae-e-filha-ao-palco-de-graca-em-aguas-claras",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-07T21:39:36.000Z"
+    },
+    {
+      "title": "Enem: confira os documentos exigidos para a prova e o horário de abertura dos portões",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/enem-confira-os-documentos-exigidos-para-a-prova-e-o-horario-de-abertura-dos-portoes-07112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-07T19:09:29.000Z"
+    },
+    {
+      "title": "Stand-up: “4 Amigos” abrem sessão extra no Museu Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/stand-up-4-amigos-abrem-sessao-extra-no-museu-nacional",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-07T15:54:22.000Z"
     },
     {
       "title": "Sofás, notebooks e poltrona de luxo: veja fotos dos itens do Banco Master que vão a leilão",
@@ -66,81 +94,53 @@
       "publishedAt": "2026-11-07T12:58:06.786Z"
     },
     {
-      "title": "Cidade Alerta DF / HÁ 1 MINUTO",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motociclista-foge-de-abordagem-policial-por-15-minutos-e-e-detido-em-vicente-pires-df-07112026/",
+      "title": "Balanço Geral DF / HÁ 2 HORAS",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/corpo-de-homem-e-encontrado-boiando-no-lago-paranoa-e-resgatado-pelos-bombeiros-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T18:28:08.000Z"
+      "publishedAt": "2026-11-07T20:27:45.000Z"
     },
     {
-      "title": "Juiz encerra ação de R$ 1 milhão contra deputada que propôs demitir petista",
-      "url": "https://www.metropoles.com/colunas/grande-angular/juiz-encerra-acao-de-r-1-milhao-contra-deputada-que-propos-demitir-petista",
+      "title": "Cidade Alerta DF / HÁ 3 HORAS",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoristas-e-cobradores-denunciam-falta-de-estrutura-para-descanso-e-refeicoes-no-df-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T13:38:00.000Z"
+      "publishedAt": "2026-11-07T18:40:57.000Z"
     },
     {
-      "title": "MetaLab celebra um ano e mais de 2.600 proﬁssionais formados com evento gratuito em Brasília:",
-      "url": "https://www.visitebrasilia.com.br/noticias/metalab-celebra-um-ano-e-mais-de-2-600-pro-ssionais-formados-com-evento-gratuito-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-06T20:02:38.000Z"
-    },
-    {
-      "title": "Projeto CriAtiva chega a Samambaia na próxima semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-chega-a-samambaia-na-proxima-semana",
+      "title": "PMDF faz operação para combater tráfico de drogas no Lago Paranoá .",
+      "url": "https://www.metropoles.com/distrito-federal/pmdf-faz-operacao-para-combater-trafico-de-drogas-no-lago-paranoa",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T14:45:25.000Z"
+      "publishedAt": "2026-11-07T19:54:00.000Z"
     },
     {
-      "title": "Stand-up: “4 Amigos” abrem sessão extra no Museu Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/stand-up-4-amigos-abrem-sessao-extra-no-museu-nacional",
+      "title": "Dois profissionais de saúde são afastados por dia, em média, por problemas de saúde mental",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/dois-profissionais-de-saude-sao-afastados-por-dia-em-media-por-problemas-de-saude-mental-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T15:54:22.000Z"
+      "publishedAt": "2026-11-07T18:00:00.000Z"
     },
     {
-      "title": "O Clube das Leitoras fez um roteiro de livrarias e sebos em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-clube-das-leitoras-fez-um-roteiro-de-livrarias-e-sebos-em-brasilia",
+      "title": "‘Plano Real 2.0′ poderia causar desemprego e alta da inflação, apontam economistas",
+      "url": "https://noticias.r7.com/economia/plano-real-20-poderia-causar-desemprego-e-alta-da-inflacao-apontam-economistas-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T21:12:40.000Z"
+      "publishedAt": "2026-11-07T17:46:48.506Z"
     },
     {
-      "title": "Cerimônia de entrega do 22º Prêmio Engenho de Comunicação será na terça",
-      "url": "https://www.visitebrasilia.com.br/noticias/cerimonia-de-entrega-do-22-premio-engenho-de-comunicacao-sera-na-terca",
+      "title": "Enem: confira as regras da redação e dicas para um texto nota 1.000",
+      "url": "https://noticias.r7.com/educacao/enem-confira-as-regras-da-redacao-e-dicas-para-um-texto-nota-1000-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T21:09:39.000Z"
+      "publishedAt": "2026-11-07T12:48:47.145Z"
     },
     {
-      "title": "Brasileiro supera barreiras internacionais e completa volta ao mundo",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasileiro-supera-barreiras-internacionais-e-completa-volta-ao-mundo",
+      "title": "Embaixada dos EUA no Paraguai reconhece Pedro Alliana como presidente",
+      "url": "https://noticias.r7.com/internacional/embaixada-dos-eua-no-paraguai-reconhece-pedro-alliana-como-presidente-07112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T20:17:22.000Z"
-    },
-    {
-      "title": "99Food lança bag inspirada em origami para melhorar a qualidade das entregas",
-      "url": "https://www.visitebrasilia.com.br/noticias/99food-lanca-bag-inspirada-em-origami-para-melhorar-a-qualidade-das-entregas",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T20:15:20.000Z"
-    },
-    {
-      "title": "Alimenta 2026 recebe mais de 4,3 mil visitantes no primeiro dia e projeta milhões em crédito",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-recebe-mais-de-4-3-mil-visitantes-no-primeiro-dia-e-projeta-milhoes-em-credito",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T19:32:31.000Z"
-    },
-    {
-      "title": "Cidade Alerta DF / HÁ 6 MINUTOS",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-investiga-homem-suspeito-de-pintar-suastica-em-bueiro-na-calcada-de-casa-no-df-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T18:23:53.000Z"
+      "publishedAt": "2026-11-07T12:40:23.254Z"
     }
   ]
 }
