@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:43:28.037Z",
+  "updatedAt": "2026-11-07T06:54:14.063Z",
   "validityHours": 24,
   "items": [
     {
@@ -94,6 +94,13 @@
       "publishedAt": "2026-11-06T19:35:05.000Z"
     },
     {
+      "title": "DF contará com 30 pontos de vacinação contra a gripe neste sábado (7/11)",
+      "url": "https://www.metropoles.com/distrito-federal/df-contara-com-30-pontos-de-vacinacao-contra-a-gripe-neste-sabado-7-11",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-06T22:11:00.000Z"
+    },
+    {
       "title": "MetaLab celebra um ano e mais de 2.600 proﬁssionais formados com evento gratuito em Brasília:",
       "url": "https://www.visitebrasilia.com.br/noticias/metalab-celebra-um-ano-e-mais-de-2-600-pro-ssionais-formados-com-evento-gratuito-em-brasilia",
       "tipo": "evento",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-06T21:12:40.000Z"
-    },
-    {
-      "title": "Cerimônia de entrega do 22º Prêmio Engenho de Comunicação será na terça",
-      "url": "https://www.visitebrasilia.com.br/noticias/cerimonia-de-entrega-do-22-premio-engenho-de-comunicacao-sera-na-terca",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T21:09:39.000Z"
     }
   ]
 }
