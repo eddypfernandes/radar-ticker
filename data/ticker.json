@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-11-06T20:44:42.995Z",
+  "updatedAt": "2026-11-07T00:43:28.037Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "DF Plaza Shopping traz programação de teatros infantis e dá início à temporada de Natal",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-traz-programacao-de-teatros-infantis-e-da-inicio-a-temporada-de-natal",
+      "title": "Cenário musical do DF, intervenções artísticas e tecnologia pautam programação cultural da SI 2026",
+      "url": "https://www.visitebrasilia.com.br/noticias/cenario-musical-do-df-intervencoes-artisticas-e-tecnologia-pautam-programacao-cultural-da-si-2026",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-05T21:36:55.000Z"
+      "publishedAt": "2026-11-06T21:38:36.000Z"
+    },
+    {
+      "title": "Leroy Merlin Brasília promove apresentações especiais de Natal com a Broadway Show",
+      "url": "https://www.visitebrasilia.com.br/noticias/leroy-merlin-brasilia-promove-apresentacoes-especiais-de-natal-com-a-broadway-show",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T21:08:04.000Z"
+    },
+    {
+      "title": "Água de Beber, filme imersivo que revive encontro de Tom Jobim e Vinicius de Moraes, integra programação dos 70 anos do Catetinho",
+      "url": "https://www.visitebrasilia.com.br/noticias/agua-de-beber-filme-imersivo-que-revive-encontro-de-tom-jobim-e-vinicius-de-moraes-integra-programacao-dos-70-anos-do-catetinho",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T21:06:43.000Z"
+    },
+    {
+      "title": "Festival de Cinema Acessível Kids chega à Brasília para 5ª edição e reforça inclusão",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-de-cinema-acessivel-kids-chega-a-brasilia-para-5-edicao-e-reforca-inclusao",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T20:59:35.000Z"
     },
     {
       "title": "Alimenta 2026 tem programação cultural gratuita nesta sexta e sábado no Parque da Cidade",
@@ -15,27 +36,6 @@
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-06T20:40:17.000Z"
-    },
-    {
-      "title": "MetaLab celebra um ano e mais de 2.600 proﬁssionais formados com evento gratuito em Brasília:",
-      "url": "https://www.visitebrasilia.com.br/noticias/metalab-celebra-um-ano-e-mais-de-2-600-pro-ssionais-formados-com-evento-gratuito-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-06T20:02:38.000Z"
-    },
-    {
-      "title": "CAIXA Cultural Brasília apresenta a exposição Frans Krajcberg - Uma Semântica da Devastação",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-a-exposicao-frans-krajcberg-uma-semantica-da-devastacao",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-06T16:45:16.000Z"
-    },
-    {
-      "title": "Festival Cores e Sabores do Brasil chega ao Plano Piloto neste domingo (8)",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-cores-e-sabores-do-brasil-chega-ao-plano-piloto-neste-domingo-8",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-06T16:34:45.000Z"
     },
     {
       "title": "Entenda importância da detecção precoce do câncer de próstata",
@@ -94,11 +94,25 @@
       "publishedAt": "2026-11-06T19:35:05.000Z"
     },
     {
-      "title": "Enap realiza Semana de Inovação com ações gratuitas: “O futuro é coletivo”",
-      "url": "https://www.metropoles.com/distrito-federal/enap-abre-inscricoes-para-cursos-gratuitos-sobre-tecnologia-e-inovacao",
+      "title": "MetaLab celebra um ano e mais de 2.600 proﬁssionais formados com evento gratuito em Brasília:",
+      "url": "https://www.visitebrasilia.com.br/noticias/metalab-celebra-um-ano-e-mais-de-2-600-pro-ssionais-formados-com-evento-gratuito-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-06T18:58:00.000Z"
+      "publishedAt": "2026-11-06T20:02:38.000Z"
+    },
+    {
+      "title": "CAIXA Cultural Brasília apresenta a exposição Frans Krajcberg - Uma Semântica da Devastação",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-a-exposicao-frans-krajcberg-uma-semantica-da-devastacao",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T16:45:16.000Z"
+    },
+    {
+      "title": "Festival Cores e Sabores do Brasil chega ao Plano Piloto neste domingo (8)",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-cores-e-sabores-do-brasil-chega-ao-plano-piloto-neste-domingo-8",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-06T16:34:45.000Z"
     },
     {
       "title": "Pudim Original estreia no Alimenta 2026 com sobremesas artesanais premium em parceria com o Regali Della Cucina",
@@ -108,13 +122,6 @@
       "publishedAt": "2026-11-06T15:27:22.000Z"
     },
     {
-      "title": "Exposição \"Aí A Porta Abriu\" segue em cartaz na Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-ai-a-porta-abriu-segue-em-cartaz-na-ceilandia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-05T21:35:26.000Z"
-    },
-    {
       "title": "Sesc-DF oferece serviços gratuitos de bem-estar no Alimenta 2026",
       "url": "https://www.visitebrasilia.com.br/noticias/sesc-df-oferece-servicos-gratuitos-de-bem-estar-no-alimenta-2026",
       "tipo": "noticia",
@@ -122,25 +129,18 @@
       "publishedAt": "2026-11-06T11:29:10.000Z"
     },
     {
-      "title": "Brasileiro supera barreiras internacionais e completa volta ao mundo",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasileiro-supera-barreiras-internacionais-e-completa-volta-ao-mundo",
+      "title": "O Clube das Leitoras fez um roteiro de livrarias e sebos em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-clube-das-leitoras-fez-um-roteiro-de-livrarias-e-sebos-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T20:17:22.000Z"
+      "publishedAt": "2026-11-06T21:12:40.000Z"
     },
     {
-      "title": "99Food lança bag inspirada em origami para melhorar a qualidade das entregas",
-      "url": "https://www.visitebrasilia.com.br/noticias/99food-lanca-bag-inspirada-em-origami-para-melhorar-a-qualidade-das-entregas",
+      "title": "Cerimônia de entrega do 22º Prêmio Engenho de Comunicação será na terça",
+      "url": "https://www.visitebrasilia.com.br/noticias/cerimonia-de-entrega-do-22-premio-engenho-de-comunicacao-sera-na-terca",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-06T20:15:20.000Z"
-    },
-    {
-      "title": "Alimenta 2026 recebe mais de 4,3 mil visitantes no primeiro dia e projeta milhões em crédito",
-      "url": "https://www.visitebrasilia.com.br/noticias/alimenta-2026-recebe-mais-de-4-3-mil-visitantes-no-primeiro-dia-e-projeta-milhoes-em-credito",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-06T19:32:31.000Z"
+      "publishedAt": "2026-11-06T21:09:39.000Z"
     }
   ]
 }
