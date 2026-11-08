@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-08T09:22:53.124Z",
+  "updatedAt": "2026-11-08T16:12:35.305Z",
   "validityHours": 24,
   "items": [
-    {
-      "title": "Projeto CriAtiva chega a Samambaia na próxima semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-criativa-chega-a-samambaia-na-proxima-semana",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T14:45:25.000Z"
-    },
     {
       "title": "Governo cria comissão para planejar expansão dos carros elétricos no Brasil",
       "url": "https://noticias.r7.com/brasilia/df-record/video/governo-cria-comissao-para-planejar-expansao-dos-carros-eletricos-no-brasil-07112026/",
@@ -45,6 +38,13 @@
       "publishedAt": "2026-11-07T19:16:23.000Z"
     },
     {
+      "title": "Ópera “Rita”, de Gaetano Donizetti, ganha montagem contemporânea em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/opera-rita-de-gaetano-donizetti-ganha-montagem-contemporanea-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T14:43:36.000Z"
+    },
+    {
       "title": "\"A Vida Ordinária de Cristina\" leva o conflito entre mãe e filha ao palco, de graça, em Águas Claras",
       "url": "https://www.visitebrasilia.com.br/noticias/a-vida-ordinaria-de-cristina-leva-o-conflito-entre-mae-e-filha-ao-palco-de-graca-em-aguas-claras",
       "tipo": "noticia",
@@ -59,46 +59,46 @@
       "publishedAt": "2026-11-07T19:09:29.000Z"
     },
     {
-      "title": "Stand-up: “4 Amigos” abrem sessão extra no Museu Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/stand-up-4-amigos-abrem-sessao-extra-no-museu-nacional",
+      "title": "Enem: Lula reforça importância de diploma e diz que ninguém deixará de estudar por falta de recursos",
+      "url": "https://noticias.r7.com/brasilia/enem-lula-reforca-importancia-de-diploma-e-diz-que-ninguem-deixara-de-estudar-por-falta-de-recursos-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T15:54:22.000Z"
+      "publishedAt": "2026-11-08T15:03:29.755Z"
     },
     {
-      "title": "Garantia de escolta vitalícia com nova lei pode viabilizar ida de Gakiya a novo ministério de Lula",
-      "url": "https://noticias.r7.com/brasilia/com-garantia-de-escolta-vitalicia-ao-se-aposentar-lincoln-gakiya-deve-aceitar-ser-ministro-de-lula-07112026/",
+      "title": "Lula deseja boa sorte aos estudantes que fazem o Enem: ‘A educação abre portas’",
+      "url": "https://noticias.r7.com/brasilia/lula-deseja-boa-sorte-aos-estudantes-que-fazem-o-enem-a-educacao-abre-portas-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T12:08:46.634Z"
+    },
+    {
+      "title": "Equipes da PF estão de sobreaviso para atender demandas do Enem",
+      "url": "https://noticias.r7.com/brasilia/equipes-da-pf-estao-de-sobreaviso-para-atender-demandas-do-enem-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T11:53:58.478Z"
+    },
+    {
+      "title": "Defesa Civil orienta kit de emergência, mas pede para população não entrar em pânico",
+      "url": "https://noticias.r7.com/brasilia/defesa-civil-orienta-kit-de-emergencia-mas-pede-para-populacao-nao-entrar-em-panico-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T11:41:06.025Z"
+    },
+    {
+      "title": "Maior parte da população acredita nas mudanças climáticas, mas negacionismo cresce no país",
+      "url": "https://noticias.r7.com/brasilia/maior-parte-da-populacao-acredita-nas-mudancas-climaticas-mas-negacionismo-cresce-no-pais-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T11:19:17.811Z"
+    },
+    {
+      "title": "Lula acompanha em sala de monitoramento a entrega das provas",
+      "url": "https://noticias.r7.com/brasilia/lula-acompanha-em-sala-de-monitoramento-a-entrega-de-provas-do-enem-08112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T05:00:01.000Z"
-    },
-    {
-      "title": "Saiba o que levar e o que deixar em casa nos dias de exame",
-      "url": "https://noticias.r7.com/brasilia/enem-2026-saiba-o-que-levar-no-dia-da-prova-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T05:00:01.000Z"
-    },
-    {
-      "title": "Fachin avança para encerrar inquérito das fake news após arquivar ao menos oito investigações",
-      "url": "https://noticias.r7.com/brasilia/fachin-avanca-para-encerrar-inquerito-das-fake-news-apos-arquivar-ao-menos-oito-investigacoes-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T05:00:00.000Z"
-    },
-    {
-      "title": "O que o STF ainda precisa decidir sobre o Banco Master",
-      "url": "https://noticias.r7.com/brasilia/o-que-o-stf-ainda-precisa-decidir-sobre-o-banco-master-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T05:00:00.000Z"
-    },
-    {
-      "title": "Lula confirma ida de Janones à Turquia e pede prontidão ao ‘Exército do Lula’",
-      "url": "https://noticias.r7.com/brasilia/lula-confirma-ida-de-janones-a-turquia-e-pede-prontidao-ao-exercito-do-lula-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T20:19:25.872Z"
     },
     {
       "title": "Balanço Geral DF / 07/11/2026",
@@ -115,32 +115,32 @@
       "publishedAt": "2026-11-07T18:40:57.000Z"
     },
     {
-      "title": "Marinho promete reativar Conselho de Ética, que deixou Flávio Bolsonaro sem investigação no Senado",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/marinho-promete-reativar-conselho-de-etica-que-deixou-flavio-bolsonaro-sem-investigacao-no-senado-08112026/",
+      "title": "Brasília recebe Club Vittar em dezembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-club-vittar-em-dezembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T05:00:00.000Z"
+      "publishedAt": "2026-11-08T14:47:28.000Z"
     },
     {
-      "title": "Dois profissionais de saúde são afastados por dia, em média, por problemas de saúde mental",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/dois-profissionais-de-saude-sao-afastados-por-dia-em-media-por-problemas-de-saude-mental-07112026/",
+      "title": "MPF abre inquérito para apurar servidores ‘fantasmas’ no Senado",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/mpf-abre-inquerito-para-apurar-servidores-fantasmas-no-senado-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T18:00:00.000Z"
+      "publishedAt": "2026-11-08T12:00:00.000Z"
     },
     {
-      "title": "‘Plano Real 2.0′ poderia causar desemprego e alta da inflação, apontam economistas",
-      "url": "https://noticias.r7.com/economia/plano-real-20-poderia-causar-desemprego-e-alta-da-inflacao-apontam-economistas-07112026/",
+      "title": "Após eleição, 48% aprovam e 44% desaprovam Lula; economia é principal preocupação",
+      "url": "https://noticias.r7.com/brasilia/apos-eleicao-48-aprovam-e-44-desaprovam-lula-economia-e-principal-preocupacao-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T17:46:48.506Z"
+      "publishedAt": "2026-11-08T13:12:37.143Z"
     },
     {
-      "title": "Banco Master, Flávio Bolsonaro e ministros: veja casos que devem movimentar STF pós-eleição",
-      "url": "https://noticias.r7.com/brasilia/banco-master-flavio-bolsonaro-e-ministros-veja-casos-que-devem-movimentar-stf-pos-eleicao-08112026/",
+      "title": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
+      "url": "https://noticias.r7.com/brasilia/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T05:00:00.000Z"
+      "publishedAt": "2026-11-08T12:54:15.213Z"
     }
   ]
 }
