@@ -1,62 +1,55 @@
 {
-  "updatedAt": "2026-11-08T16:12:35.305Z",
+  "updatedAt": "2026-11-08T20:42:21.462Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Governo cria comissão para planejar expansão dos carros elétricos no Brasil",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governo-cria-comissao-para-planejar-expansao-dos-carros-eletricos-no-brasil-07112026/",
-      "tipo": "noticia",
+      "title": "Espetáculo sobre ausência paterna chega ao Complexo Cultural de Samambaia",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-sobre-ausencia-paterna-chega-ao-complexo-cultural-de-samambaia",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-07T19:54:33.000Z"
+      "publishedAt": "2026-11-08T16:36:23.000Z"
     },
     {
-      "title": "Comércio aciona STF para adiar fim da escala 6x1 e evitar mudanças às vésperas do Natal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/comercio-aciona-stf-para-adiar-fim-da-escala-6x1-e-evitar-mudancas-as-vesperas-do-natal-07112026/",
-      "tipo": "noticia",
+      "title": "Exposição em Brasília revela histórias de amor e transformação entre cães adotados e seus tutores",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-em-brasilia-revela-historias-de-amor-e-transformacao-entre-caes-adotados-e-seus-tutores",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-07T19:47:57.000Z"
+      "publishedAt": "2026-11-08T19:18:23.000Z"
     },
     {
-      "title": "Novas regras do vale-refeição e alimentação reduzem taxas e ampliam aceitação",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/novas-regras-do-vale-refeicao-e-alimentacao-reduzem-taxas-e-ampliam-aceitacao-07112026/",
-      "tipo": "noticia",
+      "title": "Deguste! Evento da Vinhos S.A chega à terceira edição com cerca de 120 rótulos de 14 países em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/deguste-evento-da-vinhos-s-a-chega-a-terceira-edicao-com-cerca-de-120-rotulos-de-14-paises-em-brasilia-2",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-07T19:29:41.000Z"
+      "publishedAt": "2026-11-08T20:02:23.000Z"
     },
     {
-      "title": "DF amplia vacinação contra pneumonia e meningite para idosos a partir de 85 anos",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/df-amplia-vacinacao-contra-pneumonia-e-meningite-para-idosos-a-partir-de-85-anos-07112026/",
+      "title": "Ballet de San Petersburgo traz a Brasília a Bela Adormecida, de Tchaikovsky, no dia 14 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/ballet-de-san-petersburgo-traz-a-brasilia-a-bela-adormecida-de-tchaikovsky-no-dia-14-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T19:21:07.000Z"
+      "publishedAt": "2026-11-08T20:01:23.000Z"
     },
     {
-      "title": "Alimenta 2026 reúne mais de 260 expositores e 100 palestrantes no Parque da Cidade, em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/alimenta-2026-reune-mais-de-260-expositores-e-100-palestrantes-no-parque-da-cidade-em-brasilia-07112026/",
+      "title": "Livro sobre o músico argentino Charly García ganha lançamento na Oto Livraria (302 Norte) em 14 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-o-musico-argentino-charly-garcia-ganha-lancamento-na-oto-livraria-302-norte-em-14-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T19:16:23.000Z"
+      "publishedAt": "2026-11-08T19:40:52.000Z"
     },
     {
-      "title": "Ópera “Rita”, de Gaetano Donizetti, ganha montagem contemporânea em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/opera-rita-de-gaetano-donizetti-ganha-montagem-contemporanea-em-brasilia",
+      "title": "Tema do Enem sobre SUS traz reflexão importante sobre saúde como direito, diz Lula",
+      "url": "https://noticias.r7.com/brasilia/tema-do-enem-sobre-sus-traz-reflexao-importante-sobre-saude-como-direito-diz-lula-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T14:43:36.000Z"
+      "publishedAt": "2026-11-08T19:08:57.835Z"
     },
     {
-      "title": "\"A Vida Ordinária de Cristina\" leva o conflito entre mãe e filha ao palco, de graça, em Águas Claras",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-vida-ordinaria-de-cristina-leva-o-conflito-entre-mae-e-filha-ao-palco-de-graca-em-aguas-claras",
+      "title": "Mãe do rapper Oruam deixa prisão e vai usar tornozeleira eletrônica",
+      "url": "https://noticias.r7.com/brasilia/mae-do-rapper-oruam-deixa-prisao-e-vai-usar-tornozeleira-eletronica-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-07T21:39:36.000Z"
-    },
-    {
-      "title": "Enem: confira os documentos exigidos para a prova e o horário de abertura dos portões",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/enem-confira-os-documentos-exigidos-para-a-prova-e-o-horario-de-abertura-dos-portoes-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T19:09:29.000Z"
+      "publishedAt": "2026-11-08T16:32:34.328Z"
     },
     {
       "title": "Enem: Lula reforça importância de diploma e diz que ninguém deixará de estudar por falta de recursos",
@@ -73,46 +66,32 @@
       "publishedAt": "2026-11-08T12:08:46.634Z"
     },
     {
-      "title": "Equipes da PF estão de sobreaviso para atender demandas do Enem",
-      "url": "https://noticias.r7.com/brasilia/equipes-da-pf-estao-de-sobreaviso-para-atender-demandas-do-enem-08112026/",
+      "title": "Policial que matou mulher em van na Asa Sul atirou na cabeça de outro PM",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/policial-que-matou-mulher-em-van-na-asa-sul-atirou-na-cabeca-de-outro-pm",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T11:53:58.478Z"
+      "publishedAt": "2026-11-08T15:52:00.000Z"
     },
     {
-      "title": "Defesa Civil orienta kit de emergência, mas pede para população não entrar em pânico",
-      "url": "https://noticias.r7.com/brasilia/defesa-civil-orienta-kit-de-emergencia-mas-pede-para-populacao-nao-entrar-em-panico-08112026/",
+      "title": "Etapa de Brasília do Circuito de Corridas CAIXA tem nova data",
+      "url": "https://www.visitebrasilia.com.br/noticias/etapa-de-brasilia-do-circuito-de-corridas-caixa-tem-nova-data",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T11:41:06.025Z"
+      "publishedAt": "2026-11-08T18:46:20.000Z"
     },
     {
-      "title": "Maior parte da população acredita nas mudanças climáticas, mas negacionismo cresce no país",
-      "url": "https://noticias.r7.com/brasilia/maior-parte-da-populacao-acredita-nas-mudancas-climaticas-mas-negacionismo-cresce-no-pais-08112026/",
+      "title": "Ópera “Rita”, de Gaetano Donizetti, ganha montagem contemporânea em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/opera-rita-de-gaetano-donizetti-ganha-montagem-contemporanea-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T11:19:17.811Z"
+      "publishedAt": "2026-11-08T14:43:36.000Z"
     },
     {
-      "title": "Lula acompanha em sala de monitoramento a entrega das provas",
-      "url": "https://noticias.r7.com/brasilia/lula-acompanha-em-sala-de-monitoramento-a-entrega-de-provas-do-enem-08112026/",
+      "title": "\"A Vida Ordinária de Cristina\" leva o conflito entre mãe e filha ao palco, de graça, em Águas Claras",
+      "url": "https://www.visitebrasilia.com.br/noticias/a-vida-ordinaria-de-cristina-leva-o-conflito-entre-mae-e-filha-ao-palco-de-graca-em-aguas-claras",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T05:00:01.000Z"
-    },
-    {
-      "title": "Balanço Geral DF / 07/11/2026",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/corpo-de-homem-e-encontrado-boiando-no-lago-paranoa-e-resgatado-pelos-bombeiros-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T20:27:45.000Z"
-    },
-    {
-      "title": "Cidade Alerta DF / 07/11/2026",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoristas-e-cobradores-denunciam-falta-de-estrutura-para-descanso-e-refeicoes-no-df-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T18:40:57.000Z"
+      "publishedAt": "2026-11-07T21:39:36.000Z"
     },
     {
       "title": "Brasília recebe Club Vittar em dezembro",
@@ -120,6 +99,20 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T14:47:28.000Z"
+    },
+    {
+      "title": "Vinte e quatro pessoas doaram R$ 0,01 a Flávio Bolsonaro durante campanha",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/vinte-e-quatro-pessoas-doaram-r-001-a-flavio-bolsonaro-durante-campanha-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T18:00:00.000Z"
+    },
+    {
+      "title": "Combustíveis estariam 2 vezes mais caros sem ação do governo contra choque do petróleo",
+      "url": "https://noticias.r7.com/economia/combustiveis-estariam-duas-vezes-mais-caros-sem-acao-do-governo-contra-choque-do-petroleo-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T15:39:40.417Z"
     },
     {
       "title": "MPF abre inquérito para apurar servidores ‘fantasmas’ no Senado",
@@ -141,6 +134,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T12:54:15.213Z"
+    },
+    {
+      "title": "Enem 2026: candidatos precisam chegar antes das 13h no local da prova",
+      "url": "https://noticias.r7.com/brasilia/enem-2026-candidatos-precisam-chegar-antes-das-13h-no-local-da-prova-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T12:18:52.249Z"
     }
   ]
 }
