@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:32:53.538Z",
+  "updatedAt": "2026-11-08T02:08:32.849Z",
   "validityHours": 24,
   "items": [
     {
@@ -94,14 +94,14 @@
       "publishedAt": "2026-11-07T12:58:06.786Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 2 HORAS",
+      "title": "Balanço Geral DF / 07/11/2026",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/corpo-de-homem-e-encontrado-boiando-no-lago-paranoa-e-resgatado-pelos-bombeiros-07112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-07T20:27:45.000Z"
     },
     {
-      "title": "Cidade Alerta DF / HÁ 3 HORAS",
+      "title": "Cidade Alerta DF / 07/11/2026",
       "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoristas-e-cobradores-denunciam-falta-de-estrutura-para-descanso-e-refeicoes-no-df-07112026/",
       "tipo": "noticia",
       "urgente": false,
@@ -113,6 +113,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-07T19:54:00.000Z"
+    },
+    {
+      "title": "Jiboia é encontrada em casa e mobiliza bombeiros em Caldas Novas (GO)",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/jiboia-e-encontrada-em-casa-e-mobiliza-bombeiros-em-caldas-novas-go",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-07T21:09:00.000Z"
     },
     {
       "title": "Dois profissionais de saúde são afastados por dia, em média, por problemas de saúde mental",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-07T12:48:47.145Z"
-    },
-    {
-      "title": "Embaixada dos EUA no Paraguai reconhece Pedro Alliana como presidente",
-      "url": "https://noticias.r7.com/internacional/embaixada-dos-eua-no-paraguai-reconhece-pedro-alliana-como-presidente-07112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T12:40:23.254Z"
     }
   ]
 }
