@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:38:36.363Z",
+  "updatedAt": "2026-11-09T07:44:45.600Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,6 +38,27 @@
       "publishedAt": "2026-11-08T20:01:23.000Z"
     },
     {
+      "title": "Desigualdade racial atrasa diagnóstico de câncer de mama, aponta estudo inédito do Inca",
+      "url": "https://noticias.r7.com/brasilia/desigualdade-racial-atrasa-diagnostico-de-cancer-de-mama-aponta-estudo-inedito-do-inca-09112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-09T05:00:00.000Z"
+    },
+    {
+      "title": "Envelhecimento populacional pressiona previdência e aumenta desafio fiscal do Brasil",
+      "url": "https://noticias.r7.com/brasilia/envelhecimento-populacional-pressiona-previdencia-e-aumenta-desafio-fiscal-do-brasil-09112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-09T05:00:00.000Z"
+    },
+    {
+      "title": "Lula promete responsabilidade fiscal e diz que vai criar condições para baixar taxa de juros",
+      "url": "https://noticias.r7.com/brasilia/vamos-criar-as-condicoes-para-reduzir-a-taxa-de-juros-diz-lula-em-pronunciamento-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-09T00:14:48.209Z"
+    },
+    {
       "title": "Em pronunciamento, Lula deve abordar conquistas do governo e soberania nacional",
       "url": "https://noticias.r7.com/brasilia/em-pronunciamento-lula-deve-abordar-conquistas-do-governo-e-soberania-nacional-08112026/",
       "tipo": "noticia",
@@ -50,27 +71,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T19:08:57.835Z"
-    },
-    {
-      "title": "Mãe do rapper Oruam deixa prisão e vai usar tornozeleira eletrônica",
-      "url": "https://noticias.r7.com/brasilia/mae-do-rapper-oruam-deixa-prisao-e-vai-usar-tornozeleira-eletronica-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T16:32:34.328Z"
-    },
-    {
-      "title": "Enem: Lula reforça importância de diploma e diz que ninguém deixará de estudar por falta de recursos",
-      "url": "https://noticias.r7.com/brasilia/enem-lula-reforca-importancia-de-diploma-e-diz-que-ninguem-deixara-de-estudar-por-falta-de-recursos-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T15:03:29.755Z"
-    },
-    {
-      "title": "Lula deseja boa sorte aos estudantes que fazem o Enem: ‘A educação abre portas’",
-      "url": "https://noticias.r7.com/brasilia/lula-deseja-boa-sorte-aos-estudantes-que-fazem-o-enem-a-educacao-abre-portas-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T12:08:46.634Z"
     },
     {
       "title": "Livro sobre o músico argentino Charly García ganha lançamento na Oto Livraria (302 Norte) em 14 de novembro",
@@ -94,11 +94,25 @@
       "publishedAt": "2026-11-08T14:43:36.000Z"
     },
     {
+      "title": "Mãe do rapper Oruam deixa prisão e vai usar tornozeleira eletrônica",
+      "url": "https://noticias.r7.com/brasilia/mae-do-rapper-oruam-deixa-prisao-e-vai-usar-tornozeleira-eletronica-08112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T16:32:34.328Z"
+    },
+    {
       "title": "Brasília recebe Club Vittar em dezembro",
       "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-club-vittar-em-dezembro",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T14:47:28.000Z"
+    },
+    {
+      "title": "A ‘vantagem’ de Alcolumbre com as candidaturas de Marinho e Tereza ao Senado",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/a-vantagem-de-alcolumbre-com-as-candidaturas-de-marinho-e-tereza-ao-senado-09112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-09T05:00:00.000Z"
     },
     {
       "title": "Vinte e quatro pessoas doaram R$ 0,01 a Flávio Bolsonaro durante campanha",
@@ -115,25 +129,11 @@
       "publishedAt": "2026-11-08T15:39:40.417Z"
     },
     {
-      "title": "Após eleição, 48% aprovam e 44% desaprovam Lula; economia é principal preocupação",
-      "url": "https://noticias.r7.com/brasilia/apos-eleicao-48-aprovam-e-44-desaprovam-lula-economia-e-principal-preocupacao-08112026/",
+      "title": "Eleição para presidência do Senado testa unidade da direita e poder de articulação de Alcolumbre",
+      "url": "https://noticias.r7.com/brasilia/eleicao-para-presidencia-do-senado-testa-unidade-da-direita-e-poder-de-articulacao-de-alcolumbre-09112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T13:12:37.143Z"
-    },
-    {
-      "title": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
-      "url": "https://noticias.r7.com/brasilia/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T12:54:15.213Z"
-    },
-    {
-      "title": "Enem 2026: candidatos precisam chegar antes das 13h no local da prova",
-      "url": "https://noticias.r7.com/brasilia/enem-2026-candidatos-precisam-chegar-antes-das-13h-no-local-da-prova-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T12:18:52.249Z"
+      "publishedAt": "2026-11-09T05:00:00.000Z"
     }
   ]
 }
