@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:42:21.462Z",
+  "updatedAt": "2026-11-09T00:38:36.363Z",
   "validityHours": 24,
   "items": [
     {
@@ -24,6 +24,13 @@
       "publishedAt": "2026-11-08T20:02:23.000Z"
     },
     {
+      "title": "VIII Mostra Competitiva de Cinema Negro Adelia Sampaio reúne 40 filmes e celebra a força do cinema realizado por mulheres",
+      "url": "https://www.visitebrasilia.com.br/noticias/viii-mostra-competitiva-de-cinema-negro-adelia-sampaio-reune-40-filmes-e-celebra-a-forca-do-cinema-realizado-por-mulheres",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-08T21:11:05.000Z"
+    },
+    {
       "title": "Ballet de San Petersburgo traz a Brasília a Bela Adormecida, de Tchaikovsky, no dia 14 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/ballet-de-san-petersburgo-traz-a-brasilia-a-bela-adormecida-de-tchaikovsky-no-dia-14-de-novembro",
       "tipo": "noticia",
@@ -31,11 +38,11 @@
       "publishedAt": "2026-11-08T20:01:23.000Z"
     },
     {
-      "title": "Livro sobre o músico argentino Charly García ganha lançamento na Oto Livraria (302 Norte) em 14 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-o-musico-argentino-charly-garcia-ganha-lancamento-na-oto-livraria-302-norte-em-14-de-novembro",
+      "title": "Em pronunciamento, Lula deve abordar conquistas do governo e soberania nacional",
+      "url": "https://noticias.r7.com/brasilia/em-pronunciamento-lula-deve-abordar-conquistas-do-governo-e-soberania-nacional-08112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T19:40:52.000Z"
+      "publishedAt": "2026-11-08T19:49:41.876Z"
     },
     {
       "title": "Tema do Enem sobre SUS traz reflexão importante sobre saúde como direito, diz Lula",
@@ -66,11 +73,11 @@
       "publishedAt": "2026-11-08T12:08:46.634Z"
     },
     {
-      "title": "Policial que matou mulher em van na Asa Sul atirou na cabeça de outro PM",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/policial-que-matou-mulher-em-van-na-asa-sul-atirou-na-cabeca-de-outro-pm",
+      "title": "Livro sobre o músico argentino Charly García ganha lançamento na Oto Livraria (302 Norte) em 14 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-o-musico-argentino-charly-garcia-ganha-lancamento-na-oto-livraria-302-norte-em-14-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-08T15:52:00.000Z"
+      "publishedAt": "2026-11-08T19:40:52.000Z"
     },
     {
       "title": "Etapa de Brasília do Circuito de Corridas CAIXA tem nova data",
@@ -85,13 +92,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T14:43:36.000Z"
-    },
-    {
-      "title": "\"A Vida Ordinária de Cristina\" leva o conflito entre mãe e filha ao palco, de graça, em Águas Claras",
-      "url": "https://www.visitebrasilia.com.br/noticias/a-vida-ordinaria-de-cristina-leva-o-conflito-entre-mae-e-filha-ao-palco-de-graca-em-aguas-claras",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-07T21:39:36.000Z"
     },
     {
       "title": "Brasília recebe Club Vittar em dezembro",
@@ -113,13 +113,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-08T15:39:40.417Z"
-    },
-    {
-      "title": "MPF abre inquérito para apurar servidores ‘fantasmas’ no Senado",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/mpf-abre-inquerito-para-apurar-servidores-fantasmas-no-senado-08112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-08T12:00:00.000Z"
     },
     {
       "title": "Após eleição, 48% aprovam e 44% desaprovam Lula; economia é principal preocupação",
