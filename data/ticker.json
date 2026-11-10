@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-11-10T09:28:25.449Z",
+  "updatedAt": "2026-11-10T17:15:01.690Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Brasília recebe a 19ª Exposição Nacional Doper e White Doper",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-recebe-a-19a-exposicao-nacional-doper-e-white-doper-15170818.ghtml",
+      "title": "Manhattan Shopping dá boas-vindas ao Natal com chegada do Papai Noel e programação especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-da-boas-vindas-ao-natal-com-chegada-do-papai-noel-e-programacao-especial",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-09T11:30:12.000Z"
+      "publishedAt": "2026-11-10T16:48:53.000Z"
+    },
+    {
+      "title": "Para acompanhar o clima do Centro-Oeste: Beauty Week do Boticário oferece até 70% de desconto em mais de 400 produtos",
+      "url": "https://www.visitebrasilia.com.br/noticias/para-acompanhar-o-clima-do-centro-oeste-beauty-week-do-boticario-oferece-ate-70-de-desconto-em-mais-de-400-produtos",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-10T16:47:41.000Z"
+    },
+    {
+      "title": "Rede Windsor aposta em programação para crianças e atividades ao ar livre nas férias de verão",
+      "url": "https://www.visitebrasilia.com.br/noticias/rede-windsor-aposta-em-programacao-para-criancas-e-atividades-ao-ar-livre-nas-ferias-de-verao",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-10T16:17:47.000Z"
+    },
+    {
+      "title": "Belezas do Cerrado ganham novas nuances em exposição no Boulevard Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/belezas-do-cerrado-ganham-novas-nuances-em-exposicao-no-boulevard-shopping",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-10T12:07:33.000Z"
     },
     {
       "title": "Bla's Cozinha Criativa e Olinda Bar e Restaurante participam do Festival Bar em Bar que acontece até domingo (15/11)",
@@ -17,46 +38,18 @@
       "publishedAt": "2026-11-10T01:21:02.000Z"
     },
     {
-      "title": "Efeito Rock in Rio: estudos revelam impacto do festival nas marcas, redes sociais e consumo de música",
-      "url": "https://www.visitebrasilia.com.br/noticias/efeito-rock-in-rio-estudos-revelam-impacto-do-festival-nas-marcas-redes-sociais-e-consumo-de-musica",
+      "title": "PT projeta evento histórico para quarta posse de Lula, com expectativa de 400 mil pessoas",
+      "url": "https://noticias.r7.com/brasilia/pt-projeta-maior-posse-de-lula-como-a-historia-do-pais-expectativa-e-de-400-mil-pessoas-10112026/",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-10T00:54:52.000Z"
+      "publishedAt": "2026-11-10T16:27:45.738Z"
     },
     {
-      "title": "Com entrada gratuita, Festival Vila Gastronômica reúne gastronomia, música e lazer, em Santa Maria",
-      "url": "https://www.visitebrasilia.com.br/noticias/com-entrada-gratuita-festival-vila-gastronomica-reune-gastronomia-musica-e-lazer-em-santa-maria",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-09T22:13:49.000Z"
-    },
-    {
-      "title": "Exposição do Acervo LGBTI+ Leci Brandão entra em cartaz no espaço Cultural Renato Russo",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-do-acervo-lgbti-leci-brandao-entra-em-cartaz-no-espaco-cultural-renato-russo",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-09T20:16:12.000Z"
-    },
-    {
-      "title": "FotoCidade abre inscrições para oficinas gratuitas de fotografia e comunicação comunitária em Sobradinho II",
-      "url": "https://www.visitebrasilia.com.br/noticias/fotocidade-abre-inscricoes-para-oficinas-gratuitas-de-fotografia-e-comunicacao-comunitaria-em-sobradinho-ii",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-09T19:35:21.000Z"
-    },
-    {
-      "title": "Briga com homem com faca mobiliza polícia perto do Hospital de Base",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/briga-com-homem-armado-com-faca-mobiliza-policia-perto-do-hospital-de-base-em-brasilia-09112026/",
+      "title": "Governadora Celina Leão apresenta mudanças no GDF e planos para o próximo mandato",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/governadora-celina-leao-apresenta-mudancas-no-gdf-e-planos-para-o-proximo-mandato-10112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T17:21:16.000Z"
-    },
-    {
-      "title": "Produção de mirtilo no DF chega a 130 toneladas por ano",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/frutas-vermelhas-ganham-espaco-no-df-e-producao-de-mirtilo-chega-a-130-toneladas-por-ano-09112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-09T13:19:25.000Z"
+      "publishedAt": "2026-11-10T14:48:22.000Z"
     },
     {
       "title": "Após resgate em lava-jato, pitbull é adotado por policiais militares",
@@ -66,46 +59,67 @@
       "publishedAt": "2026-11-09T18:33:33.000Z"
     },
     {
-      "title": "Celina Leão anuncia mudanças no GDF, reforma na saúde e medidas para controlar gastos",
-      "url": "https://noticias.r7.com/brasilia/celina-leao-anuncia-mudancas-no-gdf-reforma-na-saude-e-medidas-para-controlar-gastos-09112026/",
+      "title": "Deputados do DF se opõem a aumento do ICMS sobre combustíveis",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/deputados-do-df-se-opoem-a-aumento-do-icms-sobre-combustiveis-10112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T21:17:30.268Z"
+      "publishedAt": "2026-11-10T15:09:51.000Z"
     },
     {
-      "title": "PM atira contra amigos dentro de van, mata mulher e deixa quatro feridos em Brasília",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/pm-atira-contra-amigos-dentro-de-van-mata-mulher-e-deixa-quatro-feridos-em-brasilia-09112026/",
+      "title": "Vacina contra Mpox chega à rede pública para grupos de risco no Distrito Federal",
+      "url": "https://noticias.r7.com//brasilia/df-record/video/vacina-contra-mpox-chega-a-rede-publica-para-grupos-de-risco-no-distrito-federal-10112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T16:32:42.000Z"
+      "publishedAt": "2026-11-10T15:02:46.000Z"
     },
     {
-      "title": "Samambaia recebe encontro de cultura e moda",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/samambaia-recebe-encontro-de-cultura-e-moda-15170787.ghtml",
+      "title": "Seleção Brasileira se prepara para últimos amistosos do ano",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-se-prepara-para-ultimos-amistosos-do-ano-15175157.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T10:59:37.000Z"
+      "publishedAt": "2026-11-10T15:08:28.000Z"
     },
     {
-      "title": "Palmeiras está na final da Copa do Brasil",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/palmeiras-esta-na-final-da-copa-do-brasil-15171618.ghtml",
+      "title": "Celina Leão anuncia cortes no orçamento do GDF em 2027",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/celina-leao-anuncia-cortes-no-orcamento-do-gdf-em-2027-15174409.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T14:41:34.000Z"
+      "publishedAt": "2026-11-10T12:09:04.000Z"
     },
     {
-      "title": "Remoda: festival gratuito de moda circular reúne mais de 80 expositores na Galeria dos Estados",
-      "url": "https://www.visitebrasilia.com.br/noticias/remoda-festival-gratuito-de-moda-circular-reune-mais-de-80-expositores-na-galeria-dos-estados",
+      "title": "Governo notifica hotéis para explicar alta das diárias",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/governo-notifica-hoteis-para-explicar-alta-das-diarias-15174247.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T11:35:13.000Z"
+    },
+    {
+      "title": "Efeito Rock in Rio: estudos revelam impacto do festival nas marcas, redes sociais e consumo de música",
+      "url": "https://www.visitebrasilia.com.br/noticias/efeito-rock-in-rio-estudos-revelam-impacto-do-festival-nas-marcas-redes-sociais-e-consumo-de-musica",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-09T18:18:04.000Z"
+      "publishedAt": "2026-11-10T00:54:52.000Z"
     },
     {
-      "title": "Brasília recebe o Brasília Expo Korea 2026, festival imersivo da cultura sul-coreana",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-o-brasilia-expo-korea-2026-festival-imersivo-da-cultura-sul-coreana",
+      "title": "É hoje! Exposição Frans Krajcberg abre às 19h na CAIXA Cultural Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/e-hoje-exposicao-frans-krajcberg-abre-as-19h-na-caixa-cultural-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-09T18:16:58.000Z"
+      "publishedAt": "2026-11-10T16:04:10.000Z"
+    },
+    {
+      "title": "AVÁ Editora movimenta novembro com quatro lançamentos literários no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/ava-editora-movimenta-novembro-com-quatro-lancamentos-literarios-no-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T15:59:34.000Z"
+    },
+    {
+      "title": "Foto Central – Território da Fotografia no DF e Entorno",
+      "url": "https://www.visitebrasilia.com.br/noticias/foto-central-territorio-da-fotografia-no-df-e-entorno",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T11:41:57.000Z"
     },
     {
       "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas rurais do DF",
@@ -115,32 +129,18 @@
       "publishedAt": "2026-11-10T02:37:54.000Z"
     },
     {
-      "title": "SINDHOBAR-DF e SECHOSC-DF reúnem setor de hospitalidade em Brasília para debater o futuro do trabalho",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-o-brasil-sindhobar-df-e-sechosc-df-reunem-o-setor-hospitalidade-para-debater-o-futuro-do-trabalho",
+      "title": "Ampliação do metrô está entre as prioridades do próximo governo do DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ampliacao-do-metro-esta-entre-as-prioridades-do-proximo-governo-do-df-10112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T19:49:19.000Z"
+      "publishedAt": "2026-11-10T13:53:34.000Z"
     },
     {
-      "title": "Mercado de trabalho: pessoas com mais de 60 anos ganham espaço",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/experiencia-de-profissionais-com-mais-de-60-anos-ganha-espaco-no-mercado-de-trabalho-09112026/",
+      "title": "Velório de jovem morta por PM em Brasília é marcado por homenagens e pedidos de justiça",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/velorio-de-jovem-morta-por-pm-em-brasilia-e-marcado-por-homenagens-e-pedidos-de-justica-10112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-09T15:14:52.000Z"
-    },
-    {
-      "title": "Tapumes reduzem espaço de circulação em passarela de Samambaia",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tapumes-reduzem-espaco-de-circulacao-em-passarela-de-samambaia-df-09112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-09T15:20:49.000Z"
-    },
-    {
-      "title": "Duas vítimas de ataque a tiros em van continuam internadas em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/duas-vitimas-de-ataque-a-tiros-em-van-continuam-internadas-em-brasilia-09112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-09T17:15:13.000Z"
+      "publishedAt": "2026-11-10T13:48:42.000Z"
     }
   ]
 }
