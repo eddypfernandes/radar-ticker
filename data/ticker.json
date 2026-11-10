@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:45:00.642Z",
+  "updatedAt": "2026-11-10T09:28:25.449Z",
   "validityHours": 24,
   "items": [
     {
@@ -108,6 +108,13 @@
       "publishedAt": "2026-11-09T18:16:58.000Z"
     },
     {
+      "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas rurais do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/contos-nas-escolas-de-campo-leva-teatro-de-bonecos-a-escolas-rurais-do-df",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T02:37:54.000Z"
+    },
+    {
       "title": "SINDHOBAR-DF e SECHOSC-DF reúnem setor de hospitalidade em Brasília para debater o futuro do trabalho",
       "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-o-brasil-sindhobar-df-e-sechosc-df-reunem-o-setor-hospitalidade-para-debater-o-futuro-do-trabalho",
       "tipo": "noticia",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-09T17:15:13.000Z"
-    },
-    {
-      "title": "GDF planeja comprar 15 novos vagões e avançar com Linha 2 do metrô",
-      "url": "https://noticias.r7.com/brasilia/gdf-planeja-comprar-15-novos-vagoes-e-avancar-com-linha-2-do-metro-09112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-09T21:54:39.018Z"
     }
   ]
 }
