@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-10T17:15:01.690Z",
+  "updatedAt": "2026-11-10T22:29:37.388Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Festival BDB 5.6 celebra 56 anos da Biblioteca Demonstrativa com reabertura de espaços revitalizados",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-bdb-5-6-celebra-56-anos-da-biblioteca-demonstrativa-com-reabertura-de-espacos-revitalizados",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-10T20:27:50.000Z"
+    },
     {
       "title": "Manhattan Shopping dá boas-vindas ao Natal com chegada do Papai Noel e programação especial",
       "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-da-boas-vindas-ao-natal-com-chegada-do-papai-noel-e-programacao-especial",
@@ -24,20 +31,6 @@
       "publishedAt": "2026-11-10T16:17:47.000Z"
     },
     {
-      "title": "Belezas do Cerrado ganham novas nuances em exposição no Boulevard Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/belezas-do-cerrado-ganham-novas-nuances-em-exposicao-no-boulevard-shopping",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T12:07:33.000Z"
-    },
-    {
-      "title": "Bla's Cozinha Criativa e Olinda Bar e Restaurante participam do Festival Bar em Bar que acontece até domingo (15/11)",
-      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-e-olinda-bar-e-restaurante-participam-do-festival-bar-em-bar-que-acontece-ate-domingo-15-11",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T01:21:02.000Z"
-    },
-    {
       "title": "PT projeta evento histórico para quarta posse de Lula, com expectativa de 400 mil pessoas",
       "url": "https://noticias.r7.com/brasilia/pt-projeta-maior-posse-de-lula-como-a-historia-do-pais-expectativa-e-de-400-mil-pessoas-10112026/",
       "tipo": "evento",
@@ -45,18 +38,18 @@
       "publishedAt": "2026-11-10T16:27:45.738Z"
     },
     {
+      "title": "Trânsitaverso leva experiências imersivas de educação para o trânsito a 14 regiões do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/transitaverso-leva-experiencias-imersivas-de-educacao-para-o-transito-a-14-regioes-do-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T19:23:27.000Z"
+    },
+    {
       "title": "Governadora Celina Leão apresenta mudanças no GDF e planos para o próximo mandato",
       "url": "https://noticias.r7.com/brasilia/df-record/video/governadora-celina-leao-apresenta-mudancas-no-gdf-e-planos-para-o-proximo-mandato-10112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-10T14:48:22.000Z"
-    },
-    {
-      "title": "Após resgate em lava-jato, pitbull é adotado por policiais militares",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/apos-resgate-em-lava-jato-no-distrito-federal-pitbull-e-adotado-por-policiais-militares-09112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-09T18:33:33.000Z"
     },
     {
       "title": "Deputados do DF se opõem a aumento do ICMS sobre combustíveis",
@@ -73,6 +66,13 @@
       "publishedAt": "2026-11-10T15:02:46.000Z"
     },
     {
+      "title": "Ampliação do metrô está entre as prioridades do próximo governo do DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ampliacao-do-metro-esta-entre-as-prioridades-do-proximo-governo-do-df-10112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T13:53:34.000Z"
+    },
+    {
       "title": "Seleção Brasileira se prepara para últimos amistosos do ano",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-se-prepara-para-ultimos-amistosos-do-ano-15175157.ghtml",
       "tipo": "noticia",
@@ -85,20 +85,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-10T12:09:04.000Z"
-    },
-    {
-      "title": "Governo notifica hotéis para explicar alta das diárias",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/governo-notifica-hoteis-para-explicar-alta-das-diarias-15174247.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T11:35:13.000Z"
-    },
-    {
-      "title": "Efeito Rock in Rio: estudos revelam impacto do festival nas marcas, redes sociais e consumo de música",
-      "url": "https://www.visitebrasilia.com.br/noticias/efeito-rock-in-rio-estudos-revelam-impacto-do-festival-nas-marcas-redes-sociais-e-consumo-de-musica",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T00:54:52.000Z"
     },
     {
       "title": "É hoje! Exposição Frans Krajcberg abre às 19h na CAIXA Cultural Brasília",
@@ -115,32 +101,46 @@
       "publishedAt": "2026-11-10T15:59:34.000Z"
     },
     {
-      "title": "Foto Central – Território da Fotografia no DF e Entorno",
-      "url": "https://www.visitebrasilia.com.br/noticias/foto-central-territorio-da-fotografia-no-df-e-entorno",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T11:41:57.000Z"
-    },
-    {
-      "title": "Contos nas Escolas de Campo leva teatro de bonecos a escolas rurais do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/contos-nas-escolas-de-campo-leva-teatro-de-bonecos-a-escolas-rurais-do-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T02:37:54.000Z"
-    },
-    {
-      "title": "Ampliação do metrô está entre as prioridades do próximo governo do DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ampliacao-do-metro-esta-entre-as-prioridades-do-proximo-governo-do-df-10112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T13:53:34.000Z"
-    },
-    {
       "title": "Velório de jovem morta por PM em Brasília é marcado por homenagens e pedidos de justiça",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/velorio-de-jovem-morta-por-pm-em-brasilia-e-marcado-por-homenagens-e-pedidos-de-justica-10112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-10T13:48:42.000Z"
+    },
+    {
+      "title": "Vinícola Brasília promove fim de tarde com vinho e música no dia 14 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-no-dia-14-de-novembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T21:12:39.000Z"
+    },
+    {
+      "title": "SÙ Tiramisù estreia no iFood com entregas em até 15 km da loja na Asa Sul",
+      "url": "https://www.visitebrasilia.com.br/noticias/su-tiramisu-estreia-no-ifood-com-entregas-em-ate-15-km-da-loja-na-asa-sul",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T20:57:24.000Z"
+    },
+    {
+      "title": "Ópera \"Rita\", de Gaetano Donizetti, ganha releitura contemporânea no Teatro Brasília Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/opera-rita-de-gaetano-donizetti-ganha-releitura-contemporanea-no-teatro-brasilia-shopping",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T20:38:39.000Z"
+    },
+    {
+      "title": "Léo Santana traz nova turnê do “paGGodin” a Brasília em dezembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/leo-santana-traz-nova-turne-do-paggodin-a-brasilia-em-dezembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T20:21:56.000Z"
+    },
+    {
+      "title": "Tardezinha do Samba leva cultura afro-brasileira e cidadania às escolas de Ceilândia no Mês da Consciência Negra",
+      "url": "https://www.visitebrasilia.com.br/noticias/tardezinha-do-samba-leva-cultura-afro-brasileira-e-cidadania-as-escolas-de-ceilandia-no-mes-da-consciencia-negra",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T19:44:56.000Z"
     }
   ]
 }
