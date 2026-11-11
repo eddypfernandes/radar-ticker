@@ -1,146 +1,146 @@
 {
-  "updatedAt": "2026-11-11T09:45:23.342Z",
+  "updatedAt": "2026-11-11T17:46:24.081Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "GDV Festival 2026 reúne desenvolvedores e apaixonados por games em Brasília nos dias 14 e 15 de novembro",
+      "title": "DF Plaza Shopping abre programação de Natal com a chegada do Papai Noel e evento gratuito",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-abre-programacao-de-natal-com-a-chegada-do-papai-noel-e-evento-gratuito",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T15:40:13.000Z"
+    },
+    {
+      "title": "Artista brasiliense cria 200 canções e aluga teatro para oferecer mega show gratuito",
+      "url": "https://www.visitebrasilia.com.br/noticias/artista-brasiliense-cria-200-cancoes-e-aluga-teatro-para-oferecer-mega-show-gratuito",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T15:52:58.000Z"
+    },
+    {
+      "title": "JK Shopping celebra 13 anos com exposição em homenagem a Juscelino Kubitschek, Caravana da Coca-Cola e queima de fogos",
+      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-13-anos-com-exposicao-em-homenagem-a-juscelino-kubitschek-caravana-da-coca-cola-e-queima-de-fogos",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T15:45:21.000Z"
+    },
+    {
+      "title": "Josafá Neves apresenta a exposição Arquétipos Afro-indígenas no Museu Nacional da República",
+      "url": "https://www.visitebrasilia.com.br/noticias/josafa-neves-apresenta-a-exposicao-arquetipos-afro-indigenas-no-museu-nacional-da-republica",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T15:42:49.000Z"
+    },
+    {
+      "title": "Inscrições abertas para oficina gratuita de audiovisual em Brasília, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+      "url": "https://www.visitebrasilia.com.br/noticias/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-brasilia-atividade-previa-da-16-mostra-de-cinema-e-direitos-humanos",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T15:38:45.000Z"
+    },
+    {
+      "title": "Mapa digital reúne 120 feiras do DF e facilita acesso a informações",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mapa-digital-reune-120-feiras-do-distrito-federal-e-facilita-acesso-a-informacoes-11112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T13:56:27.000Z"
+    },
+    {
+      "title": "Moradores de Ceilândia Sul (DF) denunciam descarte irregular de lixo orgânico",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-ceilandia-sul-df-denunciam-descarte-irregular-de-lixo-organico-11112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T14:47:48.000Z"
+    },
+    {
+      "title": "Risco de quedas de árvores no Núcleo Bandeirante (DF) persistem após um mês",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/risco-de-quedas-de-arvores-no-nucleo-bandeirante-df-persistem-apos-um-mes-11112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T14:44:27.000Z"
+    },
+    {
+      "title": "Polícia de São Sebastião (DF) prende mãe e filho por tentativa de homicídio",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-de-sao-sebastiao-df-prende-mae-e-filho-por-tentativa-de-homicidio-11112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T14:35:25.000Z"
+    },
+    {
+      "title": "Vacinação contra HPV para jovens do DF acontece até 31 de dezembro",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/vacinacao-contra-hpv-para-jovens-do-df-acontece-ate-31-de-dezembro-11112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T14:18:08.000Z"
+    },
+    {
+      "title": "Polícia Civil prende suspeito de estelionato",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-civil-prende-suspeito-de-estelionato-15178256.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T13:49:39.000Z"
+    },
+    {
+      "title": "DF registra aumento de queda de raios em 2026",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-registra-aumento-de-queda-de-raios-em-2026-15177579.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T10:50:52.000Z"
+    },
+    {
+      "title": "GDV Festival 2026 reúne indústria de games em Brasília com programação gratuita",
       "url": "https://www.visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-11T01:17:59.000Z"
     },
     {
-      "title": "Festival BDB 5.6 celebra 56 anos da Biblioteca Demonstrativa com reabertura de espaços revitalizados",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-bdb-5-6-celebra-56-anos-da-biblioteca-demonstrativa-com-reabertura-de-espacos-revitalizados",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T20:27:50.000Z"
-    },
-    {
-      "title": "Manhattan Shopping dá boas-vindas ao Natal com chegada do Papai Noel e programação especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/manhattan-shopping-da-boas-vindas-ao-natal-com-chegada-do-papai-noel-e-programacao-especial",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T16:48:53.000Z"
-    },
-    {
-      "title": "Para acompanhar o clima do Centro-Oeste: Beauty Week do Boticário oferece até 70% de desconto em mais de 400 produtos",
-      "url": "https://www.visitebrasilia.com.br/noticias/para-acompanhar-o-clima-do-centro-oeste-beauty-week-do-boticario-oferece-ate-70-de-desconto-em-mais-de-400-produtos",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-10T16:47:41.000Z"
-    },
-    {
-      "title": "Rede Windsor aposta em programação para crianças e atividades ao ar livre nas férias de verão",
-      "url": "https://www.visitebrasilia.com.br/noticias/rede-windsor-aposta-em-programacao-para-criancas-e-atividades-ao-ar-livre-nas-ferias-de-verao",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T16:17:47.000Z"
-    },
-    {
-      "title": "PT projeta evento histórico para quarta posse de Lula, com expectativa de 400 mil pessoas",
-      "url": "https://noticias.r7.com/brasilia/pt-projeta-maior-posse-de-lula-como-a-historia-do-pais-expectativa-e-de-400-mil-pessoas-10112026/",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T16:27:45.738Z"
-    },
-    {
-      "title": "Governadora Celina Leão apresenta mudanças no GDF e planos para o próximo mandato",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/governadora-celina-leao-apresenta-mudancas-no-gdf-e-planos-para-o-proximo-mandato-10112026/",
+      "title": "Procon do DF alerta sobre cuidados nas compras de Black Friday",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/procon-do-df-alerta-sobre-cuidados-nas-compras-de-black-friday-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T14:48:22.000Z"
+      "publishedAt": "2026-11-11T14:11:51.000Z"
     },
     {
-      "title": "Deputados do DF se opõem a aumento do ICMS sobre combustíveis",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/deputados-do-df-se-opoem-a-aumento-do-icms-sobre-combustiveis-10112026/",
+      "title": "Balanço Geral DF é eleito o melhor programa de TV em premiação de jornalismo",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/balanco-geral-df-e-eleito-o-melhor-programa-de-tv-em-premiacao-de-jornalismo-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T15:09:51.000Z"
+      "publishedAt": "2026-11-11T14:13:54.000Z"
     },
     {
-      "title": "Vacina contra Mpox chega à rede pública para grupos de risco no Distrito Federal",
-      "url": "https://noticias.r7.com//brasilia/df-record/video/vacina-contra-mpox-chega-a-rede-publica-para-grupos-de-risco-no-distrito-federal-10112026/",
+      "title": "Natal do Casapark aposta em cenografia afetiva e inovação sensorial para aproximar visitantes",
+      "url": "https://www.visitebrasilia.com.br/noticias/natal-do-casapark-aposta-em-cenografia-afetiva-e-inovacao-sensorial-para-aproximar-visitantes",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T15:02:46.000Z"
+      "publishedAt": "2026-11-11T17:21:36.000Z"
     },
     {
-      "title": "Ampliação do metrô está entre as prioridades do próximo governo do DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ampliacao-do-metro-esta-entre-as-prioridades-do-proximo-governo-do-df-10112026/",
+      "title": "Pier 21 transforma o Natal em um universo de brincadeiras e momentos em família",
+      "url": "https://www.visitebrasilia.com.br/noticias/pier-21-transforma-o-natal-em-um-universo-de-brincadeiras-e-momentos-em-familia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T13:53:34.000Z"
+      "publishedAt": "2026-11-11T17:20:39.000Z"
     },
     {
-      "title": "Seleção Brasileira se prepara para últimos amistosos do ano",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-se-prepara-para-ultimos-amistosos-do-ano-15175157.ghtml",
+      "title": "Em celebração aos 200 anos da fotografia, o Foto Central reúne 8 exposições, com abertura em 19 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-celebracao-aos-200-anos-da-fotografia-o-foto-central-reune-8-exposicoes-com-abertura-em-19-de-novembro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T15:08:28.000Z"
+      "publishedAt": "2026-11-11T17:18:43.000Z"
     },
     {
-      "title": "Celina Leão anuncia cortes no orçamento do GDF em 2027",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/celina-leao-anuncia-cortes-no-orcamento-do-gdf-em-2027-15174409.ghtml",
+      "title": "Projeto Eixo abre série cursos de formação artística no centro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-eixo-abre-serie-cursos-de-formacao-artistica-no-centro-de-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T12:09:04.000Z"
+      "publishedAt": "2026-11-11T17:16:05.000Z"
     },
     {
-      "title": "Governo notifica hotéis para explicar alta das diárias",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/governo-notifica-hoteis-para-explicar-alta-das-diarias-15174247.ghtml",
+      "title": "Tributo a Tom Jobim reúne grandes nomes da MPB da capital no Clube do Choro nesta quarta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/tributo-a-tom-jobim-reune-grandes-nomes-da-mpb-da-capital-no-clube-do-choro-nesta-quarta-feira",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-10T11:35:13.000Z"
-    },
-    {
-      "title": "Trânsitaverso leva experiências imersivas de educação para o trânsito a 14 regiões do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/transitaverso-leva-experiencias-imersivas-de-educacao-para-o-transito-a-14-regioes-do-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T19:23:27.000Z"
-    },
-    {
-      "title": "É hoje! Exposição Frans Krajcberg abre às 19h na CAIXA Cultural Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/e-hoje-exposicao-frans-krajcberg-abre-as-19h-na-caixa-cultural-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-10T16:04:10.000Z"
-    },
-    {
-      "title": "AVÁ Editora movimenta novembro com quatro lançamentos literários no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/ava-editora-movimenta-novembro-com-quatro-lancamentos-literarios-no-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T15:59:34.000Z"
-    },
-    {
-      "title": "Velório de jovem morta por PM em Brasília é marcado por homenagens e pedidos de justiça",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/velorio-de-jovem-morta-por-pm-em-brasilia-e-marcado-por-homenagens-e-pedidos-de-justica-10112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T13:48:42.000Z"
-    },
-    {
-      "title": "Asfalto acima dos 60ºC: Pirelli explica como o calor extremo impacta o desempenho dos pneus",
-      "url": "https://www.visitebrasilia.com.br/noticias/asfalto-acima-dos-60-c-pirelli-explica-como-o-calor-extremo-impacta-o-desempenho-dos-pneus",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T01:30:48.000Z"
-    },
-    {
-      "title": "Vinícola Brasília promove fim de tarde com vinho e música no dia 14 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-no-dia-14-de-novembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T21:12:39.000Z"
-    },
-    {
-      "title": "SÙ Tiramisù estreia no iFood com entregas em até 15 km da loja na Asa Sul",
-      "url": "https://www.visitebrasilia.com.br/noticias/su-tiramisu-estreia-no-ifood-com-entregas-em-ate-15-km-da-loja-na-asa-sul",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T20:57:24.000Z"
+      "publishedAt": "2026-11-11T17:11:27.000Z"
     }
   ]
 }
