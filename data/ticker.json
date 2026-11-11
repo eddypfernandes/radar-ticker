@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-10T22:29:37.388Z",
+  "updatedAt": "2026-11-11T02:11:32.832Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "GDV Festival 2026 reúne desenvolvedores e apaixonados por games em Brasília nos dias 14 e 15 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T01:17:59.000Z"
+    },
     {
       "title": "Festival BDB 5.6 celebra 56 anos da Biblioteca Demonstrativa com reabertura de espaços revitalizados",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-bdb-5-6-celebra-56-anos-da-biblioteca-demonstrativa-com-reabertura-de-espacos-revitalizados",
@@ -36,13 +43,6 @@
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-10T16:27:45.738Z"
-    },
-    {
-      "title": "Trânsitaverso leva experiências imersivas de educação para o trânsito a 14 regiões do Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/transitaverso-leva-experiencias-imersivas-de-educacao-para-o-transito-a-14-regioes-do-distrito-federal",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T19:23:27.000Z"
     },
     {
       "title": "Governadora Celina Leão apresenta mudanças no GDF e planos para o próximo mandato",
@@ -87,6 +87,20 @@
       "publishedAt": "2026-11-10T12:09:04.000Z"
     },
     {
+      "title": "Governo notifica hotéis para explicar alta das diárias",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/governo-notifica-hoteis-para-explicar-alta-das-diarias-15174247.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T11:35:13.000Z"
+    },
+    {
+      "title": "Trânsitaverso leva experiências imersivas de educação para o trânsito a 14 regiões do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/transitaverso-leva-experiencias-imersivas-de-educacao-para-o-transito-a-14-regioes-do-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-10T19:23:27.000Z"
+    },
+    {
       "title": "É hoje! Exposição Frans Krajcberg abre às 19h na CAIXA Cultural Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/e-hoje-exposicao-frans-krajcberg-abre-as-19h-na-caixa-cultural-brasilia",
       "tipo": "evento",
@@ -108,6 +122,13 @@
       "publishedAt": "2026-11-10T13:48:42.000Z"
     },
     {
+      "title": "Asfalto acima dos 60ºC: Pirelli explica como o calor extremo impacta o desempenho dos pneus",
+      "url": "https://www.visitebrasilia.com.br/noticias/asfalto-acima-dos-60-c-pirelli-explica-como-o-calor-extremo-impacta-o-desempenho-dos-pneus",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T01:30:48.000Z"
+    },
+    {
       "title": "Vinícola Brasília promove fim de tarde com vinho e música no dia 14 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-promove-fim-de-tarde-com-vinho-e-musica-no-dia-14-de-novembro",
       "tipo": "noticia",
@@ -120,27 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-10T20:57:24.000Z"
-    },
-    {
-      "title": "Ópera \"Rita\", de Gaetano Donizetti, ganha releitura contemporânea no Teatro Brasília Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/opera-rita-de-gaetano-donizetti-ganha-releitura-contemporanea-no-teatro-brasilia-shopping",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T20:38:39.000Z"
-    },
-    {
-      "title": "Léo Santana traz nova turnê do “paGGodin” a Brasília em dezembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/leo-santana-traz-nova-turne-do-paggodin-a-brasilia-em-dezembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T20:21:56.000Z"
-    },
-    {
-      "title": "Tardezinha do Samba leva cultura afro-brasileira e cidadania às escolas de Ceilândia no Mês da Consciência Negra",
-      "url": "https://www.visitebrasilia.com.br/noticias/tardezinha-do-samba-leva-cultura-afro-brasileira-e-cidadania-as-escolas-de-ceilandia-no-mes-da-consciencia-negra",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-10T19:44:56.000Z"
     }
   ]
 }
