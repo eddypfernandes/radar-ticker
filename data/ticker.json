@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-12T00:16:00.020Z",
+  "updatedAt": "2026-11-12T07:34:32.417Z",
   "validityHours": 24,
   "items": [
-    {
-      "title": "DF Plaza Shopping abre programação de Natal com a chegada do Papai Noel e evento gratuito",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-abre-programacao-de-natal-com-a-chegada-do-papai-noel-e-evento-gratuito",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-11T15:40:13.000Z"
-    },
     {
       "title": "Galeria Risofloras recebe a exposição \"Corpo Rua\", primeira mostra individual do artista Jedi, em Ceilândia",
       "url": "https://www.visitebrasilia.com.br/noticias/galeria-risofloras-recebe-a-exposicao-corpo-rua-primeira-mostra-individual-do-artista-jedi-em-ceilandia",
@@ -31,11 +24,11 @@
       "publishedAt": "2026-11-11T15:52:58.000Z"
     },
     {
-      "title": "JK Shopping celebra 13 anos com exposição sobre Juscelino Kubitschek, Caravana da Coca-Cola e show de fogos",
-      "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-13-anos-com-exposicao-em-homenagem-a-juscelino-kubitschek-caravana-da-coca-cola-e-queima-de-fogos",
-      "tipo": "evento",
+      "title": "Projeto DJ Classic forma novos DJs e impulsiona a economia criativa no Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-dj-classic-forma-novos-djs-e-impulsiona-a-economia-criativa-no-distrito-federal",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T15:45:21.000Z"
+      "publishedAt": "2026-11-12T02:22:03.000Z"
     },
     {
       "title": "Mapa digital reúne 120 feiras do DF e facilita acesso a informações",
@@ -43,13 +36,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-11T13:56:27.000Z"
-    },
-    {
-      "title": "Balanço Geral DF conquista prêmio de melhor programa de TV em Brasília",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df-conquista-premio-de-melhor-programa-de-tv-em-brasilia-11112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T22:50:52.567Z"
     },
     {
       "title": "Comissão da CLDF aprova orçamento de R$ 80 bilhões para o DF em 2027",
@@ -66,6 +52,13 @@
       "publishedAt": "2026-11-11T23:18:44.000Z"
     },
     {
+      "title": "Tradicional em Brasília, Careca chega à Asa Sul em novembro com novidades no cardápio",
+      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-em-brasilia-careca-chega-a-asa-sul-em-novembro-com-novidades-no-cardapio",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-12T01:37:36.000Z"
+    },
+    {
       "title": "Governo propõe pacote fiscal com corte de benefícios e novas regras para supersalários",
       "url": "https://noticias.r7.com/brasilia/governo-apresenta-pacote-de-ajuste-fiscal-com-corte-de-beneficios-tributarios-e-novas-regras-para-supersalarios-11112026/",
       "tipo": "noticia",
@@ -73,25 +66,18 @@
       "publishedAt": "2026-11-11T21:05:22.633Z"
     },
     {
-      "title": "Polícia Civil prende suspeito de estelionato",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/policia-civil-prende-suspeito-de-estelionato-15178256.ghtml",
+      "title": "Governo prepara medidas para melhorar contas em até R$ 60 bilhões",
+      "url": "https://noticias.r7.com/brasilia/governo-prepara-medidas-para-melhorar-contas-publicas-em-ate-r-60-bilhoes-em-2027-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T13:49:39.000Z"
+      "publishedAt": "2026-11-11T21:45:09.614Z"
     },
     {
-      "title": "DF registra aumento de queda de raios em 2026",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-registra-aumento-de-queda-de-raios-em-2026-15177579.ghtml",
+      "title": "No CCBB Brasília, bebês descobrem a arte com as mãos, os olhos e os ouvidos",
+      "url": "https://www.visitebrasilia.com.br/noticias/no-ccbb-brasilia-bebes-descobrem-a-arte-com-as-maos-os-olhos-e-os-ouvidos",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T10:50:52.000Z"
-    },
-    {
-      "title": "Josafá Neves apresenta a exposição Arquétipos Afro-indígenas no Museu Nacional da República",
-      "url": "https://www.visitebrasilia.com.br/noticias/josafa-neves-apresenta-a-exposicao-arquetipos-afro-indigenas-no-museu-nacional-da-republica",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-11T15:42:49.000Z"
+      "publishedAt": "2026-11-12T01:06:14.000Z"
     },
     {
       "title": "Sextas Musicais celebra grandes vozes femininas da música brasileira",
@@ -141,6 +127,20 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-11T17:18:43.000Z"
+    },
+    {
+      "title": "Projeto Eixo abre série cursos de formação artística no centro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-eixo-abre-serie-cursos-de-formacao-artistica-no-centro-de-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T17:16:05.000Z"
+    },
+    {
+      "title": "Tributo a Tom Jobim reúne grandes nomes da MPB da capital no Clube do Choro nesta quarta-feira",
+      "url": "https://www.visitebrasilia.com.br/noticias/tributo-a-tom-jobim-reune-grandes-nomes-da-mpb-da-capital-no-clube-do-choro-nesta-quarta-feira",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T17:11:27.000Z"
     }
   ]
 }
