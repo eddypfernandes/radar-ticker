@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:34:32.417Z",
+  "updatedAt": "2026-11-12T16:40:40.597Z",
   "validityHours": 24,
   "items": [
     {
@@ -17,11 +17,18 @@
       "publishedAt": "2026-11-11T18:23:05.000Z"
     },
     {
-      "title": "Artista brasiliense cria 200 canções e aluga teatro para oferecer mega show gratuito",
-      "url": "https://www.visitebrasilia.com.br/noticias/artista-brasiliense-cria-200-cancoes-e-aluga-teatro-para-oferecer-mega-show-gratuito",
+      "title": "Alckmin exalta FHC após episódio de exposição em vídeo",
+      "url": "https://noticias.r7.com/brasilia/alckmin-exalta-fhc-apos-episodio-de-exposicao-em-video-12112026/",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-11T15:52:58.000Z"
+      "publishedAt": "2026-11-12T16:01:49.092Z"
+    },
+    {
+      "title": "Balanço Geral DF / HÁ 1 HORA",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-investiga-suspeita-de-fraude-em-concurso-publico-da-propria-instituicao-12112026/",
+      "tipo": "vaga",
+      "urgente": false,
+      "publishedAt": "2026-11-12T15:23:25.000Z"
     },
     {
       "title": "Projeto DJ Classic forma novos DJs e impulsiona a economia criativa no Distrito Federal",
@@ -31,116 +38,109 @@
       "publishedAt": "2026-11-12T02:22:03.000Z"
     },
     {
-      "title": "Mapa digital reúne 120 feiras do DF e facilita acesso a informações",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mapa-digital-reune-120-feiras-do-distrito-federal-e-facilita-acesso-a-informacoes-11112026/",
+      "title": "Vídeo mostra desespero de amigos de PM durante disparos de tiros em van",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/video-mostra-desespero-de-amigos-durante-tiros-disparados-por-pm-dentro-de-van-no-df-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T13:56:27.000Z"
+      "publishedAt": "2026-11-11T22:30:43.000Z"
     },
     {
-      "title": "Comissão da CLDF aprova orçamento de R$ 80 bilhões para o DF em 2027",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/comissao-da-cldf-aprova-orcamento-de-r-80-bilhoes-para-o-df-em-2027-11112026/",
+      "title": "Águas Claras registra abandono de lotes e infestação de pragas",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-denunciam-abandono-de-lotes-e-infestacao-de-ratos-e-escorpioes-em-aguas-claras-df-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T23:23:02.000Z"
+      "publishedAt": "2026-11-11T17:31:17.000Z"
     },
     {
-      "title": "Wellington Luiz reúne 11 apoios e avança na articulação para seguir na presidência da CLDF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/wellington-luiz-reune-11-apoios-e-avanca-na-articulacao-para-seguir-na-presidencia-da-cldf-11112026/",
+      "title": "Homem usa peruca e máscara para invadir prédio e furtar imóvel",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-usa-peruca-e-mascara-para-invadir-predio-e-furtar-apartamento-em-brasilia-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T23:18:44.000Z"
+      "publishedAt": "2026-11-11T19:02:22.000Z"
     },
     {
-      "title": "Tradicional em Brasília, Careca chega à Asa Sul em novembro com novidades no cardápio",
-      "url": "https://www.visitebrasilia.com.br/noticias/tradicional-em-brasilia-careca-chega-a-asa-sul-em-novembro-com-novidades-no-cardapio",
+      "title": "SHI Aroma Lab® inaugura em Brasília com experiência de criação de perfumes personalizados para eventos",
+      "url": "https://www.visitebrasilia.com.br/noticias/shi-aroma-lab-inaugura-em-brasilia-com-experiencia-de-criacao-de-perfumes-personalizados-para-eventos",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T01:37:36.000Z"
+      "publishedAt": "2026-11-12T16:26:57.000Z"
     },
     {
-      "title": "Governo propõe pacote fiscal com corte de benefícios e novas regras para supersalários",
-      "url": "https://noticias.r7.com/brasilia/governo-apresenta-pacote-de-ajuste-fiscal-com-corte-de-beneficios-tributarios-e-novas-regras-para-supersalarios-11112026/",
+      "title": "Novos Candangos estreiam montagem inédita de \"Eles não usam Black-Tie\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/novos-candangos-estreiam-montagem-inedita-de-eles-nao-usam-black-tie",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T21:05:22.633Z"
+      "publishedAt": "2026-11-12T16:19:56.000Z"
     },
     {
-      "title": "Governo prepara medidas para melhorar contas em até R$ 60 bilhões",
-      "url": "https://noticias.r7.com/brasilia/governo-prepara-medidas-para-melhorar-contas-publicas-em-ate-r-60-bilhoes-em-2027-11112026/",
+      "title": "Golpe da falsa central bancária causa prejuízo de R$ 440 mil",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/grupo-que-aplicava-golpe-da-falsa-central-bancaria-causa-prejuizo-de-mais-de-r-440-mil-no-df-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T21:45:09.614Z"
+      "publishedAt": "2026-11-11T22:37:41.000Z"
     },
     {
-      "title": "No CCBB Brasília, bebês descobrem a arte com as mãos, os olhos e os ouvidos",
-      "url": "https://www.visitebrasilia.com.br/noticias/no-ccbb-brasilia-bebes-descobrem-a-arte-com-as-maos-os-olhos-e-os-ouvidos",
+      "title": "Inquérito do MPF investiga falhas na distribuição de vacinas contra a Mpox no Distrito Federal e em estados brasileiros",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/inquerito-investiga-falhas-na-distribuicao-de-vacinas-para-mpox-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T01:06:14.000Z"
+      "publishedAt": "2026-11-12T13:16:07.000Z"
     },
     {
-      "title": "Sextas Musicais celebra grandes vozes femininas da música brasileira",
-      "url": "https://www.visitebrasilia.com.br/noticias/sextas-musicais-celebra-grandes-vozes-femininas-da-musica-brasileira",
+      "title": "Senzala Invisível: caseiro explorado ao longo de 28 anos no Distrito Federal recebia menos de R$ 200 por mês",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/senzala-invisivel-caseiro-explorado-por-28-anos-no-df-recebia-menos-de-r-200-por-mes-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T20:15:04.000Z"
+      "publishedAt": "2026-11-11T23:07:58.000Z"
     },
     {
-      "title": "Royal Tulip Brasília Alvorada celebra Natal Encantado com ceia, cantata e hospedagem especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/natal-encantado-do-royal-tulip-brasilia-alvorada-tem-ceia-e-cantata-natalinas-papai-noel-e-pacote-de-hospedagem-tematico",
+      "title": "Campanha Papai Noel dos Correios recebe mais de 7,5 mil cartinhas no DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/campanha-papai-noel-dos-correios-recebe-mais-de-75-mil-cartinhas-no-df-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T20:13:56.000Z"
+      "publishedAt": "2026-11-12T13:00:53.000Z"
     },
     {
-      "title": "Grafite de Planaltina ganha espaço em galeria itinerante",
-      "url": "https://www.visitebrasilia.com.br/noticias/grafite-de-planaltina-ganha-espaco-em-galeria-itinerante",
+      "title": "Justiça do Trabalho suspende cobrança abusiva da Uber a motoristas do app",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/justica-do-trabalho-suspende-em-todo-o-brasil-cobranca-considerada-abusiva-da-uber-a-motoristas-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T18:57:05.000Z"
+      "publishedAt": "2026-11-12T13:23:36.000Z"
     },
     {
-      "title": "22º Prêmio Engenho contempla jornalistas e veículos de comunicação",
-      "url": "https://www.visitebrasilia.com.br/noticias/22-premio-engenho-contempla-jornalistas-e-veiculos-de-comunicacao",
-      "tipo": "noticia",
+      "title": "Júri dos acusados de matar torcedor do Vasco começa hoje, 1 ano após o crime",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/julgamento-de-acusados-pela-morte-de-torcedor-do-vasco-acontece-um-ano-apos-crime-12112026/",
+      "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-11T17:51:45.000Z"
+      "publishedAt": "2026-11-12T13:18:10.000Z"
     },
     {
-      "title": "Natal do Casapark aposta em cenografia afetiva e inovação sensorial para aproximar visitantes",
-      "url": "https://www.visitebrasilia.com.br/noticias/natal-do-casapark-aposta-em-cenografia-afetiva-e-inovacao-sensorial-para-aproximar-visitantes",
+      "title": "Saudita alvo de operação sobre identidades falsas no DF é citado pelo FBI por ligação com o 11/9",
+      "url": "https://noticias.r7.com/brasilia/saudita-alvo-de-operacao-sobre-identidades-falsas-e-citado-pelo-fbi-por-ligacao-com-o-119-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T17:21:36.000Z"
+      "publishedAt": "2026-11-12T16:18:49.614Z"
     },
     {
-      "title": "Pier 21 transforma o Natal em um universo de brincadeiras e momentos em família",
-      "url": "https://www.visitebrasilia.com.br/noticias/pier-21-transforma-o-natal-em-um-universo-de-brincadeiras-e-momentos-em-familia",
+      "title": "Polícia do DF realiza operação contra emissão de identidades falsas para estrangeiros",
+      "url": "https://noticias.r7.com/brasilia/policia-do-df-realiza-operacao-que-investiga-emissao-de-identidades-falsas-para-estrangeiros-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T17:20:39.000Z"
+      "publishedAt": "2026-11-12T16:18:23.508Z"
     },
     {
-      "title": "Em celebração aos 200 anos da fotografia, o Foto Central reúne 8 exposições, com abertura em 19 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/em-celebracao-aos-200-anos-da-fotografia-o-foto-central-reune-8-exposicoes-com-abertura-em-19-de-novembro",
+      "title": "Dono de abrigo de animais é absolvido após ser acusado pela PCDF de maus-tratos",
+      "url": "https://noticias.r7.com/brasilia/dono-de-abrigo-de-animais-e-absolvido-apos-ser-acusado-pela-pcdf-de-maus-tratos-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T17:18:43.000Z"
+      "publishedAt": "2026-11-12T12:19:21.046Z"
     },
     {
-      "title": "Projeto Eixo abre série cursos de formação artística no centro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-eixo-abre-serie-cursos-de-formacao-artistica-no-centro-de-brasilia",
+      "title": "Homem é preso por furto em residência de vizinho",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-preso-por-furto-em-residencia-de-vizinho-12112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T17:16:05.000Z"
-    },
-    {
-      "title": "Tributo a Tom Jobim reúne grandes nomes da MPB da capital no Clube do Choro nesta quarta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/tributo-a-tom-jobim-reune-grandes-nomes-da-mpb-da-capital-no-clube-do-choro-nesta-quarta-feira",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T17:11:27.000Z"
+      "publishedAt": "2026-11-12T14:46:40.000Z"
     }
   ]
 }
