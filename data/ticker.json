@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:46:24.081Z",
+  "updatedAt": "2026-11-12T00:16:00.020Z",
   "validityHours": 24,
   "items": [
     {
@@ -10,6 +10,20 @@
       "publishedAt": "2026-11-11T15:40:13.000Z"
     },
     {
+      "title": "Galeria Risofloras recebe a exposição \"Corpo Rua\", primeira mostra individual do artista Jedi, em Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/galeria-risofloras-recebe-a-exposicao-corpo-rua-primeira-mostra-individual-do-artista-jedi-em-ceilandia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T19:30:59.000Z"
+    },
+    {
+      "title": "Thiago Arancam protagoniza “Ópera do Sertão”, que estreia em 29 de novembro no Teatro Nacional de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/conheca-opera-do-sertao-espetaculo-protagonizado-por-thiago-arancam-com-estreia-em-29-de-novembro-no-teatro-nacional-de-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-11T18:23:05.000Z"
+    },
+    {
       "title": "Artista brasiliense cria 200 canções e aluga teatro para oferecer mega show gratuito",
       "url": "https://www.visitebrasilia.com.br/noticias/artista-brasiliense-cria-200-cancoes-e-aluga-teatro-para-oferecer-mega-show-gratuito",
       "tipo": "evento",
@@ -17,25 +31,11 @@
       "publishedAt": "2026-11-11T15:52:58.000Z"
     },
     {
-      "title": "JK Shopping celebra 13 anos com exposição em homenagem a Juscelino Kubitschek, Caravana da Coca-Cola e queima de fogos",
+      "title": "JK Shopping celebra 13 anos com exposição sobre Juscelino Kubitschek, Caravana da Coca-Cola e show de fogos",
       "url": "https://www.visitebrasilia.com.br/noticias/jk-shopping-celebra-13-anos-com-exposicao-em-homenagem-a-juscelino-kubitschek-caravana-da-coca-cola-e-queima-de-fogos",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-11T15:45:21.000Z"
-    },
-    {
-      "title": "Josafá Neves apresenta a exposição Arquétipos Afro-indígenas no Museu Nacional da República",
-      "url": "https://www.visitebrasilia.com.br/noticias/josafa-neves-apresenta-a-exposicao-arquetipos-afro-indigenas-no-museu-nacional-da-republica",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-11T15:42:49.000Z"
-    },
-    {
-      "title": "Inscrições abertas para oficina gratuita de audiovisual em Brasília, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
-      "url": "https://www.visitebrasilia.com.br/noticias/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-brasilia-atividade-previa-da-16-mostra-de-cinema-e-direitos-humanos",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-11T15:38:45.000Z"
     },
     {
       "title": "Mapa digital reúne 120 feiras do DF e facilita acesso a informações",
@@ -45,32 +45,32 @@
       "publishedAt": "2026-11-11T13:56:27.000Z"
     },
     {
-      "title": "Moradores de Ceilândia Sul (DF) denunciam descarte irregular de lixo orgânico",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-de-ceilandia-sul-df-denunciam-descarte-irregular-de-lixo-organico-11112026/",
+      "title": "Balanço Geral DF conquista prêmio de melhor programa de TV em Brasília",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df-conquista-premio-de-melhor-programa-de-tv-em-brasilia-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:47:48.000Z"
+      "publishedAt": "2026-11-11T22:50:52.567Z"
     },
     {
-      "title": "Risco de quedas de árvores no Núcleo Bandeirante (DF) persistem após um mês",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/risco-de-quedas-de-arvores-no-nucleo-bandeirante-df-persistem-apos-um-mes-11112026/",
+      "title": "Comissão da CLDF aprova orçamento de R$ 80 bilhões para o DF em 2027",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/comissao-da-cldf-aprova-orcamento-de-r-80-bilhoes-para-o-df-em-2027-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:44:27.000Z"
+      "publishedAt": "2026-11-11T23:23:02.000Z"
     },
     {
-      "title": "Polícia de São Sebastião (DF) prende mãe e filho por tentativa de homicídio",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/policia-de-sao-sebastiao-df-prende-mae-e-filho-por-tentativa-de-homicidio-11112026/",
+      "title": "Wellington Luiz reúne 11 apoios e avança na articulação para seguir na presidência da CLDF",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/wellington-luiz-reune-11-apoios-e-avanca-na-articulacao-para-seguir-na-presidencia-da-cldf-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:35:25.000Z"
+      "publishedAt": "2026-11-11T23:18:44.000Z"
     },
     {
-      "title": "Vacinação contra HPV para jovens do DF acontece até 31 de dezembro",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/vacinacao-contra-hpv-para-jovens-do-df-acontece-ate-31-de-dezembro-11112026/",
+      "title": "Governo propõe pacote fiscal com corte de benefícios e novas regras para supersalários",
+      "url": "https://noticias.r7.com/brasilia/governo-apresenta-pacote-de-ajuste-fiscal-com-corte-de-beneficios-tributarios-e-novas-regras-para-supersalarios-11112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:18:08.000Z"
+      "publishedAt": "2026-11-11T21:05:22.633Z"
     },
     {
       "title": "Polícia Civil prende suspeito de estelionato",
@@ -87,25 +87,39 @@
       "publishedAt": "2026-11-11T10:50:52.000Z"
     },
     {
-      "title": "GDV Festival 2026 reúne indústria de games em Brasília com programação gratuita",
-      "url": "https://www.visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro",
+      "title": "Josafá Neves apresenta a exposição Arquétipos Afro-indígenas no Museu Nacional da República",
+      "url": "https://www.visitebrasilia.com.br/noticias/josafa-neves-apresenta-a-exposicao-arquetipos-afro-indigenas-no-museu-nacional-da-republica",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-11T01:17:59.000Z"
+      "publishedAt": "2026-11-11T15:42:49.000Z"
     },
     {
-      "title": "Procon do DF alerta sobre cuidados nas compras de Black Friday",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/procon-do-df-alerta-sobre-cuidados-nas-compras-de-black-friday-11112026/",
+      "title": "Sextas Musicais celebra grandes vozes femininas da música brasileira",
+      "url": "https://www.visitebrasilia.com.br/noticias/sextas-musicais-celebra-grandes-vozes-femininas-da-musica-brasileira",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:11:51.000Z"
+      "publishedAt": "2026-11-11T20:15:04.000Z"
     },
     {
-      "title": "Balanço Geral DF é eleito o melhor programa de TV em premiação de jornalismo",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/balanco-geral-df-e-eleito-o-melhor-programa-de-tv-em-premiacao-de-jornalismo-11112026/",
+      "title": "Royal Tulip Brasília Alvorada celebra Natal Encantado com ceia, cantata e hospedagem especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/natal-encantado-do-royal-tulip-brasilia-alvorada-tem-ceia-e-cantata-natalinas-papai-noel-e-pacote-de-hospedagem-tematico",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-11T14:13:54.000Z"
+      "publishedAt": "2026-11-11T20:13:56.000Z"
+    },
+    {
+      "title": "Grafite de Planaltina ganha espaço em galeria itinerante",
+      "url": "https://www.visitebrasilia.com.br/noticias/grafite-de-planaltina-ganha-espaco-em-galeria-itinerante",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T18:57:05.000Z"
+    },
+    {
+      "title": "22º Prêmio Engenho contempla jornalistas e veículos de comunicação",
+      "url": "https://www.visitebrasilia.com.br/noticias/22-premio-engenho-contempla-jornalistas-e-veiculos-de-comunicacao",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-11T17:51:45.000Z"
     },
     {
       "title": "Natal do Casapark aposta em cenografia afetiva e inovação sensorial para aproximar visitantes",
@@ -127,20 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-11T17:18:43.000Z"
-    },
-    {
-      "title": "Projeto Eixo abre série cursos de formação artística no centro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-eixo-abre-serie-cursos-de-formacao-artistica-no-centro-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T17:16:05.000Z"
-    },
-    {
-      "title": "Tributo a Tom Jobim reúne grandes nomes da MPB da capital no Clube do Choro nesta quarta-feira",
-      "url": "https://www.visitebrasilia.com.br/noticias/tributo-a-tom-jobim-reune-grandes-nomes-da-mpb-da-capital-no-clube-do-choro-nesta-quarta-feira",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T17:11:27.000Z"
     }
   ]
 }
