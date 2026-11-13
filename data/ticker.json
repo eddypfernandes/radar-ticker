@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:17:15.423Z",
+  "updatedAt": "2026-11-13T11:26:17.664Z",
   "validityHours": 24,
   "items": [
     {
@@ -66,18 +66,11 @@
       "publishedAt": "2026-11-12T13:18:10.000Z"
     },
     {
-      "title": "Após rejeição de senadores, relator tira trava fiscal do Fundo Constitucional do DF",
-      "url": "https://noticias.r7.com/brasilia/apos-rejeicao-de-senadores-relator-tira-trava-fiscal-do-fundo-constitucional-do-df-12112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-12T23:32:52.702Z"
-    },
-    {
-      "title": "Feirão Digital da Antena Interna começa hoje",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/feirao-digital-da-antena-interna-comeca-hoje-15180919.ghtml",
+      "title": "Menos é Mais, Flávio Venturini e Samuel Rosa: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/menos-e-mais-flavio-venturini-e-samuel-rosa-veja-os-eventos-do-fim-de-semana-no-df-13112026/",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-12T11:15:58.000Z"
+      "publishedAt": "2026-11-13T05:00:01.000Z"
     },
     {
       "title": "Bom Dia DF - Edição de 12/11/2026",
@@ -87,18 +80,11 @@
       "publishedAt": "2026-11-12T12:42:57.000Z"
     },
     {
-      "title": "Morre Paulo de Tarso Braz Lucas, ex-subprocurador-geral da República",
-      "url": "https://www.metropoles.com/distrito-federal/morre-paulo-de-tarso-braz-lucas-ex-subprocurador-geral-da-republica",
+      "title": "DF no Campo: conheça a criação de mini-cabras",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-mini-cabras-15184225.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-13T00:17:00.000Z"
-    },
-    {
-      "title": "Homem tenta matar segurança do Metrô ao ser impedido de entrar com cachorro",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-tenta-matar-seguranca-do-metro-ao-ser-impedido-de-entrar-com-cachorro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-12T20:45:00.000Z"
+      "publishedAt": "2026-11-13T08:19:10.000Z"
     },
     {
       "title": "Com foco em Afroturismo, Instituto Bancorbrás e Sebrae/DF promovem debate no DF",
@@ -113,6 +99,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-12T23:49:41.000Z"
+    },
+    {
+      "title": "Projeto Blues Dellas apresenta grandes vozes femininas no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-blues-dellas-apresenta-grandes-vozes-femininas-no-clube-do-choro-de-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T11:15:36.000Z"
     },
     {
       "title": "Armazém Malunga celebra aniversário com atividades e ofertas especiais neste sábado (14)",
@@ -141,6 +134,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-12T19:55:37.000Z"
+    },
+    {
+      "title": "Gravação do novo DVD do Menos é Mais esgota cadeiras inferiores",
+      "url": "https://www.visitebrasilia.com.br/noticias/gravacao-do-novo-dvd-do-menos-e-mais-esgota-cadeiras-inferiores",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-12T19:42:28.000Z"
     }
   ]
 }
