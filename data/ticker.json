@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:38:56.558Z",
+  "updatedAt": "2026-11-13T03:17:15.423Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,25 +38,11 @@
       "publishedAt": "2026-11-12T16:31:32.000Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 7 HORAS",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-federal-investiga-suspeita-de-fraude-em-concurso-publico-da-propria-instituicao-12112026/",
-      "tipo": "vaga",
-      "urgente": false,
-      "publishedAt": "2026-11-12T15:23:25.000Z"
-    },
-    {
       "title": "Inquérito do MPF investiga falhas na distribuição de vacinas contra a Mpox no Distrito Federal e em estados brasileiros",
       "url": "https://noticias.r7.com/brasilia/df-record/video/inquerito-investiga-falhas-na-distribuicao-de-vacinas-para-mpox-12112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-12T13:16:07.000Z"
-    },
-    {
-      "title": "Senzala Invisível: caseiro explorado ao longo de 28 anos no Distrito Federal recebia menos de R$ 200 por mês",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/senzala-invisivel-caseiro-explorado-por-28-anos-no-df-recebia-menos-de-r-200-por-mes-11112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-11T23:07:58.000Z"
     },
     {
       "title": "Suposto piloto de Bin Laden é alvo de operação sobre identidades falsas no DF",
@@ -73,6 +59,20 @@
       "publishedAt": "2026-11-12T13:23:36.000Z"
     },
     {
+      "title": "Júri dos acusados de matar torcedor do Vasco começa hoje, 1 ano após o crime",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/julgamento-de-acusados-pela-morte-de-torcedor-do-vasco-acontece-um-ano-apos-crime-12112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-12T13:18:10.000Z"
+    },
+    {
+      "title": "Após rejeição de senadores, relator tira trava fiscal do Fundo Constitucional do DF",
+      "url": "https://noticias.r7.com/brasilia/apos-rejeicao-de-senadores-relator-tira-trava-fiscal-do-fundo-constitucional-do-df-12112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-12T23:32:52.702Z"
+    },
+    {
       "title": "Feirão Digital da Antena Interna começa hoje",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/feirao-digital-da-antena-interna-comeca-hoje-15180919.ghtml",
       "tipo": "atualidade",
@@ -87,18 +87,18 @@
       "publishedAt": "2026-11-12T12:42:57.000Z"
     },
     {
-      "title": "Programa avalia TJDFT com 85,6% de transparência; média nacional é de 69,6%",
-      "url": "https://www.metropoles.com/distrito-federal/programa-avalia-tjdft-com-856-de-transparencia-media-nacional-e-de-696",
+      "title": "Morre Paulo de Tarso Braz Lucas, ex-subprocurador-geral da República",
+      "url": "https://www.metropoles.com/distrito-federal/morre-paulo-de-tarso-braz-lucas-ex-subprocurador-geral-da-republica",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T20:30:00.000Z"
+      "publishedAt": "2026-11-13T00:17:00.000Z"
     },
     {
-      "title": "Relatório protege Fundo Constitucional do DF das medidas do ajuste fiscal",
-      "url": "https://www.metropoles.com/colunas/grande-angular/relatorio-protege-fundo-constitucional-do-df-das-medidas-do-ajuste-fiscal",
+      "title": "Homem tenta matar segurança do Metrô ao ser impedido de entrar com cachorro",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/homem-tenta-matar-seguranca-do-metro-ao-ser-impedido-de-entrar-com-cachorro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T22:14:00.000Z"
+      "publishedAt": "2026-11-12T20:45:00.000Z"
     },
     {
       "title": "Com foco em Afroturismo, Instituto Bancorbrás e Sebrae/DF promovem debate no DF",
@@ -108,11 +108,32 @@
       "publishedAt": "2026-11-12T19:44:07.000Z"
     },
     {
-      "title": "Júri dos acusados de matar torcedor do Vasco começa hoje, 1 ano após o crime",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/julgamento-de-acusados-pela-morte-de-torcedor-do-vasco-acontece-um-ano-apos-crime-12112026/",
+      "title": "BRB transforma investigação em cobrança judicial contra ex-dirigentes do Banco Master",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/brb-transforma-investigacao-em-cobranca-judicial-contra-ex-dirigentes-do-banco-master-12112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-12T23:49:41.000Z"
+    },
+    {
+      "title": "Armazém Malunga celebra aniversário com atividades e ofertas especiais neste sábado (14)",
+      "url": "https://www.visitebrasilia.com.br/noticias/armazem-malunga-celebra-aniversario-com-atividades-e-ofertas-especiais-neste-sabado-14",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-12T13:18:10.000Z"
+      "publishedAt": "2026-11-13T01:49:19.000Z"
+    },
+    {
+      "title": "Para esticar o fim de tarde: Gurumê celebra os encontros de fim de tarde com muito charme",
+      "url": "https://www.visitebrasilia.com.br/noticias/para-esticar-o-fim-de-tarde-gurume-celebra-os-encontros-de-fim-de-tarde-com-muito-charme",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T01:47:31.000Z"
+    },
+    {
+      "title": "RedStone: paixão por um clássico da coquetelaria inspira criação de marca brasiliense",
+      "url": "https://www.visitebrasilia.com.br/noticias/redstone-paixao-por-um-classico-da-coquetelaria-inspira-criacao-de-marca-brasiliense",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-12T23:28:47.000Z"
     },
     {
       "title": "Lollapalooza Brasil 2027 celebra 15 anos no país com 26 shows exclusivos de grandes nomes da música internacional",
@@ -120,27 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-12T19:55:37.000Z"
-    },
-    {
-      "title": "Gravação do novo DVD do Menos é Mais esgota cadeiras inferiores",
-      "url": "https://www.visitebrasilia.com.br/noticias/gravacao-do-novo-dvd-do-menos-e-mais-esgota-cadeiras-inferiores",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-12T19:42:28.000Z"
-    },
-    {
-      "title": "Natal Disney do ParkShopping terá sorteio de três BMW X1, panettone Chocolat du Jour e atrações imersivas",
-      "url": "https://www.visitebrasilia.com.br/noticias/natal-disney-do-parkshopping-tera-sorteio-de-tres-bmw-x1-panettone-chocolat-du-jour-e-atracoes-imersivas",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-12T19:41:04.000Z"
-    },
-    {
-      "title": "Embratur celebra 60 anos com lançamento de livro e estreia de documentário em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/embratur-celebra-60-anos-com-lancamento-de-livro-e-estreia-de-documentario-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-12T19:29:29.000Z"
     }
   ]
 }
