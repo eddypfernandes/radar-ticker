@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:15:29.177Z",
+  "updatedAt": "2026-11-14T06:54:21.554Z",
   "validityHours": 24,
   "items": [
     {
@@ -73,6 +73,13 @@
       "publishedAt": "2026-11-13T16:12:40.000Z"
     },
     {
+      "title": "GDF regulamenta Selo Brasília Qualidade no Campo para produtores rurais que adotam medidas sustentáveis",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/gdf-regulamenta-selo-brasilia-qualidade-no-campo-para-produtores-rurais-que-adotam-medidas-sustentaveis-15187403.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T23:51:43.000Z"
+    },
+    {
       "title": "Bazar do Rema começa nesta sexta-feira",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bazar-do-rema-comeca-nesta-sexta-feira-15184394.ghtml",
       "tipo": "noticia",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-13T14:26:34.000Z"
-    },
-    {
-      "title": "Brasília recebe \"Vila da Prevenção\" com atividades educativas contra a dengue",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-vila-da-prevencao-com-atividades-educativas-contra-a-dengue",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T21:22:30.000Z"
     }
   ]
 }
