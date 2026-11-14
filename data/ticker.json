@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-14T19:02:37.161Z",
+  "updatedAt": "2026-11-14T23:16:14.801Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Itaú Cultural Play integra a programação dos festivais FIM CINE e MIX Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/itau-cultural-play-integra-a-programacao-dos-festivais-fim-cine-e-mix-brasil",
+      "title": "Ópera Suburbana transforma ancestralidade e resistência negra em espetáculo musical em Taguatinga",
+      "url": "https://www.visitebrasilia.com.br/noticias/opera-suburbana-transforma-ancestralidade-e-resistencia-negra-em-espetaculo-musical-em-taguatinga",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-13T21:46:35.000Z"
+      "publishedAt": "2026-11-14T19:32:10.000Z"
     },
     {
-      "title": "Exposição na Galeria de Arte Oto Reifschneider (302 Norte) celebra o centenário de Octávio Araújo",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-na-galeria-de-arte-oto-reifschneider-302-norte-celebra-o-centenario-de-octavio-araujo",
+      "title": "Balanço Geral DF / HÁ 3 HORAS",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-de-games-em-brasilia-atrai-publico-e-oferece-atividades-gratuitas-14112026/",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-13T21:17:23.000Z"
+      "publishedAt": "2026-11-14T19:35:13.000Z"
     },
     {
       "title": "Movido à Música destaca artistas indígenas em encontro gratuito no Distrito Federal",
@@ -22,13 +22,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-14T16:42:50.000Z"
-    },
-    {
-      "title": "Meteorologista explica o que esperar do Super El Niño no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/meteorologista-explica-o-que-esperar-do-el-nino-no-distrito-federal-13112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T19:07:26.000Z"
     },
     {
       "title": "OAB-DF promove feira de inclusão profissional para jovens e PCDs no DF",
@@ -45,18 +38,25 @@
       "publishedAt": "2026-11-14T18:49:10.000Z"
     },
     {
-      "title": "Polícia Federal intensifica fiscalização de segurança privada no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/policia-federal-intensifica-fiscalizacao-de-seguranca-privada-no-df-14112026/",
+      "title": "GDF regulamenta Selo Brasília Qualidade no Campo para produtores rurais que adotam medidas sustentáveis",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/gdf-regulamenta-selo-brasilia-qualidade-no-campo-para-produtores-rurais-que-adotam-medidas-sustentaveis-15187403.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T18:44:17.000Z"
+      "publishedAt": "2026-11-13T23:51:43.000Z"
     },
     {
-      "title": "Preço do tomate atinge R$ 27 no Distrito Federal",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/preco-do-tomate-atinge-r-27-no-distrito-federal-14112026/",
+      "title": "Brasília: escritora Isabel Clemente lança livro sobre escrita criativa na Livraria Travessa do CasaPark",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-escritora-isabel-clemente-lanca-livro-sobre-escrita-criativa-na-livraria-travessa-do-casapark",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T18:40:13.000Z"
+      "publishedAt": "2026-11-14T21:14:54.000Z"
+    },
+    {
+      "title": "Deputado distrital Max Maciel lança livro \"Filhos do Pó Vermelho\" na Galeria Risofloras, em Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/deputado-distrital-max-maciel-lanca-livro-filhos-do-po-vermelho-na-galeria-risofloras-em-ceilandia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T19:33:32.000Z"
     },
     {
       "title": "Patinho Feio oferece pacotes especiais para confraternizações de fim de ano em Brasília",
@@ -66,14 +66,7 @@
       "publishedAt": "2026-11-14T16:36:16.000Z"
     },
     {
-      "title": "Vício em apostas aumenta violência contra mulheres no Brasil, aponta estudo do Ministério da Justiça",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/vicio-em-apostas-aumenta-violencia-contra-mulheres-no-brasil-aponta-estudo-do-ministerio-da-justica-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T18:08:39.000Z"
-    },
-    {
-      "title": "Livro sobre Afonso Arinos ganha novo lançamento na capital do país em 18 de novembro, a convite do Senado Federal",
+      "title": "Livro sobre Afonso Arinos tem novo lançamento em Brasília no dia 18, a convite do Senado",
       "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-afonso-arinos-ganha-novo-lancamento-na-capital-do-pais-em-18-de-novembro-a-convite-do-senado-federal",
       "tipo": "noticia",
       "urgente": false,
@@ -136,11 +129,18 @@
       "publishedAt": "2026-11-14T00:22:08.000Z"
     },
     {
-      "title": "Brasília recebe \"Vila da Prevenção\" com atividades educativas contra a dengue",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-vila-da-prevencao-com-atividades-educativas-contra-a-dengue",
+      "title": "Toffoli vota pela preservação de mensagens sobre a Lava Jato obtidas por hackers",
+      "url": "https://noticias.r7.com/brasilia/toffoli-vota-pela-preservacao-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-14112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-13T21:22:30.000Z"
+      "publishedAt": "2026-11-14T11:43:07.540Z"
+    },
+    {
+      "title": "Dos 29 voos programados para os EUA, 7 foram cancelados, e 14 partiram com atraso, diz Anac",
+      "url": "https://noticias.r7.com/brasilia/dos-29-voos-programados-para-os-eua-7-foram-cancelados-e-14-partiram-com-atraso-diz-anac-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T18:54:16.251Z"
     }
   ]
 }
