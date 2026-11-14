@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-11-13T18:41:53.132Z",
+  "updatedAt": "2026-11-14T00:15:29.177Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Chuva reduz oferta e faz preço do tomate chegar a R$ 27 o quilo no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-reduz-oferta-e-faz-preco-do-tomate-chegar-a-r-27-o-quilo-no-distrito-federal-13112026/",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-13T18:08:47.000Z"
+    },
+    {
+      "title": "Itaú Cultural Play integra a programação dos festivais FIM CINE e MIX Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/itau-cultural-play-integra-a-programacao-dos-festivais-fim-cine-e-mix-brasil",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-13T21:46:35.000Z"
+    },
+    {
+      "title": "Exposição na Galeria de Arte Oto Reifschneider (302 Norte) celebra o centenário de Octávio Araújo",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-na-galeria-de-arte-oto-reifschneider-302-norte-celebra-o-centenario-de-octavio-araujo",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-13T21:17:23.000Z"
+    },
     {
       "title": "Projeto Código Aberto lança evento \"Mulheres em Stem\"",
       "url": "https://www.visitebrasilia.com.br/noticias/projeto-codigo-aberto-lanca-evento-mulheres-em-stem",
@@ -24,53 +45,32 @@
       "publishedAt": "2026-11-13T15:57:25.000Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 31 MINUTOS",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/chuva-reduz-oferta-e-faz-preco-do-tomate-chegar-a-r-27-o-quilo-no-distrito-federal-13112026/",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-13T18:08:47.000Z"
-    },
-    {
-      "title": "Com foco em mulheres gestantes, lactantes e puérperas, Projeto Aurora promove cursos gratuitos no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/com-foco-em-mulheres-gestantes-lactantes-e-puerperas-projeto-aurora-promove-cursos-gratuitos-no-df",
+      "title": "Facções criminosas ampliam atuação no DF e entram na mira da polícia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/faccoes-criminosas-ampliam-atuacao-no-df-e-entram-na-mira-das-forcas-de-seguranca-13112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-13T17:35:23.000Z"
+      "publishedAt": "2026-11-13T17:29:59.000Z"
     },
     {
-      "title": "Com foco em Afroturismo, Instituto Bancorbrás e Sebrae/DF promovem debate no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/com-foco-em-afroturismo-instituto-bancorbras-e-sebrae-df-promovem-debate-no-df",
+      "title": "Meteorologista explica o que esperar do El Niño no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/meteorologista-explica-o-que-esperar-do-el-nino-no-distrito-federal-13112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T19:44:07.000Z"
+      "publishedAt": "2026-11-13T19:07:26.000Z"
     },
     {
-      "title": "Ex-assessor de Mario Frias é alvo de operação da PF sobre desvios para o filme Dark Horse",
-      "url": "https://noticias.r7.com/brasilia/pf-faz-operacao-sobre-suposto-desvio-de-emendas-para-filme-dark-horse-13112026/",
+      "title": "'Saidão': mais de 1,4 mil presos deixam unidades prisionais",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/mais-de-14-mil-presos-do-df-deixam-unidades-prisionais-para-saida-temporaria-13112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-13T14:30:54.961Z"
+      "publishedAt": "2026-11-13T18:00:00.000Z"
     },
     {
-      "title": "Fim da escala 6x1: folgas poderão ser acumuladas por acordo coletivo; entenda as mudanças",
-      "url": "https://noticias.r7.com/brasilia/fim-da-escala-6x1-folgas-poderao-ser-acumuladas-por-acordo-coletivo-entenda-as-mudancas-13112026/",
-      "tipo": "noticia",
+      "title": "Eventos esportivos e shows mudam trânsito no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/eventos-esportivos-e-shows-provocam-mudancas-no-transito-do-df-neste-fim-de-semana-13112026/",
+      "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-13T05:00:01.000Z"
-    },
-    {
-      "title": "Com alta do dólar, PCs e videogames ficam mais caros; entenda",
-      "url": "https://noticias.r7.com/brasilia/com-alta-do-dolar-videogames-e-computadores-ficam-mais-caros-13112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T13:27:11.221Z"
-    },
-    {
-      "title": "Pedágios: saiba como regularizar débitos do free flow; prazo vai até segunda",
-      "url": "https://noticias.r7.com/brasilia/saiba-como-regularizar-dividas-com-pedagios-free-flow-sem-multa-prazo-termina-segunda-13112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T17:47:00.122Z"
+      "publishedAt": "2026-11-13T16:12:40.000Z"
     },
     {
       "title": "Bazar do Rema começa nesta sexta-feira",
@@ -80,67 +80,67 @@
       "publishedAt": "2026-11-13T11:36:02.000Z"
     },
     {
-      "title": "Ceilândia recebe grande celebração da cultura nordestina com quadrilhas e shows neste sábado (14)",
-      "url": "https://www.visitebrasilia.com.br/noticias/ceilandia-recebe-grande-celebracao-da-cultura-nordestina-com-quadrilhas-e-shows-neste-sabado-14",
+      "title": "Bom Dia DF - Edição de 13/11/2026",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bom-dia-df-edicao-de-13112026-15184570.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T12:30:19.000Z"
+    },
+    {
+      "title": "DF no Campo: conheça a criação de mini-cabras",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/df-no-campo-conheca-a-criacao-de-mini-cabras-15184225.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T08:19:10.000Z"
+    },
+    {
+      "title": "Com foco em mulheres gestantes, lactantes e puérperas, Projeto Aurora promove cursos gratuitos no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/com-foco-em-mulheres-gestantes-lactantes-e-puerperas-projeto-aurora-promove-cursos-gratuitos-no-df",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T17:35:23.000Z"
+    },
+    {
+      "title": "Enem: estudantes participam de 'aulão' para o 2º dia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/estudantes-do-df-participam-de-aulao-de-revisao-na-reta-final-para-o-segundo-dia-do-enem-13112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T17:49:21.000Z"
+    },
+    {
+      "title": "Comissão da Câmara Legislativa do fiscaliza obras de expansão do metrô em Samambaia",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/comissao-da-camara-legislativa-do-df-fiscaliza-obras-de-expansao-do-metro-em-samambaia-13112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-13T14:39:20.000Z"
+    },
+    {
+      "title": "Menos é Mais, Flávio Venturini e Samuel Rosa: veja os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/menos-e-mais-flavio-venturini-e-samuel-rosa-veja-os-eventos-do-fim-de-semana-no-df-13112026/",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-13T17:09:58.000Z"
+      "publishedAt": "2026-11-13T15:43:09.612Z"
     },
     {
-      "title": "Black November da Jelly's Shake oferece casquinha por R$ 1 na compra de qualquer shake",
-      "url": "https://www.visitebrasilia.com.br/noticias/black-november-da-jelly-s-shake-oferece-casquinha-por-r-1-na-compra-de-qualquer-shake",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T16:59:00.000Z"
-    },
-    {
-      "title": "Quarenta mulheres lançam em Brasília o livro que ensina a empreender a própria vida",
-      "url": "https://www.visitebrasilia.com.br/noticias/quarenta-mulheres-lancam-em-brasilia-o-livro-que-ensina-a-empreender-a-propria-vida",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T16:47:10.000Z"
-    },
-    {
-      "title": "Ballet O Quebra-Nozes chega ao Teatro Nacional com apresentações no dia 15 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/ballet-o-quebra-nozes-chega-ao-teatro-nacional-com-apresentacoes-no-dia-15-de-novembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T16:03:49.000Z"
-    },
-    {
-      "title": "Casa Aroma estreia no Lago Sul com gastronomia italiana de Ronny Peterson e reservas esgotadas na abertura",
-      "url": "https://www.visitebrasilia.com.br/noticias/casa-aroma-estreia-no-lago-sul-com-gastronomia-italiana-de-ronny-peterson-e-reservas-esgotadas-na-abertura",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T15:28:03.000Z"
-    },
-    {
-      "title": "Projeto Blues Dellas apresenta grandes vozes femininas no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-blues-dellas-apresenta-grandes-vozes-femininas-no-clube-do-choro-de-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T11:15:36.000Z"
-    },
-    {
-      "title": "Armazém Malunga celebra aniversário com atividades e ofertas especiais neste sábado (14)",
-      "url": "https://www.visitebrasilia.com.br/noticias/armazem-malunga-celebra-aniversario-com-atividades-e-ofertas-especiais-neste-sabado-14",
+      "title": "Feira Permanente do Cruzeiro recebe edição do RECORD nas Cidades",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/feira-permanente-do-cruzeiro-recebe-edicao-do-record-nas-cidades-neste-sabado-13112026/",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-13T01:49:19.000Z"
+      "publishedAt": "2026-11-13T18:19:45.000Z"
     },
     {
-      "title": "Para esticar o fim de tarde: Gurumê celebra os encontros de fim de tarde com muito charme",
-      "url": "https://www.visitebrasilia.com.br/noticias/para-esticar-o-fim-de-tarde-gurume-celebra-os-encontros-de-fim-de-tarde-com-muito-charme",
+      "title": "Estudo aponta 264 vítimas em acidentes no Eixão; MP quer reduzir velocidade",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/estudo-aponta-264-vitimas-em-acidentes-no-eixao-e-embasa-acao-do-mp-para-reducao-de-velocidade-13112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-13T01:47:31.000Z"
+      "publishedAt": "2026-11-13T14:26:34.000Z"
     },
     {
-      "title": "RedStone: paixão por um clássico da coquetelaria inspira criação de marca brasiliense",
-      "url": "https://www.visitebrasilia.com.br/noticias/redstone-paixao-por-um-classico-da-coquetelaria-inspira-criacao-de-marca-brasiliense",
+      "title": "Brasília recebe \"Vila da Prevenção\" com atividades educativas contra a dengue",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-vila-da-prevencao-com-atividades-educativas-contra-a-dengue",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-12T23:28:47.000Z"
+      "publishedAt": "2026-11-13T21:22:30.000Z"
     }
   ]
 }
