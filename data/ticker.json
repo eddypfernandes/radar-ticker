@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:58:23.173Z",
+  "updatedAt": "2026-11-15T10:40:44.656Z",
   "validityHours": 24,
   "items": [
     {
@@ -115,6 +115,20 @@
       "publishedAt": "2026-11-14T20:28:43.746Z"
     },
     {
+      "title": "Lula participa da Cúpula da Asean em busca de aproximação com países do bloco",
+      "url": "https://noticias.r7.com/brasilia/lula-participa-da-cupula-da-asean-em-busca-de-aproximacao-com-paises-do-bloco-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T05:00:00.000Z"
+    },
+    {
+      "title": "Fux pede destaque e julgamento sobre fim da escala 6x1 será presencial no STF",
+      "url": "https://noticias.r7.com/brasilia/fux-pede-destaque-e-julgamento-sobre-fim-da-escala-6x1-sera-presencial-no-stf-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T20:43:22.674Z"
+    },
+    {
       "title": "PEC da Segurança: 11 capitais querem transformar guardas em polícias municipais",
       "url": "https://noticias.r7.com/brasilia/pec-da-seguranca-11-capitais-querem-transformar-guardas-em-policias-municipais-14112026/",
       "tipo": "noticia",
@@ -127,20 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-14T15:53:49.174Z"
-    },
-    {
-      "title": "Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por estar sem voz",
-      "url": "https://noticias.r7.com/brasilia/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-estar-sem-voz-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T12:54:04.037Z"
-    },
-    {
-      "title": "Chuva forte provoca queda de árvores sobre dois carros no DF",
-      "url": "https://www.metropoles.com/distrito-federal/chuva-forte-provoca-queda-de-arvores-sobre-dois-carros-no-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T02:07:00.000Z"
     }
   ]
 }
