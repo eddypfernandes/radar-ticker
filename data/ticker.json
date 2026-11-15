@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-15T10:40:44.656Z",
+  "updatedAt": "2026-11-15T17:37:21.310Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Caixa Cultural apresenta “LEEGAL”, tributo a Gal Costa e Rita Lee com Julia Vargas e Natascha Falcão.",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-apresenta-leegal-espetaculo-de-julia-vargas-e-natascha-falcao-em-tributo-a-gal-costa-e-rita-lee",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-15T13:03:17.000Z"
+    },
     {
       "title": "Ópera Suburbana transforma ancestralidade e resistência negra em espetáculo musical em Taguatinga",
       "url": "https://www.visitebrasilia.com.br/noticias/opera-suburbana-transforma-ancestralidade-e-resistencia-negra-em-espetaculo-musical-em-taguatinga",
@@ -17,11 +24,11 @@
       "publishedAt": "2026-11-14T19:35:13.000Z"
     },
     {
-      "title": "Movido à Música destaca artistas indígenas em encontro gratuito no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/movido-a-musica-destaca-artistas-indigenas-em-encontro-gratuito-no-distrito-federal",
+      "title": "Coletivo Superjazz celebra a Música Negra Contemporânea no Mês da Consciência Negra do Sesc-DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/coletivo-superjazz-celebra-a-musica-negra-contemporanea-no-mes-da-consciencia-negra-do-sesc-df",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T16:42:50.000Z"
+      "publishedAt": "2026-11-15T16:41:27.000Z"
     },
     {
       "title": "OAB-DF promove feira de inclusão profissional para jovens e PCDs no DF",
@@ -31,11 +38,46 @@
       "publishedAt": "2026-11-14T18:56:58.000Z"
     },
     {
-      "title": "Distrito Federal registra alta de 148 casos de Covid-19",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/distrito-federal-registra-alta-de-148-casos-de-covid-19-14112026/",
+      "title": "Clarice Niskier celebra 20 anos de A Alma Imoral na Mostra Teatral de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/clarice-niskier-celebra-20-anos-de-a-alma-imoral-na-mostra-teatral-de-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T18:49:10.000Z"
+      "publishedAt": "2026-11-15T16:18:06.000Z"
+    },
+    {
+      "title": "Isabel Clemente lança antologia de crônicas e ensaios na Livraria Travessa do CasaPark, dia 17 de novembro.",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-isabel-clemente-lanca-sua-primeira-antologia-de-cronicas-e-ensaios-sobre-escrita-criativa-na-livraria-travessa-do-casapark-em-17-de-novembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T15:20:43.000Z"
+    },
+    {
+      "title": "Fux pede destaque, e julgamento sobre fim da escala 6x1 no STF será presencial",
+      "url": "https://noticias.r7.com/brasilia/fux-pede-destaque-e-julgamento-sobre-fim-da-escala-6x1-sera-presencial-no-stf-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T20:43:22.674Z"
+    },
+    {
+      "title": "Lula vai encontrar Sánchez antes de voltar ao Brasil",
+      "url": "https://noticias.r7.com/brasilia/apos-cop-e-cupula-da-asean-lula-vai-a-espanha-encontrar-sanchez-antes-de-voltar-ao-brasil-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T15:21:47.491Z"
+    },
+    {
+      "title": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+      "url": "https://noticias.r7.com/brasilia/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T13:26:48.349Z"
+    },
+    {
+      "title": "2ª Corrida da Polícia Federal agita calendário corridas neste final de semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/2-corrida-da-policia-federal-agita-calendario-corridas-neste-final-de-semana",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T01:18:32.000Z"
     },
     {
       "title": "Brasília: escritora Isabel Clemente lança livro sobre escrita criativa na Livraria Travessa do CasaPark",
@@ -52,95 +94,53 @@
       "publishedAt": "2026-11-14T19:33:32.000Z"
     },
     {
-      "title": "Patinho Feio oferece pacotes especiais para confraternizações de fim de ano em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/patinho-feio-oferece-pacotes-especiais-para-confraternizacoes-de-fim-de-ano-em-brasilia",
+      "title": "Canadá anuncia aporte de US$ 400 milhões a fundo de proteção de florestas após reunião com Lula",
+      "url": "https://noticias.r7.com/brasilia/canada-anuncia-aporte-de-us-400-milhoes-a-fundo-de-protecao-de-florestas-apos-reuniao-com-lula-15112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T16:36:16.000Z"
+      "publishedAt": "2026-11-15T12:48:32.036Z"
     },
     {
-      "title": "Toffoli vota pela preservação de mensagens sobre a Lava Jato obtidas por hackers",
-      "url": "https://noticias.r7.com/brasilia/toffoli-vota-pela-preservacao-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-14112026/",
+      "title": "Auto Record Brasília / HÁ 2 HORAS",
+      "url": "https://noticias.r7.com/brasilia/auto-record/video/renault-apresenta-a-nova-picape-niagara-em-el-calafate-argentina-14112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T11:43:07.540Z"
+      "publishedAt": "2026-11-15T15:00:03.000Z"
     },
     {
-      "title": "Livro sobre Afonso Arinos tem novo lançamento em Brasília no dia 18, a convite do Senado",
-      "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-afonso-arinos-ganha-novo-lancamento-na-capital-do-pais-em-18-de-novembro-a-convite-do-senado-federal",
+      "title": "Mulher atropelada na BR-020 foi reanimada por 45 minutos, mas não resistiu",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-atropelada-na-br-020-foi-reanimada-por-45-minutos-mas-nao-resistiu",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T16:06:14.000Z"
+      "publishedAt": "2026-11-15T12:39:00.000Z"
     },
     {
-      "title": "Jornada Literária Conta Brasil leva a arte da narrativa oral e cultura popular a escolas públicas, em novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/jornada-literaria-conta-brasil-leva-a-arte-da-narrativa-oral-e-cultura-popular-a-escolas-publicas-em-novembro",
+      "title": "Enem 2026: portões se fecham para início do segundo e último dia de provas",
+      "url": "https://noticias.r7.com/educacao/enem-2026-portoes-sao-fechados-para-o-segundo-e-ultimo-dia-de-prova-15112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T16:05:13.000Z"
+      "publishedAt": "2026-11-15T15:58:03.672Z"
     },
     {
-      "title": "FundAthos lança campanha para produzir Calendários 2027",
-      "url": "https://www.visitebrasilia.com.br/noticias/fundathos-lanca-campanha-para-produzir-calendarios-2027",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T13:28:10.000Z"
-    },
-    {
-      "title": "NASCAR Brasil estreia em Brasília e decide a temporada 2026 no anel externo",
-      "url": "https://www.visitebrasilia.com.br/noticias/nascar-brasil-estreia-em-brasilia-e-decide-a-temporada-2026-no-anel-externo",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T13:19:12.000Z"
-    },
-    {
-      "title": "Mulheres que Correm com os Lobos — Partes I e II",
-      "url": "https://www.visitebrasilia.com.br/noticias/mulheres-que-correm-com-os-lobos-partes-i-e-ii",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T13:09:33.000Z"
-    },
-    {
-      "title": "Dos 29 voos programados para os EUA, 7 foram cancelados, e 14 partiram com atraso, diz Anac",
-      "url": "https://noticias.r7.com/brasilia/dos-29-voos-programados-para-os-eua-7-foram-cancelados-e-14-partiram-com-atraso-diz-anac-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T18:54:16.251Z"
-    },
-    {
-      "title": "STF tem 4 votos para manter decisão de Dino sobre fim da escala 6x1",
-      "url": "https://noticias.r7.com/brasilia/stf-julgamento-fim-da-escala-6x1-13112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T20:28:43.746Z"
-    },
-    {
-      "title": "Lula participa da Cúpula da Asean em busca de aproximação com países do bloco",
-      "url": "https://noticias.r7.com/brasilia/lula-participa-da-cupula-da-asean-em-busca-de-aproximacao-com-paises-do-bloco-15112026/",
+      "title": "Confira quem tem direito a pedir a reaplicação do exame",
+      "url": "https://noticias.r7.com/educacao/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame-15112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T05:00:00.000Z"
     },
     {
-      "title": "Fux pede destaque e julgamento sobre fim da escala 6x1 será presencial no STF",
-      "url": "https://noticias.r7.com/brasilia/fux-pede-destaque-e-julgamento-sobre-fim-da-escala-6x1-sera-presencial-no-stf-14112026/",
+      "title": "Nove em cada dez aposentadorias especiais no INSS são concedidas por ordem judicial",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/nove-a-cada-10-aposentadorias-especiais-no-inss-sao-concedidas-por-ordem-judicial-14112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T20:43:22.674Z"
+      "publishedAt": "2026-11-14T18:03:38.303Z"
     },
     {
-      "title": "PEC da Segurança: 11 capitais querem transformar guardas em polícias municipais",
-      "url": "https://noticias.r7.com/brasilia/pec-da-seguranca-11-capitais-querem-transformar-guardas-em-policias-municipais-14112026/",
+      "title": "Edson Fachin desagrada alas do STF ao tentar administrar crise do Banco Master",
+      "url": "https://noticias.r7.com/prisma/quarta-instancia/fachin-desagrada-alas-do-stf-ao-tentar-administrar-crise-do-banco-master-16112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T17:26:02.360Z"
-    },
-    {
-      "title": "PEC da Segurança exige integração entre governos e mudanças além de novo ministério",
-      "url": "https://noticias.r7.com/brasilia/pec-da-seguranca-exige-integracao-entre-governos-e-mudancas-alem-de-novo-ministerio-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T15:53:49.174Z"
+      "publishedAt": "2026-11-15T05:00:00.000Z"
     }
   ]
 }
