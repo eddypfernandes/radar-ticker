@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-15T17:37:21.310Z",
+  "updatedAt": "2026-11-15T22:37:52.767Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "CCBB Brasília apresenta \"Eu Quero Ser Uma Locomotiva\", espetáculo sobre memória, tempo e reinvenção dirigido por Lydia Del Picchia",
+      "url": "https://www.visitebrasilia.com.br/noticias/ccbb-brasilia-apresenta-eu-quero-ser-uma-locomotiva-espetaculo-sobre-memoria-tempo-e-reinvencao-dirigido-por-lydia-del-picchia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-15T19:29:53.000Z"
+    },
+    {
+      "title": "Decolar amplia oferta de experiências com atividades da Civitatis em todo o mundo",
+      "url": "https://www.visitebrasilia.com.br/noticias/decolar-amplia-oferta-de-experiencias-com-atividades-da-civitatis-em-todo-o-mundo",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-15T18:11:33.000Z"
+    },
     {
       "title": "Caixa Cultural apresenta “LEEGAL”, tributo a Gal Costa e Rita Lee com Julia Vargas e Natascha Falcão.",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-apresenta-leegal-espetaculo-de-julia-vargas-e-natascha-falcao-em-tributo-a-gal-costa-e-rita-lee",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-15T13:03:17.000Z"
-    },
-    {
-      "title": "Ópera Suburbana transforma ancestralidade e resistência negra em espetáculo musical em Taguatinga",
-      "url": "https://www.visitebrasilia.com.br/noticias/opera-suburbana-transforma-ancestralidade-e-resistencia-negra-em-espetaculo-musical-em-taguatinga",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-14T19:32:10.000Z"
-    },
-    {
-      "title": "Balanço Geral DF / 14/11/2026",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-de-games-em-brasilia-atrai-publico-e-oferece-atividades-gratuitas-14112026/",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-14T19:35:13.000Z"
     },
     {
       "title": "Coletivo Superjazz celebra a Música Negra Contemporânea no Mês da Consciência Negra do Sesc-DF",
@@ -31,11 +31,46 @@
       "publishedAt": "2026-11-15T16:41:27.000Z"
     },
     {
-      "title": "OAB-DF promove feira de inclusão profissional para jovens e PCDs no DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/oab-df-promove-feira-de-inclusao-profissional-para-jovens-e-pcds-no-df-14112026/",
+      "title": "\"Selva Elétrica\", de Vivian Caccuri, entra na reta final na CAIXA Cultural Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/selva-eletrica-de-vivian-caccuri-entra-na-reta-final-na-caixa-cultural-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-14T18:56:58.000Z"
+      "publishedAt": "2026-11-15T21:58:17.000Z"
+    },
+    {
+      "title": "Lula vai encontrar Sánchez antes de voltar ao Brasil",
+      "url": "https://noticias.r7.com/brasilia/apos-cop-e-cupula-da-asean-lula-vai-a-espanha-encontrar-sanchez-antes-de-voltar-ao-brasil-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T15:21:47.491Z"
+    },
+    {
+      "title": "Lula deve decidir formação de novos ministérios a partir desta segunda-feira, diz Alckmin",
+      "url": "https://noticias.r7.com/brasilia/lula-deve-decidir-formacao-de-novos-ministerios-a-partir-desta-segunda-feira-diz-alckmin-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T16:28:42.090Z"
+    },
+    {
+      "title": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+      "url": "https://noticias.r7.com/brasilia/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T13:26:48.349Z"
+    },
+    {
+      "title": "Canadá anuncia aporte de US$ 400 milhões a fundo de proteção de florestas após reunião com Lula",
+      "url": "https://noticias.r7.com/brasilia/canada-anuncia-aporte-de-us-400-milhoes-a-fundo-de-protecao-de-florestas-apos-reuniao-com-lula-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T12:48:32.036Z"
+    },
+    {
+      "title": "Auto Record Brasília / HÁ 7 HORAS",
+      "url": "https://noticias.r7.com/brasilia/auto-record/video/renault-apresenta-a-nova-picape-niagara-em-el-calafate-argentina-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T15:00:03.000Z"
     },
     {
       "title": "Clarice Niskier celebra 20 anos de A Alma Imoral na Mostra Teatral de Brasília",
@@ -52,67 +87,11 @@
       "publishedAt": "2026-11-15T15:20:43.000Z"
     },
     {
-      "title": "Fux pede destaque, e julgamento sobre fim da escala 6x1 no STF será presencial",
-      "url": "https://noticias.r7.com/brasilia/fux-pede-destaque-e-julgamento-sobre-fim-da-escala-6x1-sera-presencial-no-stf-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T20:43:22.674Z"
-    },
-    {
-      "title": "Lula vai encontrar Sánchez antes de voltar ao Brasil",
-      "url": "https://noticias.r7.com/brasilia/apos-cop-e-cupula-da-asean-lula-vai-a-espanha-encontrar-sanchez-antes-de-voltar-ao-brasil-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T15:21:47.491Z"
-    },
-    {
-      "title": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
-      "url": "https://noticias.r7.com/brasilia/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T13:26:48.349Z"
-    },
-    {
       "title": "2ª Corrida da Polícia Federal agita calendário corridas neste final de semana",
       "url": "https://www.visitebrasilia.com.br/noticias/2-corrida-da-policia-federal-agita-calendario-corridas-neste-final-de-semana",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T01:18:32.000Z"
-    },
-    {
-      "title": "Brasília: escritora Isabel Clemente lança livro sobre escrita criativa na Livraria Travessa do CasaPark",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-escritora-isabel-clemente-lanca-livro-sobre-escrita-criativa-na-livraria-travessa-do-casapark",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T21:14:54.000Z"
-    },
-    {
-      "title": "Deputado distrital Max Maciel lança livro \"Filhos do Pó Vermelho\" na Galeria Risofloras, em Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/deputado-distrital-max-maciel-lanca-livro-filhos-do-po-vermelho-na-galeria-risofloras-em-ceilandia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T19:33:32.000Z"
-    },
-    {
-      "title": "Canadá anuncia aporte de US$ 400 milhões a fundo de proteção de florestas após reunião com Lula",
-      "url": "https://noticias.r7.com/brasilia/canada-anuncia-aporte-de-us-400-milhoes-a-fundo-de-protecao-de-florestas-apos-reuniao-com-lula-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T12:48:32.036Z"
-    },
-    {
-      "title": "Auto Record Brasília / HÁ 2 HORAS",
-      "url": "https://noticias.r7.com/brasilia/auto-record/video/renault-apresenta-a-nova-picape-niagara-em-el-calafate-argentina-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T15:00:03.000Z"
-    },
-    {
-      "title": "Mulher atropelada na BR-020 foi reanimada por 45 minutos, mas não resistiu",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/mulher-atropelada-na-br-020-foi-reanimada-por-45-minutos-mas-nao-resistiu",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T12:39:00.000Z"
     },
     {
       "title": "Enem 2026: portões se fecham para início do segundo e último dia de provas",
@@ -129,18 +108,39 @@
       "publishedAt": "2026-11-15T05:00:00.000Z"
     },
     {
-      "title": "Nove em cada dez aposentadorias especiais no INSS são concedidas por ordem judicial",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/nove-a-cada-10-aposentadorias-especiais-no-inss-sao-concedidas-por-ordem-judicial-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T18:03:38.303Z"
-    },
-    {
       "title": "Edson Fachin desagrada alas do STF ao tentar administrar crise do Banco Master",
       "url": "https://noticias.r7.com/prisma/quarta-instancia/fachin-desagrada-alas-do-stf-ao-tentar-administrar-crise-do-banco-master-16112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T05:00:00.000Z"
+    },
+    {
+      "title": "Quem é o favorito de delegados da PF para comandar o Ministério da Segurança Pública",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/quem-e-o-favorito-de-delegados-da-pf-para-comandar-o-ministerio-da-seguranca-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T05:00:01.000Z"
+    },
+    {
+      "title": "PSB se junta a PDT em ação que pode remanejar 36 cadeiras na Câmara",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/psb-se-junta-a-pdt-em-acao-que-pode-remanejar-36-cadeiras-na-camara-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T18:00:00.000Z"
+    },
+    {
+      "title": "Enem 2026: portões são abertos em todo o país para o último dia de prova",
+      "url": "https://noticias.r7.com/educacao/enem-2026-portoes-sao-abertos-em-todo-o-pais-para-o-ultimo-dia-de-prova-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T14:58:06.704Z"
+    },
+    {
+      "title": "O que Tereza Cristina pretende fazer diferente de Alcolumbre se for eleita presidente do Senado",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/o-que-tereza-cristina-pretende-fazer-diferente-de-alcolumbre-se-for-eleita-presidente-do-senado-15112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T12:00:00.000Z"
     }
   ]
 }
