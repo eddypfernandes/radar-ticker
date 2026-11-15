@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:16:14.801Z",
+  "updatedAt": "2026-11-15T02:58:23.173Z",
   "validityHours": 24,
   "items": [
     {
@@ -10,7 +10,7 @@
       "publishedAt": "2026-11-14T19:32:10.000Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 3 HORAS",
+      "title": "Balanço Geral DF / 14/11/2026",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/festival-de-games-em-brasilia-atrai-publico-e-oferece-atividades-gratuitas-14112026/",
       "tipo": "evento",
       "urgente": false,
@@ -38,13 +38,6 @@
       "publishedAt": "2026-11-14T18:49:10.000Z"
     },
     {
-      "title": "GDF regulamenta Selo Brasília Qualidade no Campo para produtores rurais que adotam medidas sustentáveis",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/gdf-regulamenta-selo-brasilia-qualidade-no-campo-para-produtores-rurais-que-adotam-medidas-sustentaveis-15187403.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-13T23:51:43.000Z"
-    },
-    {
       "title": "Brasília: escritora Isabel Clemente lança livro sobre escrita criativa na Livraria Travessa do CasaPark",
       "url": "https://www.visitebrasilia.com.br/noticias/brasilia-escritora-isabel-clemente-lanca-livro-sobre-escrita-criativa-na-livraria-travessa-do-casapark",
       "tipo": "noticia",
@@ -64,6 +57,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-14T16:36:16.000Z"
+    },
+    {
+      "title": "Toffoli vota pela preservação de mensagens sobre a Lava Jato obtidas por hackers",
+      "url": "https://noticias.r7.com/brasilia/toffoli-vota-pela-preservacao-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T11:43:07.540Z"
     },
     {
       "title": "Livro sobre Afonso Arinos tem novo lançamento em Brasília no dia 18, a convite do Senado",
@@ -101,46 +101,46 @@
       "publishedAt": "2026-11-14T13:09:33.000Z"
     },
     {
-      "title": "Lollapalooza Brasil 2027 celebra 15 anos com 26 shows exclusivos de artistas internacionais",
-      "url": "https://www.visitebrasilia.com.br/noticias/lollapalooza-brasil-2027-celebra-15-anos-no-pais-com-26-shows-exclusivos-de-grandes-nomes-da-musica-internacional",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T01:55:37.000Z"
-    },
-    {
-      "title": "Lab Turismo reúne lideranças do setor em entrevistas no Podcast da Festuris 2026",
-      "url": "https://www.visitebrasilia.com.br/noticias/lab-turismo-reune-liderancas-do-setor-em-entrevistas-no-podcast-da-festuris-2026",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T00:34:54.000Z"
-    },
-    {
-      "title": "Giraffas se une ao Menos é Mais na gravação do DVD TRILHA, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/giraffas-se-une-ao-menos-e-mais-na-gravacao-do-dvd-trilha-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T00:22:25.000Z"
-    },
-    {
-      "title": "Após sucesso global, João Gomes, Jota.pê e Mestrinho retornam a Brasília com a turnê \"Dominguinho\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-sucesso-global-joao-gomes-jota-pe-e-mestrinho-retornam-a-brasilia-com-a-turne-dominguinho-2",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T00:22:08.000Z"
-    },
-    {
-      "title": "Toffoli vota pela preservação de mensagens sobre a Lava Jato obtidas por hackers",
-      "url": "https://noticias.r7.com/brasilia/toffoli-vota-pela-preservacao-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-14112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-14T11:43:07.540Z"
-    },
-    {
       "title": "Dos 29 voos programados para os EUA, 7 foram cancelados, e 14 partiram com atraso, diz Anac",
       "url": "https://noticias.r7.com/brasilia/dos-29-voos-programados-para-os-eua-7-foram-cancelados-e-14-partiram-com-atraso-diz-anac-14112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-14T18:54:16.251Z"
+    },
+    {
+      "title": "STF tem 4 votos para manter decisão de Dino sobre fim da escala 6x1",
+      "url": "https://noticias.r7.com/brasilia/stf-julgamento-fim-da-escala-6x1-13112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T20:28:43.746Z"
+    },
+    {
+      "title": "PEC da Segurança: 11 capitais querem transformar guardas em polícias municipais",
+      "url": "https://noticias.r7.com/brasilia/pec-da-seguranca-11-capitais-querem-transformar-guardas-em-policias-municipais-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T17:26:02.360Z"
+    },
+    {
+      "title": "PEC da Segurança exige integração entre governos e mudanças além de novo ministério",
+      "url": "https://noticias.r7.com/brasilia/pec-da-seguranca-exige-integracao-entre-governos-e-mudancas-alem-de-novo-ministerio-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T15:53:49.174Z"
+    },
+    {
+      "title": "Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por estar sem voz",
+      "url": "https://noticias.r7.com/brasilia/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-estar-sem-voz-14112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-14T12:54:04.037Z"
+    },
+    {
+      "title": "Chuva forte provoca queda de árvores sobre dois carros no DF",
+      "url": "https://www.metropoles.com/distrito-federal/chuva-forte-provoca-queda-de-arvores-sobre-dois-carros-no-df",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T02:07:00.000Z"
     }
   ]
 }
