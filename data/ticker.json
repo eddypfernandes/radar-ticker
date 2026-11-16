@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:37:52.767Z",
+  "updatedAt": "2026-11-16T02:38:29.519Z",
   "validityHours": 24,
   "items": [
     {
@@ -24,18 +24,18 @@
       "publishedAt": "2026-11-15T13:03:17.000Z"
     },
     {
+      "title": "Caio Fonseca, músico do DF, anuncia lançamento de Espectro Concreto, seu primeiro álbum solo e autoral",
+      "url": "https://www.visitebrasilia.com.br/noticias/caio-fonseca-musico-do-df-anuncia-lancamento-de-espectro-concreto-seu-primeiro-album-solo-e-autoral",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T01:25:42.000Z"
+    },
+    {
       "title": "Coletivo Superjazz celebra a Música Negra Contemporânea no Mês da Consciência Negra do Sesc-DF",
       "url": "https://www.visitebrasilia.com.br/noticias/coletivo-superjazz-celebra-a-musica-negra-contemporanea-no-mes-da-consciencia-negra-do-sesc-df",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T16:41:27.000Z"
-    },
-    {
-      "title": "\"Selva Elétrica\", de Vivian Caccuri, entra na reta final na CAIXA Cultural Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/selva-eletrica-de-vivian-caccuri-entra-na-reta-final-na-caixa-cultural-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T21:58:17.000Z"
     },
     {
       "title": "Lula vai encontrar Sánchez antes de voltar ao Brasil",
@@ -66,11 +66,25 @@
       "publishedAt": "2026-11-15T12:48:32.036Z"
     },
     {
-      "title": "Auto Record Brasília / HÁ 7 HORAS",
+      "title": "Auto Record Brasília / 15/11/2026",
       "url": "https://noticias.r7.com/brasilia/auto-record/video/renault-apresenta-a-nova-picape-niagara-em-el-calafate-argentina-14112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T15:00:03.000Z"
+    },
+    {
+      "title": "Muro desaba sobre rodovia do DF após fortes chuvas neste domingo (15/11) .",
+      "url": "https://www.metropoles.com/distrito-federal/muro-desaba-sobre-rodovia-do-df-apos-fortes-chuvas-neste-domingo-15-11",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-15T18:25:00.000Z"
+    },
+    {
+      "title": "\"Selva Elétrica\", de Vivian Caccuri, entra na reta final na CAIXA Cultural Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/selva-eletrica-de-vivian-caccuri-entra-na-reta-final-na-caixa-cultural-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T21:58:17.000Z"
     },
     {
       "title": "Clarice Niskier celebra 20 anos de A Alma Imoral na Mostra Teatral de Brasília",
@@ -87,11 +101,18 @@
       "publishedAt": "2026-11-15T15:20:43.000Z"
     },
     {
-      "title": "2ª Corrida da Polícia Federal agita calendário corridas neste final de semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/2-corrida-da-policia-federal-agita-calendario-corridas-neste-final-de-semana",
+      "title": "O segredo das safras: por que o vinho muda a cada ano?",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-segredo-das-safras-por-que-o-vinho-muda-a-cada-ano",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-15T01:18:32.000Z"
+      "publishedAt": "2026-11-16T01:20:17.000Z"
+    },
+    {
+      "title": "Temporal em Ceilândia: comerciante perde móveis após loja ficar alagada",
+      "url": "https://www.metropoles.com/distrito-federal/temporal-em-ceilandia-comerciante-perde-moveis-apos-loja-ficar-alagada",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-15T18:37:00.000Z"
     },
     {
       "title": "Enem 2026: portões se fecham para início do segundo e último dia de provas",
@@ -120,27 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-15T05:00:01.000Z"
-    },
-    {
-      "title": "PSB se junta a PDT em ação que pode remanejar 36 cadeiras na Câmara",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/psb-se-junta-a-pdt-em-acao-que-pode-remanejar-36-cadeiras-na-camara-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T18:00:00.000Z"
-    },
-    {
-      "title": "Enem 2026: portões são abertos em todo o país para o último dia de prova",
-      "url": "https://noticias.r7.com/educacao/enem-2026-portoes-sao-abertos-em-todo-o-pais-para-o-ultimo-dia-de-prova-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T14:58:06.704Z"
-    },
-    {
-      "title": "O que Tereza Cristina pretende fazer diferente de Alcolumbre se for eleita presidente do Senado",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/o-que-tereza-cristina-pretende-fazer-diferente-de-alcolumbre-se-for-eleita-presidente-do-senado-15112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-15T12:00:00.000Z"
     }
   ]
 }
