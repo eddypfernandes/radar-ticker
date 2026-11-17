@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-17T12:53:54.697Z",
+  "updatedAt": "2026-11-17T21:35:45.289Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Espetáculo Revoada Contida – O Rito dos Pássaros apresenta fábula política sobre poder e opressão em Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-revoada-contida-o-rito-dos-passaros-apresenta-fabula-politica-sobre-poder-e-opressao-em-ceilandia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T20:55:55.000Z"
+    },
+    {
+      "title": "II Concurso Distrital de Queijos Artesanais terá premiação e degustação abertas ao público nesta quinta (19)",
+      "url": "https://www.visitebrasilia.com.br/noticias/ii-concurso-distrital-de-queijos-artesanais-tera-premiacao-e-degustacao-abertas-ao-publico-nesta-quinta-19",
+      "tipo": "vaga",
+      "urgente": false,
+      "publishedAt": "2026-11-17T19:36:51.000Z"
+    },
+    {
+      "title": "TEDx Universidade de Brasília acontece nesta quinta-feira (19), com programação aberta ao público",
+      "url": "https://www.visitebrasilia.com.br/noticias/tedx-universidade-de-brasilia-acontece-nesta-quinta-feira-19-com-programacao-aberta-ao-publico",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T19:06:13.000Z"
+    },
+    {
+      "title": "Caixa Cultural Brasília recebe VOA Festival com Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-recebe-voa-festival-com-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T19:03:52.000Z"
+    },
+    {
+      "title": "Seresta e clássicos da MPB embalam a 6ª edição do show “Lairson e as Meninas” no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/seresta-e-classicos-da-mpb-embalam-a-6-edicao-do-show-lairson-e-as-meninas-no-clube-do-choro",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T18:28:20.000Z"
+    },
     {
       "title": "FGC ainda tem R$ 324 milhões a pagar com liquidação do Master",
       "url": "https://noticias.r7.com/brasilia/fgc-pagou-r-288-bilhoes-a-credores-do-banco-master-um-ano-apos-liquidacao-16112026/",
@@ -10,106 +45,15 @@
       "publishedAt": "2026-11-16T22:22:30.359Z"
     },
     {
-      "title": "Dupla é presa suspeita de furtar pelo menos sete motocicletas na Asa Sul",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dupla-e-presa-suspeita-de-furtar-pelo-menos-sete-motocicletas-na-asa-sul-em-brasilia-16112026/",
+      "title": "Dino determina que ações sobre 6x1 vão a julgamento e abre prazo para manifestações",
+      "url": "https://noticias.r7.com/brasilia/dino-determina-que-acoes-sobre-6x1-sigam-para-julgamento-e-abre-prazo-para-manifestacoes-17112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-16T18:14:32.000Z"
+      "publishedAt": "2026-11-17T15:05:23.976Z"
     },
     {
-      "title": "Confeiteira perde produção de bolos após temporal no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/confeiteira-perde-producao-de-bolos-apos-temporal-no-df-e-mobiliza-rede-de-apoio-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T16:30:46.000Z"
-    },
-    {
-      "title": "DF segue em alerta para temporais após chuva provocar estragos em Ceilândia",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/df-segue-em-alerta-para-temporais-apos-chuva-provocar-estragos-em-ceilandia-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T19:18:49.000Z"
-    },
-    {
-      "title": "Polícia Militar do DF recebe novo veículo blindado para operações especiais",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policia-militar-do-df-recebe-novo-veiculo-blindado-para-operacoes-especiais-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T18:46:47.000Z"
-    },
-    {
-      "title": "Ex-servidora do Detran denuncia agente de trânsito por perseguição",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/ex-servidora-do-detran-denuncia-agente-de-transito-por-perseguicao-15198923.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-17T09:53:27.000Z"
-    },
-    {
-      "title": "Seleção Brasileira enfrenta o Japão neste sábado (14/11)",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-o-japao-neste-sabado-1411-15192318.ghtml",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-16T17:08:29.000Z"
-    },
-    {
-      "title": "Seleção Brasileira enfrenta Singapura",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-singapura-15199076.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-17T11:15:22.000Z"
-    },
-    {
-      "title": "Grupo ligado à \"Sereia do Crime\" é alvo de operação com mandados no DF .",
-      "url": "https://www.metropoles.com/distrito-federal/na-mira/grupo-ligado-a-advogada-sereia-do-crime-e-alvo-de-operacao-com-mandados-no-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-17T09:45:00.000Z"
-    },
-    {
-      "title": "Iniciativa promove autonomia financeira a vítimas do trabalho análogo à escravidão",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/iniciativa-promove-autonomia-financeira-a-vitimas-do-trabalho-analogo-a-escravidao-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T18:52:41.000Z"
-    },
-    {
-      "title": "Facções criminosas ampliam atuação e entram na mira das forças de segurança no DF",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/faccoes-criminosas-ampliam-atuacao-e-entram-na-mira-das-forcas-de-seguranca-no-df-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T17:30:14.000Z"
-    },
-    {
-      "title": "Restaurante Comunitário em Itapoã fecha temporariamente",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/restaurante-comunitario-em-itapoa-df-fecha-temporariamente-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T13:23:41.000Z"
-    },
-    {
-      "title": "Especialista explica impactos do El Niño e orienta sobre kit de emergência",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/especialista-explica-impactos-do-el-nino-e-orienta-sobre-kit-de-emergencia-para-72-horas-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T17:10:25.000Z"
-    },
-    {
-      "title": "Entenda o impacto da inteligência artificial no mercado de trabalho",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/veja-o-impacto-da-inteligencia-artificial-no-mercado-de-trabalho-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T13:17:53.000Z"
-    },
-    {
-      "title": "Governo deve publicar decreto com regras sobre fim da escala 6x1 nesta terça-feira",
+      "title": "Fim da 6x1: governo deve publicar decreto com regras nesta terça-feira",
       "url": "https://noticias.r7.com/brasilia/governo-pode-publicar-decreto-com-regras-sobre-fim-da-escala-6x1-nesta-terca-feira-17112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-17T05:00:01.000Z"
-    },
-    {
-      "title": "Prisão de Vorcaro completa um ano com investigação ainda em curso e crise no STF",
-      "url": "https://noticias.r7.com/brasilia/prisao-de-vorcaro-completa-um-ano-com-investigacao-ainda-em-curso-e-crise-no-stf-17112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-17T05:00:01.000Z"
@@ -122,25 +66,81 @@
       "publishedAt": "2026-11-17T00:55:38.571Z"
     },
     {
-      "title": "Senado vota nesta terça mudanças que podem desidratar ajuste fiscal em até R$ 26,6 bi",
+      "title": "Senado vota nesta terça-feira mudanças que podem desidratar ajuste fiscal em até R$ 26,6 bilhões",
       "url": "https://noticias.r7.com/brasilia/senado-vota-nesta-terca-mudancas-que-podem-desidratar-ajuste-fiscal-em-ate-r-266-bi-17112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-17T05:00:01.000Z"
     },
     {
-      "title": "Governo quer evitar mudanças no ajuste fiscal na Câmara para impedir retorno ao Senado",
-      "url": "https://noticias.r7.com/brasilia/governo-quer-evitar-mudancas-no-ajuste-fiscal-na-camara-para-impedir-retorno-ao-senado-17112026/",
+      "title": "Ex-servidora do Detran denuncia agente de trânsito por perseguição",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/ex-servidora-do-detran-denuncia-agente-de-transito-por-perseguicao-15198923.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T05:00:01.000Z"
+      "publishedAt": "2026-11-17T09:53:27.000Z"
     },
     {
-      "title": "PL das big techs: Câmara deve votar regulação de mercados digitais nesta terça-feira",
-      "url": "https://noticias.r7.com/brasilia/pl-das-big-techs-camara-deve-votar-regulacao-de-mercados-digitais-nesta-terca-feira-17112026/",
+      "title": "Seleção Brasileira enfrenta Singapura",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-singapura-15199076.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T05:00:01.000Z"
+      "publishedAt": "2026-11-17T11:15:22.000Z"
+    },
+    {
+      "title": "Celina deve decretar ponto facultativo na posse de Lula e do GDF .",
+      "url": "https://www.metropoles.com/distrito-federal/celina-deve-decretar-ponto-facultativo-na-posse-de-lula-e-do-gdf",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T19:51:00.000Z"
+    },
+    {
+      "title": "Roberto Menescal reúne diferentes gerações da música brasileira em show no Festival Estilo Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/roberto-menescal-reune-diferentes-geracoes-da-musica-brasileira-em-show-no-festival-estilo-brasil",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T17:57:44.000Z"
+    },
+    {
+      "title": "DF Plaza Shopping recebe edição do Fit Energy com aulas coletivas de zumba e fit dance",
+      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-edicao-do-fit-energy-com-aulas-coletivas-de-zumba-e-fit-dance",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T19:35:02.000Z"
+    },
+    {
+      "title": "Banda Patacorí apresenta o show “LAROYÊ! Tentaram nos Calar” no Clube do Choro de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/banda-patacori-apresenta-o-show-laroye-tentaram-nos-calar-no-clube-do-choro-de-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-17T18:26:33.000Z"
+    },
+    {
+      "title": "GOG, Rapper e Poeta brasiliense recebe homenagem na Câmara Legislativa do Distrito Federal em 18 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/gog-rapper-e-poeta-brasiliense-recebe-homenagem-na-camara-legislativa-do-distrito-federal-em-18-de-novembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T18:24:35.000Z"
+    },
+    {
+      "title": "Varejo do DF cresce 9,7% e supera média nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/varejo-do-df-cresce-9-7-e-supera-media-nacional",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T18:13:26.000Z"
+    },
+    {
+      "title": "Adriana Samartini comanda noite de música brasileira na Fazenda Churrascada, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/adriana-samartini-comanda-noite-de-musica-brasileira-na-fazenda-churrascada-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T20:58:09.000Z"
+    },
+    {
+      "title": "Caravana da Coca-Cola estaciona na FHE POUPEX nesta quarta-feira (18/11)",
+      "url": "https://www.visitebrasilia.com.br/noticias/caravana-da-coca-cola-estaciona-na-fhe-poupex-nesta-quarta-feira-18-11",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-17T20:55:49.000Z"
     }
   ]
 }
