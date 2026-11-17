@@ -1,41 +1,13 @@
 {
-  "updatedAt": "2026-11-16T20:51:54.577Z",
+  "updatedAt": "2026-11-17T03:30:53.487Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "TGS Run: 4ª edição da corrida de rua do Taguatinga Shopping está com inscrições abertas",
-      "url": "https://www.visitebrasilia.com.br/noticias/tgs-run-4-edicao-da-corrida-de-rua-do-taguatinga-shopping-esta-com-inscricoes-abertas",
-      "tipo": "evento",
+      "title": "FGC ainda tem R$ 324,7 milhões a pagar após um ano da liquidação do Master",
+      "url": "https://noticias.r7.com/brasilia/fgc-pagou-r-288-bilhoes-a-credores-do-banco-master-um-ano-apos-liquidacao-16112026/",
+      "tipo": "oferta",
       "urgente": false,
-      "publishedAt": "2026-11-16T17:17:47.000Z"
-    },
-    {
-      "title": "Concurso Distrital de Queijos Artesanais terá premiação e feira aberta ao público",
-      "url": "https://www.visitebrasilia.com.br/noticias/concurso-distrital-de-queijos-artesanais-tera-premiacao-e-feira-aberta-ao-publico",
-      "tipo": "vaga",
-      "urgente": false,
-      "publishedAt": "2026-11-16T17:05:15.000Z"
-    },
-    {
-      "title": "Ricco Burger e Teta Cheese Bar promovem segunda edição do Festival Carnes e Queijos Brasileiros",
-      "url": "https://www.visitebrasilia.com.br/noticias/ricco-burger-e-teta-cheese-bar-promovem-segunda-edicao-do-festival-carnes-e-queijos-brasileiros",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-16T17:03:10.000Z"
-    },
-    {
-      "title": "Belluco, Alysson Takaki e Engels Espíritos participarão do show Country Heroes no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/belluco-alysson-takaki-e-engels-espiritos-participarao-do-show-country-heroes-no-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-16T15:58:08.000Z"
-    },
-    {
-      "title": "Marina Sena traz a turnê Coisas Naturais ao Festival Estilo Brasil em 19 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/marina-sena-traz-a-turne-coisas-naturais-ao-festival-estilo-brasil-em-19-de-novembro",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-16T15:35:53.000Z"
+      "publishedAt": "2026-11-16T22:22:30.359Z"
     },
     {
       "title": "Homem tenta se livrar de munições jogando balas no vaso sanitário",
@@ -66,13 +38,6 @@
       "publishedAt": "2026-11-16T12:38:38.000Z"
     },
     {
-      "title": "Mulher morre após ser atropelada no Eixão Norte",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-atropelada-no-eixao-norte-e-nao-sobrevive-a-manobras-de-reanimacao-16112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T13:39:06.000Z"
-    },
-    {
       "title": "Seleção Brasileira enfrenta o Japão neste sábado (14/11)",
       "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-o-japao-neste-sabado-1411-15192318.ghtml",
       "tipo": "atualidade",
@@ -94,18 +59,11 @@
       "publishedAt": "2026-11-16T12:13:34.000Z"
     },
     {
-      "title": "Space Today experience chega à terceira edição e reúne grandes nomes da internet, ciência e cultura geek no Distrito Federal",
-      "url": "https://www.visitebrasilia.com.br/noticias/space-today-experience-chega-a-terceira-edicao-e-reune-grandes-nomes-da-internet-ciencia-e-cultura-geek-no-distrito-federal",
+      "title": "Mulher morre após ser atropelada no Eixão Norte",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-e-atropelada-no-eixao-norte-e-nao-sobrevive-a-manobras-de-reanimacao-16112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-16T19:45:34.000Z"
-    },
-    {
-      "title": "4ª edição do FestCaras entra em cartaz de graça no Complexo Cultural Samambaia",
-      "url": "https://www.visitebrasilia.com.br/noticias/4-edicao-do-festcaras-entra-em-cartaz-de-graca-no-complexo-cultural-samambaia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-16T15:33:58.000Z"
+      "publishedAt": "2026-11-16T13:39:06.000Z"
     },
     {
       "title": "Governo Federal envia alertas no celular sobre vacinação contra sarampo",
@@ -141,6 +99,48 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-16T13:17:53.000Z"
+    },
+    {
+      "title": "Diretor da PF nega crise e diz que enfraquecer corporação é interesse de criminosos",
+      "url": "https://noticias.r7.com/brasilia/diretor-geral-da-pf-nega-crise-interna-e-diz-que-enfraquecer-corporacao-e-interesse-de-criminosos-16112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T18:22:38.996Z"
+    },
+    {
+      "title": "Lula voltará de viagem com decreto da 6x1 e decisões sobre segurança e ajuste fiscal",
+      "url": "https://noticias.r7.com/brasilia/lula-volta-de-viagem-com-decreto-da-6x1-e-decisoes-sobre-seguranca-e-ajuste-fiscal-16112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "title": "Pix faz 6 anos e supera 1 bilhão de chaves registradas",
+      "url": "https://noticias.r7.com/brasilia/6-anos-do-pix-sistema-bate-recorde-com-mais-de-1-bilhao-de-chaves-registradas-segundo-bc-16112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T15:25:32.769Z"
+    },
+    {
+      "title": "Moraes nega a Bolsonaro visitas de Valdemar, Marinho e Tereza Cristina",
+      "url": "https://noticias.r7.com/brasilia/moraes-nega-a-bolsonaro-visitas-de-valdemar-marinho-e-tereza-cristina-16112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T13:42:32.609Z"
+    },
+    {
+      "title": "Anvisa proíbe comercialização de duas marcas de alvejantes",
+      "url": "https://noticias.r7.com/brasilia/anvisa-proibe-comercializacao-de-duas-marcas-de-alvejantes-a-base-de-percarbonato-de-sodio-16112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-16T12:28:16.151Z"
+    },
+    {
+      "title": "Free Flow: débitos com pedágios podem ser quitados até hoje",
+      "url": "https://noticias.r7.com/brasilia/prazo-para-quitar-debitos-com-pedagios-free-flow-termina-hoje-saiba-como-identificar-pendencia-16112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     }
   ]
 }
