@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-18T03:26:03.129Z",
+  "updatedAt": "2026-11-18T12:07:19.124Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "VOA Festival reúne Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/voa-festival-reune-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly-em-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-18T12:02:44.000Z"
+    },
     {
       "title": "Espetáculo Revoada Contida – O Rito dos Pássaros apresenta fábula política sobre poder e opressão em Ceilândia",
       "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-revoada-contida-o-rito-dos-passaros-apresenta-fabula-politica-sobre-poder-e-opressao-em-ceilandia",
@@ -22,13 +29,6 @@
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-17T19:06:13.000Z"
-    },
-    {
-      "title": "Caixa Cultural Brasília recebe VOA Festival com Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-recebe-voa-festival-com-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-17T19:03:52.000Z"
     },
     {
       "title": "Seresta e clássicos da MPB embalam a 6ª edição do show “Lairson e as Meninas” no Clube do Choro",
@@ -73,18 +73,18 @@
       "publishedAt": "2026-11-17T19:10:57.000Z"
     },
     {
-      "title": "Ex-servidora do Detran denuncia agente de trânsito por perseguição",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/ex-servidora-do-detran-denuncia-agente-de-transito-por-perseguicao-15198923.ghtml",
+      "title": "Colheita de frutas exige cuidado perto da rede elétrica",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/colheita-de-frutas-exige-cuidado-perto-da-rede-eletrica-15202172.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T09:53:27.000Z"
+      "publishedAt": "2026-11-18T11:38:42.000Z"
     },
     {
-      "title": "Seleção Brasileira enfrenta Singapura",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/selecao-brasileira-enfrenta-singapura-15199076.ghtml",
+      "title": "Emendas aprovadas para saúde e educação seguem sem execução",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/emendas-aprovadas-para-saude-e-educacao-seguem-sem-execucao-15202074.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T11:15:22.000Z"
+      "publishedAt": "2026-11-18T11:01:22.000Z"
     },
     {
       "title": "DF Plaza Shopping recebe edição do Fit Energy com aulas coletivas de zumba e fit dance",
