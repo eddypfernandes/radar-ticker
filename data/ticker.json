@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-18T12:07:19.124Z",
+  "updatedAt": "2026-11-18T20:49:48.671Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "VOA Festival reúne Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/voa-festival-reune-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly-em-brasilia",
+      "title": "Mutirão do Procon oferece desconto de até 90% para dívidas com a Neoenergia Brasília; ação vai até segunda-feira (23)",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/mutirao-da-neoenergia-e-procon-oferece-ate-90-de-desconto-em-dividas-18112026/",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-18T13:35:16.000Z"
+    },
+    {
+      "title": "Caldas Country Festival completa 20 anos e acompanha a transformação da música sertaneja no Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/caldas-country-festival-completa-20-anos-e-acompanha-a-transformacao-da-musica-sertaneja-no-brasil",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-18T12:02:44.000Z"
+      "publishedAt": "2026-11-18T20:17:30.000Z"
     },
     {
-      "title": "Espetáculo Revoada Contida – O Rito dos Pássaros apresenta fábula política sobre poder e opressão em Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-revoada-contida-o-rito-dos-passaros-apresenta-fabula-politica-sobre-poder-e-opressao-em-ceilandia",
+      "title": "Arte, sensibilidade e inclusão marcam abertura da exposição Cerrado Cósmico, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/arte-sensibilidade-e-inclusao-marcam-abertura-da-exposicao-cerrado-cosmico-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-17T20:55:55.000Z"
+      "publishedAt": "2026-11-18T19:41:42.000Z"
     },
     {
-      "title": "II Concurso Distrital de Queijos Artesanais terá premiação e degustação abertas ao público nesta quinta (19)",
-      "url": "https://www.visitebrasilia.com.br/noticias/ii-concurso-distrital-de-queijos-artesanais-tera-premiacao-e-degustacao-abertas-ao-publico-nesta-quinta-19",
-      "tipo": "vaga",
-      "urgente": false,
-      "publishedAt": "2026-11-17T19:36:51.000Z"
-    },
-    {
-      "title": "TEDx Universidade de Brasília acontece nesta quinta-feira (19), com programação aberta ao público",
-      "url": "https://www.visitebrasilia.com.br/noticias/tedx-universidade-de-brasilia-acontece-nesta-quinta-feira-19-com-programacao-aberta-ao-publico",
+      "title": "Exposição de arte visual estreia no Espaço Pé Vermelho, em Planaltina",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-de-arte-visual-estreia-no-espaco-pe-vermelho-em-planaltina",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-17T19:06:13.000Z"
+      "publishedAt": "2026-11-18T19:22:36.000Z"
     },
     {
-      "title": "Seresta e clássicos da MPB embalam a 6ª edição do show “Lairson e as Meninas” no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/seresta-e-classicos-da-mpb-embalam-a-6-edicao-do-show-lairson-e-as-meninas-no-clube-do-choro",
+      "title": "Taguatinga Shopping lança promoção de Natal com sorteio de SUV ultra-híbrido",
+      "url": "https://www.visitebrasilia.com.br/noticias/taguatinga-shopping-lanca-promocao-de-natal-com-sorteio-de-suv-ultra-hibrido",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-18T16:16:48.000Z"
+    },
+    {
+      "title": "Mané Mercado tem programação infantil especial no feriadão em suas três unidades",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-tem-programacao-infantil-especial-no-feriadao-em-suas-tres-unidades",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-17T18:28:20.000Z"
+      "publishedAt": "2026-11-18T16:12:35.000Z"
     },
     {
-      "title": "Distrito Federal registra 44 casos confirmados de Mpox em 2026",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/distrito-federal-registra-44-casos-confirmados-de-mpox-em-2026-17112026/",
+      "title": "Suspeito de cometer 20º feminicídio do ano no DF é preso preventivamente",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/justica-converte-em-preventiva-prisao-de-suspeito-de-matar-companheira-a-facadas-no-df-17112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T14:52:17.000Z"
+      "publishedAt": "2026-11-17T23:04:25.000Z"
     },
     {
-      "title": "Eletricista morre após cair de 15m em São Sebastião",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/eletricista-de-42-anos-morre-apos-cair-de-15-metros-durante-servico-em-sao-sebastiao-df-17112026/",
+      "title": "Família cobra prisão de suspeito de matar segurança a facadas",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/familia-cobra-prisao-de-suspeito-de-matar-seguranca-a-facadas-em-valparaiso-go-17112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T22:34:03.000Z"
+      "publishedAt": "2026-11-17T23:00:31.000Z"
     },
     {
-      "title": "Homem invade duas casas, cai de telhado e é detido",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-invade-duas-casas-cai-de-telhado-e-e-detido-em-sao-sebastiao-df-17112026/",
+      "title": "Túnel Rei Pelé, no DF, passa a permitir apenas veículos leves",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tunel-rei-pele-em-brasilia-passa-a-permitir-apenas-a-circulacao-de-veiculos-leves-18112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T18:58:28.000Z"
+      "publishedAt": "2026-11-18T13:45:02.000Z"
     },
     {
-      "title": "Sinais de agressão: família cobra justiça por morte de bebê",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/familia-cobra-justica-apos-bebe-morrer-com-sinais-de-agressao-em-samambaia-df-17112026/",
+      "title": "Senac abre mais de 18 mil vagas para cursos profissionais",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/senac-abre-mais-de-18-mil-vagas-para-cursos-profissionais-em-2027-18112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T22:29:54.000Z"
-    },
-    {
-      "title": "Kit de emergência: alerta da Defesa Civil aumenta procura",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/alerta-da-defesa-civil-sobre-kit-de-emergencia-aumenta-procura-por-equipamentos-17112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-17T19:10:57.000Z"
+      "publishedAt": "2026-11-18T14:03:25.000Z"
     },
     {
       "title": "Colheita de frutas exige cuidado perto da rede elétrica",
@@ -87,60 +87,60 @@
       "publishedAt": "2026-11-18T11:01:22.000Z"
     },
     {
-      "title": "DF Plaza Shopping recebe edição do Fit Energy com aulas coletivas de zumba e fit dance",
-      "url": "https://www.visitebrasilia.com.br/noticias/df-plaza-shopping-recebe-edicao-do-fit-energy-com-aulas-coletivas-de-zumba-e-fit-dance",
+      "title": "Brasil goleia Singapura por 7 a 0",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasil-goleia-singapura-por-7-a-0-15204714.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T19:35:02.000Z"
+      "publishedAt": "2026-11-18T14:36:00.000Z"
     },
     {
-      "title": "Banda Patacorí apresenta o show “LAROYÊ! Tentaram nos Calar” no Clube do Choro de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/banda-patacori-apresenta-o-show-laroye-tentaram-nos-calar-no-clube-do-choro-de-brasilia",
+      "title": "VOA Festival reúne Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/voa-festival-reune-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-17T18:26:33.000Z"
+      "publishedAt": "2026-11-18T12:02:44.000Z"
     },
     {
-      "title": "GOG, Rapper e Poeta brasiliense recebe homenagem na Câmara Legislativa do Distrito Federal em 18 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/gog-rapper-e-poeta-brasiliense-recebe-homenagem-na-camara-legislativa-do-distrito-federal-em-18-de-novembro",
+      "title": "Roteiro para o feriadão: cinema gratuito, sabores amazônicos e novidades italianas no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/roteiro-para-o-feriadao-cinema-gratuito-sabores-amazonicos-e-novidades-italianas-no-df",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T18:24:35.000Z"
+      "publishedAt": "2026-11-18T16:46:43.000Z"
     },
     {
-      "title": "Varejo do DF cresce 9,7% e supera média nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/varejo-do-df-cresce-9-7-e-supera-media-nacional",
+      "title": "Cidade de Louça: romance sobre memória e ancestralidade ganha vida em escola pública do DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/cidade-de-louca-romance-sobre-memoria-e-ancestralidade-ganha-vida-em-escola-publica-do-df",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T18:13:26.000Z"
+      "publishedAt": "2026-11-18T16:15:00.000Z"
     },
     {
-      "title": "Alta do tomate pressiona pizzarias e ameaça lucro de comerciantes no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/alta-do-tomate-pressiona-pizzarias-e-ameaca-lucro-de-comerciantes-no-df-17112026/",
+      "title": "Família procura idosa de 66 anos desaparecida há mais de uma semana",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/familia-procura-idosa-de-66-anos-desaparecida-ha-mais-de-uma-semana-no-df-17112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T21:43:40.000Z"
+      "publishedAt": "2026-11-17T23:14:01.000Z"
     },
     {
-      "title": "Articulação no Senado barra proposta que poderia retirar R$ 2 bilhões do Fundo Constitucional do DF",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/articulacao-no-senado-barra-proposta-que-poderia-retirar-r-2-bilhoes-do-fundo-constitucional-do-df-17112026/",
+      "title": "Eletricista da Neoenergia morre após cair de 15 m de altura durante serviço",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/eletricista-de-42-anos-morre-apos-cair-de-15-metros-durante-servico-em-sao-sebastiao-df-17112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-17T23:24:20.000Z"
+      "publishedAt": "2026-11-17T22:34:03.000Z"
     },
     {
-      "title": "ABAV Nacional reforça agenda global das agências de viagens em reunião da WTAAA",
-      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-participa-da-board-meeting-anual-da-wtaaa-e-reforca-a-agenda-global-das-agencias-de-viagens-junto-a-iata",
+      "title": "Empreende no Parque reúne música e feira de empreendedorismo no Parque da Cidade",
+      "url": "https://www.visitebrasilia.com.br/noticias/empreende-no-parque-reune-musica-e-feira-de-empreendedorismo-no-parque-da-cidade",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-18T01:40:28.000Z"
+      "publishedAt": "2026-11-18T20:25:21.000Z"
     },
     {
-      "title": "Andréa Lyra, do Grupo Moura, fala sobre construção de marcas em encontro do Nosso Meio em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/o-que-constroi-a-marca-e-a-nossa-capacidade-de-influenciar-pessoas-afirma-andrea-lyra-do-grupo-moura-no-almoco-do-nosso-meio-em-brasilia",
+      "title": "O World Plastic Connection Summit® por meio do Think Plastic Brazil apresenta o Color Trend® 2027 – Territórios do Brasil em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/o-world-plastic-connection-summit-por-meio-do-think-plastic-brazil-apresenta-o-color-trend-2027-territorios-do-brasil-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-18T01:37:04.000Z"
+      "publishedAt": "2026-11-18T19:34:09.000Z"
     }
   ]
 }
