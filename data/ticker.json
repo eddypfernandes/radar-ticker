@@ -1,48 +1,41 @@
 {
-  "updatedAt": "2026-11-19T10:39:33.638Z",
+  "updatedAt": "2026-11-19T19:24:31.284Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Mutirão do Procon oferece desconto de até 90% para dívidas com a Neoenergia",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/mutirao-da-neoenergia-e-procon-oferece-ate-90-de-desconto-em-dividas-18112026/",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-18T13:35:16.000Z"
-    },
-    {
-      "title": "Caldas Country Festival completa 20 anos e acompanha a transformação da música sertaneja no Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/caldas-country-festival-completa-20-anos-e-acompanha-a-transformacao-da-musica-sertaneja-no-brasil",
+      "title": "Uruca Game Studio vence prêmio de Melhor Jogo Brasiliense no GDV Festival 2026 com Legacy of Evil",
+      "url": "https://www.visitebrasilia.com.br/noticias/uruca-game-studio-vence-premio-de-melhor-jogo-brasiliense-no-gdv-festival-2026-com-legacy-of-evil",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-18T20:17:30.000Z"
+      "publishedAt": "2026-11-19T18:11:24.000Z"
     },
     {
-      "title": "Arte, sensibilidade e inclusão marcam abertura da exposição Cerrado Cósmico, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/arte-sensibilidade-e-inclusao-marcam-abertura-da-exposicao-cerrado-cosmico-em-brasilia",
+      "title": "Filme espanhol “A Oliveira” integra a programação da 22ª Mostra de Cinema Europeu em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/filme-espanhol-a-oliveira-integra-a-programacao-da-22-mostra-de-cinema-europeu-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-18T19:41:42.000Z"
+      "publishedAt": "2026-11-19T16:44:50.000Z"
     },
     {
-      "title": "Exposição de arte visual estreia no Espaço Pé Vermelho, em Planaltina",
-      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-de-arte-visual-estreia-no-espaco-pe-vermelho-em-planaltina",
+      "title": "Copa Truck Be8 BeVant divulga programação da grande final de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/copa-truck-be8-bevant-divulga-programacao-da-grande-final-de-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-18T19:22:36.000Z"
+      "publishedAt": "2026-11-19T16:44:36.000Z"
     },
     {
-      "title": "Taguatinga Shopping lança promoção de Natal com sorteio de SUV ultra-híbrido",
-      "url": "https://www.visitebrasilia.com.br/noticias/taguatinga-shopping-lanca-promocao-de-natal-com-sorteio-de-suv-ultra-hibrido",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-18T16:16:48.000Z"
-    },
-    {
-      "title": "Mané Mercado tem programação infantil especial no feriadão em suas três unidades",
-      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-tem-programacao-infantil-especial-no-feriadao-em-suas-tres-unidades",
+      "title": "Gigio Teixeira une lendas da música country e cultura pop no espetáculo Country Heroes, no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/gigio-teixeira-une-lendas-da-musica-country-e-cultura-pop-no-espetaculo-country-heroes-no-clube-do-choro",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-18T16:12:35.000Z"
+      "publishedAt": "2026-11-19T16:35:01.000Z"
+    },
+    {
+      "title": "Nesta quinta (19) Marina Sena apresenta “Coisas Naturais” no Festival Estilo Brasil",
+      "url": "https://www.visitebrasilia.com.br/noticias/nesta-quinta-19-marina-sena-apresenta-coisas-naturais-no-festival-estilo-brasil",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-19T16:17:11.000Z"
     },
     {
       "title": "Polícia prende suspeitos por emissão de passaportes com documentos falsos",
@@ -59,67 +52,11 @@
       "publishedAt": "2026-11-18T21:08:12.000Z"
     },
     {
-      "title": "Adolescentes provocam tumulto em shopping",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/cinco-adolescentes-causam-confusao-com-segurancas-em-shopping-do-df-18112026/",
+      "title": "Justiça decide levar ex-piloto a júri popular por morte de adolescente",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/justica-decide-levar-ex-piloto-a-juri-popular-por-morte-de-adolescente-de-16-anos-no-df-18112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-18T19:59:52.000Z"
-    },
-    {
-      "title": "Túnel Rei Pelé, no DF, passa a permitir apenas veículos leves",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/tunel-rei-pele-em-brasilia-passa-a-permitir-apenas-a-circulacao-de-veiculos-leves-18112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T13:45:02.000Z"
-    },
-    {
-      "title": "Colheita de frutas exige cuidado perto da rede elétrica",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/colheita-de-frutas-exige-cuidado-perto-da-rede-eletrica-15202172.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T11:38:42.000Z"
-    },
-    {
-      "title": "Emendas aprovadas para saúde e educação seguem sem execução",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/emendas-aprovadas-para-saude-e-educacao-seguem-sem-execucao-15202074.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T11:01:22.000Z"
-    },
-    {
-      "title": "Brasil goleia Singapura por 7 a 0",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasil-goleia-singapura-por-7-a-0-15204714.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T14:36:00.000Z"
-    },
-    {
-      "title": "VOA Festival reúne Duda Beat, Gaby Amarantos, Arnaldo Antunes e Melly em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/voa-festival-reune-duda-beat-gaby-amarantos-arnaldo-antunes-e-melly-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-18T12:02:44.000Z"
-    },
-    {
-      "title": "Roteiro para o feriadão: cinema gratuito, sabores amazônicos e novidades italianas no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/roteiro-para-o-feriadao-cinema-gratuito-sabores-amazonicos-e-novidades-italianas-no-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T16:46:43.000Z"
-    },
-    {
-      "title": "Cidade de Louça: romance sobre memória e ancestralidade ganha vida em escola pública do DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/cidade-de-louca-romance-sobre-memoria-e-ancestralidade-ganha-vida-em-escola-publica-do-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T16:15:00.000Z"
-    },
-    {
-      "title": "Senac abre mais de 18 mil vagas para cursos profissionais",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/senac-abre-mais-de-18-mil-vagas-para-cursos-profissionais-em-2027-18112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-18T14:03:25.000Z"
+      "publishedAt": "2026-11-18T21:29:50.000Z"
     },
     {
       "title": "Pedro Turra vai a júri popular pela morte de adolescente de 16 anos no Distrito Federal",
@@ -129,11 +66,39 @@
       "publishedAt": "2026-11-18T20:07:19.167Z"
     },
     {
-      "title": "Policial de folga saca arma e ameaça passageiro suspeito de importunação sexual no metrô",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/policial-de-folga-saca-arma-e-ameaca-passageiro-suspeito-de-importunacao-sexual-no-metro-18112026/",
+      "title": "Acolhimento social no DF tem adesão de menos de 4% das pessoas abordadas nas ruas",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/acolhimento-social-no-df-tem-adesao-de-menos-de-4-das-pessoas-abordadas-nas-ruas-19112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-18T20:28:35.000Z"
+      "publishedAt": "2026-11-19T11:23:27.000Z"
+    },
+    {
+      "title": "Flamengo vence o Athletico-PR e fica perto do título",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-athletico-pr-e-fica-perto-do-titulo-15263654.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T15:21:22.000Z"
+    },
+    {
+      "title": "Dia do Empreendedorismo Feminino",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-empreendedorismo-feminino-15262802.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T11:32:10.000Z"
+    },
+    {
+      "title": "Segunda edição do Seminário da Câmara de Mulheres Empreendedoras da Fecomércio-DF debate desafios e oportunidades para mulheres do setor",
+      "url": "https://www.visitebrasilia.com.br/noticias/segunda-edicao-do-seminario-da-camara-de-mulheres-empreendedoras-da-fecomercio-df-debate-desafios-e-oportunidades-para-mulheres-do-setor",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T16:03:43.000Z"
+    },
+    {
+      "title": "Duckjay recebe título de Cidadão Benemérito de Brasília em sessão solene na CLDF",
+      "url": "https://www.visitebrasilia.com.br/noticias/duckjay-recebe-titulo-de-cidadao-benemerito-de-brasilia-em-sessao-solene-na-cldf",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T15:23:31.000Z"
     },
     {
       "title": "Criminosos furtam fábrica de pães três vezes em um ano em Samambaia",
@@ -141,6 +106,41 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-18T21:39:32.000Z"
+    },
+    {
+      "title": "Caixa Cultural Brasília apresenta “Bosco 80”, série de shows que celebra a vida e o legado de João Bosco",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-bosco-80-serie-de-shows-que-celebra-a-vida-e-o-legado-de-joao-bosco",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T19:07:45.000Z"
+    },
+    {
+      "title": "Fantástica Fábrica de Música leva a magia do Natal ao Boulevard Shopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/fantastica-fabrica-de-musica-leva-a-magia-do-natal-ao-boulevard-shopping",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T18:20:28.000Z"
+    },
+    {
+      "title": "ABAV Nacional homenageia os 60 anos da Embratur em sessão solene no Congresso Nacional",
+      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-homenageia-os-60-anos-da-embratur-em-sessao-solene-no-congresso-nacional-2",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T18:17:06.000Z"
+    },
+    {
+      "title": "Feira no Venâncio busca lar para cães e gatos resgatados",
+      "url": "https://www.visitebrasilia.com.br/noticias/feira-no-venancio-busca-lar-para-caes-e-gatos-resgatados",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T18:15:24.000Z"
+    },
+    {
+      "title": "Passeio gratuito no Parque da Cidade: Brasília recebe \"Vila da Prevenção\" com vacinação contra a dengue e atividades educativas",
+      "url": "https://www.visitebrasilia.com.br/noticias/passeio-gratuito-no-parque-da-cidade-brasilia-recebe-vila-da-prevencao-com-vacinacao-contra-a-dengue-e-atividades-educativas",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-19T18:14:39.000Z"
     }
   ]
 }
