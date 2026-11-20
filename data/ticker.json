@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:42:38.630Z",
+  "updatedAt": "2026-11-20T23:48:12.329Z",
   "validityHours": 24,
   "items": [
     {
@@ -8,6 +8,27 @@
       "tipo": "oferta",
       "urgente": false,
       "publishedAt": "2026-11-20T14:55:17.000Z"
+    },
+    {
+      "title": "Tramela Cia Teatral leva espetáculo Revoada Contida para Ceilândia; entrada é gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/tramela-cia-teatral-leva-espetaculo-revoada-contida-para-ceilandia-entrada-e-gratuita",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T20:32:29.000Z"
+    },
+    {
+      "title": "Festival Recanto do Cinema chega à 5ª edição com filmes de todo o Brasil e intercâmbio com o México",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-recanto-do-cinema-chega-a-5-edicao-com-filmes-de-todo-o-brasil-e-intercambio-com-o-mexico",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T19:38:34.000Z"
+    },
+    {
+      "title": "Roxinha Lisboa chega à CAIXA Cultural Brasília com exposição que já conquistou cerca de 130 mil visitantes",
+      "url": "https://www.visitebrasilia.com.br/noticias/roxinha-lisboa-chega-a-caixa-cultural-brasilia-com-exposicao-que-ja-conquistou-cerca-de-130-mil-visitantes",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T19:15:58.000Z"
     },
     {
       "title": "Projeto grava sets de DJs em espaços icônicos de Brasília e abre inscrições para novos artistas",
@@ -24,32 +45,11 @@
       "publishedAt": "2026-11-20T15:52:23.000Z"
     },
     {
-      "title": "Seal encerra Festival Estilo Brasil com show de grandes sucessos em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/seal-encerra-festival-estilo-brasil-com-show-de-grandes-sucessos-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-20T12:28:15.000Z"
-    },
-    {
-      "title": "Uruca Game Studio vence prêmio de Melhor Jogo Brasiliense no GDV Festival 2026 com Legacy of Evil",
-      "url": "https://www.visitebrasilia.com.br/noticias/uruca-game-studio-vence-premio-de-melhor-jogo-brasiliense-no-gdv-festival-2026-com-legacy-of-evil",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-19T18:11:24.000Z"
-    },
-    {
       "title": "Ventania de 60 km/h destrói teto da UnB e deixa formatura sem energia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/ventania-de-60-kmh-destroi-teto-da-unb-e-deixa-formatura-sem-energia-20112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-20T16:28:03.000Z"
-    },
-    {
-      "title": "Homem furta carro estacionado em frente à casa do dono",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/homem-furta-carro-estacionado-em-frente-a-casa-do-proprietario-em-sao-sebastiao-df-19112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T18:20:08.000Z"
     },
     {
       "title": "Motoristas de ônibus enfrentam falta de espaço para descanso",
@@ -66,11 +66,11 @@
       "publishedAt": "2026-11-20T16:08:16.000Z"
     },
     {
-      "title": "Mostra Caminho das Artes reúne cinco espetáculos gratuitos no Gama, de 25 a 29 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/mostra-caminho-das-artes-reune-cinco-espetaculos-gratuitos-no-gama-de-25-a-29-de-novembro-2",
-      "tipo": "noticia",
+      "title": "Roberto Menescal, Luísa Sonza e Adriana Samartini: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/roberto-menescal-luisa-sonza-e-adriana-samartini-confira-os-eventos-do-fim-de-semana-no-df-20112026/",
+      "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-20T17:33:58.000Z"
+      "publishedAt": "2026-11-20T05:00:01.000Z"
     },
     {
       "title": "Pacientes aguardam cirurgia ortopédica no HRT",
@@ -87,18 +87,25 @@
       "publishedAt": "2026-11-20T12:19:30.000Z"
     },
     {
-      "title": "Roberto Menescal, Luísa Sonza e Adriana Samartini: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/roberto-menescal-luisa-sonza-e-adriana-samartini-confira-os-eventos-do-fim-de-semana-no-df-20112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-20T05:00:01.000Z"
-    },
-    {
-      "title": "Pai de Rodrigo Castanheira cobra punição de outros envolvidos na morte",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pai-de-rodrigo-castanheira-cobra-punicao-de-outros-envolvidos-na-morte-do-adolescente-no-df-19112026/",
+      "title": "Memória, identidade e resistência",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/memoria-identidade-e-resistencia-15266545.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T19:07:59.000Z"
+      "publishedAt": "2026-11-20T13:03:37.000Z"
+    },
+    {
+      "title": "Sem companhia para sair? Balladz, app criado em Brasília, conecta pessoas interessadas no mesmo evento",
+      "url": "https://www.visitebrasilia.com.br/noticias/sem-companhia-para-sair-balladz-app-criado-em-brasilia-conecta-pessoas-interessadas-no-mesmo-evento",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T19:12:22.000Z"
+    },
+    {
+      "title": "Prêmio Palavra-Mestra anuncia finalistas de 17 regiões administrativas do Distrito Federal",
+      "url": "https://www.visitebrasilia.com.br/noticias/premio-palavra-mestra-anuncia-finalistas-de-17-regioes-administrativas-do-distrito-federal",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T17:59:31.000Z"
     },
     {
       "title": "Quase 40% dos consumidores do DF pretendem guardar ou investir o 13º",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-20T14:49:18.000Z"
-    },
-    {
-      "title": "Teatro dos Bancários recebe Dalto na 44ª edição do ArteFato",
-      "url": "https://www.visitebrasilia.com.br/noticias/teatro-dos-bancarios-recebe-dalto-na-44-edicao-do-artefato",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T17:03:55.000Z"
     }
   ]
 }
