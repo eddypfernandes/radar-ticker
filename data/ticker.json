@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:24:21.647Z",
+  "updatedAt": "2026-11-20T08:58:08.574Z",
   "validityHours": 24,
   "items": [
     {
@@ -115,6 +115,13 @@
       "publishedAt": "2026-11-19T14:28:24.000Z"
     },
     {
+      "title": "Roberto Menescal, Luísa Sonza e Adriana Samartini: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/roberto-menescal-luisa-sonza-e-adriana-samartini-confira-os-eventos-do-fim-de-semana-no-df-20112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-20T05:00:01.000Z"
+    },
+    {
       "title": "Caixa Cultural Brasília apresenta “Bosco 80”, série de shows que celebra a vida e o legado de João Bosco",
       "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-bosco-80-serie-de-shows-que-celebra-a-vida-e-o-legado-de-joao-bosco",
       "tipo": "noticia",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-19T18:17:06.000Z"
-    },
-    {
-      "title": "Feira no Venâncio busca lar para cães e gatos resgatados",
-      "url": "https://www.visitebrasilia.com.br/noticias/feira-no-venancio-busca-lar-para-caes-e-gatos-resgatados",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T18:15:24.000Z"
     }
   ]
 }
