@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-11-20T08:58:08.574Z",
+  "updatedAt": "2026-11-20T17:42:38.630Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Ceasa-DF oferece até 99% de desconto em juros e multas para renegociar dívidas",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ceasa-df-oferece-ate-99-de-desconto-em-juros-e-multas-para-renegociar-dividas-20112026/",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-20T14:55:17.000Z"
+    },
+    {
+      "title": "Projeto grava sets de DJs em espaços icônicos de Brasília e abre inscrições para novos artistas",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-grava-sets-de-djs-em-espacos-iconicos-de-brasilia-e-abre-inscricoes-para-novos-artistas",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T16:17:56.000Z"
+    },
+    {
+      "title": "Canta Ceilândia está de volta: festival histórico reúne música, dança e skate em dois dias de programação gratuita",
+      "url": "https://www.visitebrasilia.com.br/noticias/canta-ceilandia-esta-de-volta-festival-historico-reune-musica-danca-e-skate-em-dois-dias-de-programacao-gratuita",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T15:52:23.000Z"
+    },
+    {
+      "title": "Seal encerra Festival Estilo Brasil com show de grandes sucessos em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/seal-encerra-festival-estilo-brasil-com-show-de-grandes-sucessos-em-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-20T12:28:15.000Z"
+    },
     {
       "title": "Uruca Game Studio vence prêmio de Melhor Jogo Brasiliense no GDV Festival 2026 com Legacy of Evil",
       "url": "https://www.visitebrasilia.com.br/noticias/uruca-game-studio-vence-premio-de-melhor-jogo-brasiliense-no-gdv-festival-2026-com-legacy-of-evil",
@@ -10,39 +38,11 @@
       "publishedAt": "2026-11-19T18:11:24.000Z"
     },
     {
-      "title": "Filme espanhol “A Oliveira” integra a programação da 22ª Mostra de Cinema Europeu em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/filme-espanhol-a-oliveira-integra-a-programacao-da-22-mostra-de-cinema-europeu-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-19T16:44:50.000Z"
-    },
-    {
-      "title": "Copa Truck Be8 BeVant divulga programação da grande final de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/copa-truck-be8-bevant-divulga-programacao-da-grande-final-de-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-19T16:44:36.000Z"
-    },
-    {
-      "title": "Gigio Teixeira une lendas da música country e cultura pop no espetáculo Country Heroes, no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/gigio-teixeira-une-lendas-da-musica-country-e-cultura-pop-no-espetaculo-country-heroes-no-clube-do-choro",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-19T16:35:01.000Z"
-    },
-    {
-      "title": "Nesta quinta (19) Marina Sena apresenta “Coisas Naturais” no Festival Estilo Brasil",
-      "url": "https://www.visitebrasilia.com.br/noticias/nesta-quinta-19-marina-sena-apresenta-coisas-naturais-no-festival-estilo-brasil",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-19T16:17:11.000Z"
-    },
-    {
-      "title": "Sobradinho 2: erosão avança e moradores temem desabamento",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-temem-desabamento-de-casas-apos-erosao-avancar-sob-asfalto-em-sobradinho-2-df-19112026/",
+      "title": "Ventania de 60 km/h destrói teto da UnB e deixa formatura sem energia",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/ventania-de-60-kmh-destroi-teto-da-unb-e-deixa-formatura-sem-energia-20112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T20:33:49.000Z"
+      "publishedAt": "2026-11-20T16:28:03.000Z"
     },
     {
       "title": "Homem furta carro estacionado em frente à casa do dono",
@@ -52,67 +52,39 @@
       "publishedAt": "2026-11-19T18:20:08.000Z"
     },
     {
-      "title": "STJ empata julgamento sobre condenação de Adriana Villela pelo Crime da 113 Sul",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/stj-empata-julgamento-sobre-condenacao-de-adriana-villela-pelo-crime-da-113-sul-19112026/",
+      "title": "Motoristas de ônibus enfrentam falta de espaço para descanso",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoristas-de-onibus-do-df-enfrentam-falta-de-espaco-para-descanso-nos-terminais-20112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T17:27:23.000Z"
+      "publishedAt": "2026-11-20T12:37:55.000Z"
     },
     {
-      "title": "Acolhimento social no DF tem adesão de menos de 4% das pessoas abordadas nas ruas",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/acolhimento-social-no-df-tem-adesao-de-menos-de-4-das-pessoas-abordadas-nas-ruas-19112026/",
+      "title": "Ação do Dia Nacional de Combate à Dengue tem vacinação gratuita até este sábado (21) no Parque da Cidade",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/dia-nacional-de-combate-a-dengue-tera-vacinacao-gratuita-e-atividades-no-parque-da-cidade-20112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T11:23:27.000Z"
+      "publishedAt": "2026-11-20T16:08:16.000Z"
     },
     {
-      "title": "Pai de Rodrigo Castanheira cobra punição de outros envolvidos na morte",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pai-de-rodrigo-castanheira-cobra-punicao-de-outros-envolvidos-na-morte-do-adolescente-no-df-19112026/",
+      "title": "Mostra Caminho das Artes reúne cinco espetáculos gratuitos no Gama, de 25 a 29 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/mostra-caminho-das-artes-reune-cinco-espetaculos-gratuitos-no-gama-de-25-a-29-de-novembro-2",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T19:07:59.000Z"
+      "publishedAt": "2026-11-20T17:33:58.000Z"
     },
     {
-      "title": "Flamengo vence o Athletico-PR e fica perto do título",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/flamengo-vence-o-athletico-pr-e-fica-perto-do-titulo-15263654.ghtml",
+      "title": "Pacientes aguardam cirurgia ortopédica no HRT",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-aguardam-cirurgia-ortopedica-no-hrt-15266430.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T15:21:22.000Z"
+      "publishedAt": "2026-11-20T12:27:22.000Z"
     },
     {
-      "title": "Dia do Empreendedorismo Feminino",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/dia-do-empreendedorismo-feminino-15262802.ghtml",
+      "title": "Procon vai reforçar fiscalização na Black Friday",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/procon-vai-reforcar-fiscalizacao-na-black-friday-15266399.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T11:32:10.000Z"
-    },
-    {
-      "title": "Segunda edição do Seminário da Câmara de Mulheres Empreendedoras da Fecomércio-DF debate desafios e oportunidades para mulheres do setor",
-      "url": "https://www.visitebrasilia.com.br/noticias/segunda-edicao-do-seminario-da-camara-de-mulheres-empreendedoras-da-fecomercio-df-debate-desafios-e-oportunidades-para-mulheres-do-setor",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T16:03:43.000Z"
-    },
-    {
-      "title": "Duckjay recebe título de Cidadão Benemérito de Brasília em sessão solene na CLDF",
-      "url": "https://www.visitebrasilia.com.br/noticias/duckjay-recebe-titulo-de-cidadao-benemerito-de-brasilia-em-sessao-solene-na-cldf",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T15:23:31.000Z"
-    },
-    {
-      "title": "Baixa cobertura vacinal contra sarampo preocupa após caso suspeito no DF",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/baixa-cobertura-vacinal-contra-sarampo-preocupa-apos-caso-suspeito-no-df-19112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T17:00:48.000Z"
-    },
-    {
-      "title": "Chuva deve marcar o feriado e continuar ao longo da próxima semana",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuva-deve-marcar-o-feriado-e-continuar-ao-longo-da-proxima-semana-no-distrito-federal-19112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-19T14:28:24.000Z"
+      "publishedAt": "2026-11-20T12:19:30.000Z"
     },
     {
       "title": "Roberto Menescal, Luísa Sonza e Adriana Samartini: confira os eventos do fim de semana no DF",
@@ -122,25 +94,53 @@
       "publishedAt": "2026-11-20T05:00:01.000Z"
     },
     {
-      "title": "Caixa Cultural Brasília apresenta “Bosco 80”, série de shows que celebra a vida e o legado de João Bosco",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-bosco-80-serie-de-shows-que-celebra-a-vida-e-o-legado-de-joao-bosco",
+      "title": "Pai de Rodrigo Castanheira cobra punição de outros envolvidos na morte",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/pai-de-rodrigo-castanheira-cobra-punicao-de-outros-envolvidos-na-morte-do-adolescente-no-df-19112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T19:07:45.000Z"
+      "publishedAt": "2026-11-19T19:07:59.000Z"
     },
     {
-      "title": "Fantástica Fábrica de Música leva a magia do Natal ao Boulevard Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/fantastica-fabrica-de-musica-leva-a-magia-do-natal-ao-boulevard-shopping",
+      "title": "Quase 40% dos consumidores do DF pretendem guardar ou investir o 13º",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/quase-40-dos-consumidores-do-df-pretendem-guardar-ou-investir-o-13-aponta-pesquisa-20112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T18:20:28.000Z"
+      "publishedAt": "2026-11-20T14:30:33.000Z"
     },
     {
-      "title": "ABAV Nacional homenageia os 60 anos da Embratur em sessão solene no Congresso Nacional",
-      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-homenageia-os-60-anos-da-embratur-em-sessao-solene-no-congresso-nacional-2",
+      "title": "Parque da Cidade recebe campanha de vacinação contra dengue e ações de prevenção",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/parque-da-cidade-recebe-campanha-de-vacinacao-contra-dengue-e-acoes-de-prevencao-20112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-19T18:17:06.000Z"
+      "publishedAt": "2026-11-20T15:14:22.000Z"
+    },
+    {
+      "title": "Temporal arranca teto de prédio da UnB e derruba árvores sobre carros",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/temporal-arranca-teto-de-predio-da-unb-e-derruba-arvores-sobre-carros-20112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T15:07:36.000Z"
+    },
+    {
+      "title": "Mau hálito atinge 30% dos brasileiros e pode indicar problemas de saúde bucal",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mau-halito-atinge-30-dos-brasileiros-e-pode-indicar-problemas-de-saude-bucal-20112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T15:01:44.000Z"
+    },
+    {
+      "title": "Homem é preso após esfaquear vítima que tentou defender mulher de agressão no DF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-preso-apos-esfaquear-vitima-que-tentou-defender-mulher-de-agressao-no-df-20112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T14:49:18.000Z"
+    },
+    {
+      "title": "Teatro dos Bancários recebe Dalto na 44ª edição do ArteFato",
+      "url": "https://www.visitebrasilia.com.br/noticias/teatro-dos-bancarios-recebe-dalto-na-44-edicao-do-artefato",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T17:03:55.000Z"
     }
   ]
 }
