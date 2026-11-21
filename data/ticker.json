@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-21T06:16:32.566Z",
+  "updatedAt": "2026-11-21T14:52:54.037Z",
   "validityHours": 24,
   "items": [
-    {
-      "title": "Ceasa-DF oferece até 99% de desconto em juros e multas para renegociar dívidas",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ceasa-df-oferece-ate-99-de-desconto-em-juros-e-multas-para-renegociar-dividas-20112026/",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-20T14:55:17.000Z"
-    },
     {
       "title": "Tramela Cia Teatral leva espetáculo Revoada Contida para Ceilândia; entrada é gratuita",
       "url": "https://www.visitebrasilia.com.br/noticias/tramela-cia-teatral-leva-espetaculo-revoada-contida-para-ceilandia-entrada-e-gratuita",
@@ -45,18 +38,18 @@
       "publishedAt": "2026-11-20T15:52:23.000Z"
     },
     {
+      "title": "Balanço Geral DF / HÁ 1 HORA",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/feriadao-tem-teatro-musica-funk-e-comedia-na-programacao-cultural-em-brasilia-21112026/",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-21T13:09:58.000Z"
+    },
+    {
       "title": "Ventania de 60 km/h destrói teto da UnB e deixa formatura sem energia",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/ventania-de-60-kmh-destroi-teto-da-unb-e-deixa-formatura-sem-energia-20112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-20T16:28:03.000Z"
-    },
-    {
-      "title": "Motoristas de ônibus enfrentam falta de espaço para descanso",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/motoristas-de-onibus-do-df-enfrentam-falta-de-espaco-para-descanso-nos-terminais-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T12:37:55.000Z"
     },
     {
       "title": "Ação do Dia Nacional de Combate à Dengue tem vacinação gratuita até este sábado (21) no Parque da Cidade",
@@ -66,32 +59,25 @@
       "publishedAt": "2026-11-20T16:08:16.000Z"
     },
     {
-      "title": "Quase 40% dos consumidores do DF pretendem guardar ou investir o 13º",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/quase-40-dos-consumidores-do-df-pretendem-guardar-ou-investir-o-13-aponta-pesquisa-20112026/",
+      "title": "Parque da Cidade oferece vacinação contra dengue e atividades educativas",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/parque-da-cidade-oferece-vacinacao-contra-dengue-e-atividades-educativas-21112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-20T14:30:33.000Z"
+      "publishedAt": "2026-11-21T14:25:54.000Z"
     },
     {
-      "title": "Pacientes aguardam cirurgia ortopédica no HRT",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/pacientes-aguardam-cirurgia-ortopedica-no-hrt-15266430.ghtml",
+      "title": "Oito em cada dez lojistas do DF esperam vender mais com pagamento do 13º salário",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/oito-em-cada-dez-lojistas-do-df-esperam-vender-mais-com-pagamento-do-13-salario-21112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-20T12:27:22.000Z"
+      "publishedAt": "2026-11-21T14:17:20.000Z"
     },
     {
-      "title": "Procon vai reforçar fiscalização na Black Friday",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/procon-vai-reforcar-fiscalizacao-na-black-friday-15266399.ghtml",
+      "title": "DF na rota do tráfico: apreensões de skunk aumentam 783% em 2026",
+      "url": "https://www.metropoles.com/distrito-federal/df-na-rota-do-trafico-apreensoes-de-skunk-aumentam-783-em-2026",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-20T12:19:30.000Z"
-    },
-    {
-      "title": "Memória, identidade e resistência",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/memoria-identidade-e-resistencia-15266545.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T13:03:37.000Z"
+      "publishedAt": "2026-11-21T05:45:00.000Z"
     },
     {
       "title": "Sem companhia para sair? Balladz, app criado em Brasília, conecta pessoas interessadas no mesmo evento",
@@ -108,32 +94,11 @@
       "publishedAt": "2026-11-20T17:59:31.000Z"
     },
     {
-      "title": "Parque da Cidade recebe campanha de vacinação contra dengue e ações de prevenção",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/parque-da-cidade-recebe-campanha-de-vacinacao-contra-dengue-e-acoes-de-prevencao-20112026/",
+      "title": "GDF envia à CLDF projeto que prevê redução média de 1,97% no cálculo do IPVA de 2027",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/gdf-envia-a-cldf-projeto-que-preve-reducao-media-de-197-no-calculo-do-ipva-de-2027-21112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-20T15:14:22.000Z"
-    },
-    {
-      "title": "Temporal arranca teto de prédio da UnB e derruba árvores sobre carros",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/temporal-arranca-teto-de-predio-da-unb-e-derruba-arvores-sobre-carros-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T15:07:36.000Z"
-    },
-    {
-      "title": "Mau hálito atinge 30% dos brasileiros e pode indicar problemas de saúde bucal",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mau-halito-atinge-30-dos-brasileiros-e-pode-indicar-problemas-de-saude-bucal-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T15:01:44.000Z"
-    },
-    {
-      "title": "Homem é preso após esfaquear vítima que tentou defender mulher de agressão no DF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/homem-e-preso-apos-esfaquear-vitima-que-tentou-defender-mulher-de-agressao-no-df-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T14:49:18.000Z"
+      "publishedAt": "2026-11-21T14:07:20.000Z"
     },
     {
       "title": "Lagum chega a Brasília com nova turnê que celebra trajetória da banda",
@@ -141,6 +106,41 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-20T20:30:28.000Z"
+    },
+    {
+      "title": "Calendrag 2027 chega à décima edição e traz Dacota Monteiro na capa",
+      "url": "https://www.visitebrasilia.com.br/noticias/calendrag-2027-chega-a-decima-edicao-e-traz-dacota-monteiro-na-capa",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T19:13:29.000Z"
+    },
+    {
+      "title": "Rodrigo Teaser volta a Brasília com Tributo ao Rei do Pop em 18 de dezembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/com-mais-de-3-mil-ingressos-esgotados-em-junho-rodrigo-teaser-retorna-a-brasilia-com-tributo-ao-rei-do-pop-em-18-de-dezembro",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T18:16:08.000Z"
+    },
+    {
+      "title": "Mari Fernandez anuncia gravação do DVD \"Desobedeça\" em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/mari-fernandez-anuncia-gravacao-do-dvd-desobedeca-em-brasilia-2",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T18:14:35.000Z"
+    },
+    {
+      "title": "Mostra Caminho das Artes reúne cinco espetáculos gratuitos no Gama, de 25 a 29 de novembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/mostra-caminho-das-artes-reune-cinco-espetaculos-gratuitos-no-gama-de-25-a-29-de-novembro-2",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T17:33:58.000Z"
+    },
+    {
+      "title": "Teatro dos Bancários recebe Dalto na 44ª edição do ArteFato",
+      "url": "https://www.visitebrasilia.com.br/noticias/teatro-dos-bancarios-recebe-dalto-na-44-edicao-do-artefato",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T17:03:55.000Z"
     }
   ]
 }
