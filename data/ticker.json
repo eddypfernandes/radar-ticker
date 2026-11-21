@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:48:12.329Z",
+  "updatedAt": "2026-11-21T06:16:32.566Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,7 +38,7 @@
       "publishedAt": "2026-11-20T16:17:56.000Z"
     },
     {
-      "title": "Canta Ceilândia está de volta: festival histórico reúne música, dança e skate em dois dias de programação gratuita",
+      "title": "**Canta Ceilândia volta com dois dias de música, dança e skate de graça**",
       "url": "https://www.visitebrasilia.com.br/noticias/canta-ceilandia-esta-de-volta-festival-historico-reune-musica-danca-e-skate-em-dois-dias-de-programacao-gratuita",
       "tipo": "evento",
       "urgente": false,
@@ -66,11 +66,11 @@
       "publishedAt": "2026-11-20T16:08:16.000Z"
     },
     {
-      "title": "Roberto Menescal, Luísa Sonza e Adriana Samartini: confira os eventos do fim de semana no DF",
-      "url": "https://noticias.r7.com/brasilia/roberto-menescal-luisa-sonza-e-adriana-samartini-confira-os-eventos-do-fim-de-semana-no-df-20112026/",
-      "tipo": "atualidade",
+      "title": "Quase 40% dos consumidores do DF pretendem guardar ou investir o 13º",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/quase-40-dos-consumidores-do-df-pretendem-guardar-ou-investir-o-13-aponta-pesquisa-20112026/",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-20T05:00:01.000Z"
+      "publishedAt": "2026-11-20T14:30:33.000Z"
     },
     {
       "title": "Pacientes aguardam cirurgia ortopédica no HRT",
@@ -108,13 +108,6 @@
       "publishedAt": "2026-11-20T17:59:31.000Z"
     },
     {
-      "title": "Quase 40% dos consumidores do DF pretendem guardar ou investir o 13º",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/quase-40-dos-consumidores-do-df-pretendem-guardar-ou-investir-o-13-aponta-pesquisa-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-20T14:30:33.000Z"
-    },
-    {
       "title": "Parque da Cidade recebe campanha de vacinação contra dengue e ações de prevenção",
       "url": "https://noticias.r7.com/brasilia/df-no-ar/video/parque-da-cidade-recebe-campanha-de-vacinacao-contra-dengue-e-acoes-de-prevencao-20112026/",
       "tipo": "noticia",
@@ -141,6 +134,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-20T14:49:18.000Z"
+    },
+    {
+      "title": "Lagum chega a Brasília com nova turnê que celebra trajetória da banda",
+      "url": "https://www.visitebrasilia.com.br/noticias/lagum-chega-a-brasilia-com-nova-turne-que-celebra-trajetoria-da-banda",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-20T20:30:28.000Z"
     }
   ]
 }
