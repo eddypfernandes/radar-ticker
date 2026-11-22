@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-22T16:58:19.052Z",
+  "updatedAt": "2026-11-22T22:23:55.618Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Gigantes do rock e metal ganham tributo na estreia do VEXORA Festival em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-rock-e-metal-ganham-tributo-na-estreia-do-vexora-festival-em-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-22T17:05:51.000Z"
+    },
     {
       "title": "Projeto ARTEridade abre inscrições para oficina de cerâmica voltada a pessoas com 60 anos ou mais, em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/projeto-arteridade-abre-inscricoes-para-oficina-de-ceramica-voltada-a-pessoas-com-60-anos-ou-mais-em-brasilia",
@@ -10,11 +17,53 @@
       "publishedAt": "2026-11-22T16:02:11.000Z"
     },
     {
+      "title": "LabDay reúne inovação, empreendedorismo e inteligência artificial no SebraeLab Biotic",
+      "url": "https://www.visitebrasilia.com.br/noticias/labday-reune-inovacao-empreendedorismo-e-inteligencia-artificial-no-sebraelab-biotic",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T21:52:18.000Z"
+    },
+    {
+      "title": "Após quatro edições de talks e uma corrida, Viva Leve lança comunidade feminina em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/apos-quatro-edicoes-de-talks-e-uma-corrida-viva-leve-lanca-comunidade-feminina-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T18:05:09.000Z"
+    },
+    {
       "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/daniel-resende-apresenta-o-camarote-360b-nova-estrutura-da-sete-solucoes-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T16:48:31.000Z"
+    },
+    {
+      "title": "Maioridade penal: relator avalia 16 anos; ala do PL quer 14 para crimes hediondos",
+      "url": "https://noticias.r7.com/brasilia/maioridade-penal-relator-avalia-reducao-para-16-anos-ala-do-pl-propoe-14-para-crimes-hediondos-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "Especialistas analisam como novo pacote fiscal pode afetar bolso do consumidor e empresas",
+      "url": "https://noticias.r7.com/brasilia/especialistas-analisam-como-novo-pacote-fiscal-pode-afetar-bolso-do-consumidor-e-empresas-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "Entenda como ficam os projetos de Flávio Bolsonaro no Senado, agora que ele está nos Estados Unidos",
+      "url": "https://noticias.r7.com/brasilia/entenda-como-ficam-os-projetos-de-flavio-bolsonaro-no-senado-agora-que-ele-esta-nos-eua-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "UTI: ‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro",
+      "url": "https://noticias.r7.com/brasilia/ele-esta-com-uma-cara-boa-afirma-michelle-ao-visitar-bolsonaro-na-uti-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T16:05:21.346Z"
     },
     {
       "title": "“As Delícias” reúne 45 obras de Suyan de Mattos e Isadora Jochims na Galeria Referência",
@@ -38,27 +87,6 @@
       "publishedAt": "2026-11-22T16:21:50.000Z"
     },
     {
-      "title": "Maioridade penal: relator avalia 16 anos; ala do PL quer 14 para crimes hediondos",
-      "url": "https://noticias.r7.com/brasilia/maioridade-penal-relator-avalia-reducao-para-16-anos-ala-do-pl-propoe-14-para-crimes-hediondos-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "Especialistas analisam como novo pacote fiscal pode afetar bolso do consumidor e empresas",
-      "url": "https://noticias.r7.com/brasilia/especialistas-analisam-como-novo-pacote-fiscal-pode-afetar-bolso-do-consumidor-e-empresas-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "Ex-ministro Fernando Haddad reaparece e propõe taxa contra a desigualdade",
-      "url": "https://noticias.r7.com/brasilia/haddad-reaparece-e-propoe-taxa-contra-a-desigualdade-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T21:45:27.724Z"
-    },
-    {
       "title": "Em oito capitais, 16ª Mostra de Cinema e Direitos Humanos exibe \"Feito Pipa\" em sessões especiais e gratuitas",
       "url": "https://www.visitebrasilia.com.br/noticias/em-oito-capitais-16-mostra-de-cinema-e-direitos-humanos-exibe-feito-pipa-em-sessoes-especiais-e-gratuitas",
       "tipo": "noticia",
@@ -73,32 +101,11 @@
       "publishedAt": "2026-11-21T23:23:18.000Z"
     },
     {
-      "title": "Jonathan Andrade apresenta solo inédito \"Cobaia\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/jonathan-andrade-apresenta-solo-inedito-cobaia",
+      "title": "Bolsonaro segue internado na UTI, com quadro de saúde estável",
+      "url": "https://noticias.r7.com/brasilia/bolsonaro-segue-internado-na-uti-com-quadro-de-saude-estavel-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T20:40:00.000Z"
-    },
-    {
-      "title": "Mostra Caminho das Artes reúne cinco espetáculos gratuitos no Gama, de 25 a 29 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/mostra-caminho-das-artes-reune-cinco-espetaculos-gratuitos-no-gama-de-25-a-29-de-novembro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T18:18:25.000Z"
-    },
-    {
-      "title": "Entenda como ficam os projetos de Flávio Bolsonaro no Senado, agora que ele está nos Estados Unidos",
-      "url": "https://noticias.r7.com/brasilia/entenda-como-ficam-os-projetos-de-flavio-bolsonaro-no-senado-agora-que-ele-esta-nos-eua-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "UTI: ‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro",
-      "url": "https://noticias.r7.com/brasilia/ele-esta-com-uma-cara-boa-afirma-michelle-ao-visitar-bolsonaro-na-uti-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T16:05:21.346Z"
+      "publishedAt": "2026-11-22T17:33:52.015Z"
     },
     {
       "title": "Há um ano, Bolsonaro usou solda para tentar romper tornozeleira e foi preso; relembre o episódio",
@@ -106,13 +113,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T05:00:01.000Z"
-    },
-    {
-      "title": "Bolsonaro é transferido para UTI com quadro de obstrução intestinal",
-      "url": "https://noticias.r7.com/brasilia/bolsonaro-e-transferido-para-uti-com-quadro-de-obstrucao-intestinal-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T17:32:12.151Z"
     },
     {
       "title": "Proteção a Lula: GSI prepara compra de sistema antidrones",
@@ -129,18 +129,18 @@
       "publishedAt": "2026-11-22T05:00:00.000Z"
     },
     {
-      "title": "Deputados novatos terão ‘cursinho’ para aprender a rotina da Câmara",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/deputados-novatos-terao-cursinho-para-aprender-a-rotina-da-camara-21112026/",
+      "title": "ICMS sobre o diesel soma alta de 735,7% desde 2002, acima da inflação acumulada",
+      "url": "https://noticias.r7.com/economia/icms-sobre-o-diesel-soma-alta-de-7357-desde-2002-acima-da-inflacao-acumulada-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T18:00:00.000Z"
+      "publishedAt": "2026-11-22T15:55:11.673Z"
     },
     {
       "title": "Brasileirão Série A - Tabela",
       "url": "https://esportes.r7.com/futebol/campeonato-brasileiro-serie-a/tabela/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T23:10:48.502Z"
+      "publishedAt": "2026-11-22T21:44:06.699Z"
     }
   ]
 }
