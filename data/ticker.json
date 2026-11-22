@@ -1,48 +1,69 @@
 {
-  "updatedAt": "2026-11-22T08:37:46.482Z",
+  "updatedAt": "2026-11-22T16:58:19.052Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "SU4V3 P4NT3R4: espetáculo teatral transforma relatos íntimos de mulheres em uma grande festa de revelação",
-      "url": "https://www.visitebrasilia.com.br/noticias/su4v3-p4nt3r4-espetaculo-teatral-transforma-relatos-intimos-de-mulheres-em-uma-grande-festa-de-revelacao",
+      "title": "Projeto ARTEridade abre inscrições para oficina de cerâmica voltada a pessoas com 60 anos ou mais, em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/projeto-arteridade-abre-inscricoes-para-oficina-de-ceramica-voltada-a-pessoas-com-60-anos-ou-mais-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-21T15:58:56.000Z"
+      "publishedAt": "2026-11-22T16:02:11.000Z"
     },
     {
-      "title": "Balanço Geral DF / 21/11/2026",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/feriadao-tem-teatro-musica-funk-e-comedia-na-programacao-cultural-em-brasilia-21112026/",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-21T13:09:58.000Z"
-    },
-    {
-      "title": "Livro registra memórias da arte urbana do DF das décadas de 70 e 90",
-      "url": "https://www.visitebrasilia.com.br/noticias/livro-registra-memorias-da-arte-urbana-do-df-das-decadas-de-70-e-90",
+      "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/daniel-resende-apresenta-o-camarote-360b-nova-estrutura-da-sete-solucoes-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T16:47:07.000Z"
+      "publishedAt": "2026-11-22T16:48:31.000Z"
     },
     {
-      "title": "Parque da Cidade oferece vacinação contra dengue e atividades educativas",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/parque-da-cidade-oferece-vacinacao-contra-dengue-e-atividades-educativas-21112026/",
+      "title": "“As Delícias” reúne 45 obras de Suyan de Mattos e Isadora Jochims na Galeria Referência",
+      "url": "https://www.visitebrasilia.com.br/noticias/as-delicias-reune-45-obras-de-suyan-de-mattos-e-isadora-jochims-na-galeria-referencia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T14:25:54.000Z"
+      "publishedAt": "2026-11-22T16:37:56.000Z"
     },
     {
-      "title": "Oito em cada dez lojistas do DF esperam vender mais com pagamento do 13º salário",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/oito-em-cada-dez-lojistas-do-df-esperam-vender-mais-com-pagamento-do-13-salario-21112026/",
+      "title": "Três videoperformances sobre os modos de habitar a cidade: \"A Cidade em Nós\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/tres-videoperformances-sobre-os-modos-de-habitar-a-cidade-a-cidade-em-nos",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T14:17:20.000Z"
+      "publishedAt": "2026-11-22T16:36:43.000Z"
     },
     {
-      "title": "GDF envia à CLDF projeto que prevê redução média de 1,97% no cálculo do IPVA de 2027",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/gdf-envia-a-cldf-projeto-que-preve-reducao-media-de-197-no-calculo-do-ipva-de-2027-21112026/",
+      "title": "Debate sobre o Carnaval de Brasília discutirá políticas permanentes para o festejo",
+      "url": "https://www.visitebrasilia.com.br/noticias/debate-sobre-o-carnaval-de-brasilia-discutira-politicas-permanentes-para-o-festejo",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T14:07:20.000Z"
+      "publishedAt": "2026-11-22T16:21:50.000Z"
+    },
+    {
+      "title": "Maioridade penal: relator avalia 16 anos; ala do PL quer 14 para crimes hediondos",
+      "url": "https://noticias.r7.com/brasilia/maioridade-penal-relator-avalia-reducao-para-16-anos-ala-do-pl-propoe-14-para-crimes-hediondos-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "Especialistas analisam como novo pacote fiscal pode afetar bolso do consumidor e empresas",
+      "url": "https://noticias.r7.com/brasilia/especialistas-analisam-como-novo-pacote-fiscal-pode-afetar-bolso-do-consumidor-e-empresas-22112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "Ex-ministro Fernando Haddad reaparece e propõe taxa contra a desigualdade",
+      "url": "https://noticias.r7.com/brasilia/haddad-reaparece-e-propoe-taxa-contra-a-desigualdade-21112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-21T21:45:27.724Z"
+    },
+    {
+      "title": "Em oito capitais, 16ª Mostra de Cinema e Direitos Humanos exibe \"Feito Pipa\" em sessões especiais e gratuitas",
+      "url": "https://www.visitebrasilia.com.br/noticias/em-oito-capitais-16-mostra-de-cinema-e-direitos-humanos-exibe-feito-pipa-em-sessoes-especiais-e-gratuitas",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T10:59:45.000Z"
     },
     {
       "title": "KFC lança no Brasil menu inspirado em ‘Vingadores: Doutor Destino’",
@@ -66,32 +87,25 @@
       "publishedAt": "2026-11-21T18:18:25.000Z"
     },
     {
-      "title": "Enac: 7,6 mil candidatos se inscreveram para prova neste domingo",
-      "url": "https://noticias.r7.com/brasilia/exame-nacional-dos-cartorios-76-mil-candidatos-se-inscreveram-para-prova-neste-domingo-21112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-21T16:56:29.278Z"
-    },
-    {
-      "title": "Caldas Country celebra 20 anos com Matheus, Natanzinho Lima e Virginia Fonseca",
-      "url": "https://www.visitebrasilia.com.br/noticias/caldas-country-celebra-20-anos-com-encontro-de-matheus-e-natanzinho-lima-presenca-de-virginia-fonseca-e-outros-famosos",
+      "title": "Entenda como ficam os projetos de Flávio Bolsonaro no Senado, agora que ele está nos Estados Unidos",
+      "url": "https://noticias.r7.com/brasilia/entenda-como-ficam-os-projetos-de-flavio-bolsonaro-no-senado-agora-que-ele-esta-nos-eua-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T16:10:24.000Z"
+      "publishedAt": "2026-11-22T05:00:00.000Z"
     },
     {
-      "title": "Brasília que não sai nas manchetes de jornais: Fernanda Cunha lança livro sobre cotidiano da cidade",
-      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-que-nao-sai-nas-manchetes-de-jornais-fernanda-cunha-lanca-livro-sobre-cotidiano-da-cidade",
+      "title": "UTI: ‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro",
+      "url": "https://noticias.r7.com/brasilia/ele-esta-com-uma-cara-boa-afirma-michelle-ao-visitar-bolsonaro-na-uti-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T15:52:58.000Z"
+      "publishedAt": "2026-11-22T16:05:21.346Z"
     },
     {
-      "title": "Parque do Jardim Botânico recebe lançamento do livro infantil ‘Giralda e Geraldo’ em 22 de novembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/parque-do-jardim-botanico-recebe-lancamento-do-livro-infantil-giralda-e-geraldo-em-22-de-novembro",
+      "title": "Há um ano, Bolsonaro usou solda para tentar romper tornozeleira e foi preso; relembre o episódio",
+      "url": "https://noticias.r7.com/brasilia/ha-um-ano-bolsonaro-usou-solda-para-tentar-romper-tornozeleira-e-foi-preso-relembre-o-episodio-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T13:17:46.000Z"
+      "publishedAt": "2026-11-22T05:00:01.000Z"
     },
     {
       "title": "Bolsonaro é transferido para UTI com quadro de obstrução intestinal",
@@ -101,46 +115,32 @@
       "publishedAt": "2026-11-21T17:32:12.151Z"
     },
     {
-      "title": "‘Jamais o vi assim’, diz Carlos ao atualizar estado de Bolsonaro",
-      "url": "https://noticias.r7.com/brasilia/jamais-o-vi-assim-diz-carlos-ao-atualizar-estado-de-bolsonaro-e-apontar-possivel-cirurgia-21112026/",
+      "title": "Proteção a Lula: GSI prepara compra de sistema antidrones",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/gsi-prepara-compra-de-sistema-antidrones-para-proteger-lula-22112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-21T13:49:44.095Z"
+      "publishedAt": "2026-11-22T12:00:00.000Z"
     },
     {
-      "title": "Moraes autoriza filhos e enteada a visitarem ex-presidente",
-      "url": "https://noticias.r7.com/brasilia/moraes-autoriza-filhos-e-enteada-a-visitarem-bolsonaro-durante-internacao-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T16:35:10.484Z"
-    },
-    {
-      "title": "Lula garante que idade da aposentadoria não aumentará no próximo mandato",
-      "url": "https://noticias.r7.com/brasilia/lula-garante-que-idade-da-aposentadoria-nao-aumentara-no-proximo-mandato-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T17:23:38.716Z"
-    },
-    {
-      "title": "Lula diz que pediu a Trump, Putin e Xi que negociassem a paz: ‘Parem com a violência’",
-      "url": "https://noticias.r7.com/brasilia/lula-diz-que-pediu-a-trump-putin-e-xi-que-negociassem-a-paz-parem-com-a-violencia-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T16:08:32.119Z"
-    },
-    {
-      "title": "‘Estamos tirando dinheiro dos ricos’, diz Lula ao defender ajuste fiscal e descartar cortes",
-      "url": "https://noticias.r7.com/brasilia/estamos-tirando-dinheiro-dos-ricos-diz-lula-ao-defender-ajuste-fiscal-e-descartar-cortes-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T16:41:59.855Z"
-    },
-    {
-      "title": "Maioridade penal: relator avalia redução para 16 anos; ala do PL propõe 14 para crimes hediondos",
-      "url": "https://noticias.r7.com/brasilia/maioridade-penal-relator-avalia-reducao-para-16-anos-ala-do-pl-propoe-14-para-crimes-hediondos-22112026/",
+      "title": "Janones quer mobilizar Exército do Lula para 4ª posse",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/janones-quer-mobilizar-exercito-do-lula-para-quarta-posse-do-presidente-22112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T05:00:00.000Z"
+    },
+    {
+      "title": "Deputados novatos terão ‘cursinho’ para aprender a rotina da Câmara",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/deputados-novatos-terao-cursinho-para-aprender-a-rotina-da-camara-21112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-21T18:00:00.000Z"
+    },
+    {
+      "title": "Brasileirão Série A - Tabela",
+      "url": "https://esportes.r7.com/futebol/campeonato-brasileiro-serie-a/tabela/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-21T23:10:48.502Z"
     }
   ]
 }
