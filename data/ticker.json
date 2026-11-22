@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:49:44.461Z",
+  "updatedAt": "2026-11-22T01:02:35.735Z",
   "validityHours": 24,
   "items": [
     {
@@ -10,7 +10,7 @@
       "publishedAt": "2026-11-21T15:58:56.000Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 7 HORAS",
+      "title": "Balanço Geral DF / 21/11/2026",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/feriadao-tem-teatro-musica-funk-e-comedia-na-programacao-cultural-em-brasilia-21112026/",
       "tipo": "evento",
       "urgente": false,
@@ -45,11 +45,32 @@
       "publishedAt": "2026-11-21T14:07:20.000Z"
     },
     {
+      "title": "KFC lança no Brasil menu inspirado em ‘Vingadores: Doutor Destino’",
+      "url": "https://www.visitebrasilia.com.br/noticias/kfc-lanca-no-brasil-menu-inspirado-em-vingadores-doutor-destino",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-21T23:23:18.000Z"
+    },
+    {
+      "title": "Jonathan Andrade apresenta solo inédito \"Cobaia\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/jonathan-andrade-apresenta-solo-inedito-cobaia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-21T20:40:00.000Z"
+    },
+    {
       "title": "Mostra Caminho das Artes reúne cinco espetáculos gratuitos no Gama, de 25 a 29 de novembro",
       "url": "https://www.visitebrasilia.com.br/noticias/mostra-caminho-das-artes-reune-cinco-espetaculos-gratuitos-no-gama-de-25-a-29-de-novembro",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-21T18:18:25.000Z"
+    },
+    {
+      "title": "Enac: 7,6 mil candidatos se inscreveram para prova neste domingo",
+      "url": "https://noticias.r7.com/brasilia/exame-nacional-dos-cartorios-76-mil-candidatos-se-inscreveram-para-prova-neste-domingo-21112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-21T16:56:29.278Z"
     },
     {
       "title": "Caldas Country celebra 20 anos com Matheus, Natanzinho Lima e Virginia Fonseca",
@@ -64,13 +85,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-21T15:52:58.000Z"
-    },
-    {
-      "title": "Enac: 7,6 mil candidatos se inscreveram para prova neste domingo",
-      "url": "https://noticias.r7.com/brasilia/exame-nacional-dos-cartorios-76-mil-candidatos-se-inscreveram-para-prova-neste-domingo-21112026/",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-21T16:56:29.278Z"
     },
     {
       "title": "Parque do Jardim Botânico recebe lançamento do livro infantil ‘Giralda e Geraldo’ em 22 de novembro",
@@ -127,20 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-21T05:00:00.000Z"
-    },
-    {
-      "title": "Escala 5x2 beneficia trabalhadores, mas desafia empresas com alta de custos",
-      "url": "https://noticias.r7.com/brasilia/escala-5x2-beneficia-trabalhadores-mas-desafia-empresas-com-alta-de-custos-20112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T05:00:00.000Z"
-    },
-    {
-      "title": "RECORD e R7 são premiados em quatro categorias do Prêmio Direitos Humanos de Jornalismo",
-      "url": "https://noticias.r7.com/brasilia/record-e-r7-sao-premiados-em-quatro-categorias-do-premio-direitos-humanos-de-jornalismo-21112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T14:46:34.660Z"
     }
   ]
 }
