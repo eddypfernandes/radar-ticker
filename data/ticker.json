@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-23T02:59:30.875Z",
+  "updatedAt": "2026-11-23T12:14:29.172Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Livro \"O Pequeno Mestre\" abre pré-venda com desconto especial antes de lançamento em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/livro-o-pequeno-mestre-abre-pre-venda-com-desconto-especial-antes-de-lancamento-em-brasilia",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-23T11:34:51.000Z"
+    },
     {
       "title": "Gigantes do rock e metal ganham tributo na estreia do VEXORA Festival em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-rock-e-metal-ganham-tributo-na-estreia-do-vexora-festival-em-brasilia",
@@ -24,6 +31,27 @@
       "publishedAt": "2026-11-22T23:39:55.000Z"
     },
     {
+      "title": "Jovem do DF cria aplicativo para conectar pessoas que querem compartilhar frutas e alimentos",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/jovem-do-df-cria-aplicativo-para-conectar-pessoas-que-querem-compartilhar-frutas-e-alimentos-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T11:28:28.000Z"
+    },
+    {
+      "title": "Preço do tomate dispara no DF e quilo chega a R$ 27 em supermercados",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/preco-do-tomate-dispara-no-df-e-quilo-chega-a-r-27-em-supermercados-21112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T11:28:21.000Z"
+    },
+    {
+      "title": "Brasília se prepara para a posse de Lula, reeleito para o quarto mandato",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-se-prepara-para-a-posse-de-lula-reeleito-para-o-quarto-mandato-15271940.ghtml",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T11:35:38.000Z"
+    },
+    {
       "title": "LabDay reúne inovação, empreendedorismo e inteligência artificial no SebraeLab Biotic",
       "url": "https://www.visitebrasilia.com.br/noticias/labday-reune-inovacao-empreendedorismo-e-inteligencia-artificial-no-sebraelab-biotic",
       "tipo": "noticia",
@@ -31,39 +59,32 @@
       "publishedAt": "2026-11-22T21:52:18.000Z"
     },
     {
-      "title": "Após quatro edições de talks e uma corrida, Viva Leve lança comunidade feminina em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-quatro-edicoes-de-talks-e-uma-corrida-viva-leve-lanca-comunidade-feminina-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T18:05:09.000Z"
-    },
-    {
-      "title": "Maioridade penal: relator avalia 16 anos; ala do PL quer 14 para crimes hediondos",
-      "url": "https://noticias.r7.com/brasilia/maioridade-penal-relator-avalia-reducao-para-16-anos-ala-do-pl-propoe-14-para-crimes-hediondos-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "Especialistas analisam como novo pacote fiscal pode afetar bolso do consumidor e empresas",
-      "url": "https://noticias.r7.com/brasilia/especialistas-analisam-como-novo-pacote-fiscal-pode-afetar-bolso-do-consumidor-e-empresas-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "Entenda como ficam os projetos de Flávio Bolsonaro no Senado, agora que ele está nos Estados Unidos",
-      "url": "https://noticias.r7.com/brasilia/entenda-como-ficam-os-projetos-de-flavio-bolsonaro-no-senado-agora-que-ele-esta-nos-eua-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
       "title": "UTI: ‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro",
       "url": "https://noticias.r7.com/brasilia/ele-esta-com-uma-cara-boa-afirma-michelle-ao-visitar-bolsonaro-na-uti-22112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T16:05:21.346Z"
+    },
+    {
+      "title": "Anac não contabiliza dados sobre mudanças de voos; entenda seus direitos",
+      "url": "https://noticias.r7.com/brasilia/anac-nao-contabiliza-dados-sobre-mudancas-de-voos-entenda-seus-direitos-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T05:00:00.000Z"
+    },
+    {
+      "title": "Receita libera consulta ao lote residual do Imposto de Renda; veja como fazer",
+      "url": "https://noticias.r7.com/economia/receita-libera-consulta-ao-lote-residual-do-imposto-de-renda-veja-como-fazer-23112026/",
+      "tipo": "dica",
+      "urgente": false,
+      "publishedAt": "2026-11-23T12:03:32.532Z"
+    },
+    {
+      "title": "Após quatro edições de talks e uma corrida, Viva Leve lança comunidade feminina em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/apos-quatro-edicoes-de-talks-e-uma-corrida-viva-leve-lanca-comunidade-feminina-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T18:05:09.000Z"
     },
     {
       "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
@@ -94,11 +115,18 @@
       "publishedAt": "2026-11-22T16:21:50.000Z"
     },
     {
-      "title": "Em oito capitais, 16ª Mostra de Cinema e Direitos Humanos exibe \"Feito Pipa\" em sessões especiais e gratuitas",
-      "url": "https://www.visitebrasilia.com.br/noticias/em-oito-capitais-16-mostra-de-cinema-e-direitos-humanos-exibe-feito-pipa-em-sessoes-especiais-e-gratuitas",
+      "title": "PL das big techs: relator diz já ter votos para aprovar proposta e busca votação ‘expressiva’",
+      "url": "https://noticias.r7.com/brasilia/pl-das-big-techs-relator-diz-ja-ter-votos-para-aprovar-proposta-e-busca-votacao-expressiva-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T10:59:45.000Z"
+      "publishedAt": "2026-11-23T05:00:00.000Z"
+    },
+    {
+      "title": "Câmara vota ajuste fiscal nesta segunda-feira; relator quer manter texto do Senado",
+      "url": "https://noticias.r7.com/brasilia/camara-vota-ajuste-fiscal-nesta-segunda-feira-relator-quer-manter-texto-do-senado-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T05:00:00.000Z"
     },
     {
       "title": "Bolsonaro segue internado na UTI, com quadro de saúde estável",
@@ -108,39 +136,11 @@
       "publishedAt": "2026-11-22T17:33:52.015Z"
     },
     {
-      "title": "Há um ano, Bolsonaro usou solda para tentar romper tornozeleira e foi preso; relembre o episódio",
-      "url": "https://noticias.r7.com/brasilia/ha-um-ano-bolsonaro-usou-solda-para-tentar-romper-tornozeleira-e-foi-preso-relembre-o-episodio-22112026/",
+      "title": "Agronegócio do cavalo movimenta R$ 61,2 bilhões e gera 1,88 milhão de empregos",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/agronegocio-do-cavalo-movimenta-r-612-bilhoes-e-gera-188-milhao-de-empregos-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T05:00:01.000Z"
-    },
-    {
-      "title": "Proteção a Lula: GSI prepara compra de sistema antidrones",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/gsi-prepara-compra-de-sistema-antidrones-para-proteger-lula-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T12:00:00.000Z"
-    },
-    {
-      "title": "Janones quer mobilizar Exército do Lula para 4ª posse",
-      "url": "https://noticias.r7.com/prisma/r7-planalto/janones-quer-mobilizar-exercito-do-lula-para-quarta-posse-do-presidente-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T05:00:00.000Z"
-    },
-    {
-      "title": "ICMS sobre o diesel soma alta de 735,7% desde 2002, acima da inflação acumulada",
-      "url": "https://noticias.r7.com/economia/icms-sobre-o-diesel-soma-alta-de-7357-desde-2002-acima-da-inflacao-acumulada-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T15:55:11.673Z"
-    },
-    {
-      "title": "Brasileirão Série A - Tabela",
-      "url": "https://esportes.r7.com/futebol/campeonato-brasileiro-serie-a/tabela/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-23T00:45:31.138Z"
+      "publishedAt": "2026-11-23T11:29:33.000Z"
     }
   ]
 }
