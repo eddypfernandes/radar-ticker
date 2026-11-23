@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:23:55.618Z",
+  "updatedAt": "2026-11-23T02:59:30.875Z",
   "validityHours": 24,
   "items": [
     {
@@ -17,6 +17,13 @@
       "publishedAt": "2026-11-22T16:02:11.000Z"
     },
     {
+      "title": "Rádio Criolina – Podcast Rádio Criolina – Podcast Série com músicos, DJs e produtores aborda a música no Distrito Federal Saiba mais",
+      "url": "https://www.visitebrasilia.com.br/noticias/radio-criolina-podcast",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T23:39:55.000Z"
+    },
+    {
       "title": "LabDay reúne inovação, empreendedorismo e inteligência artificial no SebraeLab Biotic",
       "url": "https://www.visitebrasilia.com.br/noticias/labday-reune-inovacao-empreendedorismo-e-inteligencia-artificial-no-sebraelab-biotic",
       "tipo": "noticia",
@@ -29,13 +36,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T18:05:09.000Z"
-    },
-    {
-      "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/daniel-resende-apresenta-o-camarote-360b-nova-estrutura-da-sete-solucoes-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T16:48:31.000Z"
     },
     {
       "title": "Maioridade penal: relator avalia 16 anos; ala do PL quer 14 para crimes hediondos",
@@ -66,6 +66,13 @@
       "publishedAt": "2026-11-22T16:05:21.346Z"
     },
     {
+      "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/daniel-resende-apresenta-o-camarote-360b-nova-estrutura-da-sete-solucoes-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-22T16:48:31.000Z"
+    },
+    {
       "title": "“As Delícias” reúne 45 obras de Suyan de Mattos e Isadora Jochims na Galeria Referência",
       "url": "https://www.visitebrasilia.com.br/noticias/as-delicias-reune-45-obras-de-suyan-de-mattos-e-isadora-jochims-na-galeria-referencia",
       "tipo": "noticia",
@@ -92,13 +99,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-22T10:59:45.000Z"
-    },
-    {
-      "title": "KFC lança no Brasil menu inspirado em ‘Vingadores: Doutor Destino’",
-      "url": "https://www.visitebrasilia.com.br/noticias/kfc-lanca-no-brasil-menu-inspirado-em-vingadores-doutor-destino",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-21T23:23:18.000Z"
     },
     {
       "title": "Bolsonaro segue internado na UTI, com quadro de saúde estável",
@@ -140,7 +140,7 @@
       "url": "https://esportes.r7.com/futebol/campeonato-brasileiro-serie-a/tabela/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T21:44:06.699Z"
+      "publishedAt": "2026-11-23T00:45:31.138Z"
     }
   ]
 }
