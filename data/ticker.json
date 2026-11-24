@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-24T00:13:37.752Z",
+  "updatedAt": "2026-11-24T10:17:57.502Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Mané Mercado Águas Claras estreia projeto Forró do Mané e amplia programação musical semanal",
+      "url": "https://www.visitebrasilia.com.br/noticias/mane-mercado-aguas-claras-estreia-projeto-forro-do-mane-e-amplia-programacao-musical-semanal",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-24T02:14:23.000Z"
+    },
     {
       "title": "Festival Cena Expandida ocupa Brasília com teatro, oficinas e rodas de conversa gratuitas",
       "url": "https://www.visitebrasilia.com.br/noticias/festival-cena-expandida-ocupa-brasilia-com-teatro-oficinas-e-rodas-de-conversa-gratuitas",
@@ -15,20 +22,6 @@
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-23T16:01:44.000Z"
-    },
-    {
-      "title": "Meliá apresenta programação especial de Natal e Réveillon em hotéis de Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/melia-apresenta-programacao-especial-de-natal-e-reveillon-em-hoteis-de-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-23T13:43:51.000Z"
-    },
-    {
-      "title": "Livro \"O Pequeno Mestre\" abre pré-venda com desconto especial antes de lançamento em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/livro-o-pequeno-mestre-abre-pre-venda-com-desconto-especial-antes-de-lancamento-em-brasilia",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-23T11:34:51.000Z"
     },
     {
       "title": "Sereníssima leva tributo à Legião Urbana a cinco RA's do DF em circuito de shows gratuitos",
@@ -73,11 +66,11 @@
       "publishedAt": "2026-11-23T13:31:05.000Z"
     },
     {
-      "title": "Brasília se prepara para a posse de Lula, reeleito para o quarto mandato",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/brasilia-se-prepara-para-a-posse-de-lula-reeleito-para-o-quarto-mandato-15271940.ghtml",
+      "title": "Livro sobre teatro brasileiro é lançado em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/livro-sobre-teatro-brasileiro-e-lancado-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-23T11:35:38.000Z"
+      "publishedAt": "2026-11-24T01:29:07.000Z"
     },
     {
       "title": "Seu bolso: IPVA no Distrito Federal pode ficar, em média, 1,97% mais barato em 2027",
@@ -141,6 +134,13 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-23T17:25:49.000Z"
+    },
+    {
+      "title": "Black Friday do Taguatinga Shopping terá ofertas-surpresa e Caravana de Natal da Coca-Cola",
+      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-do-taguatinga-shopping-tera-ofertas-surpresa-e-caravana-de-natal-da-coca-cola",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T17:14:59.000Z"
     }
   ]
 }
