@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-11-23T12:14:29.172Z",
+  "updatedAt": "2026-11-24T00:13:37.752Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Festival Cena Expandida ocupa Brasília com teatro, oficinas e rodas de conversa gratuitas",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-cena-expandida-ocupa-brasilia-com-teatro-oficinas-e-rodas-de-conversa-gratuitas",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-23T16:06:28.000Z"
+    },
+    {
+      "title": "Ciência em Show chega a Taguatinga com experiências para toda a família",
+      "url": "https://www.visitebrasilia.com.br/noticias/ciencia-em-show-chega-a-taguatinga-com-experiencias-para-toda-a-familia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-23T16:01:44.000Z"
+    },
+    {
+      "title": "Meliá apresenta programação especial de Natal e Réveillon em hotéis de Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/melia-apresenta-programacao-especial-de-natal-e-reveillon-em-hoteis-de-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-23T13:43:51.000Z"
+    },
     {
       "title": "Livro \"O Pequeno Mestre\" abre pré-venda com desconto especial antes de lançamento em Brasília",
       "url": "https://www.visitebrasilia.com.br/noticias/livro-o-pequeno-mestre-abre-pre-venda-com-desconto-especial-antes-de-lancamento-em-brasilia",
@@ -10,39 +31,46 @@
       "publishedAt": "2026-11-23T11:34:51.000Z"
     },
     {
-      "title": "Gigantes do rock e metal ganham tributo na estreia do VEXORA Festival em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/gigantes-do-rock-e-metal-ganham-tributo-na-estreia-do-vexora-festival-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-22T17:05:51.000Z"
-    },
-    {
-      "title": "Projeto ARTEridade abre inscrições para oficina de cerâmica voltada a pessoas com 60 anos ou mais, em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/projeto-arteridade-abre-inscricoes-para-oficina-de-ceramica-voltada-a-pessoas-com-60-anos-ou-mais-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-22T16:02:11.000Z"
-    },
-    {
-      "title": "Rádio Criolina – Podcast Rádio Criolina – Podcast Série com músicos, DJs e produtores aborda a música no Distrito Federal Saiba mais",
-      "url": "https://www.visitebrasilia.com.br/noticias/radio-criolina-podcast",
+      "title": "Sereníssima leva tributo à Legião Urbana a cinco RA's do DF em circuito de shows gratuitos",
+      "url": "https://www.visitebrasilia.com.br/noticias/serenissima-leva-tributo-a-legiao-urbana-a-cinco-ra-s-do-df-em-circuito-de-shows-gratuitos",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T23:39:55.000Z"
+      "publishedAt": "2026-11-23T17:16:13.000Z"
     },
     {
-      "title": "Jovem do DF cria aplicativo para conectar pessoas que querem compartilhar frutas e alimentos",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/jovem-do-df-cria-aplicativo-para-conectar-pessoas-que-querem-compartilhar-frutas-e-alimentos-23112026/",
+      "title": "Polícia resgata mulher agredida e mantida em cárcere pelo companheiro",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mulher-mantida-em-carcere-e-agredida-pelo-companheiro-e-resgatada-por-policiais-no-df-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-23T11:28:28.000Z"
+      "publishedAt": "2026-11-23T16:33:28.000Z"
     },
     {
-      "title": "Preço do tomate dispara no DF e quilo chega a R$ 27 em supermercados",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/preco-do-tomate-dispara-no-df-e-quilo-chega-a-r-27-em-supermercados-21112026/",
+      "title": "Planaltina: placas de túmulos são encontradas em lixão",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/placas-de-identificacao-de-tumulos-sao-encontradas-em-lixao-irregular-em-planaltina-df-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-23T11:28:21.000Z"
+      "publishedAt": "2026-11-23T16:25:37.000Z"
+    },
+    {
+      "title": "No Entorno, obra abandonada deixa moradores ilhados",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/obra-iniciada-ha-um-ano-e-abandonada-deixa-ruas-alagadas-e-moradores-ilhados-em-go-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T15:58:44.000Z"
+    },
+    {
+      "title": "Quatro anos de espera: moradores cobram asfalto",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/moradores-de-sobradinho-ii-df-cobram-asfalto-apos-quatro-anos-de-transtornos-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T16:08:25.000Z"
+    },
+    {
+      "title": "Bombeiros resgatam idoso submerso em piscina no DF",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/bombeiros-resgatam-idoso-encontrado-submerso-e-desacordado-em-piscina-no-df-23112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-23T13:31:05.000Z"
     },
     {
       "title": "Brasília se prepara para a posse de Lula, reeleito para o quarto mandato",
@@ -52,95 +80,67 @@
       "publishedAt": "2026-11-23T11:35:38.000Z"
     },
     {
-      "title": "LabDay reúne inovação, empreendedorismo e inteligência artificial no SebraeLab Biotic",
-      "url": "https://www.visitebrasilia.com.br/noticias/labday-reune-inovacao-empreendedorismo-e-inteligencia-artificial-no-sebraelab-biotic",
+      "title": "Seu bolso: IPVA no Distrito Federal pode ficar, em média, 1,97% mais barato em 2027",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ipva-no-distrito-federal-pode-ficar-em-media-197-mais-barato-em-2027-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T21:52:18.000Z"
+      "publishedAt": "2026-11-23T14:23:43.000Z"
     },
     {
-      "title": "UTI: ‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro",
-      "url": "https://noticias.r7.com/brasilia/ele-esta-com-uma-cara-boa-afirma-michelle-ao-visitar-bolsonaro-na-uti-22112026/",
+      "title": "Famílias contempladas pelo GDF Social têm até esta segunda-feira (23) para abrir conta no BRB",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/familias-contempladas-pelo-gdf-social-tem-ate-esta-segunda-para-abrir-conta-no-brb-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T16:05:21.346Z"
+      "publishedAt": "2026-11-23T14:09:22.000Z"
     },
     {
-      "title": "Anac não contabiliza dados sobre mudanças de voos; entenda seus direitos",
-      "url": "https://noticias.r7.com/brasilia/anac-nao-contabiliza-dados-sobre-mudancas-de-voos-entenda-seus-direitos-23112026/",
+      "title": "Senac-DF oferece mais de 18 mil vagas em cursos de qualificação para 2027",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/senac-df-oferece-mais-de-18-mil-vagas-em-cursos-de-qualificacao-para-2027-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-23T05:00:00.000Z"
+      "publishedAt": "2026-11-23T16:38:24.000Z"
     },
     {
-      "title": "Receita libera consulta ao lote residual do Imposto de Renda; veja como fazer",
-      "url": "https://noticias.r7.com/economia/receita-libera-consulta-ao-lote-residual-do-imposto-de-renda-veja-como-fazer-23112026/",
-      "tipo": "dica",
-      "urgente": false,
-      "publishedAt": "2026-11-23T12:03:32.532Z"
-    },
-    {
-      "title": "Após quatro edições de talks e uma corrida, Viva Leve lança comunidade feminina em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/apos-quatro-edicoes-de-talks-e-uma-corrida-viva-leve-lanca-comunidade-feminina-em-brasilia",
+      "title": "Chuvas fortes provocam estragos e previsão indica mais temporais",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/chuvas-fortes-provocam-estragos-no-df-e-previsao-indica-mais-temporais-durante-a-semana-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T18:05:09.000Z"
+      "publishedAt": "2026-11-23T13:52:03.000Z"
     },
     {
-      "title": "Daniel Resende apresenta o Camarote 360B, nova estrutura da Sete Soluções em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/daniel-resende-apresenta-o-camarote-360b-nova-estrutura-da-sete-solucoes-em-brasilia",
+      "title": "Jovem cria app para conectar pessoas que querem compartilhar frutas",
+      "url": "https://noticias.r7.com/brasilia/agro-record/video/jovem-do-df-cria-aplicativo-para-conectar-pessoas-que-querem-compartilhar-frutas-e-alimentos-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T16:48:31.000Z"
+      "publishedAt": "2026-11-23T19:04:03.000Z"
     },
     {
-      "title": "“As Delícias” reúne 45 obras de Suyan de Mattos e Isadora Jochims na Galeria Referência",
-      "url": "https://www.visitebrasilia.com.br/noticias/as-delicias-reune-45-obras-de-suyan-de-mattos-e-isadora-jochims-na-galeria-referencia",
+      "title": "Seis toneladas de skunk são apreendidas em caminhão-tanque no DF",
+      "url": "https://noticias.r7.com/brasilia/video/seis-toneladas-de-skunk-sao-apreendidas-em-caminhao-tanque-no-df-23112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T16:37:56.000Z"
+      "publishedAt": "2026-11-23T18:35:55.000Z"
     },
     {
-      "title": "Três videoperformances sobre os modos de habitar a cidade: \"A Cidade em Nós\"",
-      "url": "https://www.visitebrasilia.com.br/noticias/tres-videoperformances-sobre-os-modos-de-habitar-a-cidade-a-cidade-em-nos",
+      "title": "Brasília recebe encontro de Edson & Hudson e Gian & Giovani em noite especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/brasilia-recebe-encontro-de-edson-hudson-e-gian-giovani-em-noite-especial",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T16:36:43.000Z"
+      "publishedAt": "2026-11-23T18:34:16.000Z"
     },
     {
-      "title": "Debate sobre o Carnaval de Brasília discutirá políticas permanentes para o festejo",
-      "url": "https://www.visitebrasilia.com.br/noticias/debate-sobre-o-carnaval-de-brasilia-discutira-politicas-permanentes-para-o-festejo",
+      "title": "Caixa Cultural Brasília apresenta \"Bosco 80\", uma série de shows que celebra a vida e o legado de João Bosco",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-apresenta-bosco-80-uma-serie-de-shows-que-celebra-a-vida-e-o-legado-de-joao-bosco",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-22T16:21:50.000Z"
+      "publishedAt": "2026-11-23T17:36:10.000Z"
     },
     {
-      "title": "PL das big techs: relator diz já ter votos para aprovar proposta e busca votação ‘expressiva’",
-      "url": "https://noticias.r7.com/brasilia/pl-das-big-techs-relator-diz-ja-ter-votos-para-aprovar-proposta-e-busca-votacao-expressiva-23112026/",
+      "title": "Nelson Faria e Sandro Haick apresentam projeto inédito nesta terça (24) em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/nelson-faria-e-sandro-haick-apresentam-projeto-inedito-nesta-terca-24-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Câmara vota ajuste fiscal nesta segunda-feira; relator quer manter texto do Senado",
-      "url": "https://noticias.r7.com/brasilia/camara-vota-ajuste-fiscal-nesta-segunda-feira-relator-quer-manter-texto-do-senado-23112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Bolsonaro segue internado na UTI, com quadro de saúde estável",
-      "url": "https://noticias.r7.com/brasilia/bolsonaro-segue-internado-na-uti-com-quadro-de-saude-estavel-22112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-22T17:33:52.015Z"
-    },
-    {
-      "title": "Agronegócio do cavalo movimenta R$ 61,2 bilhões e gera 1,88 milhão de empregos",
-      "url": "https://noticias.r7.com/brasilia/agro-record/video/agronegocio-do-cavalo-movimenta-r-612-bilhoes-e-gera-188-milhao-de-empregos-23112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-23T11:29:33.000Z"
+      "publishedAt": "2026-11-23T17:25:49.000Z"
     }
   ]
 }
