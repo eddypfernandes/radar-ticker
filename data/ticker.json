@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-24T20:47:03.012Z",
+  "updatedAt": "2026-11-25T04:00:13.611Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Agenda Cultural do Sesc-DF tem Festival Consciência Negra e apresentação de Gabriel Strauss",
-      "url": "https://www.visitebrasilia.com.br/noticias/agenda-cultural-do-sesc-df-tem-festival-consciencia-negra-e-apresentacao-de-gabriel-strauss",
+      "title": "Hop Capital Beer reúne rock, flashback, axé e feijoada na programação da semana em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-reune-rock-flashback-axe-e-feijoada-na-programacao-da-semana-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T16:12:07.000Z"
+      "publishedAt": "2026-11-24T21:23:10.000Z"
     },
     {
       "title": "Thiago Arancam protagoniza Ópera do Sertão, espetáculo com estreia nacional em Brasília",
@@ -24,18 +24,18 @@
       "publishedAt": "2026-11-24T16:29:14.000Z"
     },
     {
-      "title": "Plataforma Manifesta Transfeminista será lançada neste domingo, com exposição, feira criativa e show de Flor Furacão",
+      "title": "Plataforma Manifesta Transfeminista será lançada neste domingo",
       "url": "https://www.visitebrasilia.com.br/noticias/plataforma-manifesta-transfeminista-sera-lancada-neste-domingo-com-exposicao-feira-criativa-e-show-de-flor-furacao",
       "tipo": "evento",
       "urgente": false,
       "publishedAt": "2026-11-24T16:24:28.000Z"
     },
     {
-      "title": "Livro \"O Pequeno Mestre\" abre pré-venda com desconto especial antes de lançamento em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/livro-o-pequeno-mestre-abre-pre-venda-com-desconto-especial-antes-de-lancamento-em-brasilia-2",
-      "tipo": "oferta",
+      "title": "Nic Giaffone precisa de apenas 11 pontos para conquistar título da Super Truck Elite no DF",
+      "url": "https://www.visitebrasilia.com.br/noticias/nic-giaffone-precisa-de-apenas-11-pontos-para-conquistar-titulo-da-super-truck-elite-no-df",
+      "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T16:13:15.000Z"
+      "publishedAt": "2026-11-24T18:52:40.000Z"
     },
     {
       "title": "Família reencontra policiais e bombeiros que salvaram bebê",
@@ -78,20 +78,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-24T12:20:17.000Z"
-    },
-    {
-      "title": "Tricampeão de capoeira é referência para crianças e adolescentes no Gama",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/tricampeao-de-capoeira-e-referencia-para-criancas-e-adolescentes-no-gama-15275549.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-24T11:52:02.000Z"
-    },
-    {
-      "title": "Nic Giaffone precisa de apenas 11 pontos para conquistar título da Super Truck Elite no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/nic-giaffone-precisa-de-apenas-11-pontos-para-conquistar-titulo-da-super-truck-elite-no-df",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-24T18:52:40.000Z"
     },
     {
       "title": "Abrace é reconhecida como Melhor ONG do Distrito Federal",
@@ -141,6 +127,20 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-24T18:50:05.000Z"
+    },
+    {
+      "title": "Feira do Cooperativismo leva gastronomia, música e cinema à UnB",
+      "url": "https://www.visitebrasilia.com.br/noticias/feira-do-cooperativismo-da-reforma-agraria-popular-reune-cultura-gastronomia-e-atividades-formativas-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-24T18:47:49.000Z"
+    },
+    {
+      "title": "Black Friday: Outback e Abbraccio oferecem seus pratos famosos com descontos especiais até 30/11",
+      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-outback-e-abbraccio-oferecem-seus-pratos-famosos-com-descontos-especiais-ate-30-11",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-24T18:42:26.000Z"
     }
   ]
 }
