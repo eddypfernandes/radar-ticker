@@ -1,76 +1,76 @@
 {
-  "updatedAt": "2026-11-25T14:10:34.056Z",
+  "updatedAt": "2026-11-25T23:14:10.435Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Hop Capital Beer reúne rock, flashback, axé e feijoada na programação da semana em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/hop-capital-beer-reune-rock-flashback-axe-e-feijoada-na-programacao-da-semana-em-brasilia",
+      "title": "99Food inicia campanha de Black Friday com duas semanas de ofertas de até 70% de desconto",
+      "url": "https://www.visitebrasilia.com.br/noticias/99food-inicia-campanha-de-black-friday-com-duas-semanas-de-ofertas-de-ate-70-de-desconto",
+      "tipo": "oferta",
+      "urgente": false,
+      "publishedAt": "2026-11-25T17:50:21.000Z"
+    },
+    {
+      "title": "Espetáculo de dança contemporânea \"Animais Noturnos\" encerra residência artística do Grupo Pele em dezembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-animais-noturnos-encerra-residencia-artistica-do-grupo-pele-em-dezembro",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T21:23:10.000Z"
+      "publishedAt": "2026-11-25T17:19:48.000Z"
     },
     {
-      "title": "Thiago Arancam protagoniza Ópera do Sertão, espetáculo com estreia nacional em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/thiago-arancam-protagoniza-opera-do-sertao-espetaculo-com-estreia-nacional-em-brasilia",
+      "title": "\"Festival Frevo Menino de Ceilândia – Riquezas, Encantos e Vozes de Origem\" começa atividades na Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-frevo-menino-de-ceilandia-riquezas-encantos-e-vozes-de-origem-comeca-atividades-na-ceilandia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T19:54:17.000Z"
+      "publishedAt": "2026-11-25T17:14:59.000Z"
     },
     {
-      "title": "Dalto faz show gratuito com sucessos em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/dalto-faz-show-gratuito-com-sucessos-em-brasilia",
+      "title": "Caixa Cultural Brasília recebe 4ª edição do VOA Festival entre sexta (27) e domingo (29) com ingressos a partir de R$ 15",
+      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-recebe-4-edicao-do-voa-festival-entre-sexta-27-e-domingo-29-com-ingressos-a-partir-de-r-15",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T16:29:14.000Z"
+      "publishedAt": "2026-11-25T16:38:25.000Z"
     },
     {
-      "title": "Plataforma Manifesta Transfeminista será lançada neste domingo",
-      "url": "https://www.visitebrasilia.com.br/noticias/plataforma-manifesta-transfeminista-sera-lancada-neste-domingo-com-exposicao-feira-criativa-e-show-de-flor-furacao",
+      "title": "Vinícola Brasília lança Monumental Malbec com edição limitada e programação especial",
+      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-lanca-monumental-malbec-com-edicao-limitada-e-programacao-especial",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T16:24:28.000Z"
+      "publishedAt": "2026-11-25T16:34:07.000Z"
     },
     {
-      "title": "Nic Giaffone precisa de apenas 11 pontos para conquistar título da Super Truck Elite no DF",
-      "url": "https://www.visitebrasilia.com.br/noticias/nic-giaffone-precisa-de-apenas-11-pontos-para-conquistar-titulo-da-super-truck-elite-no-df",
-      "tipo": "noticia",
+      "title": "Balanço Geral DF / HÁ 3 HORAS",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/atleta-brasiliense-de-20-anos-conquista-vaga-no-mundial-de-karate-de-2027-em-toquio-25112026/",
+      "tipo": "vaga",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:52:40.000Z"
+      "publishedAt": "2026-11-25T19:13:56.000Z"
     },
     {
-      "title": "Mato alto, acúmulo de lixo e presença de escorpiões preocupam moradores de Taguatinga (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/mato-alto-acumulo-de-lixo-e-presenca-de-escorpioes-preocupam-moradores-de-taguatinga-df-25112026/",
+      "title": "STF julga nesta quarta piso dos professores, porte de arma para guardas e emendas parlamentares",
+      "url": "https://noticias.r7.com/brasilia/stf-julga-piso-dos-professores-porte-de-arma-para-guardas-e-emendas-parlamentares-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T13:50:23.000Z"
+      "publishedAt": "2026-11-25T05:00:01.000Z"
     },
     {
-      "title": "Kombi carregada de panetones pega fogo e deixa prejuízo de R$ 60 mil",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/kombi-carregada-de-panetones-pega-fogo-e-deixa-prejuizo-de-r-60-mil-25112026/",
+      "title": "Master: Fachin aguarda PGR para definir medidas",
+      "url": "https://noticias.r7.com/brasilia/fachin-aguarda-parecer-da-pgr-para-decidir-proximos-passos-do-caso-master-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T13:35:57.000Z"
+      "publishedAt": "2026-11-25T05:00:01.000Z"
     },
     {
-      "title": "Corpo de Bombeiros oferece 90 vagas para oficina gratuita de primeiros socorros",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/corpo-de-bombeiros-oferece-90-vagas-para-oficina-gratuita-de-primeiros-socorros-25112026/",
+      "title": "Master: Nunes Marques vai relatar ação que visa tirar caso de Fachin",
+      "url": "https://noticias.r7.com/brasilia/nunes-marques-e-sorteado-relator-de-acao-que-tenta-retirar-caso-master-de-fachin-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T13:26:48.000Z"
+      "publishedAt": "2026-11-25T23:02:29.074Z"
     },
     {
-      "title": "Operação policial no DF mira influenciadores de apostas online",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/operacao-policial-no-df-mira-influenciadores-de-apostas-online-25112026/",
+      "title": "Seis meses depois de vista, Anvisa adia mais uma vez análise sobre canetas emagrecedoras",
+      "url": "https://noticias.r7.com/brasilia/seis-meses-depois-de-vista-anvisa-adia-mais-uma-vez-analise-sobre-canetas-emagrecedoras-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T13:22:15.000Z"
-    },
-    {
-      "title": "Moradores da Guariroba, em Ceilândia (DF), pedem solução para galhos deixados após poda",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/moradores-da-guariroba-em-ceilandia-df-pedem-solucao-para-galhos-deixados-apos-poda-25112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-25T13:16:25.000Z"
+      "publishedAt": "2026-11-25T13:15:08.445Z"
     },
     {
       "title": "Chapecoense vence o time reserva do Palmeiras",
@@ -87,60 +87,60 @@
       "publishedAt": "2026-11-25T11:43:14.000Z"
     },
     {
-      "title": "Black Friday da American Cookies tem cookie extra a partir de R$5 na compra de qualquer produto elegível",
-      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-da-american-cookies-tem-cookie-extra-a-partir-de-r-5-na-compra-de-qualquer-produto-elegivel",
+      "title": "Restaurante Comunitário do Itapoã reabre após manutenção",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/restaurante-comunitario-do-itapoa-reabre-apos-manutencao-15279057.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T12:52:44.000Z"
+      "publishedAt": "2026-11-25T11:28:53.000Z"
     },
     {
-      "title": "Don Romano: festas de fim de ano impulsionam expectativas do setor",
-      "url": "https://www.visitebrasilia.com.br/noticias/don-romano-festas-de-fim-de-ano-impulsionam-expectativas-do-setor",
+      "title": "Distrito Federal tem, em média, 5 furtos de veículos, por dia, em 2026",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/distrito-federal-tem-em-media-5-furtos-de-veiculos-por-dia-em-2026-15279097.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:53:38.000Z"
+      "publishedAt": "2026-11-25T11:39:12.000Z"
     },
     {
-      "title": "Inclusão a Toda Prova reúne quase 11 mil inscritos e inicia entrega de kits nesta quarta-feira (25)",
-      "url": "https://www.visitebrasilia.com.br/noticias/inclusao-a-toda-prova-reune-quase-11-mil-inscritos-e-inicia-entrega-de-kits-nesta-quarta-feira-25",
-      "tipo": "noticia",
+      "title": "Festival Divas do Samba abre inscrições para oficina gratuita de iluminação cênica voltada a mulheres cis e trans",
+      "url": "https://www.visitebrasilia.com.br/noticias/festival-divas-do-samba-abre-inscricoes-para-oficina-gratuita-de-iluminacao-cenica-voltada-a-mulheres-cis-e-trans",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:52:45.000Z"
+      "publishedAt": "2026-11-25T16:32:55.000Z"
     },
     {
-      "title": "Descontos de até 70% marcam a Black Friday do Manhattan Shopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/descontos-de-ate-70-marcam-a-black-friday-do-manhattan-shopping",
-      "tipo": "noticia",
+      "title": "Cine Perifa exibe \"Não Existe Almoço Grátis\" em programação cultural no Jovem de Expressão, em Ceilândia",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-perifa-exibe-nao-existe-almoco-gratis-em-programacao-cultural-no-jovem-de-expressao-em-ceilandia",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:50:53.000Z"
+      "publishedAt": "2026-11-25T16:31:45.000Z"
     },
     {
-      "title": "Ordinário Bar & Música lança condição especial para confraternizações de fim de ano",
-      "url": "https://www.visitebrasilia.com.br/noticias/ordinario-bar-musica-lanca-condicao-especial-para-confraternizacoes-de-fim-de-ano",
+      "title": "Sernegra 2026 promove debates sobre raça, gênero e esporte no IFB",
+      "url": "https://www.visitebrasilia.com.br/noticias/sernegra-2026-promove-debates-sobre-raca-genero-e-esporte-no-ifb",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:50:05.000Z"
+      "publishedAt": "2026-11-25T21:28:34.000Z"
     },
     {
-      "title": "Feira do Cooperativismo leva gastronomia, música e cinema à UnB",
-      "url": "https://www.visitebrasilia.com.br/noticias/feira-do-cooperativismo-da-reforma-agraria-popular-reune-cultura-gastronomia-e-atividades-formativas-em-brasilia",
+      "title": "Quatro carros separados por 31 pontos prometem decisão eletrizante da Copa Hyundai HB20 Platinum Cup em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/quatro-carros-separados-por-31-pontos-prometem-decisao-eletrizante-da-copa-hyundai-hb20-platinum-cup-em-brasilia",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:47:49.000Z"
+      "publishedAt": "2026-11-25T20:45:00.000Z"
     },
     {
-      "title": "Black Friday: Outback e Abbraccio oferecem seus pratos famosos com descontos especiais até 30/11",
-      "url": "https://www.visitebrasilia.com.br/noticias/black-friday-outback-e-abbraccio-oferecem-seus-pratos-famosos-com-descontos-especiais-ate-30-11",
+      "title": "Cine Araújo terá ingressos a R$ 11 e combo de pipoca por R$ 22 na Black Friday",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-araujo-tera-ingressos-a-r-11-e-combo-de-pipoca-por-r-22-na-black-friday",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:42:26.000Z"
+      "publishedAt": "2026-11-25T20:15:00.000Z"
     },
     {
-      "title": "Casapark promove oficinas criativas de Natal para crianças",
-      "url": "https://www.visitebrasilia.com.br/noticias/casapark-promove-oficinas-criativas-de-natal-para-criancas",
+      "title": "VEJA inaugura sua primeira loja em Brasília, no ParkShopping",
+      "url": "https://www.visitebrasilia.com.br/noticias/veja-inaugura-sua-primeira-loja-em-brasilia-no-parkshopping",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-24T18:27:52.000Z"
+      "publishedAt": "2026-11-25T20:01:00.000Z"
     }
   ]
 }
