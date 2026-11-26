@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:19:56.943Z",
+  "updatedAt": "2026-11-26T15:38:08.067Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,67 +38,60 @@
       "publishedAt": "2026-11-25T16:34:07.000Z"
     },
     {
-      "title": "Balanço Geral DF / 25/11/2026",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/atleta-brasiliense-de-20-anos-conquista-vaga-no-mundial-de-karate-de-2027-em-toquio-25112026/",
-      "tipo": "vaga",
+      "title": "Ciência Show desembarca em Brasília",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/ciencia-show-desembarca-em-brasilia-15282680.ghtml",
+      "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-25T19:13:56.000Z"
+      "publishedAt": "2026-11-26T10:58:18.000Z"
     },
     {
-      "title": "Master: Nunes Marques vai relatar ação que visa tirar caso de Fachin",
-      "url": "https://noticias.r7.com/brasilia/nunes-marques-e-sorteado-relator-de-acao-que-tenta-retirar-caso-master-de-fachin-25112026/",
+      "title": "Zelador agredido na Asa Norte está acordado, mas não reconhece família",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/esta-acordado-mas-nao-reconhece-a-gente-familia-relata-drama-de-zelador-agredido-no-df-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T23:02:29.074Z"
+      "publishedAt": "2026-11-25T22:32:29.000Z"
     },
     {
-      "title": "Seis meses depois de vista, Anvisa adia mais uma vez análise sobre canetas emagrecedoras",
-      "url": "https://noticias.r7.com/brasilia/seis-meses-depois-de-vista-anvisa-adia-mais-uma-vez-analise-sobre-canetas-emagrecedoras-25112026/",
+      "title": "Condenado por matar jovem e fingir suicídio é preso no trabalho",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/condenado-por-matar-jovem-e-simular-suicidio-e-preso-enquanto-trabalhava-no-df-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T13:15:08.445Z"
+      "publishedAt": "2026-11-25T22:03:29.000Z"
     },
     {
-      "title": "Projeto que cria Estatuto dos Cães e Gatos segue para votação no Plenário do Senado",
-      "url": "https://noticias.r7.com/brasilia/estatuto-dos-caes-e-gatos-segue-para-votacao-no-plenario-do-senado-25112026/",
+      "title": "Protetores de animais se reúnem para exigir políticas do GDF",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/protetores-de-animais-do-df-se-reunem-para-cobrar-politicas-publicas-e-apoio-do-governo-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T11:21:30.496Z"
+      "publishedAt": "2026-11-26T13:11:23.000Z"
     },
     {
-      "title": "Entenda se Nikolas pode ficar inelegível por publicar laudo falso",
-      "url": "https://noticias.r7.com/brasilia/entenda-se-nikolas-ferreira-pode-ficar-inelegivel-por-8-anos-por-publicar-laudo-falso-da-pf-25112026/",
+      "title": "Manobra de Heimilich: Corpo de Bombeiros ensina técnica de primeiros socorros para salvar vítimas de engasgo",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/apos-casos-no-df-bombeiros-ensinam-manobras-de-primeiros-socorros-para-vitimas-de-engasgo-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T11:58:55.258Z"
+      "publishedAt": "2026-11-25T22:54:02.000Z"
     },
     {
-      "title": "Chapecoense vence o time reserva do Palmeiras",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/chapecoense-vence-o-time-reserva-do-palmeiras-15279388.ghtml",
+      "title": "Novas regras ampliam o acesso à doação de sangue para idosos e pessoas com doenças da tireoide",
+      "url": "http://noticias.r7.com/brasilia/balanco-geral-df/video/novas-regras-ampliam-o-acesso-a-doacao-de-sangue-para-idosos-e-pessoas-com-doencas-da-tireoide-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T12:45:00.000Z"
+      "publishedAt": "2026-11-25T21:17:25.000Z"
     },
     {
-      "title": "Operação da Receita do DF mira sonegação de impostos",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/operacao-da-receita-do-df-mira-sonegacao-de-impostos-15279101.ghtml",
-      "tipo": "dica",
-      "urgente": false,
-      "publishedAt": "2026-11-25T11:43:14.000Z"
-    },
-    {
-      "title": "Restaurante Comunitário do Itapoã reabre após manutenção",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/restaurante-comunitario-do-itapoa-reabre-apos-manutencao-15279057.ghtml",
+      "title": "Lixeiras e papas-lixo danificados e vandalizados viram problema no DF",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/lixeiras-e-papas-lixo-danificados-e-vandalizados-viram-problema-no-df-15282692.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T11:28:53.000Z"
+      "publishedAt": "2026-11-26T11:11:27.000Z"
     },
     {
-      "title": "Distrito Federal tem, em média, 5 furtos de veículos, por dia, em 2026",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/distrito-federal-tem-em-media-5-furtos-de-veiculos-por-dia-em-2026-15279097.ghtml",
+      "title": "Bom Dia DF - Edição de 26/11/2026",
+      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bom-dia-df-edicao-de-26112026-15283032.ghtml",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T11:39:12.000Z"
+      "publishedAt": "2026-11-26T12:37:03.000Z"
     },
     {
       "title": "Festival Divas do Samba abre inscrições para oficina gratuita de iluminação cênica voltada a mulheres cis e trans",
@@ -115,32 +108,39 @@
       "publishedAt": "2026-11-25T16:31:45.000Z"
     },
     {
-      "title": "Sernegra 2026 promove debates sobre raça, gênero e esporte no IFB",
-      "url": "https://www.visitebrasilia.com.br/noticias/sernegra-2026-promove-debates-sobre-raca-genero-e-esporte-no-ifb",
+      "title": "Servidores do GDF terão dois dias de folga devido à posse, em janeiro",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/servidores-do-df-terao-dois-dias-de-folga-durante-cerimonias-de-posse-em-janeiro-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T21:28:34.000Z"
+      "publishedAt": "2026-11-25T20:40:31.000Z"
     },
     {
-      "title": "Quatro carros separados por 31 pontos prometem decisão eletrizante da Copa Hyundai HB20 Platinum Cup em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/quatro-carros-separados-por-31-pontos-prometem-decisao-eletrizante-da-copa-hyundai-hb20-platinum-cup-em-brasilia",
+      "title": "Restaurante comunitário do Itapoã retoma atendimentos após reforma",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/restaurante-comunitario-do-itapoa-df-retoma-atendimentos-apos-reforma-25112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T20:45:00.000Z"
+      "publishedAt": "2026-11-25T19:25:00.000Z"
     },
     {
-      "title": "Cine Araújo terá ingressos a R$ 11 e combo de pipoca por R$ 22 na Black Friday",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-araujo-tera-ingressos-a-r-11-e-combo-de-pipoca-por-r-22-na-black-friday",
+      "title": "Venezuelano é preso após furtar peças de carne em supermercado de São Sebastião (DF)",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/venezuelano-e-preso-apos-furtar-pecas-de-carne-em-supermercado-de-sao-sebastiao-df-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T20:15:00.000Z"
+      "publishedAt": "2026-11-26T14:02:32.000Z"
     },
     {
-      "title": "VEJA inaugura sua primeira loja em Brasília, no ParkShopping",
-      "url": "https://www.visitebrasilia.com.br/noticias/veja-inaugura-sua-primeira-loja-em-brasilia-no-parkshopping",
+      "title": "DF divulga calendário de pagamento do IPTU e do IPVA de 2027",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/df-divulga-calendario-de-pagamento-do-iptu-e-do-ipva-de-2027-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T20:01:00.000Z"
+      "publishedAt": "2026-11-26T13:53:34.000Z"
+    },
+    {
+      "title": "Entrega da piscina de ondas do Parque da Cidade é adiada para fevereiro de 2027",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/entrega-da-piscina-de-ondas-do-parque-da-cidade-e-adiada-para-fevereiro-de-2027-26112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-26T13:53:24.000Z"
     }
   ]
 }
