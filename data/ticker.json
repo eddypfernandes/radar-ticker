@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:14:10.435Z",
+  "updatedAt": "2026-11-26T05:19:56.943Z",
   "validityHours": 24,
   "items": [
     {
@@ -38,25 +38,11 @@
       "publishedAt": "2026-11-25T16:34:07.000Z"
     },
     {
-      "title": "Balanço Geral DF / HÁ 3 HORAS",
+      "title": "Balanço Geral DF / 25/11/2026",
       "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/atleta-brasiliense-de-20-anos-conquista-vaga-no-mundial-de-karate-de-2027-em-toquio-25112026/",
       "tipo": "vaga",
       "urgente": false,
       "publishedAt": "2026-11-25T19:13:56.000Z"
-    },
-    {
-      "title": "STF julga nesta quarta piso dos professores, porte de arma para guardas e emendas parlamentares",
-      "url": "https://noticias.r7.com/brasilia/stf-julga-piso-dos-professores-porte-de-arma-para-guardas-e-emendas-parlamentares-25112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-25T05:00:01.000Z"
-    },
-    {
-      "title": "Master: Fachin aguarda PGR para definir medidas",
-      "url": "https://noticias.r7.com/brasilia/fachin-aguarda-parecer-da-pgr-para-decidir-proximos-passos-do-caso-master-25112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-25T05:00:01.000Z"
     },
     {
       "title": "Master: Nunes Marques vai relatar ação que visa tirar caso de Fachin",
@@ -71,6 +57,20 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-25T13:15:08.445Z"
+    },
+    {
+      "title": "Projeto que cria Estatuto dos Cães e Gatos segue para votação no Plenário do Senado",
+      "url": "https://noticias.r7.com/brasilia/estatuto-dos-caes-e-gatos-segue-para-votacao-no-plenario-do-senado-25112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-25T11:21:30.496Z"
+    },
+    {
+      "title": "Entenda se Nikolas pode ficar inelegível por publicar laudo falso",
+      "url": "https://noticias.r7.com/brasilia/entenda-se-nikolas-ferreira-pode-ficar-inelegivel-por-8-anos-por-publicar-laudo-falso-da-pf-25112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-25T11:58:55.258Z"
     },
     {
       "title": "Chapecoense vence o time reserva do Palmeiras",
