@@ -1,76 +1,132 @@
 {
-  "updatedAt": "2026-11-27T08:57:24.808Z",
+  "updatedAt": "2026-11-27T18:49:52.457Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "Mosaico Cultural de Samambaia celebra diversidade artística local com programação gratuita no sábado (28)",
-      "url": "https://www.visitebrasilia.com.br/noticias/mosaico-cultural-de-samambaia-celebra-diversidade-artistica-local-com-programacao-gratuita-no-sabado-28",
-      "tipo": "evento",
+      "title": "Partage Lago Sul anuncia primeira Black Friday com até 70% de desconto em mix com lojas inéditas",
+      "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-anuncia-primeira-black-friday-com-ate-70-de-desconto-em-mix-com-lojas-ineditas",
+      "tipo": "oferta",
       "urgente": false,
-      "publishedAt": "2026-11-26T16:35:16.000Z"
+      "publishedAt": "2026-11-27T18:43:26.000Z"
     },
     {
-      "title": "Cine Drive-In divulga programação de filmes para a semana de 26 de novembro a 02 de dezembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-programacao-de-filmes-para-a-semana-de-26-de-novembro-a-02-de-dezembro",
-      "tipo": "evento",
+      "title": "Decolar anuncia maior desconto do ano na Black Friday com ofertas de até 70% viagens",
+      "url": "https://www.visitebrasilia.com.br/noticias/decolar-anuncia-maior-desconto-do-ano-na-black-friday-com-ofertas-de-ate-70-viagens",
+      "tipo": "oferta",
       "urgente": false,
-      "publishedAt": "2026-11-26T17:23:26.000Z"
+      "publishedAt": "2026-11-27T17:13:45.000Z"
     },
     {
-      "title": "Cine Araújo recebe \"Entrando Numa Grande Fria\" e \"Enfeitiçadas: Bem-vindos a Hexe\" na programação da semana",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-araujo-recebe-entrando-numa-grande-fria-e-enfeiticadas-bem-vindos-a-hexe-na-programacao-da-semana",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-26T16:55:13.000Z"
-    },
-    {
-      "title": "Saiba como garantir seu ingresso gratuito para os shows da 23ª SNCT em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/saiba-como-garantir-seu-ingresso-gratuito-para-os-shows-da-23-snct-em-brasilia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-26T16:37:53.000Z"
-    },
-    {
-      "title": "Exposição inédita do pintor francês Pierre-Auguste Renoir chega a Brasília",
-      "url": "https://noticias.r7.com/brasilia/exposicao-inedita-do-pintor-frances-pierre-auguste-renoir-chega-a-brasilia-26112026/",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-26T17:47:50.954Z"
-    },
-    {
-      "title": "Ciência Show desembarca em Brasília",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/ciencia-show-desembarca-em-brasilia-15282680.ghtml",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-26T10:58:18.000Z"
-    },
-    {
-      "title": "Concerto no DF apresenta trilhas marcantes do cinema, da TV e dos games",
-      "url": "https://www.visitebrasilia.com.br/noticias/concerto-no-df-apresenta-trilhas-marcantes-do-cinema-da-tv-e-dos-games",
+      "title": "Férias escolares exigem atenção à rotina e ao tempo de tela das crianças",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/ferias-escolares-exigem-atencao-dos-pais-a-rotina-e-ao-tempo-de-tela-das-criancas-27112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T17:08:53.000Z"
+      "publishedAt": "2026-11-27T13:40:48.000Z"
     },
     {
-      "title": "Protetores de animais se reúnem para exigir políticas do GDF",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/protetores-de-animais-do-df-se-reunem-para-cobrar-politicas-publicas-e-apoio-do-governo-26112026/",
+      "title": "Primeira parcela do 13º salário começa a ser paga nesta sexta",
+      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/primeira-parcela-do-decimo-terceiro-salario-comeca-a-ser-paga-nesta-sexta-27112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T13:11:23.000Z"
+      "publishedAt": "2026-11-27T13:22:29.000Z"
     },
     {
-      "title": "Mari Fernandez, Arnaldo Antunes e Gaby Amarantos: confira os eventos do fim de semana no DF",
+      "title": "Polícia investiga morte de jovem baleado em casa",
+      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/policia-investiga-morte-de-jovem-baleado-em-casa-em-aguas-lindas-de-goias-27112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T13:30:50.000Z"
+    },
+    {
+      "title": "Distrito Federal prorroga período para renovação de matrículas na rede pública de ensino até quarta-feira (2)",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/df-prorroga-renovacao-de-matriculas-na-rede-publica-ate-2-de-dezembro-27112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T14:36:36.000Z"
+    },
+    {
+      "title": "Confira os eventos programados para este fim de semana no Distrito Federal",
       "url": "https://noticias.r7.com/brasilia/mari-fernandez-arnaldo-antunes-e-gaby-amarantos-confira-os-eventos-do-fim-de-semana-no-df-27112026/",
       "tipo": "atualidade",
       "urgente": false,
-      "publishedAt": "2026-11-27T05:00:01.000Z"
+      "publishedAt": "2026-11-27T18:15:07.302Z"
     },
     {
-      "title": "Luiz Carlos Trabuco aceita convite de Lula para ser ministro da Fazenda",
-      "url": "https://noticias.r7.com/brasilia/luiz-carlos-trabuco-aceita-convite-de-lula-para-ser-ministro-da-fazenda-26112026/",
+      "title": "Yakinikuya Japanese BBQ aposta em experiência à mesa para confraternizações de fim de ano",
+      "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-japanese-bbq-aposta-em-experiencia-a-mesa-para-confraternizacoes-de-fim-de-ano",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T23:08:06.203Z"
+      "publishedAt": "2026-11-27T17:18:56.000Z"
+    },
+    {
+      "title": "Art do Oriente celebra 28 anos em Brasília com almoço especial em homenagem a arquitetos e designers de interiores premiados",
+      "url": "https://www.visitebrasilia.com.br/noticias/art-do-oriente-celebra-28-anos-em-brasilia-com-almoco-especial-em-homenagem-a-arquitetos-e-designers-de-interiores-premiados",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T17:17:39.000Z"
+    },
+    {
+      "title": "Pontão Lago Sul apresenta Natal 2026 com a mágica \"Fábrica de Brinquedos do Papai Noel: Onde os sonhos ganham forma\"",
+      "url": "https://www.visitebrasilia.com.br/noticias/pontao-lago-sul-apresenta-natal-2026-com-a-magica-fabrica-de-brinquedos-do-papai-noel-onde-os-sonhos-ganham-forma",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T17:04:23.000Z"
+    },
+    {
+      "title": "IPVA e IPTU de 2027 podem mudar no DF; Veja o que está em discussão",
+      "url": "https://noticias.r7.com/brasilia/df-record/video/ipva-e-iptu-de-2027-podem-mudar-no-df-veja-o-que-esta-em-discussao-27112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T14:42:15.000Z"
+    },
+    {
+      "title": "Gurumê ParkShopping desenha encontros de fim de ano sob medida em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/gurume-parkshopping-desenha-encontros-de-fim-de-ano-sob-medida-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T17:00:27.000Z"
+    },
+    {
+      "title": "Campeonato de jiu-jitsu reúne mais de 870 atletas em Brasília neste domingo (29)",
+      "url": "https://www.visitebrasilia.com.br/noticias/campeonato-de-jiu-jitsu-reune-mais-de-870-atletas-em-brasilia-neste-domingo-29",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-27T16:58:29.000Z"
+    },
+    {
+      "title": "Outlet Premium Brasília oferece grandes descontos e adota horário especial para atender demanda da Black Friday durante sexta, sábado e domingo",
+      "url": "https://www.visitebrasilia.com.br/noticias/outlet-premium-brasilia-oferece-grandes-descontos-e-adota-horario-especial-para-atender-demanda-da-black-friday-durante-sexta-sabado-e-domingo",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T16:49:26.000Z"
+    },
+    {
+      "title": "Movimento Violência Sexual Zero: Wellington Cirino corre com layout especial na Copa Truck em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/movimento-violencia-sexual-zero-wellington-cirino-corre-com-layout-especial-na-copa-truck-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T16:33:17.000Z"
+    },
+    {
+      "title": "Feijuca do 'Não Espere Até Outubro' promete um domingo de feijoada, pagode e celebração da vida em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/feijuca-do-nao-espere-ate-outubro-promete-um-domingo-de-feijoada-pagode-e-celebracao-da-vida-em-brasilia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T16:28:35.000Z"
+    },
+    {
+      "title": "Circuito das Estações encerra temporada 2026 em Brasília com corrida que celebra a conquista",
+      "url": "https://www.visitebrasilia.com.br/noticias/circuito-das-estacoes-encerra-temporada-2026-em-brasilia-com-corrida-que-celebra-a-conquista",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T15:28:40.000Z"
+    },
+    {
+      "title": "Após definir Fazenda e Casa Civil, Lula negocia cargos estratégicos e acomodação de aliados",
+      "url": "https://noticias.r7.com/brasilia/com-trabuco-na-fazenda-lula-e-pressionado-a-definir-outros-ministerios-estrategicos-27112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T05:00:01.000Z"
     },
     {
       "title": "Conheça a história do banqueiro que vai assumir pasta-chave",
@@ -80,67 +136,11 @@
       "publishedAt": "2026-11-26T22:20:44.746Z"
     },
     {
-      "title": "Lixeiras e papas-lixo danificados e vandalizados viram problema no DF",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/lixeiras-e-papas-lixo-danificados-e-vandalizados-viram-problema-no-df-15282692.ghtml",
+      "title": "Camilo Santana será ministro da Casa Civil no quarto mandato de Lula",
+      "url": "https://noticias.r7.com/brasilia/camilo-santana-sera-ministro-da-casa-civil-no-quarto-mandato-de-lula-27112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T11:11:27.000Z"
-    },
-    {
-      "title": "Bom Dia DF - Edição de 26/11/2026",
-      "url": "https://g1.globo.com/df/distrito-federal/bom-dia-df/video/bom-dia-df-edicao-de-26112026-15283032.ghtml",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T12:37:03.000Z"
-    },
-    {
-      "title": "Pablo Fagundes e Douglas Lora se encontram entre o virtuosismo e a delicadeza no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/pablo-fagundes-e-douglas-lora-se-encontram-entre-o-virtuosismo-e-a-delicadeza-no-clube-do-choro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T17:23:54.000Z"
-    },
-    {
-      "title": "Cidade da Autoestima Feminina ocupa o Mané Garrincha com experiências de autocuidado, empreendedorismo e protagonismo feminino",
-      "url": "https://www.visitebrasilia.com.br/noticias/cidade-da-autoestima-feminina-ocupa-o-mane-garrincha-com-experiencias-de-autocuidado-empreendedorismo-e-protagonismo-feminino",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T17:18:06.000Z"
-    },
-    {
-      "title": "Bla's Cozinha Criativa oferece experiências personalizadas e ofertas especiais para confraternização de fim de ano",
-      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-oferece-experiencias-personalizadas-e-ofertas-especiais-para-confraternizacao-de-fim-de-ano",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T17:04:20.000Z"
-    },
-    {
-      "title": "Haroldinho Mattos comanda noite de blues e rock no Clube do Choro",
-      "url": "https://www.visitebrasilia.com.br/noticias/haroldinho-mattos-comanda-noite-de-blues-e-rock-no-clube-do-choro",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T16:44:22.000Z"
-    },
-    {
-      "title": "Corrida do Idoso chega a Taguaparque neste domingo, com largada às 7h",
-      "url": "https://www.visitebrasilia.com.br/noticias/corrida-do-idoso-chega-a-taguaparque-neste-domingo-com-largada-as-7h",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-26T16:36:40.000Z"
-    },
-    {
-      "title": "Bolsonaro apresenta melhora clínica, mas segue internado na UTI sem previsão de alta",
-      "url": "https://noticias.r7.com/brasilia/bolsonaro-apresenta-melhora-clinica-mas-segue-internado-na-uti-sem-previsao-de-alta-26112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T22:11:58.771Z"
-    },
-    {
-      "title": "Fachin mantém prisão de dois hackers contratados por Vorcaro",
-      "url": "https://noticias.r7.com/brasilia/fachin-mantem-prisao-de-dois-hackers-do-grupo-que-prestava-servicos-a-daniel-vorcaro-26112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T18:03:34.394Z"
+      "publishedAt": "2026-11-27T02:25:46.407Z"
     }
   ]
 }
