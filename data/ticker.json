@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:24:46.175Z",
+  "updatedAt": "2026-11-27T08:57:24.808Z",
   "validityHours": 24,
   "items": [
     {
@@ -59,6 +59,13 @@
       "publishedAt": "2026-11-26T13:11:23.000Z"
     },
     {
+      "title": "Mari Fernandez, Arnaldo Antunes e Gaby Amarantos: confira os eventos do fim de semana no DF",
+      "url": "https://noticias.r7.com/brasilia/mari-fernandez-arnaldo-antunes-e-gaby-amarantos-confira-os-eventos-do-fim-de-semana-no-df-27112026/",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-27T05:00:01.000Z"
+    },
+    {
       "title": "Luiz Carlos Trabuco aceita convite de Lula para ser ministro da Fazenda",
       "url": "https://noticias.r7.com/brasilia/luiz-carlos-trabuco-aceita-convite-de-lula-para-ser-ministro-da-fazenda-26112026/",
       "tipo": "noticia",
@@ -71,13 +78,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-26T22:20:44.746Z"
-    },
-    {
-      "title": "Bolsonaro apresenta melhora clínica, mas segue internado na UTI sem previsão de alta",
-      "url": "https://noticias.r7.com/brasilia/bolsonaro-apresenta-melhora-clinica-mas-segue-internado-na-uti-sem-previsao-de-alta-26112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T22:11:58.771Z"
     },
     {
       "title": "Lixeiras e papas-lixo danificados e vandalizados viram problema no DF",
@@ -129,18 +129,18 @@
       "publishedAt": "2026-11-26T16:36:40.000Z"
     },
     {
+      "title": "Bolsonaro apresenta melhora clínica, mas segue internado na UTI sem previsão de alta",
+      "url": "https://noticias.r7.com/brasilia/bolsonaro-apresenta-melhora-clinica-mas-segue-internado-na-uti-sem-previsao-de-alta-26112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-26T22:11:58.771Z"
+    },
+    {
       "title": "Fachin mantém prisão de dois hackers contratados por Vorcaro",
       "url": "https://noticias.r7.com/brasilia/fachin-mantem-prisao-de-dois-hackers-do-grupo-que-prestava-servicos-a-daniel-vorcaro-26112026/",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-26T18:03:34.394Z"
-    },
-    {
-      "title": "Moraes rejeita pedido da PGR de crédito a mais de R$ 324 milhões para bancar penduricalhos",
-      "url": "https://noticias.r7.com/brasilia/moraes-rejeita-pedido-da-pgr-de-credito-extra-de-r-324-milhoes-para-bancar-penduricalhos-26112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T18:38:28.668Z"
     }
   ]
 }
