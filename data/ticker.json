@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-11-26T15:38:08.067Z",
+  "updatedAt": "2026-11-27T00:24:46.175Z",
   "validityHours": 24,
   "items": [
     {
-      "title": "99Food inicia campanha de Black Friday com duas semanas de ofertas de até 70% de desconto",
-      "url": "https://www.visitebrasilia.com.br/noticias/99food-inicia-campanha-de-black-friday-com-duas-semanas-de-ofertas-de-ate-70-de-desconto",
-      "tipo": "oferta",
-      "urgente": false,
-      "publishedAt": "2026-11-25T17:50:21.000Z"
-    },
-    {
-      "title": "Espetáculo de dança contemporânea \"Animais Noturnos\" encerra residência artística do Grupo Pele em dezembro",
-      "url": "https://www.visitebrasilia.com.br/noticias/espetaculo-de-danca-contemporanea-animais-noturnos-encerra-residencia-artistica-do-grupo-pele-em-dezembro",
+      "title": "Mosaico Cultural de Samambaia celebra diversidade artística local com programação gratuita no sábado (28)",
+      "url": "https://www.visitebrasilia.com.br/noticias/mosaico-cultural-de-samambaia-celebra-diversidade-artistica-local-com-programacao-gratuita-no-sabado-28",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-25T17:19:48.000Z"
+      "publishedAt": "2026-11-26T16:35:16.000Z"
     },
     {
-      "title": "\"Festival Frevo Menino de Ceilândia – Riquezas, Encantos e Vozes de Origem\" começa atividades na Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-frevo-menino-de-ceilandia-riquezas-encantos-e-vozes-de-origem-comeca-atividades-na-ceilandia",
+      "title": "Cine Drive-In divulga programação de filmes para a semana de 26 de novembro a 02 de dezembro",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-drive-in-divulga-programacao-de-filmes-para-a-semana-de-26-de-novembro-a-02-de-dezembro",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-25T17:14:59.000Z"
+      "publishedAt": "2026-11-26T17:23:26.000Z"
     },
     {
-      "title": "Caixa Cultural Brasília recebe 4ª edição do VOA Festival entre sexta (27) e domingo (29) com ingressos a partir de R$ 15",
-      "url": "https://www.visitebrasilia.com.br/noticias/caixa-cultural-brasilia-recebe-4-edicao-do-voa-festival-entre-sexta-27-e-domingo-29-com-ingressos-a-partir-de-r-15",
+      "title": "Cine Araújo recebe \"Entrando Numa Grande Fria\" e \"Enfeitiçadas: Bem-vindos a Hexe\" na programação da semana",
+      "url": "https://www.visitebrasilia.com.br/noticias/cine-araujo-recebe-entrando-numa-grande-fria-e-enfeiticadas-bem-vindos-a-hexe-na-programacao-da-semana",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-25T16:38:25.000Z"
+      "publishedAt": "2026-11-26T16:55:13.000Z"
     },
     {
-      "title": "Vinícola Brasília lança Monumental Malbec com edição limitada e programação especial",
-      "url": "https://www.visitebrasilia.com.br/noticias/vinicola-brasilia-lanca-monumental-malbec-com-edicao-limitada-e-programacao-especial",
+      "title": "Saiba como garantir seu ingresso gratuito para os shows da 23ª SNCT em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/saiba-como-garantir-seu-ingresso-gratuito-para-os-shows-da-23-snct-em-brasilia",
       "tipo": "evento",
       "urgente": false,
-      "publishedAt": "2026-11-25T16:34:07.000Z"
+      "publishedAt": "2026-11-26T16:37:53.000Z"
+    },
+    {
+      "title": "Exposição inédita do pintor francês Pierre-Auguste Renoir chega a Brasília",
+      "url": "https://noticias.r7.com/brasilia/exposicao-inedita-do-pintor-frances-pierre-auguste-renoir-chega-a-brasilia-26112026/",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-26T17:47:50.954Z"
     },
     {
       "title": "Ciência Show desembarca em Brasília",
@@ -45,18 +45,11 @@
       "publishedAt": "2026-11-26T10:58:18.000Z"
     },
     {
-      "title": "Zelador agredido na Asa Norte está acordado, mas não reconhece família",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/esta-acordado-mas-nao-reconhece-a-gente-familia-relata-drama-de-zelador-agredido-no-df-25112026/",
+      "title": "Concerto no DF apresenta trilhas marcantes do cinema, da TV e dos games",
+      "url": "https://www.visitebrasilia.com.br/noticias/concerto-no-df-apresenta-trilhas-marcantes-do-cinema-da-tv-e-dos-games",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T22:32:29.000Z"
-    },
-    {
-      "title": "Condenado por matar jovem e fingir suicídio é preso no trabalho",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/condenado-por-matar-jovem-e-simular-suicidio-e-preso-enquanto-trabalhava-no-df-25112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-25T22:03:29.000Z"
+      "publishedAt": "2026-11-26T17:08:53.000Z"
     },
     {
       "title": "Protetores de animais se reúnem para exigir políticas do GDF",
@@ -66,18 +59,25 @@
       "publishedAt": "2026-11-26T13:11:23.000Z"
     },
     {
-      "title": "Manobra de Heimilich: Corpo de Bombeiros ensina técnica de primeiros socorros para salvar vítimas de engasgo",
-      "url": "https://noticias.r7.com/brasilia/cidade-alerta-df/video/apos-casos-no-df-bombeiros-ensinam-manobras-de-primeiros-socorros-para-vitimas-de-engasgo-25112026/",
+      "title": "Luiz Carlos Trabuco aceita convite de Lula para ser ministro da Fazenda",
+      "url": "https://noticias.r7.com/brasilia/luiz-carlos-trabuco-aceita-convite-de-lula-para-ser-ministro-da-fazenda-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T22:54:02.000Z"
+      "publishedAt": "2026-11-26T23:08:06.203Z"
     },
     {
-      "title": "Novas regras ampliam o acesso à doação de sangue para idosos e pessoas com doenças da tireoide",
-      "url": "http://noticias.r7.com/brasilia/balanco-geral-df/video/novas-regras-ampliam-o-acesso-a-doacao-de-sangue-para-idosos-e-pessoas-com-doencas-da-tireoide-25112026/",
+      "title": "Conheça a história do banqueiro que vai assumir pasta-chave",
+      "url": "https://noticias.r7.com/brasilia/quem-e-luiz-carlos-trabuco-novo-ministro-da-fazenda-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T21:17:25.000Z"
+      "publishedAt": "2026-11-26T22:20:44.746Z"
+    },
+    {
+      "title": "Bolsonaro apresenta melhora clínica, mas segue internado na UTI sem previsão de alta",
+      "url": "https://noticias.r7.com/brasilia/bolsonaro-apresenta-melhora-clinica-mas-segue-internado-na-uti-sem-previsao-de-alta-26112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-26T22:11:58.771Z"
     },
     {
       "title": "Lixeiras e papas-lixo danificados e vandalizados viram problema no DF",
@@ -94,53 +94,53 @@
       "publishedAt": "2026-11-26T12:37:03.000Z"
     },
     {
-      "title": "Festival Divas do Samba abre inscrições para oficina gratuita de iluminação cênica voltada a mulheres cis e trans",
-      "url": "https://www.visitebrasilia.com.br/noticias/festival-divas-do-samba-abre-inscricoes-para-oficina-gratuita-de-iluminacao-cenica-voltada-a-mulheres-cis-e-trans",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-25T16:32:55.000Z"
-    },
-    {
-      "title": "Cine Perifa exibe \"Não Existe Almoço Grátis\" em programação cultural no Jovem de Expressão, em Ceilândia",
-      "url": "https://www.visitebrasilia.com.br/noticias/cine-perifa-exibe-nao-existe-almoco-gratis-em-programacao-cultural-no-jovem-de-expressao-em-ceilandia",
-      "tipo": "evento",
-      "urgente": false,
-      "publishedAt": "2026-11-25T16:31:45.000Z"
-    },
-    {
-      "title": "Servidores do GDF terão dois dias de folga devido à posse, em janeiro",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/servidores-do-df-terao-dois-dias-de-folga-durante-cerimonias-de-posse-em-janeiro-25112026/",
+      "title": "Pablo Fagundes e Douglas Lora se encontram entre o virtuosismo e a delicadeza no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/pablo-fagundes-e-douglas-lora-se-encontram-entre-o-virtuosismo-e-a-delicadeza-no-clube-do-choro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T20:40:31.000Z"
+      "publishedAt": "2026-11-26T17:23:54.000Z"
     },
     {
-      "title": "Restaurante comunitário do Itapoã retoma atendimentos após reforma",
-      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/restaurante-comunitario-do-itapoa-df-retoma-atendimentos-apos-reforma-25112026/",
+      "title": "Cidade da Autoestima Feminina ocupa o Mané Garrincha com experiências de autocuidado, empreendedorismo e protagonismo feminino",
+      "url": "https://www.visitebrasilia.com.br/noticias/cidade-da-autoestima-feminina-ocupa-o-mane-garrincha-com-experiencias-de-autocuidado-empreendedorismo-e-protagonismo-feminino",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-25T19:25:00.000Z"
+      "publishedAt": "2026-11-26T17:18:06.000Z"
     },
     {
-      "title": "Venezuelano é preso após furtar peças de carne em supermercado de São Sebastião (DF)",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/venezuelano-e-preso-apos-furtar-pecas-de-carne-em-supermercado-de-sao-sebastiao-df-26112026/",
+      "title": "Bla's Cozinha Criativa oferece experiências personalizadas e ofertas especiais para confraternização de fim de ano",
+      "url": "https://www.visitebrasilia.com.br/noticias/bla-s-cozinha-criativa-oferece-experiencias-personalizadas-e-ofertas-especiais-para-confraternizacao-de-fim-de-ano",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T14:02:32.000Z"
+      "publishedAt": "2026-11-26T17:04:20.000Z"
     },
     {
-      "title": "DF divulga calendário de pagamento do IPTU e do IPVA de 2027",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/df-divulga-calendario-de-pagamento-do-iptu-e-do-ipva-de-2027-26112026/",
+      "title": "Haroldinho Mattos comanda noite de blues e rock no Clube do Choro",
+      "url": "https://www.visitebrasilia.com.br/noticias/haroldinho-mattos-comanda-noite-de-blues-e-rock-no-clube-do-choro",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T13:53:34.000Z"
+      "publishedAt": "2026-11-26T16:44:22.000Z"
     },
     {
-      "title": "Entrega da piscina de ondas do Parque da Cidade é adiada para fevereiro de 2027",
-      "url": "https://noticias.r7.com/brasilia/df-no-ar/video/entrega-da-piscina-de-ondas-do-parque-da-cidade-e-adiada-para-fevereiro-de-2027-26112026/",
+      "title": "Corrida do Idoso chega a Taguaparque neste domingo, com largada às 7h",
+      "url": "https://www.visitebrasilia.com.br/noticias/corrida-do-idoso-chega-a-taguaparque-neste-domingo-com-largada-as-7h",
+      "tipo": "atualidade",
+      "urgente": false,
+      "publishedAt": "2026-11-26T16:36:40.000Z"
+    },
+    {
+      "title": "Fachin mantém prisão de dois hackers contratados por Vorcaro",
+      "url": "https://noticias.r7.com/brasilia/fachin-mantem-prisao-de-dois-hackers-do-grupo-que-prestava-servicos-a-daniel-vorcaro-26112026/",
       "tipo": "noticia",
       "urgente": false,
-      "publishedAt": "2026-11-26T13:53:24.000Z"
+      "publishedAt": "2026-11-26T18:03:34.394Z"
+    },
+    {
+      "title": "Moraes rejeita pedido da PGR de crédito a mais de R$ 324 milhões para bancar penduricalhos",
+      "url": "https://noticias.r7.com/brasilia/moraes-rejeita-pedido-da-pgr-de-credito-extra-de-r-324-milhoes-para-bancar-penduricalhos-26112026/",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-26T18:38:28.668Z"
     }
   ]
 }
