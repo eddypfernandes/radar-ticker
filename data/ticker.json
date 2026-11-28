@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:49:17.287Z",
+  "updatedAt": "2026-11-28T09:57:29.213Z",
   "validityHours": 24,
   "items": [
     {
@@ -80,6 +80,13 @@
       "publishedAt": "2026-11-28T01:24:00.000Z"
     },
     {
+      "title": "Mulher fica ferida durante incêndio em apartamento em Samambaia",
+      "url": "https://www.metropoles.com/distrito-federal/mulher-fica-ferida-apos-incendio-atingir-apartamento-em-samambaia",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T20:56:00.000Z"
+    },
+    {
       "title": "Distrito Federal prorroga período para renovação de matrículas na rede pública de ensino até quarta-feira (2)",
       "url": "https://noticias.r7.com/brasilia/df-record/video/df-prorroga-renovacao-de-matriculas-na-rede-publica-ate-2-de-dezembro-27112026/",
       "tipo": "noticia",
@@ -134,13 +141,6 @@
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-27T17:00:27.000Z"
-    },
-    {
-      "title": "Campeonato de jiu-jitsu reúne mais de 870 atletas em Brasília neste domingo (29)",
-      "url": "https://www.visitebrasilia.com.br/noticias/campeonato-de-jiu-jitsu-reune-mais-de-870-atletas-em-brasilia-neste-domingo-29",
-      "tipo": "atualidade",
-      "urgente": false,
-      "publishedAt": "2026-11-27T16:58:29.000Z"
     }
   ]
 }
