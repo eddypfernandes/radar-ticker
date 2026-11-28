@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-27T18:49:52.457Z",
+  "updatedAt": "2026-11-28T01:49:17.287Z",
   "validityHours": 24,
   "items": [
+    {
+      "title": "Senado Cultural abre ao público em 10 de dezembro com exposição gratuita em Brasília",
+      "url": "https://www.visitebrasilia.com.br/noticias/senado-cultural-abre-ao-publico-em-10-de-dezembro-com-exposicao-gratuita-em-brasilia",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-27T21:06:33.000Z"
+    },
+    {
+      "title": "Exposição no Itaú Cultural investiga as relações entre criação artística contemporânea e inteligência artificial",
+      "url": "https://www.visitebrasilia.com.br/noticias/exposicao-no-itau-cultural-investiga-as-relacoes-entre-criacao-artistica-contemporanea-e-inteligencia-artificial",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-27T19:50:50.000Z"
+    },
     {
       "title": "Partage Lago Sul anuncia primeira Black Friday com até 70% de desconto em mix com lojas inéditas",
       "url": "https://www.visitebrasilia.com.br/noticias/partage-lago-sul-anuncia-primeira-black-friday-com-ate-70-de-desconto-em-mix-com-lojas-ineditas",
@@ -15,6 +29,20 @@
       "tipo": "oferta",
       "urgente": false,
       "publishedAt": "2026-11-27T17:13:45.000Z"
+    },
+    {
+      "title": "Lula chama FHC de ‘morto-vivo’ durante evento no Rio de Janeiro",
+      "url": "https://noticias.r7.com/brasilia/lula-chama-fhc-de-morto-vivo-durante-evento-no-rio-de-janeiro-27112026/",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-27T23:37:28.695Z"
+    },
+    {
+      "title": "Balanço Geral DF / 27/11/2026",
+      "url": "https://noticias.r7.com/brasilia/balanco-geral-df/video/brasilia-tem-tributo-a-pink-floyd-festival-de-musica-e-atracoes-culturais-neste-fim-de-semana-27112026/",
+      "tipo": "evento",
+      "urgente": false,
+      "publishedAt": "2026-11-27T20:37:28.000Z"
     },
     {
       "title": "Férias escolares exigem atenção à rotina e ao tempo de tela das crianças",
@@ -38,6 +66,20 @@
       "publishedAt": "2026-11-27T13:30:50.000Z"
     },
     {
+      "title": "ABAV Nacional amplia ações de sustentabilidade, articulação internacional e associativismo.",
+      "url": "https://www.visitebrasilia.com.br/noticias/abav-nacional-amplia-agenda-de-novembro-em-sustentabilidade-articulacao-internacional-e-associativismo",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-28T00:30:19.000Z"
+    },
+    {
+      "title": "Mãe de menino que morreu em shopping do DF desabafa: \"Busco respostas\"",
+      "url": "https://www.metropoles.com/distrito-federal/mae-de-menino-que-morreu-em-shopping-do-df-desabafa-busco-respostas",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-28T01:24:00.000Z"
+    },
+    {
       "title": "Distrito Federal prorroga período para renovação de matrículas na rede pública de ensino até quarta-feira (2)",
       "url": "https://noticias.r7.com/brasilia/df-record/video/df-prorroga-renovacao-de-matriculas-na-rede-publica-ate-2-de-dezembro-27112026/",
       "tipo": "noticia",
@@ -52,6 +94,20 @@
       "publishedAt": "2026-11-27T18:15:07.302Z"
     },
     {
+      "title": "Copa Truck Be8 BeVant estreia em Brasília com Iveco na frente em sexta-feira de treinos livres",
+      "url": "https://www.visitebrasilia.com.br/noticias/copa-truck-be8-bevant-estreia-em-brasilia-com-iveco-na-frente-em-sexta-feira-de-treinos-livres",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-28T00:25:37.000Z"
+    },
+    {
+      "title": "Confraternização de fim de ano reúne Tai Chi, dança circular, música e bem-estar na Asa Norte",
+      "url": "https://www.visitebrasilia.com.br/noticias/confraternizacao-de-fim-de-ano-reune-tai-chi-danca-circular-musica-e-bem-estar-na-asa-norte",
+      "tipo": "noticia",
+      "urgente": false,
+      "publishedAt": "2026-11-27T19:00:54.000Z"
+    },
+    {
       "title": "Yakinikuya Japanese BBQ aposta em experiência à mesa para confraternizações de fim de ano",
       "url": "https://www.visitebrasilia.com.br/noticias/yakinikuya-japanese-bbq-aposta-em-experiencia-a-mesa-para-confraternizacoes-de-fim-de-ano",
       "tipo": "noticia",
@@ -59,25 +115,18 @@
       "publishedAt": "2026-11-27T17:18:56.000Z"
     },
     {
-      "title": "Art do Oriente celebra 28 anos em Brasília com almoço especial em homenagem a arquitetos e designers de interiores premiados",
+      "title": "Art do Oriente celebra 28 anos em Brasília e homenageia arquitetos e designers de interiores premiados.",
       "url": "https://www.visitebrasilia.com.br/noticias/art-do-oriente-celebra-28-anos-em-brasilia-com-almoco-especial-em-homenagem-a-arquitetos-e-designers-de-interiores-premiados",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-27T17:17:39.000Z"
     },
     {
-      "title": "Pontão Lago Sul apresenta Natal 2026 com a mágica \"Fábrica de Brinquedos do Papai Noel: Onde os sonhos ganham forma\"",
+      "title": "Natal no Pontão Lago Sul tem Fábrica de Brinquedos do Papai Noel",
       "url": "https://www.visitebrasilia.com.br/noticias/pontao-lago-sul-apresenta-natal-2026-com-a-magica-fabrica-de-brinquedos-do-papai-noel-onde-os-sonhos-ganham-forma",
       "tipo": "noticia",
       "urgente": false,
       "publishedAt": "2026-11-27T17:04:23.000Z"
-    },
-    {
-      "title": "IPVA e IPTU de 2027 podem mudar no DF; Veja o que está em discussão",
-      "url": "https://noticias.r7.com/brasilia/df-record/video/ipva-e-iptu-de-2027-podem-mudar-no-df-veja-o-que-esta-em-discussao-27112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T14:42:15.000Z"
     },
     {
       "title": "Gurumê ParkShopping desenha encontros de fim de ano sob medida em Brasília",
@@ -92,55 +141,6 @@
       "tipo": "atualidade",
       "urgente": false,
       "publishedAt": "2026-11-27T16:58:29.000Z"
-    },
-    {
-      "title": "Outlet Premium Brasília oferece grandes descontos e adota horário especial para atender demanda da Black Friday durante sexta, sábado e domingo",
-      "url": "https://www.visitebrasilia.com.br/noticias/outlet-premium-brasilia-oferece-grandes-descontos-e-adota-horario-especial-para-atender-demanda-da-black-friday-durante-sexta-sabado-e-domingo",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T16:49:26.000Z"
-    },
-    {
-      "title": "Movimento Violência Sexual Zero: Wellington Cirino corre com layout especial na Copa Truck em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/movimento-violencia-sexual-zero-wellington-cirino-corre-com-layout-especial-na-copa-truck-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T16:33:17.000Z"
-    },
-    {
-      "title": "Feijuca do 'Não Espere Até Outubro' promete um domingo de feijoada, pagode e celebração da vida em Brasília",
-      "url": "https://www.visitebrasilia.com.br/noticias/feijuca-do-nao-espere-ate-outubro-promete-um-domingo-de-feijoada-pagode-e-celebracao-da-vida-em-brasilia",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T16:28:35.000Z"
-    },
-    {
-      "title": "Circuito das Estações encerra temporada 2026 em Brasília com corrida que celebra a conquista",
-      "url": "https://www.visitebrasilia.com.br/noticias/circuito-das-estacoes-encerra-temporada-2026-em-brasilia-com-corrida-que-celebra-a-conquista",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T15:28:40.000Z"
-    },
-    {
-      "title": "Após definir Fazenda e Casa Civil, Lula negocia cargos estratégicos e acomodação de aliados",
-      "url": "https://noticias.r7.com/brasilia/com-trabuco-na-fazenda-lula-e-pressionado-a-definir-outros-ministerios-estrategicos-27112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T05:00:01.000Z"
-    },
-    {
-      "title": "Conheça a história do banqueiro que vai assumir pasta-chave",
-      "url": "https://noticias.r7.com/brasilia/quem-e-luiz-carlos-trabuco-novo-ministro-da-fazenda-26112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-26T22:20:44.746Z"
-    },
-    {
-      "title": "Camilo Santana será ministro da Casa Civil no quarto mandato de Lula",
-      "url": "https://noticias.r7.com/brasilia/camilo-santana-sera-ministro-da-casa-civil-no-quarto-mandato-de-lula-27112026/",
-      "tipo": "noticia",
-      "urgente": false,
-      "publishedAt": "2026-11-27T02:25:46.407Z"
     }
   ]
 }
